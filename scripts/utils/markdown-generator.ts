@@ -135,6 +135,11 @@ function generatePromptSection(prompt: Prompt, index: number): string {
   md += `- **Source:** [Twitter Post](${prompt.sourceLink})\n`;
   md += `- **Published:** ${publishedDate}\n`;
   md += `- **Language:** ${prompt.language}\n\n`;
+
+  // CTA 按钮：跳转到 Web Gallery 并预填充 prompt
+  const encodedPrompt = encodeURIComponent(prompt.content);
+  md += `**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=${encodedPrompt})**\n\n`;
+
   md += `---\n\n`;
 
   return md;
