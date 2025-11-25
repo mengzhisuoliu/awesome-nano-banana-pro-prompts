@@ -75,9 +75,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **497** |
+| 📝 Total Prompts | **496** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 1:22:33 PM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 4:14:16 PM UTC** |
 
 </div>
 
@@ -142,7 +142,7 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 
 ### No. 2: Watercolor map of Germany with labeled states
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-DE](https://img.shields.io/badge/Language-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Description
@@ -168,7 +168,7 @@ Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundeslän
 - **Author:** [Florian Gallwitz](https://x.com/FlorianGallwitz)
 - **Source:** [Twitter Post](https://x.com/FlorianGallwitz/status/1991796624646091091)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Language:** de
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Erzeuge%20eine%20Karte%20von%20Deutschland%20im%20Wasserfarben-Stil%2C%20auf%20der%20alle%20Bundesl%C3%A4nder%20mit%20Kugelschreiber%20benannt%20sind.)**
 
@@ -2177,40 +2177,7 @@ make a rock band poster with these people. Keep faces consistent. Add "{argument
 
 ---
 
-### No. 46: Middle-earth style career map from LinkedIn PDF
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-An English prompt that turns the data from a LinkedIn profile PDF into a custom map styled like Middle-earth.
-
-#### 📝 Prompt
-
-```
-Create a similar map using data from my PDF file.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6WMs2lagAAoxey.jpg" width="600" alt="Middle-earth style career map from LinkedIn PDF - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [DΞV](https://x.com/junwatu)
-- **Source:** [Twitter Post](https://x.com/junwatu/status/1992155346400424192)
-- **Published:** November 22, 2025
-- **Language:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20similar%20map%20using%20data%20from%20my%20PDF%20file.)**
-
----
-
-### No. 47: Monochrome tough-guy LINE stickers
+### No. 46: Monochrome tough-guy LINE stickers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2243,7 +2210,7 @@ A Japanese prompt to create 16 black-and-white LINE stickers from an attached ch
 
 ---
 
-### No. 48: Cinematic illustration of a poem
+### No. 47: Cinematic illustration of a poem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2277,7 +2244,7 @@ Create a single cinematic illustration that visually represents the following po
 
 ---
 
-### No. 49: Cute handwritten notes over a photo
+### No. 48: Cute handwritten notes over a photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2310,7 +2277,7 @@ Asks Nano Banana Pro to overlay lots of cute handwritten annotations onto a phot
 
 ---
 
-### No. 50: Clothing laid out separately on a bed
+### No. 49: Clothing laid out separately on a bed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2355,7 +2322,7 @@ Give each piece of her clothing separately on the bed
 
 ---
 
-### No. 51: Photorealistic render from illustration
+### No. 50: Photorealistic render from illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2394,7 +2361,7 @@ Raw photo based on image, photorealistic, highly detailed, 8k uhd, realistic tex
 
 ---
 
-### No. 52: Cinematic 3D logo with auto-assigned texture
+### No. 51: Cinematic 3D logo with auto-assigned texture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2449,7 +2416,7 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 
 ---
 
-### No. 53: Shoe pattern pieces layout
+### No. 52: Shoe pattern pieces layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2488,7 +2455,7 @@ Create an image showing the individual pattern pieces of this shoe, each separat
 
 ---
 
-### No. 54: Silksong 4-panel comic from uploaded character
+### No. 53: Silksong 4-panel comic from uploaded character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2522,7 +2489,7 @@ A Japanese prompt that uses an uploaded character image to explain the game Silk
 
 ---
 
-### No. 55: Turn a social bio into a NES cartridge cover
+### No. 54: Turn a social bio into a NES cartridge cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2555,7 +2522,7 @@ Analyze my bio and come up with a video game that would be me if I was a video g
 
 ---
 
-### No. 56: Anime-style seated portrait from face image
+### No. 55: Anime-style seated portrait from face image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2594,7 +2561,7 @@ A Japanese prompt that takes a face image and generates an anime-leaning digital
 
 ---
 
-### No. 57: Multiple characters in one basket
+### No. 56: Multiple characters in one basket
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2627,7 +2594,7 @@ put all of them into one basket
 
 ---
 
-### No. 58: High-detail IT careers infographic (Thai/English mix)
+### No. 57: High-detail IT careers infographic (Thai/English mix)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2678,7 +2645,7 @@ create a very high-detail infographic image that describe about IT career or IT 
 
 ---
 
-### No. 59: Single diagram image summarizing text (Japanese)
+### No. 58: Single diagram image summarizing text (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2711,7 +2678,7 @@ A very short Japanese prompt asking Nano Banana Pro to summarize a text-heavy cl
 
 ---
 
-### No. 60: Shoulder-stretch infographic for neck and shoulder stiffness
+### No. 59: Shoulder-stretch infographic for neck and shoulder stiffness
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2745,7 +2712,7 @@ A prompt for generating a 3:4 minimal illustration infographic about a simple th
 
 ---
 
-### No. 61: Hyperrealistic glass pork belly on a grill
+### No. 60: Hyperrealistic glass pork belly on a grill
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2784,7 +2751,7 @@ A Korean prompt for a hyperrealistic photo-style image of glass-made samgyeopsal
 
 ---
 
-### No. 62: Simpsons-style rocket-banana hybrid
+### No. 61: Simpsons-style rocket-banana hybrid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2817,7 +2784,7 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 
 ---
 
-### No. 63: Recipe breakdown and food photoshoot
+### No. 62: Recipe breakdown and food photoshoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2856,7 +2823,7 @@ Make a detailed recipe on this dish with all the ingredients names and it's raw 
 
 ---
 
-### No. 64: Text-to-mindmap graphic
+### No. 63: Text-to-mindmap graphic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2898,7 +2865,7 @@ A Japanese prompt that turns given text into an organic, color-coded mindmap wit
 
 ---
 
-### No. 65: Squatty Potty whiteboard instructions
+### No. 64: Squatty Potty whiteboard instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2931,7 +2898,7 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 
 ---
 
-### No. 66: VTuber-style street-fashion thumbnail from a city photo
+### No. 65: VTuber-style street-fashion thumbnail from a city photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2969,7 +2936,7 @@ vtuberで見られがちなデザインにしたい。
 
 ---
 
-### No. 67: Whiteboard-style simple diagram from text
+### No. 66: Whiteboard-style simple diagram from text
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3010,7 +2977,7 @@ A prompt that turns a text into a clean 16:9 whiteboard-style diagram with centr
 
 ---
 
-### No. 68: MrBeast-style thumbnail about Epstein files
+### No. 67: MrBeast-style thumbnail about Epstein files
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3043,7 +3010,7 @@ A Mr. Beast style YouTube thumbnail but it's Donald Trump and the video is where
 
 ---
 
-### No. 69: High-angle fairy grunge idol in cluttered closet
+### No. 68: High-angle fairy grunge idol in cluttered closet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3093,7 +3060,7 @@ minimalism, clean floor, bright daylight, cold lighting, organized, empty space,
 
 ---
 
-### No. 70: LINE sticker sheet from an attached image
+### No. 69: LINE sticker sheet from an attached image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3132,7 +3099,7 @@ Lineスタンプを作成。添付画像をチビキャラにしてセリフ入�
 
 ---
 
-### No. 71: Trompe l'oeil subject stepping out of social media screen
+### No. 70: Trompe l'oeil subject stepping out of social media screen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3166,7 +3133,7 @@ Trompe l'oeil illusion of {argument name="subject" default="A (subject)"} {argum
 
 ---
 
-### No. 72: Ultra-realistic Roronoa Zoro portrait
+### No. 71: Ultra-realistic Roronoa Zoro portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3199,7 +3166,7 @@ Ultra-realistic Roronoa Zoro portrait.
 
 ---
 
-### No. 73: Unpack items from bag onto bed haul shot
+### No. 72: Unpack items from bag onto bed haul shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3232,7 +3199,7 @@ Unpack the items from the bag and place them on the bed withe some of them scatt
 
 ---
 
-### No. 74: GTA 5 online action scene
+### No. 73: GTA 5 online action scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3265,7 +3232,7 @@ Create a picture of GTA 5 online where a person is shooting a car
 
 ---
 
-### No. 75: Four-panel comic about a clumsy elf
+### No. 74: Four-panel comic about a clumsy elf
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3298,7 +3265,7 @@ Nano Banana Proで4コマ漫画を作ってみよう、【 ドジっ子エルフ
 
 ---
 
-### No. 76: Hyper faithful image remaster
+### No. 75: Hyper faithful image remaster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3337,7 +3304,7 @@ Create a hyper faithful remaster of this image.
 
 ---
 
-### No. 77: Famicom game box, cartridge, manual, and CRT screen (Japanese)
+### No. 76: Famicom game box, cartridge, manual, and CRT screen (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3370,7 +3337,7 @@ A Japanese prompt from the replies to generate a Famicom game box, cartridge, ma
 
 ---
 
-### No. 78: Color comic of a character getting energized by barbecue
+### No. 77: Color comic of a character getting energized by barbecue
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3403,7 +3370,7 @@ A Japanese prompt to create a numbered-panel color comic where a given character
 
 ---
 
-### No. 79: Infographic from reference info with classic Japanese font
+### No. 78: Infographic from reference info with classic Japanese font
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3443,7 +3410,7 @@ lang:ja
 
 ---
 
-### No. 80: Rabbits wearing identical clothes
+### No. 79: Rabbits wearing identical clothes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3482,7 +3449,7 @@ The rabbits also wear the same clothes
 
 ---
 
-### No. 81: Coffee drinks infographic
+### No. 80: Coffee drinks infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3515,7 +3482,7 @@ Create an infographic showing different coffee drinks…
 
 ---
 
-### No. 82: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
+### No. 81: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3559,7 +3526,7 @@ A Japanese prompt for turning an uploaded person into a hand-drawn style header 
 
 ---
 
-### No. 83: Hand-drawn style header image prompt from photo
+### No. 82: Hand-drawn style header image prompt from photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3603,7 +3570,7 @@ Banana Pro」徹底解説
 
 ---
 
-### No. 84: Header image with uploaded person introducing Nano Banana Pro
+### No. 83: Header image with uploaded person introducing Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3647,7 +3614,7 @@ Banana Pro」徹底解説￼
 
 ---
 
-### No. 85: Luxurious header image with uploaded person for Nano Banana Pro article
+### No. 84: Luxurious header image with uploaded person for Nano Banana Pro article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3686,7 +3653,7 @@ Banana Pro」徹底解説￼
 
 ---
 
-### No. 86: LINE sticker sheet for standing doll character (Japanese)
+### No. 85: LINE sticker sheet for standing doll character (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3725,7 +3692,7 @@ A Japanese prompt asking for a 4x3 grid of 12 LINE stickers featuring a standing
 
 ---
 
-### No. 87: Translucent seawater whale in the clouds
+### No. 86: Translucent seawater whale in the clouds
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3758,7 +3725,7 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 
 ---
 
-### No. 88: Portfolio image for a fictional web designer
+### No. 87: Portfolio image for a fictional web designer
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3791,7 +3758,7 @@ A straightforward Japanese prompt to generate a portfolio image for an imaginary
 
 ---
 
-### No. 89: Levi’s shopping mirror selfie edit
+### No. 88: Levi’s shopping mirror selfie edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3825,7 +3792,7 @@ Make it look like I am shopping at Levi's holding bags, taking a picture at the 
 
 ---
 
-### No. 90: Geolocation sunset scene at specific coordinates
+### No. 89: Geolocation sunset scene at specific coordinates
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3859,7 +3826,7 @@ Create an image of {argument name="coordinates" default="7°36′28″S 110°12�
 
 ---
 
-### No. 91: Presentation slide about PLM and digital thread
+### No. 90: Presentation slide about PLM and digital thread
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3893,7 +3860,7 @@ A Japanese business prompt that first asks the model to think through key messag
 
 ---
 
-### No. 92: Infographic about a CEO struggling with hiring
+### No. 91: Infographic about a CEO struggling with hiring
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3926,7 +3893,7 @@ A Japanese prompt for creating an infographic visualizing the situation of a com
 
 ---
 
-### No. 93: Abstract illustration of the structure of this world
+### No. 92: Abstract illustration of the structure of this world
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3959,7 +3926,7 @@ A very short Japanese prompt asking for an illustration that succinctly represen
 
 ---
 
-### No. 94: Infographic comparing ChatGPT 5.1 and Gemini 3
+### No. 93: Infographic comparing ChatGPT 5.1 and Gemini 3
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3992,7 +3959,7 @@ ChatGPT 5.1とGemini 3の比較をインフォグラフィックにして
 
 ---
 
-### No. 95: Chinese whiteboard summary of long documents
+### No. 94: Chinese whiteboard summary of long documents
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4031,7 +3998,7 @@ Instructs Nano Banana Pro to convert a long Chinese text into a professor-style 
 
 ---
 
-### No. 96: Character transformed into superalloy robot style
+### No. 95: Character transformed into superalloy robot style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4064,7 +4031,7 @@ A prompt for turning an attached character image into a superalloy-style robot v
 
 ---
 
-### No. 97: Image enhancement and upscaling prompt
+### No. 96: Image enhancement and upscaling prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4115,7 +4082,7 @@ Enhance and upscale the image while keeping composition and colors identical. El
 
 ---
 
-### No. 98: Cutaway infographic of a 5th generation stealth fighter jet
+### No. 97: Cutaway infographic of a 5th generation stealth fighter jet
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4151,7 +4118,7 @@ A high-detail prompt for generating a 3D cutaway technical infographic of a mode
 
 ---
 
-### No. 99: Moody 2x2 editorial collage of an androgynous woman
+### No. 98: Moody 2x2 editorial collage of an androgynous woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4255,7 +4222,7 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 
 ---
 
-### No. 100: Lotte World Tower landmark-focused geolocation image
+### No. 99: Lotte World Tower landmark-focused geolocation image
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4289,7 +4256,7 @@ Create an image of {argument name="coordinates" default="37° 30' 40.4424'' N an
 
 ---
 
-### No. 101: Dinosaur appearing in front of Tokyo Metropolitan Government Building
+### No. 100: Dinosaur appearing in front of Tokyo Metropolitan Government Building
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4340,7 +4307,7 @@ A short Japanese prompt to place a specific dinosaur into a real-world location 
 
 ---
 
-### No. 102: Virtual outfit try-on with Tokyo street option
+### No. 101: Virtual outfit try-on with Tokyo street option
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4390,7 +4357,7 @@ Background optional, neutral or {argument name="background_location" default="To
 
 ---
 
-### No. 103: Recursive artist painting a photo of himself painting
+### No. 102: Recursive artist painting a photo of himself painting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4424,7 +4391,7 @@ Amateur photograph from {argument name="year" default="1998"} of a middle-aged a
 
 ---
 
-### No. 104: LINE sticker set from an attached illustration
+### No. 103: LINE sticker set from an attached illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4458,7 +4425,7 @@ A prompt that turns an attached illustration into a character-based LINE sticker
 
 ---
 
-### No. 105: Wireframe schematic restyle prompt
+### No. 104: Wireframe schematic restyle prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4491,7 +4458,7 @@ make this a blue glowing 3D wireframe over black background. Add red wireframe t
 
 ---
 
-### No. 106: Pros and cons of real estate investment infographic
+### No. 105: Pros and cons of real estate investment infographic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4524,7 +4491,7 @@ A prompt to create an image that visually explains the pros and cons of real est
 
 ---
 
-### No. 107: LINE sticker set from an attached character image
+### No. 106: LINE sticker set from an attached character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4564,7 +4531,7 @@ A prompt to create a 12-piece LINE sticker set using an attached character, with
 
 ---
 
-### No. 108: Tang poetry learning cards
+### No. 107: Tang poetry learning cards
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4598,7 +4565,7 @@ A prompt for generating learning cards for famous Tang poems, combining full tex
 
 ---
 
-### No. 109: Zoom-in detail on toes
+### No. 108: Zoom-in detail on toes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4637,7 +4604,7 @@ Zoom in on the toes
 
 ---
 
-### No. 110: Night view of skyscraper via coordinates
+### No. 109: Night view of skyscraper via coordinates
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4673,7 +4640,7 @@ Create an image of {argument name="coordinates_2" default="37° 30' 40.4424'' N 
 
 ---
 
-### No. 111: Image summarizing basic income
+### No. 110: Image summarizing basic income
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4706,7 +4673,7 @@ A simple Japanese prompt requesting an image that summarizes the concept of basi
 
 ---
 
-### No. 112: Cleaned-up two-panel interview comic
+### No. 111: Cleaned-up two-panel interview comic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4740,7 +4707,7 @@ A prompt asking the model to clean up a comic by mirroring the second panel and 
 
 ---
 
-### No. 113: Water Margin top 30 characters grid in gongbi style
+### No. 112: Water Margin top 30 characters grid in gongbi style
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4773,7 +4740,7 @@ A Chinese prompt that generates a grid of the top 30 Water Margin characters in 
 
 ---
 
-### No. 114: Age progression of a woman into an old lady
+### No. 113: Age progression of a woman into an old lady
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4806,7 +4773,7 @@ A Japanese prompt that transforms the adult woman from the first image into an e
 
 ---
 
-### No. 115: Zoom in on a bee
+### No. 114: Zoom in on a bee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4845,7 +4812,7 @@ Zoom in on the bee
 
 ---
 
-### No. 116: Thumbnail text overlay based on attachment
+### No. 115: Thumbnail text overlay based on attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4887,7 +4854,7 @@ Instructs Nano Banana Pro to add two centered lines of Japanese text about Googl
 
 ---
 
-### No. 117: Portfolio strategy overview diagram from attachment
+### No. 116: Portfolio strategy overview diagram from attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4920,7 +4887,7 @@ Asks Nano Banana Pro to create a diagram summarizing the strategy behind a perso
 
 ---
 
-### No. 118: Single-slide about advantages of investing in Vietnam
+### No. 117: Single-slide about advantages of investing in Vietnam
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4959,7 +4926,7 @@ A short prompt that asks Nano Banana Pro to create a slide summarizing the advan
 
 ---
 
-### No. 119: Shear and moment diagram for a loaded beam
+### No. 118: Shear and moment diagram for a loaded beam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4993,7 +4960,7 @@ a shear and moment diagram for a simply supported beam with a uniform load of {a
 
 ---
 
-### No. 120: Physicist relaxing in a hammock with SPA drink
+### No. 119: Physicist relaxing in a hammock with SPA drink
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5026,7 +4993,7 @@ Physicist on a hammock, with a glass and an S.P.A. Only legs, without shoes and 
 
 ---
 
-### No. 121: Origami-style step-by-step folding instructions
+### No. 120: Origami-style step-by-step folding instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5066,7 +5033,7 @@ Create a {argument name="grid_layout" default="2x 3"} grid of step-by-step visua
 
 ---
 
-### No. 122: Chalkboard king rabbit illustration at sunset
+### No. 121: Chalkboard king rabbit illustration at sunset
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5099,7 +5066,7 @@ Creates a classroom chalkboard artwork of a rabbit king with Japanese text, in a
 
 ---
 
-### No. 123: Ben 10 meets TMNT full comic page
+### No. 122: Ben 10 meets TMNT full comic page
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5133,7 +5100,7 @@ A full comic page bringing {argument name="character_1" default="Ben 10"} into t
 
 ---
 
-### No. 124: Bookstore POP display with acrylic marker illustration
+### No. 123: Bookstore POP display with acrylic marker illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5173,7 +5140,7 @@ A prompt for generating a bookstore POP display photo featuring an acrylic marke
 
 ---
 
-### No. 125: Goth makeover variant of existing photo
+### No. 124: Goth makeover variant of existing photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5212,7 +5179,7 @@ Redo this as though this person was into goth music at the time
 
 ---
 
-### No. 126: Funny anatomical diagram of a pet
+### No. 125: Funny anatomical diagram of a pet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5245,7 +5212,7 @@ make a funny anatomical diagram of this pet, have humorous annotations
 
 ---
 
-### No. 127: Swimsuit to bikini pose-edit prompt (reply)
+### No. 126: Swimsuit to bikini pose-edit prompt (reply)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5284,7 +5251,7 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 
 ---
 
-### No. 128: Government results infographic from web sources
+### No. 127: Government results infographic from web sources
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5317,7 +5284,7 @@ A Japanese prompt that tells the model to research sources like Teikoku Databank
 
 ---
 
-### No. 129: Four-panel anime manga with panda-girl character
+### No. 128: Four-panel anime manga with panda-girl character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5356,7 +5323,7 @@ Generates a vertical four-panel manga in typical Japanese anime style featuring 
 
 ---
 
-### No. 130: Visual explanation of Think-cell solving document issues
+### No. 129: Visual explanation of Think-cell solving document issues
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5389,7 +5356,7 @@ Instructs Nano Banana Pro to create an explanatory image about document creation
 
 ---
 
-### No. 131: HUD battle power overlay for any character image
+### No. 130: HUD battle power overlay for any character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5442,7 +5409,7 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 ---
 
-### No. 132: Diagram explaining how to walk beautifully
+### No. 131: Diagram explaining how to walk beautifully
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5475,7 +5442,7 @@ A very simple Japanese prompt that asks Nano Banana Pro to create a diagram show
 
 ---
 
-### No. 133: Anthropomorphized apple and banana couple
+### No. 132: Anthropomorphized apple and banana couple
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5508,7 +5475,7 @@ A very short Japanese prompt that asks for a couple made of anthropomorphized ap
 
 ---
 
-### No. 134: Clean infographic style constraints in Japanese
+### No. 133: Clean infographic style constraints in Japanese
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5541,7 +5508,7 @@ Provides styling instructions for Nano Banana Pro to create simplified, flat-des
 
 ---
 
-### No. 135: 4-panel Japanese gag manga about Nanami eating ramen
+### No. 134: 4-panel Japanese gag manga about Nanami eating ramen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5575,7 +5542,7 @@ A detailed prompt for creating a vertical 4-panel Japanese gag manga featuring a
 
 ---
 
-### No. 136: Split-screen time-lapse of same location by coordinates
+### No. 135: Split-screen time-lapse of same location by coordinates
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5641,7 +5608,7 @@ A detailed prompt to generate a single 16:9 photorealistic image split into left
 
 ---
 
-### No. 137: POV from a light gray rabbit
+### No. 136: POV from a light gray rabbit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5680,7 +5647,7 @@ Light gray rabbit's point-of-view shot
 
 ---
 
-### No. 138: Four-panel manga about Bitcoin from cypherpunk view
+### No. 137: Four-panel manga about Bitcoin from cypherpunk view
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5713,7 +5680,7 @@ Generates a Japanese four-panel manga where a reference character explains the o
 
 ---
 
-### No. 139: Idol flyer stuck on a steamed bun vending machine
+### No. 138: Idol flyer stuck on a steamed bun vending machine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5746,7 +5713,7 @@ Take the image of the hand-drawn style idol character flyer and visually depict 
 
 ---
 
-### No. 140: Edit city photo into rainy scene with Vietnamese bikers
+### No. 139: Edit city photo into rainy scene with Vietnamese bikers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5793,7 +5760,7 @@ Two sequential edit prompts: first convert a city scene into rainy weather, then
 
 ---
 
-### No. 141: Textbook-style illustration for the poem “Linjiangxian”
+### No. 140: Textbook-style illustration for the poem “Linjiangxian”
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5827,7 +5794,7 @@ A prompt for creating a textbook teaching illustration for the classical Chinese
 
 ---
 
-### No. 142: Pop-style flyer image for a note article
+### No. 141: Pop-style flyer image for a note article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5861,7 +5828,7 @@ A prompt to generate a colorful, pop-style flyer image that promotes a specific 
 
 ---
 
-### No. 143: Isometric living room layout based on a sofa photo
+### No. 142: Isometric living room layout based on a sofa photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5912,7 +5879,7 @@ A prompt for producing an anime-style isometric living room layout that matches 
 
 ---
 
-### No. 144: Whiteboard-style slide explaining a research paper
+### No. 143: Whiteboard-style slide explaining a research paper
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5945,7 +5912,7 @@ A prompt to turn a research paper into a Chinese whiteboard-style teaching slide
 
 ---
 
-### No. 145: Einstein learning selfies from Elon Musk (Chinese)
+### No. 144: Einstein learning selfies from Elon Musk (Chinese)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5979,7 +5946,7 @@ A Chinese prompt describing Einstein trying to take a selfie with a smartphone w
 
 ---
 
-### No. 146: Eye-catching thumbnail about Nano Banana Pro release
+### No. 145: Eye-catching thumbnail about Nano Banana Pro release
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6012,7 +5979,7 @@ A very short Japanese prompt to create an eye-catching thumbnail announcing that
 
 ---
 
-### No. 147: Bruce Lee sparring with Yoda in a dojo
+### No. 146: Bruce Lee sparring with Yoda in a dojo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6045,7 +6012,7 @@ A Chinese prompt depicting Bruce Lee in his yellow jumpsuit playfully sparring w
 
 ---
 
-### No. 148: High-detail story-art layout with frames and speech bubbles
+### No. 147: High-detail story-art layout with frames and speech bubbles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6090,7 +6057,7 @@ A replacement for the word “manga” that describes a three-frame high-resolut
 
 ---
 
-### No. 149: Pixel game character climbing out of TV
+### No. 148: Pixel game character climbing out of TV
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6123,7 +6090,7 @@ An English/Chinese mixed prompt describing a pixelated game character trying to 
 
 ---
 
-### No. 150: Cute chibi cat-eared girl illustration
+### No. 149: Cute chibi cat-eared girl illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6157,7 +6124,7 @@ A straightforward prompt for generating a cute chibi-style cat-eared girl with f
 
 ---
 
-### No. 151: Change clothing to match reference outfit
+### No. 150: Change clothing to match reference outfit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6202,7 +6169,7 @@ Take the clothing from the reference and change mine to match it
 
 ---
 
-### No. 152: Hyper-realistic environmental portrait of stylish woman prompt (partial)
+### No. 151: Hyper-realistic environmental portrait of stylish woman prompt (partial)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6236,7 +6203,7 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 
 ---
 
-### No. 153: Connected series of four-panel manga strips
+### No. 152: Connected series of four-panel manga strips
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6287,7 +6254,7 @@ A meta-structural prompt (not fully quoted) that instructs Nano Banana Pro to cr
 
 ---
 
-### No. 154: Scientific diagram of cytotoxic T cells killing cancer cells
+### No. 153: Scientific diagram of cytotoxic T cells killing cancer cells
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6320,7 +6287,7 @@ A prompt to create a polished scientific illustration of how cytotoxic T cells r
 
 ---
 
-### No. 155: Captain’s worn sailing log sketch
+### No. 154: Captain’s worn sailing log sketch
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6353,7 +6320,7 @@ A stylized prompt for a sketchy pirate-themed captain’s log page featuring Luf
 
 ---
 
-### No. 156: Magazine-style photo containing given article text
+### No. 155: Magazine-style photo containing given article text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6387,7 +6354,7 @@ A prompt to embed a given block of text into a stylish magazine-article photogra
 
 ---
 
-### No. 157: AIFocus Twitter banner with Google branding
+### No. 156: AIFocus Twitter banner with Google branding
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6420,7 +6387,7 @@ A Chinese prompt to create a Banana-themed Twitter banner for AIFocus that match
 
 ---
 
-### No. 158: 16-bit pixel art poster of black-and-white animals
+### No. 157: 16-bit pixel art poster of black-and-white animals
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6471,7 +6438,7 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 
 ---
 
-### No. 159: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
+### No. 158: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6514,7 +6481,7 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 
 ---
 
-### No. 160: Four-panel manga of a fairy who thinks Earth is a cat planet
+### No. 159: Four-panel manga of a fairy who thinks Earth is a cat planet
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6547,7 +6514,7 @@ A prompt telling Nano Banana Pro to create a four-panel comic where a fairy desc
 
 ---
 
-### No. 161: Structured rooftop winter portrait (JSON)
+### No. 160: Structured rooftop winter portrait (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6610,7 +6577,7 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 
 ---
 
-### No. 162: Salted fish trying to flip in a pan
+### No. 161: Salted fish trying to flip in a pan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6643,7 +6610,7 @@ A humorous Chinese prompt depicting a salted fish in a frying pan trying to flip
 
 ---
 
-### No. 163: Hand-drawn infographic card about long-term IP building
+### No. 162: Hand-drawn infographic card about long-term IP building
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6683,7 +6650,7 @@ A detailed prompt for creating a 9:16 hand-drawn infographic card with brush scr
 
 ---
 
-### No. 164: Blackboard summary of pasted content
+### No. 163: Blackboard summary of pasted content
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6716,7 +6683,7 @@ A simple prompt that takes some given text and turns it into a single blackboard
 
 ---
 
-### No. 165: 4 types of 4‑panel manga about Nano Banana Pro
+### No. 164: 4 types of 4‑panel manga about Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6750,7 +6717,7 @@ A detailed prompt that generates four different Japanese four-panel manga using 
 
 ---
 
-### No. 166: Python Fibonacci code on glass whiteboard
+### No. 165: Python Fibonacci code on glass whiteboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6784,7 +6751,7 @@ create a photo of {argument name="programming_language" default="python"} code t
 
 ---
 
-### No. 167: Chibi character LINE stickers set
+### No. 166: Chibi character LINE stickers set
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6824,7 +6791,7 @@ A prompt to convert an attached character into a chibi style and generate a 12�
 
 ---
 
-### No. 168: Policy-style slide about national medical data strategy
+### No. 167: Policy-style slide about national medical data strategy
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6857,7 +6824,7 @@ A Japanese prompt that asks Nano Banana Pro to research the future direction of 
 
 ---
 
-### No. 169: Doujinshi cover from two characters
+### No. 168: Doujinshi cover from two characters
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6891,7 +6858,7 @@ A quick prompt that turns two supplied character images into a fan-made doujinsh
 
 ---
 
-### No. 170: Product ad-style image for a raccoon figure
+### No. 169: Product ad-style image for a raccoon figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6930,7 +6897,7 @@ A prompt to turn a provided figure photo into a Japanese product advertisement f
 
 ---
 
-### No. 171: Paper summary as Chinese whiteboard photo
+### No. 170: Paper summary as Chinese whiteboard photo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6969,7 +6936,7 @@ A prompt that turns the contents of a paper into a summarized Chinese whiteboard
 
 ---
 
-### No. 172: Ad manga for a radio show with a gorilla and rabbit
+### No. 171: Ad manga for a radio show with a gorilla and rabbit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7020,7 +6987,7 @@ A prompt to turn attached gorilla and rabbit characters into a one-page color ad
 
 ---
 
-### No. 173: Four-panel manga about a hungry woman and pancakes
+### No. 172: Four-panel manga about a hungry woman and pancakes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7063,7 +7030,7 @@ A structured Japanese prompt for generating a four-panel manga featuring a brigh
 
 ---
 
-### No. 174: Watermelon swimming pool micro-world
+### No. 173: Watermelon swimming pool micro-world
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7096,7 +7063,7 @@ A whimsical prompt for a cross-section of a giant watermelon whose flesh is a sw
 
 ---
 
-### No. 175: Surreal translucent blue whale in the clouds
+### No. 174: Surreal translucent blue whale in the clouds
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7129,7 +7096,7 @@ A Chinese prompt describing a golden-hour scene of a giant translucent blue whal
 
 ---
 
-### No. 176: Yin-yang koi ink illustration
+### No. 175: Yin-yang koi ink illustration
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7162,7 +7129,7 @@ A Chinese prompt to generate a minimalist zen-style overhead view of two koi for
 
 ---
 
-### No. 177: Figure-style product page design for a heartbreak girl figure
+### No. 176: Figure-style product page design for a heartbreak girl figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7215,7 +7182,7 @@ A detailed prompt for turning an image into an ultra-detailed figure-style produ
 
 ---
 
-### No. 178: Outfit transfer between two photos
+### No. 177: Outfit transfer between two photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7262,7 +7229,7 @@ take clothes from image1 and put on person in image2. make sri that the clothe i
 
 ---
 
-### No. 179: Monochrome cinematic portrait of young woman
+### No. 178: Monochrome cinematic portrait of young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7295,7 +7262,7 @@ A cinematic, ultra-realistic monochrome portrait of a young woman with expressiv
 
 ---
 
-### No. 180: Humorous LINE sticker sheet for Oracle-chan
+### No. 179: Humorous LINE sticker sheet for Oracle-chan
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7328,7 +7295,7 @@ A prompt for generating a 12-sticker LINE stamp sheet featuring a given characte
 
 ---
 
-### No. 181: Landing page for a beauty serum
+### No. 180: Landing page for a beauty serum
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7361,7 +7328,7 @@ A very short Japanese prompt asking Nano Banana Pro to create a landing page des
 
 ---
 
-### No. 182: Food thumbnails and product shots
+### No. 181: Food thumbnails and product shots
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7402,7 +7369,7 @@ Very short Japanese prompts to generate thumbnails for fried chicken and Napolit
 
 ---
 
-### No. 183: Messenger sticker set from attached person
+### No. 182: Messenger sticker set from attached person
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7437,7 +7404,7 @@ A Japanese prompt asking to create a 4x5 grid of 20 square messenger stickers fe
 
 ---
 
-### No. 184: Apple keynote-style event scene from text
+### No. 183: Apple keynote-style event scene from text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7482,7 +7449,7 @@ A prompt to turn any supplied text into a dramatic Apple-style keynote event pho
 
 ---
 
-### No. 185: Essay-style manga about a family trip to Universal Studios
+### No. 184: Essay-style manga about a family trip to Universal Studios
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7516,7 +7483,7 @@ A prompt that turns a personal anecdote into an essay-style manga where a family
 
 ---
 
-### No. 186: YouTube thumbnail design brief for a masked interview video
+### No. 185: YouTube thumbnail design brief for a masked interview video
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7579,7 +7546,7 @@ A long, detailed prompt asking the AI to design a high-conversion YouTube thumbn
 
 ---
 
-### No. 187: 4-panel manga about Gemini generating Japanese text images
+### No. 186: 4-panel manga about Gemini generating Japanese text images
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7613,7 +7580,7 @@ A prompt to create a 4-panel manga using an attached character who learns via sm
 
 ---
 
-### No. 188: Map of Morocco during the 1799–1800 plague
+### No. 187: Map of Morocco during the 1799–1800 plague
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7647,7 +7614,7 @@ A prompt for generating a somewhat dark map of Morocco around 1799–1800, showi
 
 ---
 
-### No. 189: Perfume promo with niche Le Labo-like feel
+### No. 188: Perfume promo with niche Le Labo-like feel
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7698,7 +7665,7 @@ Another refinement prompt specifying a niche, tasteful high-end aesthetic simila
 
 ---
 
-### No. 190: Lego-style self portrait
+### No. 189: Lego-style self portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7738,7 +7705,7 @@ make me into a {argument name="subject" default="Lego"}
 
 ---
 
-### No. 191: Tesla FSD explainer infographic
+### No. 190: Tesla FSD explainer infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7772,7 +7739,7 @@ Make an infographic that explains how {argument name="system_name" default="Tesl
 
 ---
 
-### No. 192: Weird mundane photo (LeonardoAI)
+### No. 191: Weird mundane photo (LeonardoAI)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7805,7 +7772,7 @@ the most weird mundane photo you can imagine
 
 ---
 
-### No. 193: Cinematic poster with movie characters
+### No. 192: Cinematic poster with movie characters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7845,7 +7812,7 @@ movies, a cinematic poster.
 
 ---
 
-### No. 194: Sci-fi cinematic triptych and expansions
+### No. 193: Sci-fi cinematic triptych and expansions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7898,7 +7865,7 @@ Expand the three images one by one into three 4:5 scenes
 
 ---
 
-### No. 195: Replace clothing while keeping identity and pose
+### No. 194: Replace clothing while keeping identity and pose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7939,7 +7906,7 @@ Do not alter my hairstyle, makeup, body proportions, camera angle, or
 
 ---
 
-### No. 196: Four-keyword prompt: Japanese near-future beauty in the city
+### No. 195: Four-keyword prompt: Japanese near-future beauty in the city
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7976,7 +7943,7 @@ A minimal Japanese prompt made of four words to generate a near-future beautiful
 
 ---
 
-### No. 197: Podcast cover from two reference portraits
+### No. 196: Podcast cover from two reference portraits
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8016,7 +7983,7 @@ A flexible prompt idea for generating a podcast cover using two uploaded portrai
 
 ---
 
-### No. 198: Keep art, translate manga speech to English in original balloons
+### No. 197: Keep art, translate manga speech to English in original balloons
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8061,7 +8028,7 @@ A prompt for image editing: keep the original manga artwork, translate only the 
 
 ---
 
-### No. 199: Old photo restoration prompt
+### No. 198: Old photo restoration prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8100,7 +8067,7 @@ Restore this old, heavily damaged photo by removing all visible scratches, dents
 
 ---
 
-### No. 200: Neon-girl manga page 1 setup
+### No. 199: Neon-girl manga page 1 setup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8160,13 +8127,47 @@ A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical
 
 ---
 
+### No. 200: Stereogram of Amatitlán Lake from above
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A Spanish prompt to mimic an existing stereogram while depicting Lake Amatitlán from a satellite-like top view, surrounded by mountains for a strong depth effect.
+
+#### 📝 Prompt
+
+```
+Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {argument name="lugar" default="lago de Amatitlán"} visto desde arriba (vista satelital) y con la cordillera de montañas alrededor del lago que dé un efecto de profundidad.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="Stereogram of Amatitlán Lake from above - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [cr.txt](https://x.com/crstn_hrndz)
+- **Source:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
+- **Published:** November 21, 2025
+- **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imita%20el%20siguiente%20estereograma%20usando%20la%20t%C3%A9cnica%20estereoscop%C3%ADa%2C%20pero%20con%20el%20%7Bargument%20name%3D%22lugar%22%20default%3D%22lago%20de%20Amatitl%C3%A1n%22%7D%20visto%20desde%20arriba%20(vista%20satelital)%20y%20con%20la%20cordillera%20de%20monta%C3%B1as%20alrededor%20del%20lago%20que%20d%C3%A9%20un%20efecto%20de%20profundidad.)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 292 more prompts not shown here
+### 🎯 291 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8229,6 +8230,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T13:22:33.817Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T16:14:16.301Z</sub>
 
 </div>
