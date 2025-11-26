@@ -1,4 +1,5 @@
 import fetch from 'node-fetch';
+import { stringify } from 'qs-esm';
 
 const CMS_HOST = process.env.CMS_HOST;
 const CMS_API_KEY = process.env.CMS_API_KEY;
@@ -31,7 +32,20 @@ interface CMSResponse {
  * @param locale 语言版本，默认 en-US
  */
 export async function fetchAllPrompts(locale: string = 'en-US'): Promise<Prompt[]> {
-  const url = `${CMS_HOST}/api/prompts?limit=9999&sort=-sourcePublishedAt&depth=2&locale=${locale}`;
+  const query = {
+    limit: 9999,
+    sort: '-sourcePublishedAt',
+    depth: 2,
+    locale,
+    where: {
+      model: {
+        equals: 'nano-banana-pro',
+      },
+    },
+  };
+
+  const stringifiedQuery = stringify(query, { addQueryPrefix: true });
+  const url = `${CMS_HOST}/api/prompts${stringifiedQuery}`;
 
   const response = await fetch(url, {
     headers: {
