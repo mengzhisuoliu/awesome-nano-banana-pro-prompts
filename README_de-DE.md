@@ -90,7 +90,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **519** |
 | ⭐ Ausgewählt | **5** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 29. November 2025 um 12:19:05 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 29. November 2025 um 16:12:21 UTC** |
 
 </div>
 
@@ -8335,6 +8335,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-29T12:19:05.271Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-29T16:12:21.637Z</sub>
 
 </div>
