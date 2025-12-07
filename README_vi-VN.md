@@ -88,9 +88,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **661** |
+| 📝 Tổng số câu lệnh | **680** |
 | ⭐ Nổi bật | **14** |
-| 🔄 Cập nhật lần cuối | **lúc 08:14:35 UTC Chủ Nhật, 7 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:18:54 UTC Chủ Nhật, 7 tháng 12, 2025** |
 
 </div>
 
@@ -1521,44 +1521,7 @@ Một câu lệnh chi tiết định dạng JSON được thiết kế cho Nano 
 
 ---
 
-### No. 16: Kigurumi Mask và Sự Tương Phản Cơ Thể Đầy Đặn: Gợi ý
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết cho Nano Banana Pro yêu cầu một bức ảnh POV thô, cận cảnh cực độ được chụp bằng đèn flash trực tiếp mạnh vào ban đêm. Hình ảnh có một cô gái dễ thương đang cầm một cốc bia sủi bọt, với sự tương phản hình ảnh nổi bật: khuôn mặt cô ấy là một chiếc mặt nạ Kigurumi theo phong cách anime 2D phẳng, trong khi phần thân bên dưới cằm của cô ấy là 100% chân thực như ảnh chụp, mặc một chiếc áo ba lỗ màu trắng bó sát có dây mảnh làm nổi bật bộ ngực đầy đặn và khe ngực sâu. Nền tối và lộn xộn.
-
-#### 📝 Câu lệnh
-
-```
-Một bức ảnh POV thô, cận cảnh cực độ được chụp bằng đèn flash trực tiếp mạnh vào ban đêm. Một cô gái dễ thương nghiêng sát vào ống kính máy ảnh, giơ một cốc bia đầy bọt lên như thể đang tích cực "cạn ly" với người xem.
-
-TƯƠNG PHẢN HÌNH ẢNH QUAN TRỌNG: Khuôn mặt cô ấy rõ ràng là một chiếc mặt nạ Kigurumi theo phong cách anime 2D phẳng với mái tóc bạc rối bù, đôi mắt xanh to dễ thương và một vệt má hồng "say xỉn" đậm, ngộ nghĩnh được dán hoàn hảo. Dưới cằm, cơ thể cô ấy hoàn toàn chân thực như ảnh chụp với kết cấu da mềm mại, tự nhiên và những khuyết điểm có thể nhìn thấy dưới ánh đèn flash. Cô ấy đang mặc một chiếc áo ba lỗ trắng có dây mảnh rất bó sát, ôm chặt và làm nổi bật bộ ngực căng tròn, lớn và khe ngực sâu.
-
-Phông nền tối, lộn xộn với mì ly đã mở và dây điện rối rắm, tạo nên một bầu không khí thân mật, hỗn loạn, đêm khuya. Tiêu điểm sắc nét vào ngực cô ấy và cốc bia. 3:4
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1765089403868_e51ijq_G7aZiwEb0AAMQkJ.jpg" width="600" alt="Kigurumi Mask và Sự Tương Phản Cơ Thể Đầy Đặn: Gợi ý - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [John](https://x.com/johnAGI168)
-- **Nguồn:** [Twitter Post](https://x.com/johnAGI168/status/1996953334419542295)
-- **Đã xuất bản:** 5 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20POV%20th%C3%B4%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20c%E1%BB%B1c%20%C4%91%E1%BB%99%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20%C4%91%C3%A8n%20flash%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20m%E1%BA%A1nh%20v%C3%A0o%20ban%20%C4%91%C3%AAm.%20M%E1%BB%99t%20c%C3%B4%20g%C3%A1i%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20nghi%C3%AAng%20s%C3%A1t%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh%20m%C3%A1y%20%E1%BA%A3nh%2C%20gi%C6%A1%20m%E1%BB%99t%20c%E1%BB%91c%20bia%20%C4%91%E1%BA%A7y%20b%E1%BB%8Dt%20l%C3%AAn%20nh%C6%B0%20th%E1%BB%83%20%C4%91ang%20t%C3%ADch%20c%E1%BB%B1c%20%22c%E1%BA%A1n%20ly%22%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20xem.%0A%0AT%C6%AF%C6%A0NG%20PH%E1%BA%A2N%20H%C3%8CNH%20%E1%BA%A2NH%20QUAN%20TR%E1%BB%8CNG%3A%20Khu%C3%B4n%20m%E1%BA%B7t%20c%C3%B4%20%E1%BA%A5y%20r%C3%B5%20r%C3%A0ng%20l%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%E1%BA%B7t%20n%E1%BA%A1%20Kigurumi%20theo%20phong%20c%C3%A1ch%20anime%202D%20ph%E1%BA%B3ng%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20b%E1%BA%A1c%20r%E1%BB%91i%20b%C3%B9%2C%20%C4%91%C3%B4i%20m%E1%BA%AFt%20xanh%20to%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20m%E1%BB%99t%20v%E1%BB%87t%20m%C3%A1%20h%E1%BB%93ng%20%22say%20x%E1%BB%89n%22%20%C4%91%E1%BA%ADm%2C%20ng%E1%BB%99%20ngh%C4%A9nh%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A1n%20ho%C3%A0n%20h%E1%BA%A3o.%20D%C6%B0%E1%BB%9Bi%20c%E1%BA%B1m%2C%20c%C6%A1%20th%E1%BB%83%20c%C3%B4%20%E1%BA%A5y%20ho%C3%A0n%20to%C3%A0n%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20nh%E1%BB%AFng%20khuy%E1%BA%BFt%20%C4%91i%E1%BB%83m%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20d%C6%B0%E1%BB%9Bi%20%C3%A1nh%20%C4%91%C3%A8n%20flash.%20C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20ba%20l%E1%BB%97%20tr%E1%BA%AFng%20c%C3%B3%20d%C3%A2y%20m%E1%BA%A3nh%20r%E1%BA%A5t%20b%C3%B3%20s%C3%A1t%2C%20%C3%B4m%20ch%E1%BA%B7t%20v%C3%A0%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20b%E1%BB%99%20ng%E1%BB%B1c%20c%C4%83ng%20tr%C3%B2n%2C%20l%E1%BB%9Bn%20v%C3%A0%20khe%20ng%E1%BB%B1c%20s%C3%A2u.%0A%0APh%C3%B4ng%20n%E1%BB%81n%20t%E1%BB%91i%2C%20l%E1%BB%99n%20x%E1%BB%99n%20v%E1%BB%9Bi%20m%C3%AC%20ly%20%C4%91%C3%A3%20m%E1%BB%9F%20v%C3%A0%20d%C3%A2y%20%C4%91i%E1%BB%87n%20r%E1%BB%91i%20r%E1%BA%AFm%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20th%C3%A2n%20m%E1%BA%ADt%2C%20h%E1%BB%97n%20lo%E1%BA%A1n%2C%20%C4%91%C3%AAm%20khuya.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20ng%E1%BB%B1c%20c%C3%B4%20%E1%BA%A5y%20v%C3%A0%20c%E1%BB%91c%20bia.%203%3A4)**
-
----
-
-### No. 17: Lời nhắc tạo ảnh thu nhỏ YouTube đơn giản
+### No. 16: Lời nhắc tạo ảnh thu nhỏ YouTube đơn giản
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1600,7 +1563,7 @@ Một lời nhắc rất đơn giản được sử dụng để tạo hình thu
 
 ---
 
-### No. 18: Lời nhắc chụp ảnh tự sướng trước gương cho cặp đôi đầu hộp
+### No. 17: Lời nhắc chụp ảnh tự sướng trước gương cho cặp đôi đầu hộp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1723,7 +1686,7 @@ Một lời nhắc JSON cực kỳ chi tiết dành cho Nano Banana Pro tạo ra
 
 ---
 
-### No. 19: Lời nhắc Chân dung Đường phố Điện ảnh cho Nano Banana Pro
+### No. 18: Lời nhắc Chân dung Đường phố Điện ảnh cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1813,7 +1776,7 @@ Một lời nhắc được cấu trúc chặt chẽ được thiết kế để
 
 ---
 
-### No. 20: Lời nhắc tạo video AI cho siêu anh hùng bay
+### No. 19: Lời nhắc tạo video AI cho siêu anh hùng bay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1850,7 +1813,7 @@ Camera: Quay theo / Dolly Forward. Camera theo sát cô ấy với cùng tốc �
 
 ---
 
-### No. 21: Bối cảnh hồ bơi phong cách siêu thực của Guy Bourdin
+### No. 20: Bối cảnh hồ bơi phong cách siêu thực của Guy Bourdin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1883,7 +1846,7 @@ Theo phong cách của Guy Bourdin. Một hồ bơi cổ điển trống rỗng 
 
 ---
 
-### No. 22: Thành phố 3D thu nhỏ với lời nhắc thời tiết trực tiếp
+### No. 21: Thành phố 3D thu nhỏ với lời nhắc thời tiết trực tiếp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1918,7 +1881,7 @@ Miniature 3D City + Thời tiết trực tiếp
 
 ---
 
-### No. 23: Tạo Hình ảnh từ Tin tức Hàn Quốc theo Thời gian Thực
+### No. 22: Tạo Hình ảnh từ Tin tức Hàn Quốc theo Thời gian Thực
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -1957,7 +1920,7 @@ Tạo hình ảnh đại diện dựa trên các cập nhật tin tức theo th�
 
 ---
 
-### No. 24: Hình ảnh so sánh hiệu ứng VFX (Trước/Sau) cho Nano Banana Pro
+### No. 23: Hình ảnh so sánh hiệu ứng VFX (Trước/Sau) cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2011,7 +1974,7 @@ Giao diện và cảm giác của VFX trước và sau từ điện ảnh Nhật
 
 ---
 
-### No. 25: Gợi ý cảnh văn phòng dưới nước siêu thực
+### No. 24: Gợi ý cảnh văn phòng dưới nước siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2044,7 +2007,7 @@ Một bức ảnh siêu thực, như mơ về một môi trường văn phòng h
 
 ---
 
-### No. 26: Prompt nâng cấp 4K cho Nano Banana Pro
+### No. 25: Prompt nâng cấp 4K cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2077,7 +2040,7 @@ Vui lòng nâng cấp lên độ phân giải 4K.
 
 ---
 
-### No. 27: Tạo Nguồn Cấp Dữ liệu Mạng Xã hội cho Thương hiệu Dầu Ô liu
+### No. 26: Tạo Nguồn Cấp Dữ liệu Mạng Xã hội cho Thương hiệu Dầu Ô liu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2110,7 +2073,7 @@ Tạo nguồn cấp dữ liệu mạng xã hội cho một thương hiệu dầu
 
 ---
 
-### No. 28: Tạo Nguồn Cấp Dữ liệu Mạng xã hội cho Thương hiệu Dầu ô liu
+### No. 27: Tạo Nguồn Cấp Dữ liệu Mạng xã hội cho Thương hiệu Dầu ô liu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2143,7 +2106,7 @@ Tạo nguồn cấp dữ liệu mạng xã hội cho một thương hiệu dầu
 
 ---
 
-### No. 29: Tạo Manga AI với Nano Banana Pro
+### No. 28: Tạo Manga AI với Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2181,7 +2144,7 @@ Tweet này giới thiệu cách sử dụng Nano Banana Pro để tạo nội du
 
 ---
 
-### No. 30: Nano Banana Pro Prompt cho giao diện không phải AI
+### No. 29: Nano Banana Pro Prompt cho giao diện không phải AI
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2214,7 +2177,7 @@ Chiến lược Thiết kế x AI
 
 ---
 
-### No. 31: Lời nhắc tạo slide thiết kế phẳng chất lượng cao
+### No. 30: Lời nhắc tạo slide thiết kế phẳng chất lượng cao
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2269,7 +2232,7 @@ Tối đa hóa không gian trắng, tập trung vào khả năng hiển thị v�
 
 ---
 
-### No. 32: Nano Banana Pro Prompt cho Cảnh hoài niệm
+### No. 31: Nano Banana Pro Prompt cho Cảnh hoài niệm
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2314,13 +2277,109 @@ Quê hương, ở nơi xa xăm tươi đẹp ấy, hy vọng trên thân, ước
 
 ---
 
-### No. 33: Lời nhắc chân dung thẩm mỹ Canon IXUS
+### No. 32: Chụp ảnh tự sướng trong xe với bánh quy phô mai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc JSON có cấu trúc cao dành cho Nano Banana Pro được thiết kế để tạo ra một bức chân dung siêu thực theo phong cách chụp ảnh Canon IXUS point-and-shoot. Nó chỉ định các ràng buộc để khớp chính xác với hình ảnh tham chiếu, chi tiết về chuyển động của tóc, trang điểm (má hồng màu hồng nhạt), biểu cảm (dễ thương, ngây thơ, vui vẻ, hơi gợi cảm), tư thế (hất tóc), trang phục (áo quây đen, quần jean cạp trễ), phụ kiện và môi trường quán rượu hiện đại.
+Một lời nhắc JSON có cấu trúc để tạo hình ảnh một phụ nữ trẻ đang nháy mắt và mỉm cười ở ghế lái ô tô, đặc biệt là đang ngậm một chiếc bánh quy phô mai trong miệng, mô tả chi tiết các đặc điểm, trang phục của cô ấy và nội thất/phông nền ô tô.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "type": "người",
+    "gender": "nữ",
+    "age_group": "thanh niên",
+    "hair_color": "tóc vàng",
+    "eye_color": "mắt xanh",
+    "features": "tàn nhang",
+    "expression": "nháy mắt, mỉm cười",
+    "action": "đang ngậm một chiếc bánh quy phô mai trong miệng"
+  },
+  "attire": {
+    "clothing": "áo dài tay cổ tròn màu đen"
+  },
+  "setting": {
+    "location": "bên trong xe ô tô",
+    "position": "ghế lái",
+    "interior": "ghế da màu đen trắng",
+    "background": "cây cối, ánh sáng ban ngày, cửa sổ xe ô tô"
+  },
+  "object": {
+    "type": "thức ăn",
+    "description": "bánh quy phô mai hình vuông màu cam"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106417249_w6shbq_G7WUO_4W0AAykqU.jpg" width="600" alt="Chụp ảnh tự sướng trong xe với bánh quy phô mai - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [John](https://x.com/johnnprofits)
+- **Nguồn:** [Twitter Post](https://x.com/johnnprofits/status/1996722937727201301)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22ng%C6%B0%E1%BB%9Di%22%2C%0A%20%20%20%20%22gender%22%3A%20%22n%E1%BB%AF%22%2C%0A%20%20%20%20%22age_group%22%3A%20%22thanh%20ni%C3%AAn%22%2C%0A%20%20%20%20%22hair_color%22%3A%20%22t%C3%B3c%20v%C3%A0ng%22%2C%0A%20%20%20%20%22eye_color%22%3A%20%22m%E1%BA%AFt%20xanh%22%2C%0A%20%20%20%20%22features%22%3A%20%22t%C3%A0n%20nhang%22%2C%0A%20%20%20%20%22expression%22%3A%20%22nh%C3%A1y%20m%E1%BA%AFt%2C%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%22%2C%0A%20%20%20%20%22action%22%3A%20%22%C4%91ang%20ng%E1%BA%ADm%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A1nh%20quy%20ph%C3%B4%20mai%20trong%20mi%E1%BB%87ng%22%0A%20%20%7D%2C%0A%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%22clothing%22%3A%20%22%C3%A1o%20d%C3%A0i%20tay%20c%E1%BB%95%20tr%C3%B2n%20m%C3%A0u%20%C4%91en%22%0A%20%20%7D%2C%0A%20%20%22setting%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22b%C3%AAn%20trong%20xe%20%C3%B4%20t%C3%B4%22%2C%0A%20%20%20%20%22position%22%3A%20%22gh%E1%BA%BF%20l%C3%A1i%22%2C%0A%20%20%20%20%22interior%22%3A%20%22gh%E1%BA%BF%20da%20m%C3%A0u%20%C4%91en%20tr%E1%BA%AFng%22%2C%0A%20%20%20%20%22background%22%3A%20%22c%C3%A2y%20c%E1%BB%91i%2C%20%C3%A1nh%20s%C3%A1ng%20ban%20ng%C3%A0y%2C%20c%E1%BB%ADa%20s%E1%BB%95%20xe%20%C3%B4%20t%C3%B4%22%0A%20%20%7D%2C%0A%20%20%22object%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22th%E1%BB%A9c%20%C4%83n%22%2C%0A%20%20%20%20%22description%22%3A%20%22b%C3%A1nh%20quy%20ph%C3%B4%20mai%20h%C3%ACnh%20vu%C3%B4ng%20m%C3%A0u%20cam%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 33: Chỉnh sửa ảnh: Thêm nhà chơi phía sau nhân vật
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một câu lệnh chỉnh sửa hình ảnh đơn giản được sử dụng để thêm một yếu tố cụ thể (một ngôi nhà đồ chơi) phía sau một nhân vật (Mickey) trong một hình ảnh có sẵn, thể hiện khả năng của mô hình trong việc tích hợp các yếu tố mới vào một phong cách đã định.
+
+#### 📝 Câu lệnh
+
+```
+thêm một ngôi nhà đồ chơi phía sau Mickey
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106418781_u1p79q_G7WRDByXsAArorR.jpg" width="600" alt="Chỉnh sửa ảnh: Thêm nhà chơi phía sau nhân vật - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106421338_3mltif_G7WQ5QHXUAA96E4.jpg" width="600" alt="Chỉnh sửa ảnh: Thêm nhà chơi phía sau nhân vật - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Brett](https://x.com/BrettFromDJ)
+- **Nguồn:** [Twitter Post](https://x.com/BrettFromDJ/status/1996661634748850353)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=th%C3%AAm%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0%20%C4%91%E1%BB%93%20ch%C6%A1i%20ph%C3%ADa%20sau%20Mickey)**
+
+---
+
+### No. 34: Lời nhắc chi tiết để tạo chân dung siêu thực cho Nano Banana Pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc (prompt) có cấu trúc cao và chi tiết dành cho Nano Banana Pro, tập trung vào việc tạo ra một bức chân dung siêu thực của một nhân vật nữ trong bối cảnh quán rượu hiện đại. Nó chỉ định phong cách chụp ảnh (Canon IXUS, chụp tự động, ánh sáng trực tiếp), khớp chính xác danh tính khuôn mặt, chuyển động tóc cụ thể, chi tiết trang điểm, biểu cảm, tư thế và quần áo/phụ kiện, biến nó thành một mẫu toàn diện để tạo nhân vật.
 
 #### 📝 Câu lệnh
 
@@ -2328,38 +2387,38 @@ Một lời nhắc JSON có cấu trúc cao dành cho Nano Banana Pro được t
 {
   "image_parameters": {
     "style": "Phong cách Canon IXUS",
-    "type": "Nhiếp ảnh 'point-and-shoot'",
+    "type": "Nhiếp ảnh chụp nhanh (Point-and-shoot)",
     "quality": "Siêu thực",
     "tone": "Sắc nét, trực diện",
     "lighting_and_atmosphere": "Thực tế, kiểu đèn flash/ánh sáng trực tiếp"
   },
   "subject": {
     "constraints": {
-      "facial_identity": "Khớp chính xác 100% với ảnh tham chiếu",
+      "facial_identity": "Khớp chính xác 100% với hình ảnh tham chiếu",
       "face_edits": "Không được phép chỉnh sửa khuôn mặt"
     },
     "hair": {
       "movement": "Bay nhẹ trong gió",
-      "details": "Một vài sợi tóc che nhẹ một phần khuôn mặt"
+      "details": "Tóc mai che nhẹ một phần khuôn mặt"
     },
     "makeup": {
-      "cheeks_and_nose": "Má hồng phớt nhẹ màu hồng với hiệu ứng làm mờ",
-      "lips": "Viền môi màu hồng cam nhẹ nhàng"
+      "cheeks_and_nose": "Má hồng và mũi hồng phớt nhẹ nhàng với hiệu ứng làm mờ",
+      "lips": "Viền môi màu hồng cam tinh tế"
     },
     "expression": [
       "Dễ thương",
       "Ngây thơ",
       "Vui vẻ",
-      "Sức hút hơi gợi cảm/tự nhiên"
+      "Vẻ quyến rũ hơi gợi cảm/tự nhiên"
     ],
     "pose": {
       "body_position": "Nửa ngồi, nửa đứng",
       "action": "Hất tóc"
     },
     "clothing": {
-      "top": "Áo quây đen",
-      "bottom": "Quần jean cạp trễ với đường cạp lơ lửng",
-      "neck": "Vòng cổ/khăn quấn cổ bằng vải đen mỏng"
+      "top": "Áo quây màu đen",
+      "bottom": "Quần jean cạp trễ với đường eo lửng",
+      "neck": "Vòng cổ/khăn quấn cổ bằng vải mỏng màu đen"
     },
     "accessories": [
       "Dây chuyền mặt nhỏ",
@@ -2382,7 +2441,7 @@ Một lời nhắc JSON có cấu trúc cao dành cho Nano Banana Pro được t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765089391963_siusnb_G7V62Apa0AEXmLW.jpg" width="600" alt="Lời nhắc chân dung thẩm mỹ Canon IXUS - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765106440976_twwb96_G7V62Apa0AEXmLW.jpg" width="600" alt="Lời nhắc chi tiết để tạo chân dung siêu thực cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2392,11 +2451,709 @@ Một lời nhắc JSON có cấu trúc cao dành cho Nano Banana Pro được t
 - **Đã xuất bản:** 4 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_parameters%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22Phong%20c%C3%A1ch%20Canon%20IXUS%22%2C%0A%20%20%20%20%22type%22%3A%20%22Nhi%E1%BA%BFp%20%E1%BA%A3nh%20'point-and-shoot'%22%2C%0A%20%20%20%20%22quality%22%3A%20%22Si%C3%AAu%20th%E1%BB%B1c%22%2C%0A%20%20%20%20%22tone%22%3A%20%22S%E1%BA%AFc%20n%C3%A9t%2C%20tr%E1%BB%B1c%20di%E1%BB%87n%22%2C%0A%20%20%20%20%22lighting_and_atmosphere%22%3A%20%22Th%E1%BB%B1c%20t%E1%BA%BF%2C%20ki%E1%BB%83u%20%C4%91%C3%A8n%20flash%2F%C3%A1nh%20s%C3%A1ng%20tr%E1%BB%B1c%20ti%E1%BA%BFp%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22facial_identity%22%3A%20%22Kh%E1%BB%9Bp%20ch%C3%ADnh%20x%C3%A1c%20100%25%20v%E1%BB%9Bi%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%2C%0A%20%20%20%20%20%20%22face_edits%22%3A%20%22Kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20ch%E1%BB%89nh%20s%E1%BB%ADa%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22movement%22%3A%20%22Bay%20nh%E1%BA%B9%20trong%20gi%C3%B3%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22M%E1%BB%99t%20v%C3%A0i%20s%E1%BB%A3i%20t%C3%B3c%20che%20nh%E1%BA%B9%20m%E1%BB%99t%20ph%E1%BA%A7n%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks_and_nose%22%3A%20%22M%C3%A1%20h%E1%BB%93ng%20ph%E1%BB%9Bt%20nh%E1%BA%B9%20m%C3%A0u%20h%E1%BB%93ng%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Vi%E1%BB%81n%20m%C3%B4i%20m%C3%A0u%20h%E1%BB%93ng%20cam%20nh%E1%BA%B9%20nh%C3%A0ng%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%5B%0A%20%20%20%20%20%20%22D%E1%BB%85%20th%C6%B0%C6%A1ng%22%2C%0A%20%20%20%20%20%20%22Ng%C3%A2y%20th%C6%A1%22%2C%0A%20%20%20%20%20%20%22Vui%20v%E1%BA%BB%22%2C%0A%20%20%20%20%20%20%22S%E1%BB%A9c%20h%C3%BAt%20h%C6%A1i%20g%E1%BB%A3i%20c%E1%BA%A3m%2Ft%E1%BB%B1%20nhi%C3%AAn%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22body_position%22%3A%20%22N%E1%BB%ADa%20ng%E1%BB%93i%2C%20n%E1%BB%ADa%20%C4%91%E1%BB%A9ng%22%2C%0A%20%20%20%20%20%20%22action%22%3A%20%22H%E1%BA%A5t%20t%C3%B3c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%C3%81o%20qu%C3%A2y%20%C4%91en%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22Qu%E1%BA%A7n%20jean%20c%E1%BA%A1p%20tr%E1%BB%85%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20c%E1%BA%A1p%20l%C6%A1%20l%E1%BB%ADng%22%2C%0A%20%20%20%20%20%20%22neck%22%3A%20%22V%C3%B2ng%20c%E1%BB%95%2Fkh%C4%83n%20qu%E1%BA%A5n%20c%E1%BB%95%20b%E1%BA%B1ng%20v%E1%BA%A3i%20%C4%91en%20m%E1%BB%8Fng%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22accessories%22%3A%20%5B%0A%20%20%20%20%20%20%22D%C3%A2y%20chuy%E1%BB%81n%20m%E1%BA%B7t%20nh%E1%BB%8F%22%2C%0A%20%20%20%20%20%20%22%C4%90%E1%BB%93ng%20h%E1%BB%93%20v%C3%A0ng%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22Qu%C3%A1n%20bar%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%22%2C%0A%20%20%20%20%22foreground_props%22%3A%20%5B%0A%20%20%20%20%20%20%22B%C3%A0n%20tr%C3%B2n%22%2C%0A%20%20%20%20%20%20%22Chai%20r%C6%B0%E1%BB%A3u%22%2C%0A%20%20%20%20%20%20%22Ly%20r%C6%B0%E1%BB%A3u%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_parameters%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22Phong%20c%C3%A1ch%20Canon%20IXUS%22%2C%0A%20%20%20%20%22type%22%3A%20%22Nhi%E1%BA%BFp%20%E1%BA%A3nh%20ch%E1%BB%A5p%20nhanh%20(Point-and-shoot)%22%2C%0A%20%20%20%20%22quality%22%3A%20%22Si%C3%AAu%20th%E1%BB%B1c%22%2C%0A%20%20%20%20%22tone%22%3A%20%22S%E1%BA%AFc%20n%C3%A9t%2C%20tr%E1%BB%B1c%20di%E1%BB%87n%22%2C%0A%20%20%20%20%22lighting_and_atmosphere%22%3A%20%22Th%E1%BB%B1c%20t%E1%BA%BF%2C%20ki%E1%BB%83u%20%C4%91%C3%A8n%20flash%2F%C3%A1nh%20s%C3%A1ng%20tr%E1%BB%B1c%20ti%E1%BA%BFp%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22facial_identity%22%3A%20%22Kh%E1%BB%9Bp%20ch%C3%ADnh%20x%C3%A1c%20100%25%20v%E1%BB%9Bi%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%2C%0A%20%20%20%20%20%20%22face_edits%22%3A%20%22Kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20ch%E1%BB%89nh%20s%E1%BB%ADa%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22movement%22%3A%20%22Bay%20nh%E1%BA%B9%20trong%20gi%C3%B3%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22T%C3%B3c%20mai%20che%20nh%E1%BA%B9%20m%E1%BB%99t%20ph%E1%BA%A7n%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks_and_nose%22%3A%20%22M%C3%A1%20h%E1%BB%93ng%20v%C3%A0%20m%C5%A9i%20h%E1%BB%93ng%20ph%E1%BB%9Bt%20nh%E1%BA%B9%20nh%C3%A0ng%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Vi%E1%BB%81n%20m%C3%B4i%20m%C3%A0u%20h%E1%BB%93ng%20cam%20tinh%20t%E1%BA%BF%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%5B%0A%20%20%20%20%20%20%22D%E1%BB%85%20th%C6%B0%C6%A1ng%22%2C%0A%20%20%20%20%20%20%22Ng%C3%A2y%20th%C6%A1%22%2C%0A%20%20%20%20%20%20%22Vui%20v%E1%BA%BB%22%2C%0A%20%20%20%20%20%20%22V%E1%BA%BB%20quy%E1%BA%BFn%20r%C5%A9%20h%C6%A1i%20g%E1%BB%A3i%20c%E1%BA%A3m%2Ft%E1%BB%B1%20nhi%C3%AAn%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22body_position%22%3A%20%22N%E1%BB%ADa%20ng%E1%BB%93i%2C%20n%E1%BB%ADa%20%C4%91%E1%BB%A9ng%22%2C%0A%20%20%20%20%20%20%22action%22%3A%20%22H%E1%BA%A5t%20t%C3%B3c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%C3%81o%20qu%C3%A2y%20m%C3%A0u%20%C4%91en%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22Qu%E1%BA%A7n%20jean%20c%E1%BA%A1p%20tr%E1%BB%85%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20eo%20l%E1%BB%ADng%22%2C%0A%20%20%20%20%20%20%22neck%22%3A%20%22V%C3%B2ng%20c%E1%BB%95%2Fkh%C4%83n%20qu%E1%BA%A5n%20c%E1%BB%95%20b%E1%BA%B1ng%20v%E1%BA%A3i%20m%E1%BB%8Fng%20m%C3%A0u%20%C4%91en%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22accessories%22%3A%20%5B%0A%20%20%20%20%20%20%22D%C3%A2y%20chuy%E1%BB%81n%20m%E1%BA%B7t%20nh%E1%BB%8F%22%2C%0A%20%20%20%20%20%20%22%C4%90%E1%BB%93ng%20h%E1%BB%93%20v%C3%A0ng%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22Qu%C3%A1n%20bar%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%22%2C%0A%20%20%20%20%22foreground_props%22%3A%20%5B%0A%20%20%20%20%20%20%22B%C3%A0n%20tr%C3%B2n%22%2C%0A%20%20%20%20%20%20%22Chai%20r%C6%B0%E1%BB%A3u%22%2C%0A%20%20%20%20%20%20%22Ly%20r%C6%B0%E1%BB%A3u%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 34: Hình minh họa bầu trời mang phong cách điện ảnh của Makoto Shinkai
+### No. 35: Bộ điều chỉnh phong cách cho Chủ nghĩa hiện thực phim hoạt hình thập niên 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một phát hiện cho thấy việc thêm cụm từ "phong cách hoạt hình hiện thực sống động" vào lời nhắc trong Nano Banana Pro có thể tạo ra những hình ảnh giống với các chương trình hoạt hình đáng sợ của thập niên 90. Bản thân lời nhắc đó chính là yếu tố điều chỉnh phong cách.
+
+#### 📝 Câu lệnh
+
+```
+phong cách hoạt hình hiện thực chi tiết
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106433305_nsgbu1_G7V2cJ7W8AAvRPT.jpg" width="600" alt="Bộ điều chỉnh phong cách cho Chủ nghĩa hiện thực phim hoạt hình thập niên 90 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106433702_aph36k_G7V1UfhWcAAWvRy.jpg" width="600" alt="Bộ điều chỉnh phong cách cho Chủ nghĩa hiện thực phim hoạt hình thập niên 90 - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Dara 🍄](https://x.com/DaraAyape)
+- **Nguồn:** [Twitter Post](https://x.com/DaraAyape/status/1996633236714263026)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20hi%E1%BB%87n%20th%E1%BB%B1c%20chi%20ti%E1%BA%BFt)**
+
+---
+
+### No. 36: Lời Nhắc Tạo Ảnh cho Biếm Họa 3D Phong Cách
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này, được tìm thấy trong văn bản ALT của tweet, được thiết kế để tạo ra một bức biếm họa 3D cách điệu cao về một người dựa trên hình ảnh được tải lên, nhấn mạnh các đặc điểm biểu cảm, phong cách bóng bẩy, vật liệu sạch, ánh sáng dịu và nền đậm.
+
+#### 📝 Câu lệnh
+
+```
+Một bức biếm họa 3D được cách điệu cao của người trong ảnh tải lên, với các đặc điểm khuôn mặt biểu cảm và sự phóng đại vui tươi. Được thể hiện theo phong cách mượt mà, bóng bẩy với vật liệu sạch và ánh sáng dịu nhẹ. Nền màu đậm để làm nổi bật sự quyến rũ và hiện diện của nhân vật.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106438224_sah9i4_G7VzPeTXkAAPTKd.jpg" width="600" alt="Lời Nhắc Tạo Ảnh cho Biếm Họa 3D Phong Cách - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106439744_aibfxu_G7VzRbhXUAAIFHb.jpg" width="600" alt="Lời Nhắc Tạo Ảnh cho Biếm Họa 3D Phong Cách - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [B3NJ4M1N](https://x.com/etieno_u)
+- **Nguồn:** [Twitter Post](https://x.com/etieno_u/status/1996628952702681416)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20bi%E1%BA%BFm%20h%E1%BB%8Da%203D%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20cao%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20trong%20%E1%BA%A3nh%20t%E1%BA%A3i%20l%C3%AAn%2C%20v%E1%BB%9Bi%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20s%E1%BB%B1%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%20vui%20t%C6%B0%C6%A1i.%20%C4%90%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20m%C6%B0%E1%BB%A3t%20m%C3%A0%2C%20b%C3%B3ng%20b%E1%BA%A9y%20v%E1%BB%9Bi%20v%E1%BA%ADt%20li%E1%BB%87u%20s%E1%BA%A1ch%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9.%20N%E1%BB%81n%20m%C3%A0u%20%C4%91%E1%BA%ADm%20%C4%91%E1%BB%83%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20s%E1%BB%B1%20quy%E1%BA%BFn%20r%C5%A9%20v%C3%A0%20hi%E1%BB%87n%20di%E1%BB%87n%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt.)**
+
+---
+
+### No. 37: JSON Prompt chi tiết cho ảnh chân dung thẩm mỹ chụp bằng Canon IXUS
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON có cấu trúc cho Gemini Nano Banana Pro, nhằm tạo ra một bức chân dung siêu thực với phong cách máy ảnh Canon IXUS chụp nhanh. Nó chỉ định các ràng buộc chi tiết về chủ thể (khớp chính xác với hình ảnh tham chiếu, không chỉnh sửa khuôn mặt), tóc, trang điểm, biểu cảm (dễ thương, ngây thơ, hơi gợi cảm), tư thế (hất tóc), trang phục (áo quây, quần jean cạp trễ) và môi trường (bối cảnh quán rượu hiện đại với các đạo cụ tiền cảnh cụ thể).
+
+#### 📝 Câu lệnh
+
+```
+{
+  "image_parameters": {
+    "style": "Phong cách Canon IXUS",
+    "type": "Nhiếp ảnh 'point-and-shoot'",
+    "quality": "Siêu thực",
+    "tone": "Sắc nét, trực diện",
+    "lighting_and_atmosphere": "Thực tế, kiểu đèn flash/ánh sáng trực tiếp"
+  },
+  "subject": {
+    "constraints": {
+      "facial_identity": "Khớp chính xác 100% với ảnh tham chiếu",
+      "face_edits": "Không được phép chỉnh sửa khuôn mặt"
+    },
+    "hair": {
+      "style": "Tóc dài, tự nhiên, kiểu layer hơi rối nhẹ",
+      "movement": "Bay nhẹ trong gió",
+      "details": "Một vài sợi tóc hơi che một phần khuôn mặt"
+    },
+    "makeup": {
+      "cheeks_and_nose": "Má hồng phớt nhẹ màu hồng với hiệu ứng làm mờ",
+      "lips": "Viền môi màu hồng cam nhẹ nhàng"
+    },
+    "expression": [
+      "Dễ thương",
+      "Ngây thơ",
+      "Vui vẻ",
+      "Quyến rũ nhẹ nhàng/tự nhiên"
+    ],
+    "pose": {
+      "body_position": "Nửa ngồi, nửa đứng",
+      "action": "Hất tóc"
+    },
+    "clothing": {
+      "top": "Áo quây màu đen",
+      "bottom": "Quần jean cạp trễ với đường eo lửng",
+      "neck": "Vòng cổ choker/quấn bằng vải mỏng màu đen"
+    },
+    "accessories": [
+      "Dây chuyền mặt nhỏ",
+      "Đồng hồ vàng"
+    ]
+  },
+  "environment": {
+    "setting": "Quán pub hiện đại",
+    "foreground_props": [
+      "Bàn tròn",
+      "Chai rượu",
+      "Ly rượu"
+    ]
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106435291_6wuqdg_G7Vd7yWW8AAekdR.jpg" width="600" alt="JSON Prompt chi tiết cho ảnh chân dung thẩm mỹ chụp bằng Canon IXUS - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Lyli](https://x.com/lyli0x)
+- **Nguồn:** [Twitter Post](https://x.com/lyli0x/status/1996605300380492234)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_parameters%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22Phong%20c%C3%A1ch%20Canon%20IXUS%22%2C%0A%20%20%20%20%22type%22%3A%20%22Nhi%E1%BA%BFp%20%E1%BA%A3nh%20'point-and-shoot'%22%2C%0A%20%20%20%20%22quality%22%3A%20%22Si%C3%AAu%20th%E1%BB%B1c%22%2C%0A%20%20%20%20%22tone%22%3A%20%22S%E1%BA%AFc%20n%C3%A9t%2C%20tr%E1%BB%B1c%20di%E1%BB%87n%22%2C%0A%20%20%20%20%22lighting_and_atmosphere%22%3A%20%22Th%E1%BB%B1c%20t%E1%BA%BF%2C%20ki%E1%BB%83u%20%C4%91%C3%A8n%20flash%2F%C3%A1nh%20s%C3%A1ng%20tr%E1%BB%B1c%20ti%E1%BA%BFp%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22constraints%22%3A%20%7B%0A%20%20%20%20%20%20%22facial_identity%22%3A%20%22Kh%E1%BB%9Bp%20ch%C3%ADnh%20x%C3%A1c%20100%25%20v%E1%BB%9Bi%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%2C%0A%20%20%20%20%20%20%22face_edits%22%3A%20%22Kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20ch%E1%BB%89nh%20s%E1%BB%ADa%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22T%C3%B3c%20d%C3%A0i%2C%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ki%E1%BB%83u%20layer%20h%C6%A1i%20r%E1%BB%91i%20nh%E1%BA%B9%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22Bay%20nh%E1%BA%B9%20trong%20gi%C3%B3%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22M%E1%BB%99t%20v%C3%A0i%20s%E1%BB%A3i%20t%C3%B3c%20h%C6%A1i%20che%20m%E1%BB%99t%20ph%E1%BA%A7n%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks_and_nose%22%3A%20%22M%C3%A1%20h%E1%BB%93ng%20ph%E1%BB%9Bt%20nh%E1%BA%B9%20m%C3%A0u%20h%E1%BB%93ng%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Vi%E1%BB%81n%20m%C3%B4i%20m%C3%A0u%20h%E1%BB%93ng%20cam%20nh%E1%BA%B9%20nh%C3%A0ng%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%5B%0A%20%20%20%20%20%20%22D%E1%BB%85%20th%C6%B0%C6%A1ng%22%2C%0A%20%20%20%20%20%20%22Ng%C3%A2y%20th%C6%A1%22%2C%0A%20%20%20%20%20%20%22Vui%20v%E1%BA%BB%22%2C%0A%20%20%20%20%20%20%22Quy%E1%BA%BFn%20r%C5%A9%20nh%E1%BA%B9%20nh%C3%A0ng%2Ft%E1%BB%B1%20nhi%C3%AAn%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22body_position%22%3A%20%22N%E1%BB%ADa%20ng%E1%BB%93i%2C%20n%E1%BB%ADa%20%C4%91%E1%BB%A9ng%22%2C%0A%20%20%20%20%20%20%22action%22%3A%20%22H%E1%BA%A5t%20t%C3%B3c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%C3%81o%20qu%C3%A2y%20m%C3%A0u%20%C4%91en%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22Qu%E1%BA%A7n%20jean%20c%E1%BA%A1p%20tr%E1%BB%85%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20eo%20l%E1%BB%ADng%22%2C%0A%20%20%20%20%20%20%22neck%22%3A%20%22V%C3%B2ng%20c%E1%BB%95%20choker%2Fqu%E1%BA%A5n%20b%E1%BA%B1ng%20v%E1%BA%A3i%20m%E1%BB%8Fng%20m%C3%A0u%20%C4%91en%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22accessories%22%3A%20%5B%0A%20%20%20%20%20%20%22D%C3%A2y%20chuy%E1%BB%81n%20m%E1%BA%B7t%20nh%E1%BB%8F%22%2C%0A%20%20%20%20%20%20%22%C4%90%E1%BB%93ng%20h%E1%BB%93%20v%C3%A0ng%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22Qu%C3%A1n%20pub%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%22%2C%0A%20%20%20%20%22foreground_props%22%3A%20%5B%0A%20%20%20%20%20%20%22B%C3%A0n%20tr%C3%B2n%22%2C%0A%20%20%20%20%20%20%22Chai%20r%C6%B0%E1%BB%A3u%22%2C%0A%20%20%20%20%20%20%22Ly%20r%C6%B0%E1%BB%A3u%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 38: Tạo Lưới Nhiều Góc Độ Từ Một Hình Ảnh Duy Nhất
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc được dùng để tạo lưới 3x3 hiển thị các góc nhìn và góc độ khác nhau của một cảnh dựa trên một hình ảnh đầu vào duy nhất, hữu ích cho việc khám phá các biến thể hình ảnh.
+
+#### 📝 Câu lệnh
+
+```
+Trong một lưới 3x3, hãy cho tôi xem các góc khác nhau của cảnh này
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106410665_utqg4a_G7Vc2yTXcAAyhNN.jpg" width="600" alt="Tạo Lưới Nhiều Góc Độ Từ Một Hình Ảnh Duy Nhất - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano Banana Pro](https://x.com/NanoBanana)
+- **Nguồn:** [Twitter Post](https://x.com/NanoBanana/status/1996604581313220931)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Trong%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%203x3%2C%20h%C3%A3y%20cho%20t%C3%B4i%20xem%20c%C3%A1c%20g%C3%B3c%20kh%C3%A1c%20nhau%20c%E1%BB%A7a%20c%E1%BA%A3nh%20n%C3%A0y)**
+
+---
+
+### No. 39: Lời nhắc chi tiết bằng tiếng Pháp cho ảnh chân dung phong cách thể thao đô thị
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc rất chi tiết bằng tiếng Pháp để tạo ra hình ảnh một người phụ nữ trong bối cảnh đô thị, mặc đồ thể thao năng động (athleisure). Lời nhắc chỉ rõ ngoại hình của cô ấy (tóc đen, thẳng, biểu cảm trung tính), trang phục (áo bra thể thao và quần legging màu xám than), phụ kiện (kính râm gọng hẹp, dây chuyền vàng nhiều lớp, nhẫn) và bối cảnh (ghế đá, tường lát gạch, ánh sáng tự nhiên rực rỡ, bố cục ảnh chụp trung bình).
+
+#### 📝 Câu lệnh
+
+```
+Một người phụ nữ với mái tóc đen dài, thẳng, rẽ ngôi hơi lệch về một bên, đang ngồi trên một chiếc ghế đá hoặc bê tông nhẵn nhụi trong khung cảnh đô thị ngoài trời. Cô đeo kính râm hình chữ nhật nhỏ, hẹp với gọng kim loại mỏng, một sợi dây chuyền vàng mảnh với mặt dây chuyền hình vuông nhỏ được đeo cùng một sợi dây chuyền vàng mảnh khác, những chiếc vòng tay vàng mảnh trên cổ tay phải và vài chiếc nhẫn vàng trên các ngón tay của cả hai bàn tay. Biểu cảm của cô trung tính với đôi môi hơi mím quanh một chiếc ống hút màu nâu nhạt hoặc be, và ánh mắt hướng thẳng về phía trước, về phía máy ảnh. Cô mặc một chiếc áo bra thể thao màu xám than đậm với cổ chữ V sâu bằng vải thể thao ôm sát, cùng với quần legging cạp cao, ôm sát màu xám than đậm đồng bộ với phần cạp quần hình chữ V. Cô cầm một cốc nhựa đựng cà phê đá với đá viên, có nắp trong suốt và ống hút, trong một tay, trong khi tay kia đặt trên đùi, hai chân khép lại. Bên trái cô trên ghế là một chiếc túi nhỏ mềm mại màu be làm từ chất liệu giống da. Phía sau là một bức tường gạch đá màu be nhẵn nhụi và sàn nhà được lát bằng những viên đá trang trí nhẵn nhụi với tông màu xám và be pha trộn, tất cả đều được chiếu sáng bởi ánh sáng tự nhiên rực rỡ tạo ra những bóng đổ sắc nét. Khung hình là một cảnh trung bình, chụp chủ thể từ đầu đến giữa đùi với góc nhìn hơi ngang tầm mắt, lấy nét sắc nét vào chủ thể với hậu cảnh hơi mờ và tông màu ấm áp, tự nhiên.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106431063_gwxrmh_G7VUwYxWMAAh8B9.jpg" width="600" alt="Lời nhắc chi tiết bằng tiếng Pháp cho ảnh chân dung phong cách thể thao đô thị - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Eloi | UGC IA 🧨](https://x.com/EloiLJF)
+- **Nguồn:** [Twitter Post](https://x.com/EloiLJF/status/1996595212345356767)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20%C4%91en%20d%C3%A0i%2C%20th%E1%BA%B3ng%2C%20r%E1%BA%BD%20ng%C3%B4i%20h%C6%A1i%20l%E1%BB%87ch%20v%E1%BB%81%20m%E1%BB%99t%20b%C3%AAn%2C%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20m%E1%BB%99t%20chi%E1%BA%BFc%20gh%E1%BA%BF%20%C4%91%C3%A1%20ho%E1%BA%B7c%20b%C3%AA%20t%C3%B4ng%20nh%E1%BA%B5n%20nh%E1%BB%A5i%20trong%20khung%20c%E1%BA%A3nh%20%C4%91%C3%B4%20th%E1%BB%8B%20ngo%C3%A0i%20tr%E1%BB%9Di.%20C%C3%B4%20%C4%91eo%20k%C3%ADnh%20r%C3%A2m%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%20nh%E1%BB%8F%2C%20h%E1%BA%B9p%20v%E1%BB%9Bi%20g%E1%BB%8Dng%20kim%20lo%E1%BA%A1i%20m%E1%BB%8Fng%2C%20m%E1%BB%99t%20s%E1%BB%A3i%20d%C3%A2y%20chuy%E1%BB%81n%20v%C3%A0ng%20m%E1%BA%A3nh%20v%E1%BB%9Bi%20m%E1%BA%B7t%20d%C3%A2y%20chuy%E1%BB%81n%20h%C3%ACnh%20vu%C3%B4ng%20nh%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91eo%20c%C3%B9ng%20m%E1%BB%99t%20s%E1%BB%A3i%20d%C3%A2y%20chuy%E1%BB%81n%20v%C3%A0ng%20m%E1%BA%A3nh%20kh%C3%A1c%2C%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20v%C3%B2ng%20tay%20v%C3%A0ng%20m%E1%BA%A3nh%20tr%C3%AAn%20c%E1%BB%95%20tay%20ph%E1%BA%A3i%20v%C3%A0%20v%C3%A0i%20chi%E1%BA%BFc%20nh%E1%BA%ABn%20v%C3%A0ng%20tr%C3%AAn%20c%C3%A1c%20ng%C3%B3n%20tay%20c%E1%BB%A7a%20c%E1%BA%A3%20hai%20b%C3%A0n%20tay.%20Bi%E1%BB%83u%20c%E1%BA%A3m%20c%E1%BB%A7a%20c%C3%B4%20trung%20t%C3%ADnh%20v%E1%BB%9Bi%20%C4%91%C3%B4i%20m%C3%B4i%20h%C6%A1i%20m%C3%ADm%20quanh%20m%E1%BB%99t%20chi%E1%BA%BFc%20%E1%BB%91ng%20h%C3%BAt%20m%C3%A0u%20n%C3%A2u%20nh%E1%BA%A1t%20ho%E1%BA%B7c%20be%2C%20v%C3%A0%20%C3%A1nh%20m%E1%BA%AFt%20h%C6%B0%E1%BB%9Bng%20th%E1%BA%B3ng%20v%E1%BB%81%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%2C%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh.%20C%C3%B4%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20bra%20th%E1%BB%83%20thao%20m%C3%A0u%20x%C3%A1m%20than%20%C4%91%E1%BA%ADm%20v%E1%BB%9Bi%20c%E1%BB%95%20ch%E1%BB%AF%20V%20s%C3%A2u%20b%E1%BA%B1ng%20v%E1%BA%A3i%20th%E1%BB%83%20thao%20%C3%B4m%20s%C3%A1t%2C%20c%C3%B9ng%20v%E1%BB%9Bi%20qu%E1%BA%A7n%20legging%20c%E1%BA%A1p%20cao%2C%20%C3%B4m%20s%C3%A1t%20m%C3%A0u%20x%C3%A1m%20than%20%C4%91%E1%BA%ADm%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20v%E1%BB%9Bi%20ph%E1%BA%A7n%20c%E1%BA%A1p%20qu%E1%BA%A7n%20h%C3%ACnh%20ch%E1%BB%AF%20V.%20C%C3%B4%20c%E1%BA%A7m%20m%E1%BB%99t%20c%E1%BB%91c%20nh%E1%BB%B1a%20%C4%91%E1%BB%B1ng%20c%C3%A0%20ph%C3%AA%20%C4%91%C3%A1%20v%E1%BB%9Bi%20%C4%91%C3%A1%20vi%C3%AAn%2C%20c%C3%B3%20n%E1%BA%AFp%20trong%20su%E1%BB%91t%20v%C3%A0%20%E1%BB%91ng%20h%C3%BAt%2C%20trong%20m%E1%BB%99t%20tay%2C%20trong%20khi%20tay%20kia%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20%C4%91%C3%B9i%2C%20hai%20ch%C3%A2n%20kh%C3%A9p%20l%E1%BA%A1i.%20B%C3%AAn%20tr%C3%A1i%20c%C3%B4%20tr%C3%AAn%20gh%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20t%C3%BAi%20nh%E1%BB%8F%20m%E1%BB%81m%20m%E1%BA%A1i%20m%C3%A0u%20be%20l%C3%A0m%20t%E1%BB%AB%20ch%E1%BA%A5t%20li%E1%BB%87u%20gi%E1%BB%91ng%20da.%20Ph%C3%ADa%20sau%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20g%E1%BA%A1ch%20%C4%91%C3%A1%20m%C3%A0u%20be%20nh%E1%BA%B5n%20nh%E1%BB%A5i%20v%C3%A0%20s%C3%A0n%20nh%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A1t%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20vi%C3%AAn%20%C4%91%C3%A1%20trang%20tr%C3%AD%20nh%E1%BA%B5n%20nh%E1%BB%A5i%20v%E1%BB%9Bi%20t%C3%B4ng%20m%C3%A0u%20x%C3%A1m%20v%C3%A0%20be%20pha%20tr%E1%BB%99n%2C%20t%E1%BA%A5t%20c%E1%BA%A3%20%C4%91%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BB%9Fi%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20r%E1%BB%B1c%20r%E1%BB%A1%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20s%E1%BA%AFc%20n%C3%A9t.%20Khung%20h%C3%ACnh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20trung%20b%C3%ACnh%2C%20ch%E1%BB%A5p%20ch%E1%BB%A7%20th%E1%BB%83%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20%C4%91%E1%BA%BFn%20gi%E1%BB%AFa%20%C4%91%C3%B9i%20v%E1%BB%9Bi%20g%C3%B3c%20nh%C3%ACn%20h%C6%A1i%20ngang%20t%E1%BA%A7m%20m%E1%BA%AFt%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20ch%E1%BB%A7%20th%E1%BB%83%20v%E1%BB%9Bi%20h%E1%BA%ADu%20c%E1%BA%A3nh%20h%C6%A1i%20m%E1%BB%9D%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5m%20%C3%A1p%2C%20t%E1%BB%B1%20nhi%C3%AAn.)**
+
+---
+
+### No. 40: JSON Prompt chi tiết cho ảnh chân dung selfie mùa đông đậm chất điện ảnh
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON phức tạp, có cấu trúc dành cho Nano Banana Pro, tập trung vào việc tạo ra một bức chân dung mùa đông điện ảnh, chân thực. Nó mô tả chi tiết tư thế (góc chụp selfie, vị trí tay), không khí (đêm lạnh giá, tuyết rơi), ngoại hình chủ thể (má ửng hồng, tuyết đọng trên lông mi), trang phục (mũ lông giả màu đen, áo khoác phao bóng), và bao gồm một danh sách lời nhắc phủ định toàn diện để đảm bảo chất lượng cao và tính chân thực.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "pose": {
+    "description": "Cô ấy cầm máy ảnh bằng tay trái, đặt hơi thấp hơn tầm mắt một chút, chụp khuôn mặt mình từ góc dưới lên đầy tự tin; môi hé nhẹ, biểu cảm điềm tĩnh nhưng mãnh liệt."
+  },
+  "background": {
+    "description": "Bầu trời đêm mùa đông tối đen với những cành cây mờ ảo, phủ sương nhẹ nhàng, tạo thêm không khí kịch tính."
+  },
+  "atmosphere": {
+    "description": "Năng lượng mùa đông lạnh lẽo, đậm chất điện ảnh và hoang sơ; một bức chân dung tuyết hiện đại đầy phong cách với kết cấu và chi tiết tự nhiên."
+  },
+  "reference_style": {
+    "description": "Biến thể ý tưởng.",
+    "details": {
+      "shot": "Một bức ảnh selfie cận cảnh ngoài trời được chụp vào ban đêm trong trận tuyết rơi dày đặc.",
+      "subject": "Các đặc điểm khuôn mặt của người phụ nữ khớp chính xác với hình ảnh tham chiếu.",
+      "skin": {
+        "description": "Tông màu tự nhiên với kết cấu da chân thực, rõ nét. Má cô ấy hơi ửng hồng vì lạnh."
+      },
+      "snow_details": {
+        "description": "Những bông tuyết đọng trên lông mi và tóc cô ấy."
+      },
+      "outfit": {
+        "description": "Cô ấy đội một chiếc mũ mùa đông giả lông màu đen gần như phủ đầy tuyết, và một chiếc áo khoác phao đen bóng loáng với tuyết phủ nhẹ trên vai và cổ áo."
+      },
+      "camera": {
+        "description": "Cô ấy đang chụp ảnh selfie bằng tay trái."
+      },
+      "lighting": {
+        "description": "Ánh sáng đêm dịu nhẹ, lạnh lẽo từ phía trên và hơi phía trước, tạo ra ánh sáng tinh tế trên má và những điểm nhấn nhẹ nhàng trên áo khoác."
+      }
+    }
+  },
+  "negative_prompt": {
+    "description": [
+      "khuôn mặt mờ",
+      "đặc điểm khuôn mặt bị thay đổi",
+      "cấu trúc khuôn mặt không chính xác",
+      "tỷ lệ bị biến dạng",
+      "thừa chi",
+      "thừa ngón tay",
+      "thiếu ngón tay",
+      "mắt biến dạng",
+      "biểu cảm không chính xác",
+      "kết cấu da không thực tế",
+      "da nhựa",
+      "da bị làm mềm quá mức",
+      "ánh sáng không tự nhiên",
+      "bóng đổ gắt",
+      "hiện vật",
+      "nhiễu hạt",
+      "độ phân giải thấp"
+    ]
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106435590_5yitse_G7VObwFWUAArg91.jpg" width="600" alt="JSON Prompt chi tiết cho ảnh chân dung selfie mùa đông đậm chất điện ảnh - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [05](https://x.com/e050505050505)
+- **Nguồn:** [Twitter Post](https://x.com/e050505050505/status/1996588754010513559)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22C%C3%B4%20%E1%BA%A5y%20c%E1%BA%A7m%20m%C3%A1y%20%E1%BA%A3nh%20b%E1%BA%B1ng%20tay%20tr%C3%A1i%2C%20%C4%91%E1%BA%B7t%20h%C6%A1i%20th%E1%BA%A5p%20h%C6%A1n%20t%E1%BA%A7m%20m%E1%BA%AFt%20m%E1%BB%99t%20ch%C3%BAt%2C%20ch%E1%BB%A5p%20khu%C3%B4n%20m%E1%BA%B7t%20m%C3%ACnh%20t%E1%BB%AB%20g%C3%B3c%20d%C6%B0%E1%BB%9Bi%20l%C3%AAn%20%C4%91%E1%BA%A7y%20t%E1%BB%B1%20tin%3B%20m%C3%B4i%20h%C3%A9%20nh%E1%BA%B9%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91i%E1%BB%81m%20t%C4%A9nh%20nh%C6%B0ng%20m%C3%A3nh%20li%E1%BB%87t.%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22B%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%C3%AAm%20m%C3%B9a%20%C4%91%C3%B4ng%20t%E1%BB%91i%20%C4%91en%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20c%C3%A0nh%20c%C3%A2y%20m%E1%BB%9D%20%E1%BA%A3o%2C%20ph%E1%BB%A7%20s%C6%B0%C6%A1ng%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20t%E1%BA%A1o%20th%C3%AAm%20kh%C3%B4ng%20kh%C3%AD%20k%E1%BB%8Bch%20t%C3%ADnh.%22%0A%20%20%7D%2C%0A%20%20%22atmosphere%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22N%C4%83ng%20l%C6%B0%E1%BB%A3ng%20m%C3%B9a%20%C4%91%C3%B4ng%20l%E1%BA%A1nh%20l%E1%BA%BDo%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20v%C3%A0%20hoang%20s%C6%A1%3B%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20tuy%E1%BA%BFt%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20%C4%91%E1%BA%A7y%20phong%20c%C3%A1ch%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20chi%20ti%E1%BA%BFt%20t%E1%BB%B1%20nhi%C3%AAn.%22%0A%20%20%7D%2C%0A%20%20%22reference_style%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Bi%E1%BA%BFn%20th%E1%BB%83%20%C3%BD%20t%C6%B0%E1%BB%9Fng.%22%2C%0A%20%20%20%20%22details%22%3A%20%7B%0A%20%20%20%20%20%20%22shot%22%3A%20%22M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20selfie%20c%E1%BA%ADn%20c%E1%BA%A3nh%20ngo%C3%A0i%20tr%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20v%C3%A0o%20ban%20%C4%91%C3%AAm%20trong%20tr%E1%BA%ADn%20tuy%E1%BA%BFt%20r%C6%A1i%20d%C3%A0y%20%C4%91%E1%BA%B7c.%22%2C%0A%20%20%20%20%20%20%22subject%22%3A%20%22C%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20kh%E1%BB%9Bp%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%9Bi%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22T%C3%B4ng%20m%C3%A0u%20t%E1%BB%B1%20nhi%C3%AAn%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20ch%C3%A2n%20th%E1%BB%B1c%2C%20r%C3%B5%20n%C3%A9t.%20M%C3%A1%20c%C3%B4%20%E1%BA%A5y%20h%C6%A1i%20%E1%BB%ADng%20h%E1%BB%93ng%20v%C3%AC%20l%E1%BA%A1nh.%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22snow_details%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22Nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20%C4%91%E1%BB%8Dng%20tr%C3%AAn%20l%C3%B4ng%20mi%20v%C3%A0%20t%C3%B3c%20c%C3%B4%20%E1%BA%A5y.%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22outfit%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22C%C3%B4%20%E1%BA%A5y%20%C4%91%E1%BB%99i%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20m%C3%B9a%20%C4%91%C3%B4ng%20gi%E1%BA%A3%20l%C3%B4ng%20m%C3%A0u%20%C4%91en%20g%E1%BA%A7n%20nh%C6%B0%20ph%E1%BB%A7%20%C4%91%E1%BA%A7y%20tuy%E1%BA%BFt%2C%20v%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20kho%C3%A1c%20phao%20%C4%91en%20b%C3%B3ng%20lo%C3%A1ng%20v%E1%BB%9Bi%20tuy%E1%BA%BFt%20ph%E1%BB%A7%20nh%E1%BA%B9%20tr%C3%AAn%20vai%20v%C3%A0%20c%E1%BB%95%20%C3%A1o.%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20ch%E1%BB%A5p%20%E1%BA%A3nh%20selfie%20b%E1%BA%B1ng%20tay%20tr%C3%A1i.%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22%C3%81nh%20s%C3%A1ng%20%C4%91%C3%AAm%20d%E1%BB%8Bu%20nh%E1%BA%B9%2C%20l%E1%BA%A1nh%20l%E1%BA%BDo%20t%E1%BB%AB%20ph%C3%ADa%20tr%C3%AAn%20v%C3%A0%20h%C6%A1i%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%2C%20t%E1%BA%A1o%20ra%20%C3%A1nh%20s%C3%A1ng%20tinh%20t%E1%BA%BF%20tr%C3%AAn%20m%C3%A1%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20nh%E1%BA%B9%20nh%C3%A0ng%20tr%C3%AAn%20%C3%A1o%20kho%C3%A1c.%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22negative_prompt%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%5B%0A%20%20%20%20%20%20%22khu%C3%B4n%20m%E1%BA%B7t%20m%E1%BB%9D%22%2C%0A%20%20%20%20%20%20%22%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20b%E1%BB%8B%20thay%20%C4%91%E1%BB%95i%22%2C%0A%20%20%20%20%20%20%22c%E1%BA%A5u%20tr%C3%BAc%20khu%C3%B4n%20m%E1%BA%B7t%20kh%C3%B4ng%20ch%C3%ADnh%20x%C3%A1c%22%2C%0A%20%20%20%20%20%20%22t%E1%BB%B7%20l%E1%BB%87%20b%E1%BB%8B%20bi%E1%BA%BFn%20d%E1%BA%A1ng%22%2C%0A%20%20%20%20%20%20%22th%E1%BB%ABa%20chi%22%2C%0A%20%20%20%20%20%20%22th%E1%BB%ABa%20ng%C3%B3n%20tay%22%2C%0A%20%20%20%20%20%20%22thi%E1%BA%BFu%20ng%C3%B3n%20tay%22%2C%0A%20%20%20%20%20%20%22m%E1%BA%AFt%20bi%E1%BA%BFn%20d%E1%BA%A1ng%22%2C%0A%20%20%20%20%20%20%22bi%E1%BB%83u%20c%E1%BA%A3m%20kh%C3%B4ng%20ch%C3%ADnh%20x%C3%A1c%22%2C%0A%20%20%20%20%20%20%22k%E1%BA%BFt%20c%E1%BA%A5u%20da%20kh%C3%B4ng%20th%E1%BB%B1c%20t%E1%BA%BF%22%2C%0A%20%20%20%20%20%20%22da%20nh%E1%BB%B1a%22%2C%0A%20%20%20%20%20%20%22da%20b%E1%BB%8B%20l%C3%A0m%20m%E1%BB%81m%20qu%C3%A1%20m%E1%BB%A9c%22%2C%0A%20%20%20%20%20%20%22%C3%A1nh%20s%C3%A1ng%20kh%C3%B4ng%20t%E1%BB%B1%20nhi%C3%AAn%22%2C%0A%20%20%20%20%20%20%22b%C3%B3ng%20%C4%91%E1%BB%95%20g%E1%BA%AFt%22%2C%0A%20%20%20%20%20%20%22hi%E1%BB%87n%20v%E1%BA%ADt%22%2C%0A%20%20%20%20%20%20%22nhi%E1%BB%85u%20h%E1%BA%A1t%22%2C%0A%20%20%20%20%20%20%22%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20th%E1%BA%A5p%22%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 41: Gợi ý: Áp phích Lịch trình Thân thiện với Trẻ em
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một câu lệnh đơn giản để tạo một áp phích minh họa đầy màu sắc, được thiết kế cho trẻ em, phác thảo một thói quen như "Cách đánh răng" bằng cách sử dụng các yếu tố hoạt hình và các bước rõ ràng.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một áp phích "Cách đánh răng" thân thiện với trẻ em, có hình răng hoạt hình, các bước đơn giản, màu sắc tươi sáng và hình minh họa lớn.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106410926_a8v5fm_G7VORZuacAAwUSx.jpg" width="600" alt="Gợi ý: Áp phích Lịch trình Thân thiện với Trẻ em - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Lamar Andrews](https://x.com/LamarMandrews)
+- **Nguồn:** [Twitter Post](https://x.com/LamarMandrews/status/1996588077519880507)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20%22C%C3%A1ch%20%C4%91%C3%A1nh%20r%C4%83ng%22%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20tr%E1%BA%BB%20em%2C%20c%C3%B3%20h%C3%ACnh%20r%C4%83ng%20ho%E1%BA%A1t%20h%C3%ACnh%2C%20c%C3%A1c%20b%C6%B0%E1%BB%9Bc%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20m%C3%A0u%20s%E1%BA%AFc%20t%C6%B0%C6%A1i%20s%C3%A1ng%20v%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20l%E1%BB%9Bn.)**
+
+---
+
+### No. 42: Lời nhắc tạo bảng phân cảnh điện ảnh
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc chi tiết để tạo bảng phân cảnh điện ảnh 9 ô với chủ đề cảm xúc và hình ảnh cụ thể. Nó tập trung vào một cảnh u sầu với một người phụ nữ dưới mưa, chỉ định ánh sáng, tông màu, bố cục (cận cảnh, toàn cảnh) và nhịp điệu cảm xúc để có kết quả giống như phim.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bảng phân cảnh điện ảnh gồm 9 khung hình, lấy bối cảnh trong không khí mưa gió, u sầu. Thể hiện một người phụ nữ trẻ trong chiếc váy ướt sũng đứng dưới những mái vòm đá khi một người đàn ông bước đi vào màn mưa. Bao gồm các cảnh cận cảnh biểu cảm cảm xúc của cô, khoảnh khắc hai bàn tay họ rời xa, những cảnh cô khóc tựa vào một cây cột, và một cảnh toàn cuối cùng cô đứng một mình. Sử dụng ánh sáng dịu nhẹ, u ám, tông màu xanh xám, độ sâu trường ảnh nông và những hạt mưa đầy kịch tính. Các khung hình nên mang cảm giác xúc động, thơ mộng và đậm chất điện ảnh.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106411576_idar1w_G7VHhznaAAAt-g_.jpg" width="600" alt="Lời nhắc tạo bảng phân cảnh điện ảnh - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Oogie](https://x.com/oggii_0)
+- **Nguồn:** [Twitter Post](https://x.com/oggii_0/status/1996580659096387725)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BA%A3ng%20ph%C3%A2n%20c%E1%BA%A3nh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20g%E1%BB%93m%209%20khung%20h%C3%ACnh%2C%20l%E1%BA%A5y%20b%E1%BB%91i%20c%E1%BA%A3nh%20trong%20kh%C3%B4ng%20kh%C3%AD%20m%C6%B0a%20gi%C3%B3%2C%20u%20s%E1%BA%A7u.%20Th%E1%BB%83%20hi%E1%BB%87n%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20trong%20chi%E1%BA%BFc%20v%C3%A1y%20%C6%B0%E1%BB%9Bt%20s%C5%A9ng%20%C4%91%E1%BB%A9ng%20d%C6%B0%E1%BB%9Bi%20nh%E1%BB%AFng%20m%C3%A1i%20v%C3%B2m%20%C4%91%C3%A1%20khi%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng%20b%C6%B0%E1%BB%9Bc%20%C4%91i%20v%C3%A0o%20m%C3%A0n%20m%C6%B0a.%20Bao%20g%E1%BB%93m%20c%C3%A1c%20c%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20bi%E1%BB%83u%20c%E1%BA%A3m%20c%E1%BA%A3m%20x%C3%BAc%20c%E1%BB%A7a%20c%C3%B4%2C%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20hai%20b%C3%A0n%20tay%20h%E1%BB%8D%20r%E1%BB%9Di%20xa%2C%20nh%E1%BB%AFng%20c%E1%BA%A3nh%20c%C3%B4%20kh%C3%B3c%20t%E1%BB%B1a%20v%C3%A0o%20m%E1%BB%99t%20c%C3%A2y%20c%E1%BB%99t%2C%20v%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20to%C3%A0n%20cu%E1%BB%91i%20c%C3%B9ng%20c%C3%B4%20%C4%91%E1%BB%A9ng%20m%E1%BB%99t%20m%C3%ACnh.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C3%A1nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9%2C%20u%20%C3%A1m%2C%20t%C3%B4ng%20m%C3%A0u%20xanh%20x%C3%A1m%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%20v%C3%A0%20nh%E1%BB%AFng%20h%E1%BA%A1t%20m%C6%B0a%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh.%20C%C3%A1c%20khung%20h%C3%ACnh%20n%C3%AAn%20mang%20c%E1%BA%A3m%20gi%C3%A1c%20x%C3%BAc%20%C4%91%E1%BB%99ng%2C%20th%C6%A1%20m%E1%BB%99ng%20v%C3%A0%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.)**
+
+---
+
+### No. 43: Gợi ý tạo ảnh chân dung kiểu bảng phim analog thập niên 2000
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc phức tạp được thiết kế để tạo ra một bức chân dung theo phong cách tờ contact sheet của nhiếp ảnh analog những năm 2000, thô mộc. Nó chỉ định bố cục lưới 4x4, ánh sáng flash gay gắt kiểu Terry Richardson chiếu vào bức tường màu đỏ sẫm, các tư thế tự nhiên và các yếu tố phim chi tiết như viền hiển thị, chữ 'KODAK 160NC' và các vết bút chì dầu.
+
+#### 📝 Câu lệnh
+
+```
+(kiệt tác, chất lượng tốt nhất), [sử dụng người trong ảnh đính kèm, với các đặc điểm khuôn mặt chính xác như ảnh tham chiếu đính kèm]. Chủ thể mặc trang phục thời trang, được chụp theo phong cách nhiếp ảnh analog thô.
+Bố cục: Bố cục tờ liên hệ phim 35mm chân thực, lưới 4x4 dải phim dọc trên nền đen.
+Cảnh & Ánh sáng: Đứng trước bức tường màu đỏ đậm, rực rỡ. Đèn flash máy ảnh trực tiếp mạnh, đổ bóng cứng lên bức tường đỏ phía sau chủ thể, ánh sáng theo phong cách Terry Richardson, kết cấu da bóng.
+Tư thế: Chủ thể được thể hiện trong các biến thể nhỏ của các chuyển động đời thường: sửa tóc, nhìn đi chỗ khác, cười, chỉnh áo, nhìn thẳng vào ống kính. Không tạo dáng quá mức, rất tự nhiên và giống như ảnh chụp nhanh.
+Chi tiết: Viền phim hiển thị với chữ 'KODAK 160NC', số khung ở các cạnh. Lớp phủ các vết bút chì dầu màu xanh lá cây và đỏ, các dấu cắt nguệch ngoạc và các dấu X lựa chọn thô trên dải phim. Kết cấu hạt, độ bão hòa cao, thẩm mỹ tạp chí retro những năm 2000.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106412468_l752w4_G7UyZ_mXAAApB8F.jpg" width="600" alt="Gợi ý tạo ảnh chân dung kiểu bảng phim analog thập niên 2000 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106412443_ilq1jt_G7UyLECWoAAWlwH.jpg" width="600" alt="Gợi ý tạo ảnh chân dung kiểu bảng phim analog thập niên 2000 - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Ozgur Can Akbas](https://x.com/ozgurcanakbas)
+- **Nguồn:** [Twitter Post](https://x.com/ozgurcanakbas/status/1996558127504789701)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=(ki%E1%BB%87t%20t%C3%A1c%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20t%E1%BB%91t%20nh%E1%BA%A5t)%2C%20%5Bs%E1%BB%AD%20d%E1%BB%A5ng%20ng%C6%B0%E1%BB%9Di%20trong%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m%2C%20v%E1%BB%9Bi%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20ch%C3%ADnh%20x%C3%A1c%20nh%C6%B0%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20%C4%91%C3%ADnh%20k%C3%A8m%5D.%20Ch%E1%BB%A7%20th%E1%BB%83%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20th%E1%BB%9Di%20trang%2C%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20theo%20phong%20c%C3%A1ch%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20analog%20th%C3%B4.%0AB%E1%BB%91%20c%E1%BB%A5c%3A%20B%E1%BB%91%20c%E1%BB%A5c%20t%E1%BB%9D%20li%C3%AAn%20h%E1%BB%87%20phim%2035mm%20ch%C3%A2n%20th%E1%BB%B1c%2C%20l%C6%B0%E1%BB%9Bi%204x4%20d%E1%BA%A3i%20phim%20d%E1%BB%8Dc%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91en.%0AC%E1%BA%A3nh%20%26%20%C3%81nh%20s%C3%A1ng%3A%20%C4%90%E1%BB%A9ng%20tr%C6%B0%E1%BB%9Bc%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%E1%BA%ADm%2C%20r%E1%BB%B1c%20r%E1%BB%A1.%20%C4%90%C3%A8n%20flash%20m%C3%A1y%20%E1%BA%A3nh%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20m%E1%BA%A1nh%2C%20%C4%91%E1%BB%95%20b%C3%B3ng%20c%E1%BB%A9ng%20l%C3%AAn%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%8F%20ph%C3%ADa%20sau%20ch%E1%BB%A7%20th%E1%BB%83%2C%20%C3%A1nh%20s%C3%A1ng%20theo%20phong%20c%C3%A1ch%20Terry%20Richardson%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20b%C3%B3ng.%0AT%C6%B0%20th%E1%BA%BF%3A%20Ch%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20trong%20c%C3%A1c%20bi%E1%BA%BFn%20th%E1%BB%83%20nh%E1%BB%8F%20c%E1%BB%A7a%20c%C3%A1c%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20%C4%91%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%3A%20s%E1%BB%ADa%20t%C3%B3c%2C%20nh%C3%ACn%20%C4%91i%20ch%E1%BB%97%20kh%C3%A1c%2C%20c%C6%B0%E1%BB%9Di%2C%20ch%E1%BB%89nh%20%C3%A1o%2C%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh.%20Kh%C3%B4ng%20t%E1%BA%A1o%20d%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20r%E1%BA%A5t%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20gi%E1%BB%91ng%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%20nhanh.%0AChi%20ti%E1%BA%BFt%3A%20Vi%E1%BB%81n%20phim%20hi%E1%BB%83n%20th%E1%BB%8B%20v%E1%BB%9Bi%20ch%E1%BB%AF%20'KODAK%20160NC'%2C%20s%E1%BB%91%20khung%20%E1%BB%9F%20c%C3%A1c%20c%E1%BA%A1nh.%20L%E1%BB%9Bp%20ph%E1%BB%A7%20c%C3%A1c%20v%E1%BA%BFt%20b%C3%BAt%20ch%C3%AC%20d%E1%BA%A7u%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%20v%C3%A0%20%C4%91%E1%BB%8F%2C%20c%C3%A1c%20d%E1%BA%A5u%20c%E1%BA%AFt%20ngu%E1%BB%87ch%20ngo%E1%BA%A1c%20v%C3%A0%20c%C3%A1c%20d%E1%BA%A5u%20X%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20th%C3%B4%20tr%C3%AAn%20d%E1%BA%A3i%20phim.%20K%E1%BA%BFt%20c%E1%BA%A5u%20h%E1%BA%A1t%2C%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20cao%2C%20th%E1%BA%A9m%20m%E1%BB%B9%20t%E1%BA%A1p%20ch%C3%AD%20retro%20nh%E1%BB%AFng%20n%C4%83m%202000.)**
+
+---
+
+### No. 44: Lời nhắc tạo ảnh biếm họa 3D từ ảnh đã tải lên
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một prompt được thiết kế để tạo ra một bức biếm họa 3D cách điệu cao dựa trên một hình ảnh được tải lên. Nó nhấn mạnh các đặc điểm biểu cảm, sự phóng đại vui tươi, kết xuất mượt mà, vật liệu sạch, ánh sáng môi trường dịu nhẹ và nền màu đậm để làm nổi bật nhân vật.
+
+#### 📝 Câu lệnh
+
+```
+Một bức biếm họa 3D được cách điệu cao của người trong ảnh tải lên, với các đặc điểm khuôn mặt biểu cảm và sự phóng đại vui tươi. Được thể hiện theo phong cách mượt mà, bóng bẩy với vật liệu sạch và ánh sáng dịu nhẹ. Nền màu đậm để làm nổi bật sự quyến rũ và hiện diện của nhân vật.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106435698_76t4c8_G7UvT4pXkAAEyU_.jpg" width="600" alt="Lời nhắc tạo ảnh biếm họa 3D từ ảnh đã tải lên - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106439130_ov6szn_G7UvQNoXQAAouMh.jpg" width="600" alt="Lời nhắc tạo ảnh biếm họa 3D từ ảnh đã tải lên - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano Banana Pro](https://x.com/NanoBanana)
+- **Nguồn:** [Twitter Post](https://x.com/NanoBanana/status/1996554636166049928)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20bi%E1%BA%BFm%20h%E1%BB%8Da%203D%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20cao%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20trong%20%E1%BA%A3nh%20t%E1%BA%A3i%20l%C3%AAn%2C%20v%E1%BB%9Bi%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20s%E1%BB%B1%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%20vui%20t%C6%B0%C6%A1i.%20%C4%90%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20m%C6%B0%E1%BB%A3t%20m%C3%A0%2C%20b%C3%B3ng%20b%E1%BA%A9y%20v%E1%BB%9Bi%20v%E1%BA%ADt%20li%E1%BB%87u%20s%E1%BA%A1ch%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9.%20N%E1%BB%81n%20m%C3%A0u%20%C4%91%E1%BA%ADm%20%C4%91%E1%BB%83%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20s%E1%BB%B1%20quy%E1%BA%BFn%20r%C5%A9%20v%C3%A0%20hi%E1%BB%87n%20di%E1%BB%87n%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt.)**
+
+---
+
+### No. 45: JSON Prompt chi tiết cho ảnh chân dung selfie trong ô tô
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON có cấu trúc, chi tiết cao được thiết kế cho Nano Banana Pro để tạo ra một bức chân dung siêu thực của một phụ nữ trẻ đang chụp ảnh tự sướng trong ô tô một cách tự nhiên. Lời nhắc chỉ định các chi tiết phức tạp về ngoại hình, trang phục, phụ kiện, trang điểm của đối tượng và phong cách nhiếp ảnh, bao gồm ánh sáng, các yếu tố nền và tỷ lệ khung hình.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "description": "Một phụ nữ trẻ đang tự chụp ảnh trong xe hơi với một tay đặt lên trán, mỉm cười nhẹ nhàng",
+    "age": "người trẻ tuổi",
+    "expression": "thư thái, tự nhiên, mỉm cười nhẹ, tay đặt hờ trên trán",
+    "hair": {
+      "color": "nâu sẫm",
+      "style": "tóc búi thấp gọn gàng, chải ngược ra sau với đường ngôi giữa chính xác"
+    },
+    "clothing": {
+      "top": {
+        "type": "áo hoodie rộng",
+        "color": "xám lông chuột nhạt",
+        "details": "vải nỉ mềm mại, dáng rộng, mũ áo rũ về phía sau"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "trang điểm tự nhiên 'cô gái sạch sẽ' tươi tắn, làn da rám nắng với tàn nhang rõ trên mũi, má hồng, môi hồng bóng, lông mày được chải chuốt"
+    }
+  },
+  "accessories": {
+    "eyewear": {
+      "type": "kính gọng đồi mồi",
+      "details": "gọng acetate hình bầu dục/tròn, mang lại vẻ sành điệu và trí thức"
+    },
+    "earrings": {
+      "type": "bộ khuyên tai vàng",
+      "details": "nhiều khuyên tai vàng nhỏ dạng huggie và đinh tán trên dái tai và vành tai"
+    },
+    "jewelry": {
+      "necklace": "dây chuyền vàng mảnh với mặt dây chuyền nhỏ xíu",
+      "ring": "nhẫn vàng mảnh trên ngón áp út"
+    }
+  },
+  "photography": {
+    "camera_style": "ảnh selfie chụp bằng điện thoại thông minh hiện đại",
+    "angle": "ngang tầm mắt đến góc hơi thấp",
+    "shot_type": "bố cục chân dung cận cảnh",
+    "aspect_ratio": "9:16 dọc",
+    "texture": "ánh sáng ban ngày tự nhiên, lấy nét sắc nét vào khuôn mặt, kết cấu da mềm mại, ánh sáng cửa sổ tươi sáng, không nhiễu hạt"
+  },
+  "background": {
+    "setting": "nội thất xe hơi",
+    "elements": [
+      "trần xe màu tối / cửa sổ trời toàn cảnh",
+      "tựa đầu ghế xe",
+      "dây an toàn",
+      "cửa sổ xe hiển thị ánh sáng ban ngày rực rỡ",
+      "cây cối và tòa nhà bên ngoài bị làm mờ"
+    ],
+    "atmosphere": "cuộc sống hàng ngày bình thường, đang di chuyển, không khí ban ngày tươi sáng",
+    "lighting": "ánh sáng cửa sổ tự nhiên dịu nhẹ chiếu sáng khuôn mặt"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106428459_6khf0k_G7UpDg9XcAI9_Xc.jpg" width="600" alt="JSON Prompt chi tiết cho ảnh chân dung selfie trong ô tô - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [05](https://x.com/e050505050505)
+- **Nguồn:** [Twitter Post](https://x.com/e050505050505/status/1996547157852106858)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22M%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91ang%20t%E1%BB%B1%20ch%E1%BB%A5p%20%E1%BA%A3nh%20trong%20xe%20h%C6%A1i%20v%E1%BB%9Bi%20m%E1%BB%99t%20tay%20%C4%91%E1%BA%B7t%20l%C3%AAn%20tr%C3%A1n%2C%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%B9%20nh%C3%A0ng%22%2C%0A%20%20%20%20%22age%22%3A%20%22ng%C6%B0%E1%BB%9Di%20tr%E1%BA%BB%20tu%E1%BB%95i%22%2C%0A%20%20%20%20%22expression%22%3A%20%22th%C6%B0%20th%C3%A1i%2C%20t%E1%BB%B1%20nhi%C3%AAn%2C%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%B9%2C%20tay%20%C4%91%E1%BA%B7t%20h%E1%BB%9D%20tr%C3%AAn%20tr%C3%A1n%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22n%C3%A2u%20s%E1%BA%ABm%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22t%C3%B3c%20b%C3%BAi%20th%E1%BA%A5p%20g%E1%BB%8Dn%20g%C3%A0ng%2C%20ch%E1%BA%A3i%20ng%C6%B0%E1%BB%A3c%20ra%20sau%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20ng%C3%B4i%20gi%E1%BB%AFa%20ch%C3%ADnh%20x%C3%A1c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%C3%A1o%20hoodie%20r%E1%BB%99ng%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22x%C3%A1m%20l%C3%B4ng%20chu%E1%BB%99t%20nh%E1%BA%A1t%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22v%E1%BA%A3i%20n%E1%BB%89%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20d%C3%A1ng%20r%E1%BB%99ng%2C%20m%C5%A9%20%C3%A1o%20r%C5%A9%20v%E1%BB%81%20ph%C3%ADa%20sau%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22trang%20%C4%91i%E1%BB%83m%20t%E1%BB%B1%20nhi%C3%AAn%20'c%C3%B4%20g%C3%A1i%20s%E1%BA%A1ch%20s%E1%BA%BD'%20t%C6%B0%C6%A1i%20t%E1%BA%AFn%2C%20l%C3%A0n%20da%20r%C3%A1m%20n%E1%BA%AFng%20v%E1%BB%9Bi%20t%C3%A0n%20nhang%20r%C3%B5%20tr%C3%AAn%20m%C5%A9i%2C%20m%C3%A1%20h%E1%BB%93ng%2C%20m%C3%B4i%20h%E1%BB%93ng%20b%C3%B3ng%2C%20l%C3%B4ng%20m%C3%A0y%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BA%A3i%20chu%E1%BB%91t%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22eyewear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22k%C3%ADnh%20g%E1%BB%8Dng%20%C4%91%E1%BB%93i%20m%E1%BB%93i%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22g%E1%BB%8Dng%20acetate%20h%C3%ACnh%20b%E1%BA%A7u%20d%E1%BB%A5c%2Ftr%C3%B2n%2C%20mang%20l%E1%BA%A1i%20v%E1%BA%BB%20s%C3%A0nh%20%C4%91i%E1%BB%87u%20v%C3%A0%20tr%C3%AD%20th%E1%BB%A9c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22earrings%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22b%E1%BB%99%20khuy%C3%AAn%20tai%20v%C3%A0ng%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22nhi%E1%BB%81u%20khuy%C3%AAn%20tai%20v%C3%A0ng%20nh%E1%BB%8F%20d%E1%BA%A1ng%20huggie%20v%C3%A0%20%C4%91inh%20t%C3%A1n%20tr%C3%AAn%20d%C3%A1i%20tai%20v%C3%A0%20v%C3%A0nh%20tai%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22d%C3%A2y%20chuy%E1%BB%81n%20v%C3%A0ng%20m%E1%BA%A3nh%20v%E1%BB%9Bi%20m%E1%BA%B7t%20d%C3%A2y%20chuy%E1%BB%81n%20nh%E1%BB%8F%20x%C3%ADu%22%2C%0A%20%20%20%20%20%20%22ring%22%3A%20%22nh%E1%BA%ABn%20v%C3%A0ng%20m%E1%BA%A3nh%20tr%C3%AAn%20ng%C3%B3n%20%C3%A1p%20%C3%BAt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22%E1%BA%A3nh%20selfie%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%22%2C%0A%20%20%20%20%22angle%22%3A%20%22ngang%20t%E1%BA%A7m%20m%E1%BA%AFt%20%C4%91%E1%BA%BFn%20g%C3%B3c%20h%C6%A1i%20th%E1%BA%A5p%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22b%E1%BB%91%20c%E1%BB%A5c%20ch%C3%A2n%20dung%20c%E1%BA%ADn%20c%E1%BA%A3nh%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20d%E1%BB%8Dc%22%2C%0A%20%20%20%20%22texture%22%3A%20%22%C3%A1nh%20s%C3%A1ng%20ban%20ng%C3%A0y%20t%E1%BB%B1%20nhi%C3%AAn%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20khu%C3%B4n%20m%E1%BA%B7t%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C3%A1nh%20s%C3%A1ng%20c%E1%BB%ADa%20s%E1%BB%95%20t%C6%B0%C6%A1i%20s%C3%A1ng%2C%20kh%C3%B4ng%20nhi%E1%BB%85u%20h%E1%BA%A1t%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22n%E1%BB%99i%20th%E1%BA%A5t%20xe%20h%C6%A1i%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22tr%E1%BA%A7n%20xe%20m%C3%A0u%20t%E1%BB%91i%20%2F%20c%E1%BB%ADa%20s%E1%BB%95%20tr%E1%BB%9Di%20to%C3%A0n%20c%E1%BA%A3nh%22%2C%0A%20%20%20%20%20%20%22t%E1%BB%B1a%20%C4%91%E1%BA%A7u%20gh%E1%BA%BF%20xe%22%2C%0A%20%20%20%20%20%20%22d%C3%A2y%20an%20to%C3%A0n%22%2C%0A%20%20%20%20%20%20%22c%E1%BB%ADa%20s%E1%BB%95%20xe%20hi%E1%BB%83n%20th%E1%BB%8B%20%C3%A1nh%20s%C3%A1ng%20ban%20ng%C3%A0y%20r%E1%BB%B1c%20r%E1%BB%A1%22%2C%0A%20%20%20%20%20%20%22c%C3%A2y%20c%E1%BB%91i%20v%C3%A0%20t%C3%B2a%20nh%C3%A0%20b%C3%AAn%20ngo%C3%A0i%20b%E1%BB%8B%20l%C3%A0m%20m%E1%BB%9D%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22cu%E1%BB%99c%20s%E1%BB%91ng%20h%C3%A0ng%20ng%C3%A0y%20b%C3%ACnh%20th%C6%B0%E1%BB%9Dng%2C%20%C4%91ang%20di%20chuy%E1%BB%83n%2C%20kh%C3%B4ng%20kh%C3%AD%20ban%20ng%C3%A0y%20t%C6%B0%C6%A1i%20s%C3%A1ng%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%C3%A1nh%20s%C3%A1ng%20c%E1%BB%ADa%20s%E1%BB%95%20t%E1%BB%B1%20nhi%C3%AAn%20d%E1%BB%8Bu%20nh%E1%BA%B9%20chi%E1%BA%BFu%20s%C3%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 46: Lời nhắc tạo phụ đề gốc trên YouTube
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc toàn diện được thiết kế cho Nano Banana Pro để tạo cơ sở phụ đề YouTube (lower thirds) cho nhiều thể loại nội dung khác nhau như kinh doanh, trò chơi, giải trí và vlog. Nó chỉ định các yêu cầu kỹ thuật như tỷ lệ khung hình 16:9, độ phân giải 2K và nền xanh lá cây để dễ dàng tạo độ trong suốt, xuất ra đồng thời ba mẫu thiết kế khác nhau.
+
+#### 📝 Câu lệnh
+
+```
+【Tạo nền phụ đề cho YouTube】
+●Thông tin cơ bản
+・Không nhập văn bản; chỉ tạo nền phụ đề (lower third)
+・Mờ đục
+・Nằm ngang
+・Nền màu xanh lá cây đậm để dễ dàng tạo độ trong suốt
+・Tạo ba mẫu thiết kế khác nhau xếp chồng lên nhau theo chiều dọc
+・Tỷ lệ khung hình là "16:9"
+・Độ phân giải là "2K"
+
+----------------
+
+●Thông tin thiết kế ({argument name="genre" default="Business"})
+・Thiết kế gọn gàng và đơn giản
+・Thiết kế dễ sử dụng cho video {argument name="genre" default="Business"}
+・{argument name="genre" default="Thiết kế truyền tải sự đáng tin cậy"}
+
+----------------
+
+●Thông tin thiết kế (Bình luận game)
+・Thiết kế gọn gàng và đơn giản
+・Thiết kế dễ sử dụng cho bình luận game
+
+----------------
+
+●Thông tin thiết kế (Giải trí)
+・Thiết kế gọn gàng và đơn giản
+・Thiết kế tương tự như những thiết kế được các YouTuber giải trí Nhật Bản sử dụng
+
+----------------
+
+●Thông tin thiết kế (Vlog/Đời sống hàng ngày)
+・Thiết kế gọn gàng và đơn giản
+・Thiết kế nhẹ nhàng, dễ sử dụng cho các video Vlog phong cách
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106420257_1wdubi_G7UmVqAakAAe4zA.jpg" width="600" alt="Lời nhắc tạo phụ đề gốc trên YouTube - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106422983_v3cnsp_G7UmVqHaoAATZQL.jpg" width="600" alt="Lời nhắc tạo phụ đề gốc trên YouTube - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106421478_s71oam_G7UmVqIbAAAHHZS.jpg" width="600" alt="Lời nhắc tạo phụ đề gốc trên YouTube - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106423935_2tibza_G7UmVqEbkAAayF8.jpg" width="600" alt="Lời nhắc tạo phụ đề gốc trên YouTube - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ふためん┃動画編集者](https://x.com/futamen_0308)
+- **Nguồn:** [Twitter Post](https://x.com/futamen_0308/status/1996544171184898267)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%90T%E1%BA%A1o%20n%E1%BB%81n%20ph%E1%BB%A5%20%C4%91%E1%BB%81%20cho%20YouTube%E3%80%91%0A%E2%97%8FTh%C3%B4ng%20tin%20c%C6%A1%20b%E1%BA%A3n%0A%E3%83%BBKh%C3%B4ng%20nh%E1%BA%ADp%20v%C4%83n%20b%E1%BA%A3n%3B%20ch%E1%BB%89%20t%E1%BA%A1o%20n%E1%BB%81n%20ph%E1%BB%A5%20%C4%91%E1%BB%81%20(lower%20third)%0A%E3%83%BBM%E1%BB%9D%20%C4%91%E1%BB%A5c%0A%E3%83%BBN%E1%BA%B1m%20ngang%0A%E3%83%BBN%E1%BB%81n%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%20%C4%91%E1%BA%ADm%20%C4%91%E1%BB%83%20d%E1%BB%85%20d%C3%A0ng%20t%E1%BA%A1o%20%C4%91%E1%BB%99%20trong%20su%E1%BB%91t%0A%E3%83%BBT%E1%BA%A1o%20ba%20m%E1%BA%ABu%20thi%E1%BA%BFt%20k%E1%BA%BF%20kh%C3%A1c%20nhau%20x%E1%BA%BFp%20ch%E1%BB%93ng%20l%C3%AAn%20nhau%20theo%20chi%E1%BB%81u%20d%E1%BB%8Dc%0A%E3%83%BBT%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20l%C3%A0%20%2216%3A9%22%0A%E3%83%BB%C4%90%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20l%C3%A0%20%222K%22%0A%0A----------------%0A%0A%E2%97%8FTh%C3%B4ng%20tin%20thi%E1%BA%BFt%20k%E1%BA%BF%20(%7Bargument%20name%3D%22genre%22%20default%3D%22Business%22%7D)%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20d%E1%BB%85%20s%E1%BB%AD%20d%E1%BB%A5ng%20cho%20video%20%7Bargument%20name%3D%22genre%22%20default%3D%22Business%22%7D%0A%E3%83%BB%7Bargument%20name%3D%22genre%22%20default%3D%22Thi%E1%BA%BFt%20k%E1%BA%BF%20truy%E1%BB%81n%20t%E1%BA%A3i%20s%E1%BB%B1%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy%22%7D%0A%0A----------------%0A%0A%E2%97%8FTh%C3%B4ng%20tin%20thi%E1%BA%BFt%20k%E1%BA%BF%20(B%C3%ACnh%20lu%E1%BA%ADn%20game)%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20d%E1%BB%85%20s%E1%BB%AD%20d%E1%BB%A5ng%20cho%20b%C3%ACnh%20lu%E1%BA%ADn%20game%0A%0A----------------%0A%0A%E2%97%8FTh%C3%B4ng%20tin%20thi%E1%BA%BFt%20k%E1%BA%BF%20(Gi%E1%BA%A3i%20tr%C3%AD)%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20t%C6%B0%C6%A1ng%20t%E1%BB%B1%20nh%C6%B0%20nh%E1%BB%AFng%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A1c%20YouTuber%20gi%E1%BA%A3i%20tr%C3%AD%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20s%E1%BB%AD%20d%E1%BB%A5ng%0A%0A----------------%0A%0A%E2%97%8FTh%C3%B4ng%20tin%20thi%E1%BA%BFt%20k%E1%BA%BF%20(Vlog%2F%C4%90%E1%BB%9Di%20s%E1%BB%91ng%20h%C3%A0ng%20ng%C3%A0y)%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%0A%E3%83%BBThi%E1%BA%BFt%20k%E1%BA%BF%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20d%E1%BB%85%20s%E1%BB%AD%20d%E1%BB%A5ng%20cho%20c%C3%A1c%20video%20Vlog%20phong%20c%C3%A1ch)**
+
+---
+
+### No. 47: Lời nhắc tạo nhãn dán LINE
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc cho Nano Banana Pro để tạo một bộ chín nhãn dán LINE dựa trên một hình ảnh tham chiếu. Nó chỉ định rằng các nhãn dán nên theo phong cách vẽ tay, duy trì các đặc điểm của nhân vật, sử dụng văn bản in đậm có viền và bao gồm các biểu cảm và tư thế cụ thể tương ứng với danh sách chín cụm từ phổ biến.
+
+#### 📝 Câu lệnh
+
+```
+Hình ảnh tham khảo [Image 1]
+
+Lời nhắc
+Dựa trên [Image 1],
+tạo 9 nhãn dán LINE theo phong cách vẽ tay, tất cả cùng một lúc.
+Hoàn thành chúng thành một bộ 9 nhãn dán gắn kết.
+
+✅ Điều kiện
+・Phải giữ nguyên các đặc điểm của nhân vật
+・Phản ánh độ dày nét vẽ, màu sắc và không khí của phong cách tham khảo
+・Nền phải hoàn toàn màu trắng
+・Chữ phải in đậm (viền trắng hoặc viền đen)
+・Màu chữ phải phù hợp với tâm trạng của cụm từ.
+・Biểu cảm và tư thế tự nhiên
+・Tạo 9 mục trong một lần
+
+✅ 9 loại cần tạo
+Cụm từ: {argument name="phrase 1" default="Chào buổi sáng!"}
+Cụm từ: {argument name="phrase 2" default="Cảm ơn"}
+Cụm từ: {argument name="phrase 3" default="Xin lỗi..."}
+Cụm từ: {argument name="phrase 4" default="Buồn ngủ"}
+Cụm từ: {argument name="phrase 5" default="Được!"}
+Cụm từ: {argument name="phrase 6" default="Không!"}
+Cụm từ: {argument name="phrase 7" default="Bạn ổn chứ?"}
+Cụm từ: {argument name="phrase 8" default="Hẹn gặp lại!"}
+Cụm từ: {argument name="phrase 9" default="Tôi không biết"}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106424198_s2tu62_G7ThfdxaQAARkop.jpg" width="600" alt="Lời nhắc tạo nhãn dán LINE - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106430069_h45xpt_G7ThiGlbUAAyG99.jpg" width="600" alt="Lời nhắc tạo nhãn dán LINE - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [シュナプーン](https://x.com/schnapoon)
+- **Nguồn:** [Twitter Post](https://x.com/schnapoon/status/1996529160567808091)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=H%C3%ACnh%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%20%5BImage%201%5D%0A%0AL%E1%BB%9Di%20nh%E1%BA%AFc%0AD%E1%BB%B1a%20tr%C3%AAn%20%5BImage%201%5D%2C%0At%E1%BA%A1o%209%20nh%C3%A3n%20d%C3%A1n%20LINE%20theo%20phong%20c%C3%A1ch%20v%E1%BA%BD%20tay%2C%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%B9ng%20m%E1%BB%99t%20l%C3%BAc.%0AHo%C3%A0n%20th%C3%A0nh%20ch%C3%BAng%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%99%209%20nh%C3%A3n%20d%C3%A1n%20g%E1%BA%AFn%20k%E1%BA%BFt.%0A%0A%E2%9C%85%20%C4%90i%E1%BB%81u%20ki%E1%BB%87n%0A%E3%83%BBPh%E1%BA%A3i%20gi%E1%BB%AF%20nguy%C3%AAn%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%0A%E3%83%BBPh%E1%BA%A3n%20%C3%A1nh%20%C4%91%E1%BB%99%20d%C3%A0y%20n%C3%A9t%20v%E1%BA%BD%2C%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20c%E1%BB%A7a%20phong%20c%C3%A1ch%20tham%20kh%E1%BA%A3o%0A%E3%83%BBN%E1%BB%81n%20ph%E1%BA%A3i%20ho%C3%A0n%20to%C3%A0n%20m%C3%A0u%20tr%E1%BA%AFng%0A%E3%83%BBCh%E1%BB%AF%20ph%E1%BA%A3i%20in%20%C4%91%E1%BA%ADm%20(vi%E1%BB%81n%20tr%E1%BA%AFng%20ho%E1%BA%B7c%20vi%E1%BB%81n%20%C4%91en)%0A%E3%83%BBM%C3%A0u%20ch%E1%BB%AF%20ph%E1%BA%A3i%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20t%C3%A2m%20tr%E1%BA%A1ng%20c%E1%BB%A7a%20c%E1%BB%A5m%20t%E1%BB%AB.%0A%E3%83%BBBi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20t%C6%B0%20th%E1%BA%BF%20t%E1%BB%B1%20nhi%C3%AAn%0A%E3%83%BBT%E1%BA%A1o%209%20m%E1%BB%A5c%20trong%20m%E1%BB%99t%20l%E1%BA%A7n%0A%0A%E2%9C%85%209%20lo%E1%BA%A1i%20c%E1%BA%A7n%20t%E1%BA%A1o%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%201%22%20default%3D%22Ch%C3%A0o%20bu%E1%BB%95i%20s%C3%A1ng!%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%202%22%20default%3D%22C%E1%BA%A3m%20%C6%A1n%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%203%22%20default%3D%22Xin%20l%E1%BB%97i...%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%204%22%20default%3D%22Bu%E1%BB%93n%20ng%E1%BB%A7%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%205%22%20default%3D%22%C4%90%C6%B0%E1%BB%A3c!%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%206%22%20default%3D%22Kh%C3%B4ng!%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%207%22%20default%3D%22B%E1%BA%A1n%20%E1%BB%95n%20ch%E1%BB%A9%3F%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%208%22%20default%3D%22H%E1%BA%B9n%20g%E1%BA%B7p%20l%E1%BA%A1i!%22%7D%0AC%E1%BB%A5m%20t%E1%BB%AB%3A%20%7Bargument%20name%3D%22phrase%209%22%20default%3D%22T%C3%B4i%20kh%C3%B4ng%20bi%E1%BA%BFt%22%7D)**
+
+---
+
+### No. 48: Hình minh họa bầu trời mang phong cách điện ảnh của Makoto Shinkai
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2444,7 +3201,164 @@ Màu sắc tổng thể nên rõ ràng và bão hòa nhưng không quá chói. �
 
 ---
 
-### No. 35: Áp phích anime pop-art lấy cảm hứng từ Persona 5 cho nhân vật chuunibyou tùy chỉnh
+### No. 49: Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo ảnh đa năng cho Nano Banana Pro, tạo ra các bản vẽ nhân vật theo phong cách minh họa sách thiếu nhi đơn giản, dễ thương, đầy màu sắc, sử dụng bút chì màu trên giấy trắng, với các điểm nhấn lấp lánh. Lời nhắc được thiết kế để dễ dàng thay đổi tên nhân vật.
+
+#### 📝 Câu lệnh
+
+```
+VẼ một bức vẽ {argument name="character" default="[Nhân vật]"}, bằng sáp màu trên giấy trắng, theo phong cách minh họa sách thiếu nhi – đơn giản, dễ thương và đầy màu sắc, với các điểm nhấn lấp lánh màu {argument name="glitter color" default="[hai màu lấp lánh nổi bật]"} và độ chi tiết cao.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106440538_0jp2zi_G7UDR6vbYAALCVo.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106442482_b7r7ic_G7UDS80a0AAMEiR.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106441982_8v32li_G7UDR6vawAABK7o.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106444098_87d5lo_G7UDS80bkAAFcVj.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106448089_67cyd0_G7QtpByXwAAmZiO.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 5">
+</div>
+
+##### Image 6
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106448583_ul8nod_G7QtojyXEAEodKI.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 6">
+</div>
+
+##### Image 7
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106449253_ywmg1w_G7QtoyAXcAArMED.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 7">
+</div>
+
+##### Image 8
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106456436_h5aj0l_G7QtpQqW0AAAARn.jpg" width="600" alt="Phong Cách Minh Họa Sách Thiếu Nhi Dùng Cho Lời Nhắc Vẽ Nhân Vật - Image 8">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jason Zhu](https://x.com/GoSailGlobal)
+- **Nguồn:** [Twitter Post](https://x.com/GoSailGlobal/status/1996505714404036617)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** zh
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=V%E1%BA%BC%20m%E1%BB%99t%20b%E1%BB%A9c%20v%E1%BA%BD%20%7Bargument%20name%3D%22character%22%20default%3D%22%5BNh%C3%A2n%20v%E1%BA%ADt%5D%22%7D%2C%20b%E1%BA%B1ng%20s%C3%A1p%20m%C3%A0u%20tr%C3%AAn%20gi%E1%BA%A5y%20tr%E1%BA%AFng%2C%20theo%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20s%C3%A1ch%20thi%E1%BA%BFu%20nhi%20%E2%80%93%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20v%E1%BB%9Bi%20c%C3%A1c%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20l%E1%BA%A5p%20l%C3%A1nh%20m%C3%A0u%20%7Bargument%20name%3D%22glitter%20color%22%20default%3D%22%5Bhai%20m%C3%A0u%20l%E1%BA%A5p%20l%C3%A1nh%20n%E1%BB%95i%20b%E1%BA%ADt%5D%22%7D%20v%C3%A0%20%C4%91%E1%BB%99%20chi%20ti%E1%BA%BFt%20cao.)**
+
+---
+
+### No. 50: Lời nhắc tạo áp phích lịch điện ảnh 2026
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc chi tiết để tạo ra một áp phích lịch cao cấp tỷ lệ 9:16 dọc cho năm 2026, nhấn mạnh sự sang trọng nam tính, vẻ xa hoa tối màu và không khí điện ảnh. Nó chỉ định nền đen mờ sâu và hình mờ lớn, siêu mỏng của năm '2026'.
+
+#### 📝 Câu lệnh
+
+```
+Hãy hình dung một tấm áp phích lịch cao cấp tỷ lệ 9:16, thể hiện sự chuyển giao trang trọng từ năm 2025 sang năm mới—được chế tác với vẻ sang trọng nam tính, sự xa hoa tối màu và không khí điện ảnh. Nền là màu đen mờ, không vân, sâu thẳm, gợi lên sự tinh tế và tập trung. Nằm mờ ảo phía sau chủ thể chính, các chữ số **“{argument name="year" default="2026"}”** xuất hiện dưới dạng hình mờ lớn, siêu mỏng bằng phông chữ sans-serif tinh tế (ví dụ: Futura Thin hoặc Helvetica Neue UltraLight),
+Tỷ lệ hình ảnh 3:4
+Chữ ký: Shreya Yadav
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106417668_a9zyz3_G7TqbUiasAASS3U.jpg" width="600" alt="Lời nhắc tạo áp phích lịch điện ảnh 2026 - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **Nguồn:** [Twitter Post](https://x.com/ShreyaYadav___/status/1996478304191385963)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=H%C3%A3y%20h%C3%ACnh%20dung%20m%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20l%E1%BB%8Bch%20cao%20c%E1%BA%A5p%20t%E1%BB%B7%20l%E1%BB%87%209%3A16%2C%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20chuy%E1%BB%83n%20giao%20trang%20tr%E1%BB%8Dng%20t%E1%BB%AB%20n%C4%83m%202025%20sang%20n%C4%83m%20m%E1%BB%9Bi%E2%80%94%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BA%BF%20t%C3%A1c%20v%E1%BB%9Bi%20v%E1%BA%BB%20sang%20tr%E1%BB%8Dng%20nam%20t%C3%ADnh%2C%20s%E1%BB%B1%20xa%20hoa%20t%E1%BB%91i%20m%C3%A0u%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.%20N%E1%BB%81n%20l%C3%A0%20m%C3%A0u%20%C4%91en%20m%E1%BB%9D%2C%20kh%C3%B4ng%20v%C3%A2n%2C%20s%C3%A2u%20th%E1%BA%B3m%2C%20g%E1%BB%A3i%20l%C3%AAn%20s%E1%BB%B1%20tinh%20t%E1%BA%BF%20v%C3%A0%20t%E1%BA%ADp%20trung.%20N%E1%BA%B1m%20m%E1%BB%9D%20%E1%BA%A3o%20ph%C3%ADa%20sau%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh%2C%20c%C3%A1c%20ch%E1%BB%AF%20s%E1%BB%91%20**%E2%80%9C%7Bargument%20name%3D%22year%22%20default%3D%222026%22%7D%E2%80%9D**%20xu%E1%BA%A5t%20hi%E1%BB%87n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20h%C3%ACnh%20m%E1%BB%9D%20l%E1%BB%9Bn%2C%20si%C3%AAu%20m%E1%BB%8Fng%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20tinh%20t%E1%BA%BF%20(v%C3%AD%20d%E1%BB%A5%3A%20Futura%20Thin%20ho%E1%BA%B7c%20Helvetica%20Neue%20UltraLight)%2C%0AT%E1%BB%B7%20l%E1%BB%87%20h%C3%ACnh%20%E1%BA%A3nh%203%3A4%0ACh%E1%BB%AF%20k%C3%BD%3A%20Shreya%20Yadav)**
+
+---
+
+### No. 51: Lời nhắc: Chụp ảnh selfie thành ảnh chân dung chuyên nghiệp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc được thiết kế để biến ảnh selfie thông thường, đủ ánh sáng thành ảnh chân dung chuyên nghiệp, theo phong cách studio bằng cách sử dụng mô hình Nano Banana Pro, nhấn mạnh độ sắc nét và nền trung tính.
+
+#### 📝 Câu lệnh
+
+```
+Phong cách studio, sắc nét, nền trung tính.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106410163_t9akih_G7TiEPOagAALivF.jpg" width="600" alt="Lời nhắc: Chụp ảnh selfie thành ảnh chân dung chuyên nghiệp - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106411667_znd7s0_G7TiD-OagAExVHT.jpg" width="600" alt="Lời nhắc: Chụp ảnh selfie thành ảnh chân dung chuyên nghiệp - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106412503_0dn55k_G7TiEAfaAAA7WXB.jpg" width="600" alt="Lời nhắc: Chụp ảnh selfie thành ảnh chân dung chuyên nghiệp - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Aleena Amir](https://x.com/aleenaamiir)
+- **Nguồn:** [Twitter Post](https://x.com/aleenaamiir/status/1996469120913883356)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Phong%20c%C3%A1ch%20studio%2C%20s%E1%BA%AFc%20n%C3%A9t%2C%20n%E1%BB%81n%20trung%20t%C3%ADnh.)**
+
+---
+
+### No. 52: Áp phích anime pop-art lấy cảm hứng từ Persona 5 cho nhân vật chuunibyou tùy chỉnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2494,30 +3408,21 @@ Tâm trạng tổng thể phải cực kỳ năng động, cực kỳ chuunibyou
 
 ---
 
-### No. 36: Gợi ý ảnh chụp chân dung màn hình máy ảnh kỹ thuật số nhỏ gọn
+### No. 53: Manga Panel Image Editing Prompt: Cảnh Katsu Curry
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-Một prompt nano-banana-pro chi tiết để tạo ra bức ảnh chụp bằng máy ảnh kỹ thuật số nhỏ gọn phong cách thập niên 2000 đầy hoài niệm, hiển thị chân dung cận cảnh trên màn hình phía sau của máy ảnh, với bố cục, ánh sáng và cài đặt máy ảnh cụ thể.
+Một lời nhắc rất cụ thể, mô tả chi tiết cho Nano Banana Pro được sử dụng để chỉnh sửa một khung truyện tranh có món Katsu Curry. Hướng dẫn là sửa đổi khung thứ hai để hiển thị món Katsu Curry đã ăn một phần (khoảng 30% đã được tiêu thụ) bằng cách loại bỏ hai miếng cốt lết, phần cơm bên dưới và phần nước sốt cà ri tương ứng, đồng thời loại bỏ đôi đũa đang cầm ở tay phải.
 
 #### 📝 Câu lệnh
 
 ```
-Sử dụng các đặc điểm khuôn mặt từ ảnh đính kèm. Trên màn hình của một chiếc máy ảnh kỹ thuật số Canon nhỏ gọn, hiển thị cận cảnh {argument name="character description" default="một phụ nữ trẻ"}. Thân máy ảnh bao quanh hình ảnh, với các nút bấm, núm xoay và bề mặt có vân rõ ràng, bao gồm bánh xe FUNC/SET, nút DISP và nhãn “IMAGE STABILIZER” ở bên cạnh. Bức ảnh trên màn hình được chụp {argument name="time and environment" default="trong nhà vào ban đêm"}, với đèn flash tích hợp sáng rực chiếu sáng khuôn mặt và mái tóc của {argument name="character term" default="người phụ nữ"}, tạo ra những điểm sáng sắc nét trên làn da và từng sợi tóc của cô ấy. Cô ấy có {argument name="hair color and style" default="mái tóc dài sẫm màu buông lơi bên má"}, môi hơi hé, với vẻ mặt dịu dàng. Đèn flash làm nổi bật các đặc điểm trên khuôn mặt cô ấy, trong khi hậu cảnh là {argument name="background setting" default="một căn bếp tối, lộn xộn"}, nơi các thiết bị, kệ và bề mặt kim loại mờ ảo với hiệu ứng bokeh nhẹ nhàng. Bầu không khí tổng thể tự nhiên, chân thực và hoài cổ, gợi nhớ đến {argument name="era feeling" default="những bức ảnh chụp bằng máy ảnh kỹ thuật số đầu những năm 2000"}. Tông màu hơi lạnh và dịu, với độ tương phản mạnh từ đèn flash, và màn hình hiển thị có kết cấu hạt tự nhiên. Không có văn bản hoặc logo bên trong bản xem trước ảnh.
-
-Tỷ lệ khung hình: {argument name="aspect ratio" default="4:5 dọc"}
-
-Máy ảnh: mô phỏng máy ảnh kỹ thuật số nhỏ gọn
-Ống kính: tương đương 28–35mm
-Khẩu độ: f/2.8
-ISO: 400
-Tốc độ màn trập: 1/60 giây (có flash)
-Cân bằng trắng: flash tự động
-Ánh sáng: chủ thể được chiếu sáng bằng đèn flash trực tiếp mạnh, với ánh sáng môi trường yếu ở hậu cảnh
-Phong cách chỉnh màu: {argument name="color grading style" default="tông màu máy ảnh kỹ thuật số hoài cổ, vẻ ngoài flash độ tương phản cao, hạt màn hình mịn, ánh sáng màn hình chân thực"}.
+Vui lòng chỉnh sửa khung truyện tranh.
+Trong khung truyện tranh thứ hai có món Katsu Curry, vui lòng chỉnh sửa để trông như đã được ăn từ phía bên phải, xóa hai miếng cốt lết, phần cơm chồng lên cốt lết và phần nước sốt cà ri tương ứng, sao cho món Katsu Curry còn khoảng 30%.
+Món ăn này nên trông giống như đang được ăn dở.
+Ngoài ra, vui lòng xóa đôi đũa đang được cầm ở tay phải.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2525,19 +3430,108 @@ Phong cách chỉnh màu: {argument name="color grading style" default="tông m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909253831_m0r0o3_G7SgEsUbEAA-WXL.jpg" width="600" alt="Gợi ý ảnh chụp chân dung màn hình máy ảnh kỹ thuật số nhỏ gọn - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765106425498_qug98x_G7TUHFpbQAAzmH3.jpg" width="600" alt="Manga Panel Image Editing Prompt: Cảnh Katsu Curry - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909257061_1enhlm_G7NVohbbgAcUFBe.jpg" width="600" alt="Gợi ý ảnh chụp chân dung màn hình máy ảnh kỹ thuật số nhỏ gọn - Image 2">
+<img src="https://cdn.gooo.ai/cms/1765106427560_pg7jh6_G7TUH9ya8AAJ0eq.jpg" width="600" alt="Manga Panel Image Editing Prompt: Cảnh Katsu Curry - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ねこさん@AIクリエイター](https://x.com/neko_san_ai)
+- **Nguồn:** [Twitter Post](https://x.com/neko_san_ai/status/1996456111764132342)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Vui%20l%C3%B2ng%20ch%E1%BB%89nh%20s%E1%BB%ADa%20khung%20truy%E1%BB%87n%20tranh.%0ATrong%20khung%20truy%E1%BB%87n%20tranh%20th%E1%BB%A9%20hai%20c%C3%B3%20m%C3%B3n%20Katsu%20Curry%2C%20vui%20l%C3%B2ng%20ch%E1%BB%89nh%20s%E1%BB%ADa%20%C4%91%E1%BB%83%20tr%C3%B4ng%20nh%C6%B0%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n%20t%E1%BB%AB%20ph%C3%ADa%20b%C3%AAn%20ph%E1%BA%A3i%2C%20x%C3%B3a%20hai%20mi%E1%BA%BFng%20c%E1%BB%91t%20l%E1%BA%BFt%2C%20ph%E1%BA%A7n%20c%C6%A1m%20ch%E1%BB%93ng%20l%C3%AAn%20c%E1%BB%91t%20l%E1%BA%BFt%20v%C3%A0%20ph%E1%BA%A7n%20n%C6%B0%E1%BB%9Bc%20s%E1%BB%91t%20c%C3%A0%20ri%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%2C%20sao%20cho%20m%C3%B3n%20Katsu%20Curry%20c%C3%B2n%20kho%E1%BA%A3ng%2030%25.%0AM%C3%B3n%20%C4%83n%20n%C3%A0y%20n%C3%AAn%20tr%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n%20d%E1%BB%9F.%0ANgo%C3%A0i%20ra%2C%20vui%20l%C3%B2ng%20x%C3%B3a%20%C4%91%C3%B4i%20%C4%91%C5%A9a%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A7m%20%E1%BB%9F%20tay%20ph%E1%BA%A3i.)**
+
+---
+
+### No. 54: Thiết kế lại tờ rơi bằng Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc được sử dụng với Firefly và Photoshop (cả hai đều dùng Nano Banana Pro) để thiết kế lại một tờ rơi. Hướng dẫn là lấy một hình ảnh tham chiếu (chỉ là văn bản và hình ảnh được đặt đơn giản) và mạnh dạn thay đổi bố cục để tạo ra một thiết kế hiện đại, phong cách cho một tờ rơi sự kiện.
+
+#### 📝 Câu lệnh
+
+```
+Tôi muốn tạo một thiết kế tờ rơi cho một sự kiện. Hình ảnh tham khảo chỉ là cách sắp xếp đơn giản các khẩu hiệu, văn bản và hình ảnh, vì vậy hãy mạnh dạn thay đổi bố cục và biến nó thành một thiết kế đầy phong cách.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106425383_p66yvu_G7S2pgGaEAAJ21Y.jpg" width="600" alt="Thiết kế lại tờ rơi bằng Nano Banana Pro - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106425922_5v5hh4_G7S2lhca4AAtYIR.jpg" width="600" alt="Thiết kế lại tờ rơi bằng Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909259393_mhvo6o_G7NVog9a4AAnfbO.jpg" width="600" alt="Gợi ý ảnh chụp chân dung màn hình máy ảnh kỹ thuật số nhỏ gọn - Image 3">
+<img src="https://cdn.gooo.ai/cms/1765106429505_m0l1j8_G7S2qeuaMAIsVWZ.jpg" width="600" alt="Thiết kế lại tờ rơi bằng Nano Banana Pro - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106428702_1cwazn_G7S1yuIaoAAoMBr.jpg" width="600" alt="Thiết kế lại tờ rơi bằng Nano Banana Pro - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [笹川純一（DTPオペ➡️ウェブ制作・EC運営担当）](https://x.com/jdash2000)
+- **Nguồn:** [Twitter Post](https://x.com/jdash2000/status/1996421581841797607)
+- **Đã xuất bản:** 4 tháng 12, 2025
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%C3%B4i%20mu%E1%BB%91n%20t%E1%BA%A1o%20m%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%9D%20r%C6%A1i%20cho%20m%E1%BB%99t%20s%E1%BB%B1%20ki%E1%BB%87n.%20H%C3%ACnh%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%20ch%E1%BB%89%20l%C3%A0%20c%C3%A1ch%20s%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20c%C3%A1c%20kh%E1%BA%A9u%20hi%E1%BB%87u%2C%20v%C4%83n%20b%E1%BA%A3n%20v%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%2C%20v%C3%AC%20v%E1%BA%ADy%20h%C3%A3y%20m%E1%BA%A1nh%20d%E1%BA%A1n%20thay%20%C4%91%E1%BB%95i%20b%E1%BB%91%20c%E1%BB%A5c%20v%C3%A0%20bi%E1%BA%BFn%20n%C3%B3%20th%C3%A0nh%20m%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BA%A7y%20phong%20c%C3%A1ch.)**
+
+---
+
+### No. 55: Ảnh chụp màn hình máy ảnh kỹ thuật số nhỏ gọn của một phụ nữ trẻ
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo ảnh chi tiết được thiết kế để mô phỏng một bức ảnh chụp nhanh từ máy ảnh kỹ thuật số đầu những năm 2000 đầy hoài niệm. Nó tập trung vào cận cảnh một phụ nữ trẻ được hiển thị trên màn hình máy ảnh kỹ thuật số Canon nhỏ gọn, nhấn mạnh ánh sáng đèn flash trực tiếp, gay gắt, kết cấu màn hình nhiễu hạt và các chi tiết thân máy ảnh có thể nhìn thấy.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng các đặc điểm khuôn mặt từ ảnh đính kèm. Một bức ảnh cận cảnh của một phụ nữ trẻ được hiển thị trên màn hình của một máy ảnh kỹ thuật số Canon nhỏ. Thân máy ảnh bao quanh hình ảnh, với các nút, núm xoay và bề mặt có vân rõ ràng, bao gồm bánh xe FUNC/SET, nút DISP và nhãn 'IMAGE STABILIZER' ở bên cạnh. Bức ảnh trên màn hình được chụp trong nhà vào ban đêm, với đèn flash tích hợp sáng rực chiếu sáng khuôn mặt và mái tóc của người phụ nữ, tạo ra những điểm sáng sắc nét trên khuôn mặt và từng sợi tóc của cô. Mái tóc dài, sẫm màu của cô buông lỏng bên má, đôi môi hơi hé mở và biểu cảm dịu dàng. Đèn flash làm nổi bật các đặc điểm trên khuôn mặt cô, và hậu cảnh là một căn bếp lộn xộn, thiếu sáng, nơi các thiết bị, kệ và bề mặt kim loại lờ mờ hiện ra, tạo hiệu ứng bokeh mềm mại. Bầu không khí tổng thể tự nhiên, chân thực và hoài cổ, gợi nhớ những bức ảnh chụp bằng máy ảnh kỹ thuật số đầu những năm 2000. Tông màu lạnh và hơi dịu, với đèn flash tạo độ tương phản mạnh, và màn hình hiển thị có hạt tự nhiên. Không có văn bản hoặc logo nào xuất hiện trong bản xem trước ảnh.
+
+Tỷ lệ khung hình: 4:5 dọc
+
+Máy ảnh: Mô phỏng máy ảnh kỹ thuật số nhỏ gọn
+Ống kính: Tương đương 28–35mm
+Khẩu độ: f/2.8
+ISO: 400
+Tốc độ màn trập: 1/60s (sử dụng đèn flash)
+Cân bằng trắng: Đèn flash tự động
+Ánh sáng: Chủ thể được chiếu sáng bằng đèn flash trực tiếp mạnh, hậu cảnh là ánh sáng xung quanh yếu
+Phong cách chỉnh màu: Tông màu máy ảnh kỹ thuật số hoài cổ, hiệu ứng đèn flash tương phản cao, hạt màn hình tinh tế, ánh sáng màn hình chân thực.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765106417906_0olqp2_G7SgEsUbEAA-WXL.jpg" width="600" alt="Ảnh chụp màn hình máy ảnh kỹ thuật số nhỏ gọn của một phụ nữ trẻ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2547,11 +3541,11 @@ Phong cách chỉnh màu: {argument name="color grading style" default="tông m�
 - **Đã xuất bản:** 4 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20t%E1%BB%AB%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m.%20Tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20c%E1%BB%A7a%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20Canon%20nh%E1%BB%8F%20g%E1%BB%8Dn%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20c%E1%BA%ADn%20c%E1%BA%A3nh%20%7Bargument%20name%3D%22character%20description%22%20default%3D%22m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%22%7D.%20Th%C3%A2n%20m%C3%A1y%20%E1%BA%A3nh%20bao%20quanh%20h%C3%ACnh%20%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20c%C3%A1c%20n%C3%BAt%20b%E1%BA%A5m%2C%20n%C3%BAm%20xoay%20v%C3%A0%20b%E1%BB%81%20m%E1%BA%B7t%20c%C3%B3%20v%C3%A2n%20r%C3%B5%20r%C3%A0ng%2C%20bao%20g%E1%BB%93m%20b%C3%A1nh%20xe%20FUNC%2FSET%2C%20n%C3%BAt%20DISP%20v%C3%A0%20nh%C3%A3n%20%E2%80%9CIMAGE%20STABILIZER%E2%80%9D%20%E1%BB%9F%20b%C3%AAn%20c%E1%BA%A1nh.%20B%E1%BB%A9c%20%E1%BA%A3nh%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20%7Bargument%20name%3D%22time%20and%20environment%22%20default%3D%22trong%20nh%C3%A0%20v%C3%A0o%20ban%20%C4%91%C3%AAm%22%7D%2C%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20flash%20t%C3%ADch%20h%E1%BB%A3p%20s%C3%A1ng%20r%E1%BB%B1c%20chi%E1%BA%BFu%20s%C3%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20m%C3%A1i%20t%C3%B3c%20c%E1%BB%A7a%20%7Bargument%20name%3D%22character%20term%22%20default%3D%22ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%22%7D%2C%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20%C4%91i%E1%BB%83m%20s%C3%A1ng%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20l%C3%A0n%20da%20v%C3%A0%20t%E1%BB%ABng%20s%E1%BB%A3i%20t%C3%B3c%20c%E1%BB%A7a%20c%C3%B4%20%E1%BA%A5y.%20C%C3%B4%20%E1%BA%A5y%20c%C3%B3%20%7Bargument%20name%3D%22hair%20color%20and%20style%22%20default%3D%22m%C3%A1i%20t%C3%B3c%20d%C3%A0i%20s%E1%BA%ABm%20m%C3%A0u%20bu%C3%B4ng%20l%C6%A1i%20b%C3%AAn%20m%C3%A1%22%7D%2C%20m%C3%B4i%20h%C6%A1i%20h%C3%A9%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20d%E1%BB%8Bu%20d%C3%A0ng.%20%C4%90%C3%A8n%20flash%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20c%C3%B4%20%E1%BA%A5y%2C%20trong%20khi%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20%7Bargument%20name%3D%22background%20setting%22%20default%3D%22m%E1%BB%99t%20c%C4%83n%20b%E1%BA%BFp%20t%E1%BB%91i%2C%20l%E1%BB%99n%20x%E1%BB%99n%22%7D%2C%20n%C6%A1i%20c%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B%2C%20k%E1%BB%87%20v%C3%A0%20b%E1%BB%81%20m%E1%BA%B7t%20kim%20lo%E1%BA%A1i%20m%E1%BB%9D%20%E1%BA%A3o%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20nh%E1%BA%B9%20nh%C3%A0ng.%20B%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%95ng%20th%E1%BB%83%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20ho%C3%A0i%20c%E1%BB%95%2C%20g%E1%BB%A3i%20nh%E1%BB%9B%20%C4%91%E1%BA%BFn%20%7Bargument%20name%3D%22era%20feeling%22%20default%3D%22nh%E1%BB%AFng%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20%C4%91%E1%BA%A7u%20nh%E1%BB%AFng%20n%C4%83m%202000%22%7D.%20T%C3%B4ng%20m%C3%A0u%20h%C6%A1i%20l%E1%BA%A1nh%20v%C3%A0%20d%E1%BB%8Bu%2C%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20m%E1%BA%A1nh%20t%E1%BB%AB%20%C4%91%C3%A8n%20flash%2C%20v%C3%A0%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20h%E1%BA%A1t%20t%E1%BB%B1%20nhi%C3%AAn.%20Kh%C3%B4ng%20c%C3%B3%20v%C4%83n%20b%E1%BA%A3n%20ho%E1%BA%B7c%20logo%20b%C3%AAn%20trong%20b%E1%BA%A3n%20xem%20tr%C6%B0%E1%BB%9Bc%20%E1%BA%A3nh.%0A%0AT%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%3A%20%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%224%3A5%20d%E1%BB%8Dc%22%7D%0A%0AM%C3%A1y%20%E1%BA%A3nh%3A%20m%C3%B4%20ph%E1%BB%8Fng%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20nh%E1%BB%8F%20g%E1%BB%8Dn%0A%E1%BB%90ng%20k%C3%ADnh%3A%20t%C6%B0%C6%A1ng%20%C4%91%C6%B0%C6%A1ng%2028%E2%80%9335mm%0AKh%E1%BA%A9u%20%C4%91%E1%BB%99%3A%20f%2F2.8%0AISO%3A%20400%0AT%E1%BB%91c%20%C4%91%E1%BB%99%20m%C3%A0n%20tr%E1%BA%ADp%3A%201%2F60%20gi%C3%A2y%20(c%C3%B3%20flash)%0AC%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%3A%20flash%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%0A%C3%81nh%20s%C3%A1ng%3A%20ch%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BA%B1ng%20%C4%91%C3%A8n%20flash%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20m%E1%BA%A1nh%2C%20v%E1%BB%9Bi%20%C3%A1nh%20s%C3%A1ng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20y%E1%BA%BFu%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%0APhong%20c%C3%A1ch%20ch%E1%BB%89nh%20m%C3%A0u%3A%20%7Bargument%20name%3D%22color%20grading%20style%22%20default%3D%22t%C3%B4ng%20m%C3%A0u%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20ho%C3%A0i%20c%E1%BB%95%2C%20v%E1%BA%BB%20ngo%C3%A0i%20flash%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20h%E1%BA%A1t%20m%C3%A0n%20h%C3%ACnh%20m%E1%BB%8Bn%2C%20%C3%A1nh%20s%C3%A1ng%20m%C3%A0n%20h%C3%ACnh%20ch%C3%A2n%20th%E1%BB%B1c%22%7D.)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20khu%C3%B4n%20m%E1%BA%B7t%20t%E1%BB%AB%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20c%E1%BB%A7a%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20c%E1%BB%A7a%20m%E1%BB%99t%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20Canon%20nh%E1%BB%8F.%20Th%C3%A2n%20m%C3%A1y%20%E1%BA%A3nh%20bao%20quanh%20h%C3%ACnh%20%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20c%C3%A1c%20n%C3%BAt%2C%20n%C3%BAm%20xoay%20v%C3%A0%20b%E1%BB%81%20m%E1%BA%B7t%20c%C3%B3%20v%C3%A2n%20r%C3%B5%20r%C3%A0ng%2C%20bao%20g%E1%BB%93m%20b%C3%A1nh%20xe%20FUNC%2FSET%2C%20n%C3%BAt%20DISP%20v%C3%A0%20nh%C3%A3n%20'IMAGE%20STABILIZER'%20%E1%BB%9F%20b%C3%AAn%20c%E1%BA%A1nh.%20B%E1%BB%A9c%20%E1%BA%A3nh%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20trong%20nh%C3%A0%20v%C3%A0o%20ban%20%C4%91%C3%AAm%2C%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20flash%20t%C3%ADch%20h%E1%BB%A3p%20s%C3%A1ng%20r%E1%BB%B1c%20chi%E1%BA%BFu%20s%C3%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20m%C3%A1i%20t%C3%B3c%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%2C%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20%C4%91i%E1%BB%83m%20s%C3%A1ng%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20t%E1%BB%ABng%20s%E1%BB%A3i%20t%C3%B3c%20c%E1%BB%A7a%20c%C3%B4.%20M%C3%A1i%20t%C3%B3c%20d%C3%A0i%2C%20s%E1%BA%ABm%20m%C3%A0u%20c%E1%BB%A7a%20c%C3%B4%20bu%C3%B4ng%20l%E1%BB%8Fng%20b%C3%AAn%20m%C3%A1%2C%20%C4%91%C3%B4i%20m%C3%B4i%20h%C6%A1i%20h%C3%A9%20m%E1%BB%9F%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20d%E1%BB%8Bu%20d%C3%A0ng.%20%C4%90%C3%A8n%20flash%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20c%C3%B4%2C%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%C4%83n%20b%E1%BA%BFp%20l%E1%BB%99n%20x%E1%BB%99n%2C%20thi%E1%BA%BFu%20s%C3%A1ng%2C%20n%C6%A1i%20c%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B%2C%20k%E1%BB%87%20v%C3%A0%20b%E1%BB%81%20m%E1%BA%B7t%20kim%20lo%E1%BA%A1i%20l%E1%BB%9D%20m%E1%BB%9D%20hi%E1%BB%87n%20ra%2C%20t%E1%BA%A1o%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%E1%BB%81m%20m%E1%BA%A1i.%20B%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%95ng%20th%E1%BB%83%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20ho%C3%A0i%20c%E1%BB%95%2C%20g%E1%BB%A3i%20nh%E1%BB%9B%20nh%E1%BB%AFng%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20%C4%91%E1%BA%A7u%20nh%E1%BB%AFng%20n%C4%83m%202000.%20T%C3%B4ng%20m%C3%A0u%20l%E1%BA%A1nh%20v%C3%A0%20h%C6%A1i%20d%E1%BB%8Bu%2C%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20flash%20t%E1%BA%A1o%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20m%E1%BA%A1nh%2C%20v%C3%A0%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%B3%20h%E1%BA%A1t%20t%E1%BB%B1%20nhi%C3%AAn.%20Kh%C3%B4ng%20c%C3%B3%20v%C4%83n%20b%E1%BA%A3n%20ho%E1%BA%B7c%20logo%20n%C3%A0o%20xu%E1%BA%A5t%20hi%E1%BB%87n%20trong%20b%E1%BA%A3n%20xem%20tr%C6%B0%E1%BB%9Bc%20%E1%BA%A3nh.%0A%0AT%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%3A%204%3A5%20d%E1%BB%8Dc%0A%0AM%C3%A1y%20%E1%BA%A3nh%3A%20M%C3%B4%20ph%E1%BB%8Fng%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20nh%E1%BB%8F%20g%E1%BB%8Dn%0A%E1%BB%90ng%20k%C3%ADnh%3A%20T%C6%B0%C6%A1ng%20%C4%91%C6%B0%C6%A1ng%2028%E2%80%9335mm%0AKh%E1%BA%A9u%20%C4%91%E1%BB%99%3A%20f%2F2.8%0AISO%3A%20400%0AT%E1%BB%91c%20%C4%91%E1%BB%99%20m%C3%A0n%20tr%E1%BA%ADp%3A%201%2F60s%20(s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C3%A8n%20flash)%0AC%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%3A%20%C4%90%C3%A8n%20flash%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%0A%C3%81nh%20s%C3%A1ng%3A%20Ch%E1%BB%A7%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BA%B1ng%20%C4%91%C3%A8n%20flash%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20m%E1%BA%A1nh%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20%C3%A1nh%20s%C3%A1ng%20xung%20quanh%20y%E1%BA%BFu%0APhong%20c%C3%A1ch%20ch%E1%BB%89nh%20m%C3%A0u%3A%20T%C3%B4ng%20m%C3%A0u%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20ho%C3%A0i%20c%E1%BB%95%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C4%91%C3%A8n%20flash%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20h%E1%BA%A1t%20m%C3%A0n%20h%C3%ACnh%20tinh%20t%E1%BA%BF%2C%20%C3%A1nh%20s%C3%A1ng%20m%C3%A0n%20h%C3%ACnh%20ch%C3%A2n%20th%E1%BB%B1c.)**
 
 ---
 
-### No. 37: Chụp ảnh selfie mắt cá với các nhân vật điện ảnh bằng Nano Banana Pro
+### No. 56: Chụp ảnh selfie mắt cá với các nhân vật điện ảnh bằng Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2607,7 +3601,7 @@ Chủ thể & Hành động: Một bức ảnh nhóm cận cảnh, bị biến d
 
 ---
 
-### No. 38: Lời nhắc về hình ảnh cô gái viết tay kiểu Y2K phủ lên trên thiệp
+### No. 57: Lời nhắc về hình ảnh cô gái viết tay kiểu Y2K phủ lên trên thiệp
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2647,7 +3641,7 @@ Thêm chữ viết và hình vẽ nguệch ngoạc, vẽ tay theo phong cách c�
 
 ---
 
-### No. 39: Lời nhắc hình ảnh đơn giản về chó và ông già Noel Giáng sinh
+### No. 58: Lời nhắc hình ảnh đơn giản về chó và ông già Noel Giáng sinh
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2692,7 +3686,7 @@ Một lời nhắc rất ngắn bằng tiếng Nhật được sử dụng trên
 
 ---
 
-### No. 40: Lời nhắc video Sora cho quảng cáo Macho Meal của McDonald’s
+### No. 59: Lời nhắc video Sora cho quảng cáo Macho Meal của McDonald’s
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2732,7 +3726,7 @@ Quảng cáo thương mại đích thực từ thập niên 1980 cho {argument n
 
 ---
 
-### No. 41: Lời nhắc mô phỏng ảnh selfie màn hình MacBook của cặp đôi
+### No. 60: Lời nhắc mô phỏng ảnh selfie màn hình MacBook của cặp đôi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2831,7 +3825,7 @@ Một cấu hình JSON phức tạp để mô phỏng màn hình MacBook siêu t
 
 ---
 
-### No. 42: Hình ảnh gợi ý biển hiệu lối vào quán nhậu Nhật Bản (izakaya) cho Nano Banana Pro
+### No. 61: Hình ảnh gợi ý biển hiệu lối vào quán nhậu Nhật Bản (izakaya) cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2875,7 +3869,7 @@ chất lượng ảnh chân thực
 
 ---
 
-### No. 43: Lời nhắc nhất quán cho cô gái anime ba tư thế
+### No. 62: Lời nhắc nhất quán cho cô gái anime ba tư thế
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2915,13 +3909,13 @@ Một hình minh họa theo phong cách anime của {argument name="the same gir
 
 ---
 
-### No. 44: Hướng dẫn phong cách biểu cảm từ một hình ảnh
+### No. 63: Hướng dẫn tạo lời nhắc về phong cách biểu cảm thiết kế nhân vật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một prompt tiếng Anh ngắn gọn, siêu nhỏ, chuyên nghiệp, tạo hướng dẫn phong cách biểu cảm nhân vật dựa trên một hình ảnh cho trước, lý tưởng cho quy trình thiết kế nhân vật.
+Một prompt ngắn gọn và hiệu quả cho Nano Banana Pro, được sử dụng để tạo ra nhiều biểu cảm nhân vật khác nhau, phù hợp để tạo hướng dẫn phong cách thiết kế nhân vật dựa trên một hình ảnh được cung cấp.
 
 #### 📝 Câu lệnh
 
@@ -2934,13 +3928,7 @@ Tạo hướng dẫn phong cách biểu cảm thiết kế nhân vật cho hình
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909253589_otreo2_G7QFy70boAAS4xQ.jpg" width="600" alt="Hướng dẫn phong cách biểu cảm từ một hình ảnh - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909256498_cu97dv_G7MJmA-bgAQYSHS.jpg" width="600" alt="Hướng dẫn phong cách biểu cảm từ một hình ảnh - Image 2">
+<img src="https://cdn.gooo.ai/cms/1765106419147_2yv6yo_G7QFy70boAAS4xQ.jpg" width="600" alt="Hướng dẫn tạo lời nhắc về phong cách biểu cảm thiết kế nhân vật - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2954,7 +3942,7 @@ Tạo hướng dẫn phong cách biểu cảm thiết kế nhân vật cho hình
 
 ---
 
-### No. 45: Khung minh họa hộp đèn cắt giấy 3D
+### No. 64: Khung minh họa hộp đèn cắt giấy 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3035,7 +4023,7 @@ Thông số kỹ thuật: tỷ lệ dọc 3:4, đầu ra độ phân giải cao.
 
 ---
 
-### No. 46: Cảnh quán cà phê đường phố ở Málaga trên iPhone trông như ảnh thật
+### No. 65: Cảnh quán cà phê đường phố ở Málaga trên iPhone trông như ảnh thật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3075,7 +4063,7 @@ Tạo một hình ảnh chân thực được chụp bằng {argument name="devi
 
 ---
 
-### No. 47: Chân dung cận cảnh điện ảnh với đôi mắt xanh và áo len dệt kim
+### No. 66: Chân dung cận cảnh điện ảnh với đôi mắt xanh và áo len dệt kim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3108,7 +4096,7 @@ Chân dung cận cảnh điện ảnh của một phụ nữ trẻ với mái t�
 
 ---
 
-### No. 48: Lời nhắc chụp ảnh tự sướng thể thao mạo hiểm kiểu GoPro
+### No. 67: Lời nhắc chụp ảnh tự sướng thể thao mạo hiểm kiểu GoPro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3148,7 +4136,7 @@ Một bức ảnh selfie siêu thực kiểu GoPro của {argument name="subject
 
 ---
 
-### No. 49: Lời nhắc tạo ảnh chân dung sân thượng quán cà phê Paris Marais
+### No. 68: Lời nhắc tạo ảnh chân dung sân thượng quán cà phê Paris Marais
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3188,7 +4176,7 @@ Tạo một hình ảnh chân thực như ảnh chụp về một quán cà phê
 
 ---
 
-### No. 50: Gợi ý tạo ảnh: người phụ nữ thanh lịch trong chiếc váy mini màu nâu
+### No. 69: Gợi ý tạo ảnh: người phụ nữ thanh lịch trong chiếc váy mini màu nâu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3229,7 +4217,7 @@ Một lời nhắc được gói JSON mô tả một người phụ nữ tự ti
 
 ---
 
-### No. 51: Lời nhắc chụp ảnh chân dung trên sân thượng vào giờ vàng
+### No. 70: Lời nhắc chụp ảnh chân dung trên sân thượng vào giờ vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3268,7 +4256,7 @@ Một người đang đứng trên sân thượng thành phố vào giờ vàng,
 
 ---
 
-### No. 52: Nano Banana Pro: Lời nhắc chỉnh sửa chuyển đổi phong cách giấy rách
+### No. 71: Nano Banana Pro: Lời nhắc chỉnh sửa chuyển đổi phong cách giấy rách
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3384,7 +4372,7 @@ interior_style:
 
 ---
 
-### No. 53: Nano Banana Pro: hình minh họa đường cắt trang phục theo phong cách meme
+### No. 72: Nano Banana Pro: hình minh họa đường cắt trang phục theo phong cách meme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3454,7 +4442,7 @@ Tạo một "hình minh họa kiểu meme trong đó quần áo bị cắt bỏ 
 
 ---
 
-### No. 54: Lời nhắc minh họa nhân vật quả cầu tuyết cho Nano Banana Pro
+### No. 73: Lời nhắc minh họa nhân vật quả cầu tuyết cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3514,7 +4502,7 @@ Không hiển thị bất kỳ ngón tay người nào. Không làm đuôi chó 
 
 ---
 
-### No. 55: Các lời nhắc tạo bản đồ độ sâu và bản đồ Normal cho Nano Banana Pro
+### No. 74: Các lời nhắc tạo bản đồ độ sâu và bản đồ Normal cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3573,7 +4561,7 @@ Yêu cầu:
 
 ---
 
-### No. 56: Lời nhắc đơn giản để nâng cấp và sửa chữa ảnh
+### No. 75: Lời nhắc đơn giản để nâng cấp và sửa chữa ảnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3612,7 +4600,7 @@ Sửa ảnh, nâng cấp hình ảnh này lên độ phân giải 2K và làm ch
 
 ---
 
-### No. 57: Hướng dẫn phong cách thiết kế slide phẳng, gọn gàng cho NotebookLM
+### No. 76: Hướng dẫn phong cách thiết kế slide phẳng, gọn gàng cho NotebookLM
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3669,7 +4657,7 @@ Sử dụng bố cục tập trung vào biểu đồ (ví dụ: biểu đồ Ven
 
 ---
 
-### No. 58: Lời nhắc trình chiếu ảnh selfie trước gương cho một phụ nữ trẻ sành điệu
+### No. 77: Lời nhắc trình chiếu ảnh selfie trước gương cho một phụ nữ trẻ sành điệu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3769,7 +4757,7 @@ Một lời nhắc tạo trình chiếu Nano Banana Pro có cấu trúc cao mô 
 
 ---
 
-### No. 59: Lời nhắc minh họa trên không của Google Maps theo phong cách máy bay không người lái hoạt hình
+### No. 78: Lời nhắc minh họa trên không của Google Maps theo phong cách máy bay không người lái hoạt hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3808,7 +4796,7 @@ Biến đổi bản đồ nhìn từ trên cao này thành một bức ảnh ch�
 
 ---
 
-### No. 60: Chân dung cách điệu góc thấp của một phụ nữ trẻ trong căn phòng thiếu sáng
+### No. 79: Chân dung cách điệu góc thấp của một phụ nữ trẻ trong căn phòng thiếu sáng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3903,7 +4891,7 @@ Một lời nhắc JSON có cấu trúc dành cho Gemini Nano Banana Pro để t
 
 ---
 
-### No. 61: Chỉnh sửa ảnh selfie siêu thực 16K của một cô gái đang mơ mộng trên chăn
+### No. 80: Chỉnh sửa ảnh selfie siêu thực 16K của một cô gái đang mơ mộng trên chăn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3937,7 +4925,7 @@ Chỉnh sửa ảnh với độ phân giải 16K siêu thực. Một cô gái {a
 
 ---
 
-### No. 62: Lời nhắc cảnh bàn làm việc tĩnh vật buổi sáng 8K cực kỳ chi tiết
+### No. 81: Lời nhắc cảnh bàn làm việc tĩnh vật buổi sáng 8K cực kỳ chi tiết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3982,7 +4970,7 @@ Chi tiết kết cấu tối đa, tán xạ dưới bề mặt, hiệu ứng cau
 
 ---
 
-### No. 63: Lời nhắc kiểu tham số chân dung studio cho đối tượng nam
+### No. 82: Lời nhắc kiểu tham số chân dung studio cho đối tượng nam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4047,7 +5035,7 @@ chất lượng hiển thị = "{argument name="render quality" default="ultra_h
 
 ---
 
-### No. 64: Lời nhắc chụp ảnh sản phẩm cho cảnh atlas pop-up ở Tokyo
+### No. 83: Lời nhắc chụp ảnh sản phẩm cho cảnh atlas pop-up ở Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4081,7 +5069,7 @@ Một cuốn atlas bìa cứng đang mở nằm phẳng, với mô hình thu nh�
 
 ---
 
-### No. 65: Mẫu lời nhắc JSON hệ thống cho những người có ảnh hưởng AI theo phong cách iPhone siêu thực
+### No. 84: Mẫu lời nhắc JSON hệ thống cho những người có ảnh hưởng AI theo phong cách iPhone siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4189,7 +5177,7 @@ Chờ mô tả cảnh của người dùng. Tạo đầu ra JSON ngay lập tứ
 
 ---
 
-### No. 66: Lời nhắc JSON Nano Banana Pro cho bàn làm việc của nhà thực vật học theo phong cách steampunk
+### No. 85: Lời nhắc JSON Nano Banana Pro cho bàn làm việc của nhà thực vật học theo phong cách steampunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4239,7 +5227,7 @@ Một lời nhắc Nano Banana Pro dựa trên JSON phong phú mô tả cận c�
 
 ---
 
-### No. 67: Thử thách viết chữ bằng rau củ
+### No. 86: Thử thách viết chữ bằng rau củ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4273,7 +5261,7 @@ Một lời nhắc thử thách sáng tạo ngắn gọn yêu cầu Nano Banana 
 
 ---
 
-### No. 68: Lời nhắc JSON có cấu trúc cho bức chân dung thời trang đường phố sành điệu của một phụ nữ trẻ
+### No. 87: Lời nhắc JSON có cấu trúc cho bức chân dung thời trang đường phố sành điệu của một phụ nữ trẻ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4346,7 +5334,7 @@ Một lời nhắc tạo ảnh chi tiết theo kiểu JSON cho Nano Banana Pro, 
 
 ---
 
-### No. 69: Ý tưởng gợi ý: mô hình thu nhỏ 3D chibi về địa điểm du lịch
+### No. 88: Ý tưởng gợi ý: mô hình thu nhỏ 3D chibi về địa điểm du lịch
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4398,7 +5386,7 @@ Một mô hình du lịch thu nhỏ phong cách chibi 3D theo chủ đề {argum
 
 ---
 
-### No. 70: Lời nhắc thương hiệu cửa hàng ý tưởng chibi 3D
+### No. 89: Lời nhắc thương hiệu cửa hàng ý tưởng chibi 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4432,7 +5420,7 @@ Cửa hàng ý tưởng mô hình thu nhỏ 3D phong cách chibi của {argument
 
 ---
 
-### No. 71: Biến hình ảnh tham khảo thành chiếc bánh Giáng sinh chân thực
+### No. 90: Biến hình ảnh tham khảo thành chiếc bánh Giáng sinh chân thực
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4477,7 +5465,7 @@ Vui lòng biến hình ảnh tham khảo thành một chiếc bánh Giáng sinh 
 
 ---
 
-### No. 72: Ý tưởng ghế treo bên hồ phong cách điện ảnh với chủ đề vật thể không gian
+### No. 91: Ý tưởng ghế treo bên hồ phong cách điện ảnh với chủ đề vật thể không gian
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4529,7 +5517,7 @@ Cảnh đêm điện ảnh của một nơi nghỉ dưỡng ngoài trời ấm c
 
 ---
 
-### No. 73: Gợi ý tạo ảnh selfie với ô tô theo phong cách Instagram tự nhiên
+### No. 92: Gợi ý tạo ảnh selfie với ô tô theo phong cách Instagram tự nhiên
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4577,7 +5565,7 @@ Màu sắc: tươi sáng, thoáng đãng và hơi ấm. Khuôn mặt và phần 
 
 ---
 
-### No. 74: Hình minh họa tàu chiến khổng lồ lúc bình minh
+### No. 93: Hình minh họa tàu chiến khổng lồ lúc bình minh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4610,7 +5598,7 @@ Một thiết giáp hạm khổng lồ đang lướt trên mặt biển lặng s
 
 ---
 
-### No. 75: Logo thương hiệu dập nổi 3D trên nền đơn sắc
+### No. 94: Logo thương hiệu dập nổi 3D trên nền đơn sắc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4652,7 +5640,7 @@ Bề mặt mờ được phủ một lớp hạt phim hoặc nhiễu nhẹ.
 
 ---
 
-### No. 76: Lời nhắc Nano Banana Pro kiểu JSON cho khuôn mặt chân thực
+### No. 95: Lời nhắc Nano Banana Pro kiểu JSON cho khuôn mặt chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4720,7 +5708,7 @@ Một mẫu lời nhắc JSON chi tiết cho Nano Banana Pro, tạo ra một b�
 
 ---
 
-### No. 77: Lời nhắc hình ảnh đơn giản: nho trong giỏ
+### No. 96: Lời nhắc hình ảnh đơn giản: nho trong giỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4759,7 +5747,7 @@ nho trong một giỏ làm từ dây nho
 
 ---
 
-### No. 78: Lời nhắc tạo nguồn cấp dữ liệu mạng xã hội về dầu ô liu
+### No. 97: Lời nhắc tạo nguồn cấp dữ liệu mạng xã hội về dầu ô liu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4793,7 +5781,7 @@ Tạo nguồn cấp dữ liệu mạng xã hội cho {argument name="brand type 
 
 ---
 
-### No. 79: Gợi ý cửa hàng ý tưởng thương hiệu mô hình chibi 3D
+### No. 98: Gợi ý cửa hàng ý tưởng thương hiệu mô hình chibi 3D
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4845,7 +5833,7 @@ Một cửa hàng concept thu nhỏ 3D phong cách chibi cho {argument name="bra
 
 ---
 
-### No. 80: Yêu cầu thay thế quảng cáo và điều chỉnh thương hiệu cho Nano Banana Pro
+### No. 99: Yêu cầu thay thế quảng cáo và điều chỉnh thương hiệu cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4903,7 +5891,7 @@ Duy trì kết xuất chân thực như ảnh xuyên suốt.
 
 ---
 
-### No. 81: Chụp ảnh selfie với nhân vật điện ảnh bằng khuôn mặt tham chiếu trong Nano Banana Pro
+### No. 100: Chụp ảnh selfie với nhân vật điện ảnh bằng khuôn mặt tham chiếu trong Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4957,7 +5945,7 @@ Giữ nguyên người trong ảnh tham chiếu với 100% đặc điểm khuôn
 
 ---
 
-### No. 82: Lời nhắc tạo hình ảnh tô màu nét vẽ cho Nano Banana Pro
+### No. 101: Lời nhắc tạo hình ảnh tô màu nét vẽ cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5009,7 +5997,7 @@ Tạo hình vẽ đường nét cho một trang tô màu. Độ tuổi mục ti�
 
 ---
 
-### No. 83: Cảnh mùa đông thời Trung cổ trong cuốn sách cũ lấy bối cảnh ở Pereira, Colombia
+### No. 102: Cảnh mùa đông thời Trung cổ trong cuốn sách cũ lấy bối cảnh ở Pereira, Colombia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5045,7 +6033,7 @@ Thiết kế một cảnh mùa đông thời trung cổ bên trong một cuốn 
 
 ---
 
-### No. 84: Lời nhắc nhân vật cố định theo phong cách Rorona cho Nano Banana Pro / Gemini
+### No. 103: Lời nhắc nhân vật cố định theo phong cách Rorona cho Nano Banana Pro / Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5089,7 +6077,7 @@ nhân vật nhất quán, cùng một khuôn mặt trong mọi khung hình,
 
 ---
 
-### No. 85: Yêu cầu tạo hình ảnh: Trưng bày các tòa nhà cao nhất thành phố dưới dạng hoạt hình 3D
+### No. 104: Yêu cầu tạo hình ảnh: Trưng bày các tòa nhà cao nhất thành phố dưới dạng hoạt hình 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5138,7 +6126,7 @@ Sử dụng bố cục hình vuông 1080×1080. Sử dụng nền sạch, trung 
 
 ---
 
-### No. 86: Khung phong cách chụp ảnh báo chí chiến tranh giữa thế kỷ 20
+### No. 105: Khung phong cách chụp ảnh báo chí chiến tranh giữa thế kỷ 20
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5195,7 +6183,7 @@ Mô phỏng phim đen trắng hạt thô, tốc độ cao đã được xử lý
 
 ---
 
-### No. 87: Lời nhắc cảnh tự sướng của người nổi tiếng trong lịch sử (Michael Jackson và George W. Bush)
+### No. 106: Lời nhắc cảnh tự sướng của người nổi tiếng trong lịch sử (Michael Jackson và George W. Bush)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5228,7 +6216,7 @@ Một bức ảnh selfie đời thường của Michael Jackson với George W. 
 
 ---
 
-### No. 88: Lời nhắc biến thể chân dung Instagram 9 ô cho Nano Banana Pro
+### No. 107: Lời nhắc biến thể chân dung Instagram 9 ô cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5268,7 +6256,7 @@ Chỉ xuất {argument name="final number of outputs" default="9"} hình ảnh c
 
 ---
 
-### No. 89: JSON prompt "selfie-on-bed" cho Nano Banana Pro
+### No. 108: JSON prompt "selfie-on-bed" cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5359,7 +6347,7 @@ Một JSON prompt có cấu trúc mô tả một phụ nữ trẻ đang nằm tr
 
 ---
 
-### No. 90: Ảnh thumbnail gây sốt: Chỉ tay hào hứng, bánh mì nướng bơ, “Hoàn thành trong 3 phút!”
+### No. 109: Ảnh thumbnail gây sốt: Chỉ tay hào hứng, bánh mì nướng bơ, “Hoàn thành trong 3 phút!”
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5405,7 +6393,7 @@ Thiết kế một ảnh thumbnail video lan truyền sử dụng người trong
 
 ---
 
-### No. 91: Gợi ý ảnh đại diện POV hẹn hò quán cà phê cho Nano Banana Pro
+### No. 110: Gợi ý ảnh đại diện POV hẹn hò quán cà phê cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5499,7 +6487,7 @@ Một lời nhắc tạo ảnh Nano Banana Pro chi tiết, tạo ra một bức 
 
 ---
 
-### No. 92: JSON lời nhắc gương selfie trong ô tô cho Nano Banana Pro
+### No. 111: JSON lời nhắc gương selfie trong ô tô cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5567,7 +6555,7 @@ Một lời nhắc chi tiết định dạng JSON để tạo ảnh selfie siêu
 
 ---
 
-### No. 93: Gợi ý tạo cảnh bến tàu tối giản, trầm tư cho Nano Banana Pro
+### No. 112: Gợi ý tạo cảnh bến tàu tối giản, trầm tư cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5601,7 +6589,7 @@ Một khung cảnh tối giản về một {argument name="number of people" def
 
 ---
 
-### No. 94: Lời nhắc nhân vật kép thánh và quỷ cho Nano Banana Pro
+### No. 113: Lời nhắc nhân vật kép thánh và quỷ cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5651,7 +6639,7 @@ Thánh Nữ: {argument name="saint style" default="thánh nữ giả tưởng, �
 
 ---
 
-### No. 95: Nhân vật cắt dán rừng theo mùa cho Nano Banana Pro
+### No. 114: Nhân vật cắt dán rừng theo mùa cho Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5685,7 +6673,7 @@ Tái tạo một nhân vật dưới dạng ảnh ghép bằng cách sử dụng
 
 ---
 
-### No. 96: Lời nhắc bố cục photobook Nhật Bản 9 ô cho Nano Banana Pro
+### No. 115: Lời nhắc bố cục photobook Nhật Bản 9 ô cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5737,7 +6725,7 @@ Một câu lệnh rất chi tiết để tạo trang photobook Nhật Bản gồ
 
 ---
 
-### No. 97: Trích xuất một ô duy nhất từ lưới hình ảnh 3x3 bằng Nano Banana Pro
+### No. 116: Trích xuất một ô duy nhất từ lưới hình ảnh 3x3 bằng Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5783,7 +6771,7 @@ Vui lòng trích xuất hình ảnh trong hàng {argument name="target row" defa
 
 ---
 
-### No. 98: Direct flash gamer girl Nano Banana Pro JSON tag prompt
+### No. 117: Direct flash gamer girl Nano Banana Pro JSON tag prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5835,7 +6823,7 @@ Một lời nhắc hình ảnh Nano Banana Pro có cấu trúc, định nghĩa c
 
 ---
 
-### No. 99: Lời nhắc tinh chỉnh hình ảnh Two-step Nano Banana Pro
+### No. 118: Lời nhắc tinh chỉnh hình ảnh Two-step Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5877,7 +6865,7 @@ Thứ hai: sau đó áp dụng lời nhắc sau vào kết quả đã tạo: "{a
 
 ---
 
-### No. 100: Lời nhắc thẩm mỹ nhân vật cho nguồn cấp dữ liệu Instagram 12 ảnh
+### No. 119: Lời nhắc thẩm mỹ nhân vật cho nguồn cấp dữ liệu Instagram 12 ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5917,7 +6905,7 @@ Tạo một nguồn cấp dữ liệu Instagram gồm {argument name="image coun
 
 ---
 
-### No. 101: Cấu trúc gợi ý ảnh chân dung phòng ngủ tự nhiên
+### No. 120: Cấu trúc gợi ý ảnh chân dung phòng ngủ tự nhiên
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5950,7 +6938,7 @@ Một bức ảnh chụp tự nhiên độ phân giải cao trong phòng ngủ c
 
 ---
 
-### No. 102: Lời nhắc tự chụp chân dung phòng ngủ điện ảnh cho Nano Banana Pro
+### No. 121: Lời nhắc tự chụp chân dung phòng ngủ điện ảnh cho Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6010,7 +6998,7 @@ Một người phụ nữ ngồi trên mép giường hiện đại, tối giả
 
 ---
 
-### No. 103: Nhắc nhở tạo nhân vật đồ chơi nỉ cho Nano Banana Pro
+### No. 122: Nhắc nhở tạo nhân vật đồ chơi nỉ cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6064,7 +7052,7 @@ Một mẫu prompt linh hoạt để tạo các nhân vật đồ chơi bằng n
 
 ---
 
-### No. 104: Gợi ý vẽ tranh thủy mặc thuyền cô độc cho Nano Banana Pro
+### No. 123: Gợi ý vẽ tranh thủy mặc thuyền cô độc cho Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6098,7 +7086,7 @@ Phong cách tranh thủy mặc đen trắng, sử dụng khoảng trống một 
 
 ---
 
-### No. 105: Học sinh cấp hai vẽ nguệch ngoạc lên các trang sách giáo khoa lịch sử
+### No. 124: Học sinh cấp hai vẽ nguệch ngoạc lên các trang sách giáo khoa lịch sử
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6149,7 +7137,7 @@ Một trang từ sách giáo khoa lịch sử được học sinh trung học c�
 
 ---
 
-### No. 106: Lời nhắc JSON cho cảnh đô thị mưa điện ảnh
+### No. 125: Lời nhắc JSON cho cảnh đô thị mưa điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6188,7 +7176,7 @@ Một lời nhắc Nano Banana Pro JSON mô tả một cảnh tĩnh điện ản
 
 ---
 
-### No. 107: Bảng phân cảnh điện ảnh 3x3 từ một hình ảnh đầu vào
+### No. 126: Bảng phân cảnh điện ảnh 3x3 từ một hình ảnh đầu vào
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6267,7 +7255,7 @@ Tất cả các khung hình phải có kết cấu chân thực như ảnh, phâ
 
 ---
 
-### No. 108: Lời nhắc ảnh hồ sơ chuyên nghiệp cho Nano Banana Pro
+### No. 127: Lời nhắc ảnh hồ sơ chuyên nghiệp cho Nano Banana Pro
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6307,7 +7295,7 @@ Một bức ảnh hồ sơ chuyên nghiệp, độ phân giải cao, giữ nguy�
 
 ---
 
-### No. 109: Chuyển đổi lời nhắc YAML cho hình ảnh và sơ đồ
+### No. 128: Chuyển đổi lời nhắc YAML cho hình ảnh và sơ đồ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6340,7 +7328,7 @@ Chuyển đổi nội dung này thành một lời nhắc YAML, bao gồm kích 
 
 ---
 
-### No. 110: Lời nhắc JSON chân dung phụ nữ khớp tham chiếu
+### No. 129: Lời nhắc JSON chân dung phụ nữ khớp tham chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6381,7 +7369,7 @@ Một lời nhắc kiểu JSON của Nano Banana Pro tập trung vào việc tá
 
 ---
 
-### No. 111: Lời nhắc tạo ảnh chân dung sân thượng khách sạn sang trọng bên bờ biển
+### No. 130: Lời nhắc tạo ảnh chân dung sân thượng khách sạn sang trọng bên bờ biển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6483,7 +7471,7 @@ Một prompt Nano Banana Pro phức tạp cho bức chân dung siêu thực củ
 
 ---
 
-### No. 112: Khôi phục ảnh cũ thành chân dung kỹ thuật số hiện đại
+### No. 131: Khôi phục ảnh cũ thành chân dung kỹ thuật số hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6536,7 +7524,7 @@ Chuyển đổi thành một bức chân dung kỹ thuật số chất lượng 
 
 ---
 
-### No. 113: Tạo bảng phân cảnh đen trắng từ một hình ảnh
+### No. 132: Tạo bảng phân cảnh đen trắng từ một hình ảnh
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6577,7 +7565,7 @@ Tổng cộng khoảng bốn khung.
 
 ---
 
-### No. 114: Tạo ảnh thần tượng phong cách Cheki bằng cách sử dụng người mẫu tham chiếu
+### No. 133: Tạo ảnh thần tượng phong cách Cheki bằng cách sử dụng người mẫu tham chiếu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6629,7 +7617,7 @@ Vui lòng sử dụng người trong hình đính kèm. Tên của họ là {arg
 
 ---
 
-### No. 115: Lời nhắc thiết kế PPT phong cách SaaS Glassmorphism cho Nano Banana Pro
+### No. 134: Lời nhắc thiết kế PPT phong cách SaaS Glassmorphism cho Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6676,7 +7664,7 @@ Yêu cầu chất lượng hiển thị: Kết xuất bằng Unreal Engine 5, đ
 
 ---
 
-### No. 116: Lời nhắc chỉnh sửa vật lý tóc bay trong gió
+### No. 135: Lời nhắc chỉnh sửa vật lý tóc bay trong gió
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -6727,7 +7715,7 @@ Làm cho mái tóc bay trong gió.
 
 ---
 
-### No. 117: VFX lá chắn trường năng lượng và lời nhắc YAML điều chỉnh tư thế
+### No. 136: VFX lá chắn trường năng lượng và lời nhắc YAML điều chỉnh tư thế
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6846,7 +7834,7 @@ composition:
 
 ---
 
-### No. 118: Phác thảo sản phẩm thành lời nhắc kết xuất cuối cùng
+### No. 137: Phác thảo sản phẩm thành lời nhắc kết xuất cuối cùng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6879,7 +7867,7 @@ Biến bản phác thảo này thành một sản phẩm sản xuất hàng lo�
 
 ---
 
-### No. 119: Thiết lập hình ảnh siêu chi tiết theo chiều dọc cho Nano Banana Pro
+### No. 138: Thiết lập hình ảnh siêu chi tiết theo chiều dọc cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6932,7 +7920,7 @@ Một lời nhắc kiểu cấu hình JSON cho Nano Banana Pro, chỉ định m�
 
 ---
 
-### No. 120: Bản nháp bao bì với lời nhắc kiểm tra văn bản nhỏ
+### No. 139: Bản nháp bao bì với lời nhắc kiểm tra văn bản nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6965,7 +7953,7 @@ Mô hình bao bì hộp trà thảo mộc, với nhãn dinh dưỡng chính xác
 
 ---
 
-### No. 121: Những ràng buộc nghiêm ngặt về chủ nghĩa siêu thực đã thúc đẩy sự ra đời của Nano Banana Pro
+### No. 140: Những ràng buộc nghiêm ngặt về chủ nghĩa siêu thực đã thúc đẩy sự ra đời của Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7011,7 +7999,7 @@ Một JSON prompt định nghĩa các ràng buộc dự án nghiêm ngặt cho N
 
 ---
 
-### No. 122: Làm cho ảnh trông tệ với tọa độ GPS đã chỉ định
+### No. 141: Làm cho ảnh trông tệ với tọa độ GPS đã chỉ định
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7063,7 +8051,7 @@ Hãy làm cho bức ảnh này trông giống như một bức ảnh chụp nhan
 
 ---
 
-### No. 123: Manga màu đầy đủ phong cách Moe từ nhân vật và câu chuyện được cung cấp
+### No. 142: Manga màu đầy đủ phong cách Moe từ nhân vật và câu chuyện được cung cấp
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7117,7 +8105,7 @@ Nghiêm cấm:
 
 ---
 
-### No. 124: Lời nhắc chụp ảnh nhanh thời trung học bằng máy ảnh dùng một lần chất lượng thấp
+### No. 143: Lời nhắc chụp ảnh nhanh thời trung học bằng máy ảnh dùng một lần chất lượng thấp
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7168,7 +8156,7 @@ Một bức ảnh đời thường được chụp bằng máy ảnh dùng một
 
 ---
 
-### No. 125: Biến bản phác thảo gian hàng thành bản vẽ phối cảnh
+### No. 144: Biến bản phác thảo gian hàng thành bản vẽ phối cảnh
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7207,7 +8195,7 @@ Tạo bản vẽ phối cảnh từ bản phác thảo sơ bộ của một gian
 
 ---
 
-### No. 126: Ảnh selfie trong phòng gym của một phụ nữ trên thảm yoga cho Nano Banana Pro
+### No. 145: Ảnh selfie trong phòng gym của một phụ nữ trên thảm yoga cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7308,7 +8296,7 @@ Một lời nhắc JSON có cấu trúc mô tả một phụ nữ trẻ sau bu�
 
 ---
 
-### No. 127: Tạo lại quảng cáo bằng cách sử dụng sản phẩm và phong cách thương hiệu của bạn
+### No. 146: Tạo lại quảng cáo bằng cách sử dụng sản phẩm và phong cách thương hiệu của bạn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7349,7 +8337,7 @@ Thay thế sản phẩm bằng sản phẩm từ {argument name="reference image
 
 ---
 
-### No. 128: Gợi ý tạo ảnh cặp đôi trong xe hơi phong cách Y2K flash night
+### No. 147: Gợi ý tạo ảnh cặp đôi trong xe hơi phong cách Y2K flash night
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7427,7 +8415,7 @@ Một lời nhắc chi tiết cao theo kiểu JSON để tạo ra một bức �
 
 ---
 
-### No. 129: Chân dung cảm xúc ba ô ngang từ một hình ảnh
+### No. 148: Chân dung cảm xúc ba ô ngang từ một hình ảnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7484,7 +8472,7 @@ Cận cảnh mặt nghiêng từ đầu đến cổ.
 
 ---
 
-### No. 130: Quy trình nhắc nhở PPT học thuật thân thiện theo phong cách Anthropic
+### No. 149: Quy trình nhắc nhở PPT học thuật thân thiện theo phong cách Anthropic
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7530,7 +8518,7 @@ Nội dung bài viết là:
 
 ---
 
-### No. 131: Lời nhắc tạo ảnh ID cho Nano Banana Pro
+### No. 150: Lời nhắc tạo ảnh ID cho Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7580,846 +8568,13 @@ Cắt phần đầu của người trong ảnh và biến nó thành ảnh thẻ
 
 ---
 
-### No. 132: Lời nhắc tạo ảnh chân dung cắt dán Polaroid cổ điển
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một gợi ý Nano Banana Pro để tạo ra một bức ảnh ghép nghệ thuật gồm sáu bức ảnh Polaroid kiểu cổ điển được kẹp trên một bức tường màu pastel, mỗi bức ảnh thể hiện những tư thế và biểu cảm thư thái, lãng mạn khác nhau.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng {argument name="number of Polaroids" default="6"} ảnh Polaroid cổ điển, được cố định bằng dây trang trí và kẹp quần áo mini, để tạo ra một bộ sưu tập nghệ thuật mang cảm giác như một cuốn album gia đình. Mỗi khung ảnh Polaroid hơi phai màu với hiệu ứng giấy cũ. Nền là một bức tường màu pastel dịu nhẹ với những bóng đổ tinh tế, tạo ra một không khí ấm cúng nhưng đầy tính sáng tạo.
-Tâm trạng và tư thế:
-* Cười sảng khoái — nhắm mắt, hạnh phúc tự nhiên.
-* Ánh mắt mơ màng nhìn lên với tư thế thư thái.
-* Nháy mắt tinh nghịch.
-* Nụ cười dịu dàng với đầu nghiêng sang một bên, cử chỉ tay năng động với cả hai tay giơ lên, tràn đầy năng lượng.
-* Một cái liếc nhìn lãng mạn qua vai.
-
-Không gian tràn ngập một rung cảm nghệ thuật retro, pha trộn các yếu tố của tạp chí thời trang thập niên 1970, ánh sáng khuếch tán dịu nhẹ và tông màu vàng ấm áp. Mỗi bức ảnh đều mang cảm giác như một khoảnh khắc hậu trường độc đáo, gợi lên chút hoài niệm và hé lộ những mảnh ghép nhỏ của lịch sử cá nhân.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909274975_lkm1ac_G6kAsr4aUAAzLeB.jpg" width="600" alt="Lời nhắc tạo ảnh chân dung cắt dán Polaroid cổ điển - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [松果先森](https://x.com/songguoxiansen)
-- **Nguồn:** [Twitter Post](https://x.com/songguoxiansen/status/1993125250020823292)
-- **Đã xuất bản:** 25 tháng 11, 2025
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20%7Bargument%20name%3D%22number%20of%20Polaroids%22%20default%3D%226%22%7D%20%E1%BA%A3nh%20Polaroid%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BB%91%20%C4%91%E1%BB%8Bnh%20b%E1%BA%B1ng%20d%C3%A2y%20trang%20tr%C3%AD%20v%C3%A0%20k%E1%BA%B9p%20qu%E1%BA%A7n%20%C3%A1o%20mini%2C%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20ngh%E1%BB%87%20thu%E1%BA%ADt%20mang%20c%E1%BA%A3m%20gi%C3%A1c%20nh%C6%B0%20m%E1%BB%99t%20cu%E1%BB%91n%20album%20gia%20%C4%91%C3%ACnh.%20M%E1%BB%97i%20khung%20%E1%BA%A3nh%20Polaroid%20h%C6%A1i%20phai%20m%C3%A0u%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20gi%E1%BA%A5y%20c%C5%A9.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20m%C3%A0u%20pastel%20d%E1%BB%8Bu%20nh%E1%BA%B9%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20tinh%20t%E1%BA%BF%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%E1%BA%A5m%20c%C3%BAng%20nh%C6%B0ng%20%C4%91%E1%BA%A7y%20t%C3%ADnh%20s%C3%A1ng%20t%E1%BA%A1o.%0AT%C3%A2m%20tr%E1%BA%A1ng%20v%C3%A0%20t%C6%B0%20th%E1%BA%BF%3A%0A*%20C%C6%B0%E1%BB%9Di%20s%E1%BA%A3ng%20kho%C3%A1i%20%E2%80%94%20nh%E1%BA%AFm%20m%E1%BA%AFt%2C%20h%E1%BA%A1nh%20ph%C3%BAc%20t%E1%BB%B1%20nhi%C3%AAn.%0A*%20%C3%81nh%20m%E1%BA%AFt%20m%C6%A1%20m%C3%A0ng%20nh%C3%ACn%20l%C3%AAn%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20th%C6%B0%20th%C3%A1i.%0A*%20Nh%C3%A1y%20m%E1%BA%AFt%20tinh%20ngh%E1%BB%8Bch.%0A*%20N%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20d%E1%BB%8Bu%20d%C3%A0ng%20v%E1%BB%9Bi%20%C4%91%E1%BA%A7u%20nghi%C3%AAng%20sang%20m%E1%BB%99t%20b%C3%AAn%2C%20c%E1%BB%AD%20ch%E1%BB%89%20tay%20n%C4%83ng%20%C4%91%E1%BB%99ng%20v%E1%BB%9Bi%20c%E1%BA%A3%20hai%20tay%20gi%C6%A1%20l%C3%AAn%2C%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.%0A*%20M%E1%BB%99t%20c%C3%A1i%20li%E1%BA%BFc%20nh%C3%ACn%20l%C3%A3ng%20m%E1%BA%A1n%20qua%20vai.%0A%0AKh%C3%B4ng%20gian%20tr%C3%A0n%20ng%E1%BA%ADp%20m%E1%BB%99t%20rung%20c%E1%BA%A3m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20retro%2C%20pha%20tr%E1%BB%99n%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20c%E1%BB%A7a%20t%E1%BA%A1p%20ch%C3%AD%20th%E1%BB%9Di%20trang%20th%E1%BA%ADp%20ni%C3%AAn%201970%2C%20%C3%A1nh%20s%C3%A1ng%20khu%E1%BA%BFch%20t%C3%A1n%20d%E1%BB%8Bu%20nh%E1%BA%B9%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20v%C3%A0ng%20%E1%BA%A5m%20%C3%A1p.%20M%E1%BB%97i%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%E1%BB%81u%20mang%20c%E1%BA%A3m%20gi%C3%A1c%20nh%C6%B0%20m%E1%BB%99t%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20h%E1%BA%ADu%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%2C%20g%E1%BB%A3i%20l%C3%AAn%20ch%C3%BAt%20ho%C3%A0i%20ni%E1%BB%87m%20v%C3%A0%20h%C3%A9%20l%E1%BB%99%20nh%E1%BB%AFng%20m%E1%BA%A3nh%20gh%C3%A9p%20nh%E1%BB%8F%20c%E1%BB%A7a%20l%E1%BB%8Bch%20s%E1%BB%AD%20c%C3%A1%20nh%C3%A2n.)**
-
----
-
-### No. 133: Khoảnh khắc lịch sử tại tọa độ cụ thể (1994)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo hình ảnh về một địa điểm và thời gian cụ thể bằng cách sử dụng vĩ độ, kinh độ và dấu thời gian chính xác, lý tưởng cho việc tái tạo lịch sử.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một hình ảnh tại {argument name="coordinates_en" default="34°36’07’’S 58°23’58’’W"} vào {argument name="date_en" default="ngày 18 tháng 7 năm 1994"} lúc {argument name="time_en" default="9:53 sáng (UTC-3)"}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg" width="600" alt="Khoảnh khắc lịch sử tại tọa độ cụ thể (1994) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [N≡H](https://x.com/nehuenmk)
-- **Nguồn:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BA%A1i%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20v%C3%A0o%20%7Bargument%20name%3D%22date_en%22%20default%3D%22ng%C3%A0y%2018%20th%C3%A1ng%207%20n%C4%83m%201994%22%7D%20l%C3%BAc%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20s%C3%A1ng%20(UTC-3)%22%7D)**
-
----
-
-### No. 134: Đồ họa thông tin các giai đoạn ban ngày của Claymation dành cho trẻ em
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một prompt để tạo đồ họa thông tin theo phong cách hoạt hình đất sét kỳ ảo, giải thích các giai đoạn trong ngày cho trẻ sáu tuổi, lý tưởng cho các hình ảnh giáo dục hoặc video giải thích hoạt hình.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một infographic giải thích các giai đoạn trong ngày, hoàn hảo cho một {argument name="child_age" default="đứa trẻ 6 tuổi"}, theo phong cách hoạt hình đất sét đặc trưng với miệng rộng biểu cảm, mắt lồi và sự hài hước duyên dáng. Các kết cấu đất sét mờ, đạo cụ thủ công và ánh sáng sân khấu ấm áp, thực tế sẽ tạo nên vẻ ngoài đặc trưng.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Đồ họa thông tin các giai đoạn ban ngày của Claymation dành cho trẻ em - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jaclyn Konzelmann](https://x.com/jacalulu)
-- **Nguồn:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20infographic%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1c%20giai%20%C4%91o%E1%BA%A1n%20trong%20ng%C3%A0y%2C%20ho%C3%A0n%20h%E1%BA%A3o%20cho%20m%E1%BB%99t%20%7Bargument%20name%3D%22child_age%22%20default%3D%22%C4%91%E1%BB%A9a%20tr%E1%BA%BB%206%20tu%E1%BB%95i%22%7D%2C%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91%E1%BA%A5t%20s%C3%A9t%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20v%E1%BB%9Bi%20mi%E1%BB%87ng%20r%E1%BB%99ng%20bi%E1%BB%83u%20c%E1%BA%A3m%2C%20m%E1%BA%AFt%20l%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20duy%C3%AAn%20d%C3%A1ng.%20C%C3%A1c%20k%E1%BA%BFt%20c%E1%BA%A5u%20%C4%91%E1%BA%A5t%20s%C3%A9t%20m%E1%BB%9D%2C%20%C4%91%E1%BA%A1o%20c%E1%BB%A5%20th%E1%BB%A7%20c%C3%B4ng%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20s%C3%A2n%20kh%E1%BA%A5u%20%E1%BA%A5m%20%C3%A1p%2C%20th%E1%BB%B1c%20t%E1%BA%BF%20s%E1%BA%BD%20t%E1%BA%A1o%20n%C3%AAn%20v%E1%BA%BB%20ngo%C3%A0i%20%C4%91%E1%BA%B7c%20tr%C6%B0ng.)**
-
----
-
-### No. 135: Chỉnh sửa ảnh selfie siêu thực của fan VIP F1
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết để biến ảnh selfie của người dùng thành bức ảnh 8K siêu thực về họ trong vai một người hâm mộ F1 sành điệu tại một sự kiện ô tô cao cấp, giữ nguyên khuôn mặt thật của họ trong khi thay đổi trang phục và bối cảnh.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một hình ảnh 8K siêu thực, giữ nguyên khuôn mặt, đặc điểm, màu da, mắt và tóc của tôi giống hệt như trong ảnh tham chiếu.
-Tôi là {argument name="subject_gender_role_en" default="người phụ nữ"} trong ảnh; giữ nguyên vẻ tự tin, quyến rũ và thanh lịch, với nụ cười nhẹ và tư thế thoải mái.
-Đặt tôi tại một sự kiện ô tô ngoài trời, trong khán đài hoặc khu vực VIP, với tầm nhìn rộng ra đường đua và đám đông ở phía sau. Thời tiết nắng đẹp, bầu trời xanh ngắt và ánh nắng tự nhiên làm nổi bật màu sắc, tạo nên một không khí đua xe sôi động.
-Sử dụng khung hình trung bình, chụp phần thân trên và hậu cảnh bận rộn với độ sâu trường ảnh hơi mờ.
-Trang phục vừa thể thao vừa tinh tế, bao gồm:
- * Một chiếc mũ {argument name="cap_brand_en" default="Red Ferrari"}, với logo ngựa chồm vàng (cavallino rampante) ở phía trước và số "{argument name="driver_number_en" default="16"}" màu trắng trên vành mũ;
- * Một chiếc áo denim cúp ngực có cấu trúc, ôm sát với đường may rõ ràng, làm nổi bật phần cổ và vóc dáng;
- * Kính râm {argument name="sunglasses_brand_en" default="Miu Miu"} với tròng kính màu nâu chuyển sắc và gọng kim loại hình chữ nhật, che một phần mắt;
- * Một chiếc vòng cổ đôi – một chiếc với các mắt xích vàng lớn và một chiếc khác với những viên kim cương tinh xảo sát cổ;
- * Hoa tai vàng hình học;
- * Một chiếc vòng tay bạc ở cổ tay phải;
- * Một chiếc túi đỏ kín đáo đeo trên vai, một phần lộ ra bên cạnh cánh tay.
-Tóc tự nhiên và buông xõa.
-Trang điểm hoàn hảo và quyến rũ, với làn da căng bóng, mắt được kẻ sắc nét, son môi hồng và má hồng ấm áp.
-Móng tay dài và được trang trí nghệ thuật với các sắc thái hồng và đỏ cùng chi tiết trắng, có thể nhìn thấy khi cầm ly.
-Tư thế nên thể hiện sự cá tính và tinh tế:
- * Tay phải giữ vành mũ, hơi điều chỉnh;
- * Tay trái cầm một ly {argument name="drink_type_en" default="rượu vang trắng"}, với cánh tay thư giãn;
- * Cơ thể hơi nghiêng, mặt quay về phía máy ảnh.
-Ánh sáng tự nhiên và mạnh mẽ, với những phản chiếu ánh nắng tinh tế trên khuôn mặt và tóc.
-Sử dụng bảng màu rực rỡ – các sắc thái đỏ, xanh denim, vàng và caramel, tương phản với nền trời nắng.
-Bầu không khí tổng thể hiện đại, sang trọng và thư thái, thể hiện lối sống của một người tận hưởng những trải nghiệm độc quyền, với sự thanh lịch và phong thái mạnh mẽ tại một sự kiện ô tô cao cấp.
-Chất lượng: Ảnh 8K siêu thực, lấy nét sắc nét vào khuôn mặt và trang phục, hậu cảnh hơi mờ với đám đông đầy màu sắc và đường đua dưới ánh nắng.
-Quan trọng:
- * Giữ nguyên khuôn mặt, tóc và màu da của tôi.
- * Giữ nguyên phong cách chân thực.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="Chỉnh sửa ảnh selfie siêu thực của fan VIP F1 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="Chỉnh sửa ảnh selfie siêu thực của fan VIP F1 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="Chỉnh sửa ảnh selfie siêu thực của fan VIP F1 - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
-- **Nguồn:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%208K%20si%C3%AAu%20th%E1%BB%B1c%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%2C%20m%C3%A0u%20da%2C%20m%E1%BA%AFt%20v%C3%A0%20t%C3%B3c%20c%E1%BB%A7a%20t%C3%B4i%20gi%E1%BB%91ng%20h%E1%BB%87t%20nh%C6%B0%20trong%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%0AT%C3%B4i%20l%C3%A0%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%22%7D%20trong%20%E1%BA%A3nh%3B%20gi%E1%BB%AF%20nguy%C3%AAn%20v%E1%BA%BB%20t%E1%BB%B1%20tin%2C%20quy%E1%BA%BFn%20r%C5%A9%20v%C3%A0%20thanh%20l%E1%BB%8Bch%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%B9%20v%C3%A0%20t%C6%B0%20th%E1%BA%BF%20tho%E1%BA%A3i%20m%C3%A1i.%0A%C4%90%E1%BA%B7t%20t%C3%B4i%20t%E1%BA%A1i%20m%E1%BB%99t%20s%E1%BB%B1%20ki%E1%BB%87n%20%C3%B4%20t%C3%B4%20ngo%C3%A0i%20tr%E1%BB%9Di%2C%20trong%20kh%C3%A1n%20%C4%91%C3%A0i%20ho%E1%BA%B7c%20khu%20v%E1%BB%B1c%20VIP%2C%20v%E1%BB%9Bi%20t%E1%BA%A7m%20nh%C3%ACn%20r%E1%BB%99ng%20ra%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91ua%20v%C3%A0%20%C4%91%C3%A1m%20%C4%91%C3%B4ng%20%E1%BB%9F%20ph%C3%ADa%20sau.%20Th%E1%BB%9Di%20ti%E1%BA%BFt%20n%E1%BA%AFng%20%C4%91%E1%BA%B9p%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20xanh%20ng%E1%BA%AFt%20v%C3%A0%20%C3%A1nh%20n%E1%BA%AFng%20t%E1%BB%B1%20nhi%C3%AAn%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20m%C3%A0u%20s%E1%BA%AFc%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%C4%91ua%20xe%20s%C3%B4i%20%C4%91%E1%BB%99ng.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20khung%20h%C3%ACnh%20trung%20b%C3%ACnh%2C%20ch%E1%BB%A5p%20ph%E1%BA%A7n%20th%C3%A2n%20tr%C3%AAn%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20b%E1%BA%ADn%20r%E1%BB%99n%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20h%C6%A1i%20m%E1%BB%9D.%0ATrang%20ph%E1%BB%A5c%20v%E1%BB%ABa%20th%E1%BB%83%20thao%20v%E1%BB%ABa%20tinh%20t%E1%BA%BF%2C%20bao%20g%E1%BB%93m%3A%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20v%E1%BB%9Bi%20logo%20ng%E1%BB%B1a%20ch%E1%BB%93m%20v%C3%A0ng%20(cavallino%20rampante)%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20v%C3%A0%20s%E1%BB%91%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20m%C3%A0u%20tr%E1%BA%AFng%20tr%C3%AAn%20v%C3%A0nh%20m%C5%A9%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20denim%20c%C3%BAp%20ng%E1%BB%B1c%20c%C3%B3%20c%E1%BA%A5u%20tr%C3%BAc%2C%20%C3%B4m%20s%C3%A1t%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20may%20r%C3%B5%20r%C3%A0ng%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20ph%E1%BA%A7n%20c%E1%BB%95%20v%C3%A0%20v%C3%B3c%20d%C3%A1ng%3B%0A%20*%20K%C3%ADnh%20r%C3%A2m%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20v%E1%BB%9Bi%20tr%C3%B2ng%20k%C3%ADnh%20m%C3%A0u%20n%C3%A2u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20v%C3%A0%20g%E1%BB%8Dng%20kim%20lo%E1%BA%A1i%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%2C%20che%20m%E1%BB%99t%20ph%E1%BA%A7n%20m%E1%BA%AFt%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%B2ng%20c%E1%BB%95%20%C4%91%C3%B4i%20%E2%80%93%20m%E1%BB%99t%20chi%E1%BA%BFc%20v%E1%BB%9Bi%20c%C3%A1c%20m%E1%BA%AFt%20x%C3%ADch%20v%C3%A0ng%20l%E1%BB%9Bn%20v%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20kh%C3%A1c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20vi%C3%AAn%20kim%20c%C6%B0%C6%A1ng%20tinh%20x%E1%BA%A3o%20s%C3%A1t%20c%E1%BB%95%3B%0A%20*%20Hoa%20tai%20v%C3%A0ng%20h%C3%ACnh%20h%E1%BB%8Dc%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%B2ng%20tay%20b%E1%BA%A1c%20%E1%BB%9F%20c%E1%BB%95%20tay%20ph%E1%BA%A3i%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20t%C3%BAi%20%C4%91%E1%BB%8F%20k%C3%ADn%20%C4%91%C3%A1o%20%C4%91eo%20tr%C3%AAn%20vai%2C%20m%E1%BB%99t%20ph%E1%BA%A7n%20l%E1%BB%99%20ra%20b%C3%AAn%20c%E1%BA%A1nh%20c%C3%A1nh%20tay.%0AT%C3%B3c%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20bu%C3%B4ng%20x%C3%B5a.%0ATrang%20%C4%91i%E1%BB%83m%20ho%C3%A0n%20h%E1%BA%A3o%20v%C3%A0%20quy%E1%BA%BFn%20r%C5%A9%2C%20v%E1%BB%9Bi%20l%C3%A0n%20da%20c%C4%83ng%20b%C3%B3ng%2C%20m%E1%BA%AFt%20%C4%91%C6%B0%E1%BB%A3c%20k%E1%BA%BB%20s%E1%BA%AFc%20n%C3%A9t%2C%20son%20m%C3%B4i%20h%E1%BB%93ng%20v%C3%A0%20m%C3%A1%20h%E1%BB%93ng%20%E1%BA%A5m%20%C3%A1p.%0AM%C3%B3ng%20tay%20d%C3%A0i%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%E1%BB%9Bi%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20h%E1%BB%93ng%20v%C3%A0%20%C4%91%E1%BB%8F%20c%C3%B9ng%20chi%20ti%E1%BA%BFt%20tr%E1%BA%AFng%2C%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20khi%20c%E1%BA%A7m%20ly.%0AT%C6%B0%20th%E1%BA%BF%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20c%C3%A1%20t%C3%ADnh%20v%C3%A0%20tinh%20t%E1%BA%BF%3A%0A%20*%20Tay%20ph%E1%BA%A3i%20gi%E1%BB%AF%20v%C3%A0nh%20m%C5%A9%2C%20h%C6%A1i%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%3B%0A%20*%20Tay%20tr%C3%A1i%20c%E1%BA%A7m%20m%E1%BB%99t%20ly%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22r%C6%B0%E1%BB%A3u%20vang%20tr%E1%BA%AFng%22%7D%2C%20v%E1%BB%9Bi%20c%C3%A1nh%20tay%20th%C6%B0%20gi%C3%A3n%3B%0A%20*%20C%C6%A1%20th%E1%BB%83%20h%C6%A1i%20nghi%C3%AAng%2C%20m%E1%BA%B7t%20quay%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh.%0A%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20%C3%A1nh%20n%E1%BA%AFng%20tinh%20t%E1%BA%BF%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20t%C3%B3c.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BA%A3ng%20m%C3%A0u%20r%E1%BB%B1c%20r%E1%BB%A1%20%E2%80%93%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20%C4%91%E1%BB%8F%2C%20xanh%20denim%2C%20v%C3%A0ng%20v%C3%A0%20caramel%2C%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20v%E1%BB%9Bi%20n%E1%BB%81n%20tr%E1%BB%9Di%20n%E1%BA%AFng.%0AB%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%95ng%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20sang%20tr%E1%BB%8Dng%20v%C3%A0%20th%C6%B0%20th%C3%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20l%E1%BB%91i%20s%E1%BB%91ng%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20t%E1%BA%ADn%20h%C6%B0%E1%BB%9Fng%20nh%E1%BB%AFng%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%2C%20v%E1%BB%9Bi%20s%E1%BB%B1%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20phong%20th%C3%A1i%20m%E1%BA%A1nh%20m%E1%BA%BD%20t%E1%BA%A1i%20m%E1%BB%99t%20s%E1%BB%B1%20ki%E1%BB%87n%20%C3%B4%20t%C3%B4%20cao%20c%E1%BA%A5p.%0ACh%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%3A%20%E1%BA%A2nh%208K%20si%C3%AAu%20th%E1%BB%B1c%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20trang%20ph%E1%BB%A5c%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20h%C6%A1i%20m%E1%BB%9D%20v%E1%BB%9Bi%20%C4%91%C3%A1m%20%C4%91%C3%B4ng%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91ua%20d%C6%B0%E1%BB%9Bi%20%C3%A1nh%20n%E1%BA%AFng.%0AQuan%20tr%E1%BB%8Dng%3A%0A%20*%20Gi%E1%BB%AF%20nguy%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20t%C3%B3c%20v%C3%A0%20m%C3%A0u%20da%20c%E1%BB%A7a%20t%C3%B4i.%0A%20*%20Gi%E1%BB%AF%20nguy%C3%AAn%20phong%20c%C3%A1ch%20ch%C3%A2n%20th%E1%BB%B1c.)**
-
----
-
-### No. 136: Lưới chân dung emoji phiên bản Q phong cách LINE
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo ảnh chân dung emoji chibi vẽ tay đầy màu sắc theo phong cách LINE, được sắp xếp theo dạng lưới với văn bản hài hước, lý tưởng cho nhãn dán trò chuyện hoặc phản ứng trên mạng xã hội.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bộ ảnh chân dung emoji chibi bán thân đầy màu sắc, vẽ tay theo phong cách LINE dựa trên {argument name="reference_characters_en" default="các nhân vật được hiển thị trong ảnh tham khảo"}, đảm bảo các phụ kiện trên đầu của họ được mô tả chính xác.
-
-Sắp xếp các bức chân dung theo bố cục lưới {argument name="grid_layout_en" default="4x6"}, có các cụm từ trò chuyện phổ biến hoặc các meme hài hước có liên quan.
-Sử dụng phông chữ viết tay cho văn bản.
-Kết quả phải là bản gốc—không sao chép trực tiếp ảnh tham khảo.
-Hình ảnh cuối cùng phải có độ phân giải 4K với tỷ lệ khung hình {argument name="aspect_ratio_en" default="16:9"}.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg" width="600" alt="Lưới chân dung emoji phiên bản Q phong cách LINE - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg" width="600" alt="Lưới chân dung emoji phiên bản Q phong cách LINE - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg" width="600" alt="Lưới chân dung emoji phiên bản Q phong cách LINE - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [宝玉](https://x.com/dotey)
-- **Nguồn:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%99%20%E1%BA%A3nh%20ch%C3%A2n%20dung%20emoji%20chibi%20b%C3%A1n%20th%C3%A2n%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20v%E1%BA%BD%20tay%20theo%20phong%20c%C3%A1ch%20LINE%20d%E1%BB%B1a%20tr%C3%AAn%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20trong%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%22%7D%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20c%C3%A1c%20ph%E1%BB%A5%20ki%E1%BB%87n%20tr%C3%AAn%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4%20t%E1%BA%A3%20ch%C3%ADnh%20x%C3%A1c.%0A%0AS%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20theo%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20c%C3%B3%20c%C3%A1c%20c%E1%BB%A5m%20t%E1%BB%AB%20tr%C3%B2%20chuy%E1%BB%87n%20ph%E1%BB%95%20bi%E1%BA%BFn%20ho%E1%BA%B7c%20c%C3%A1c%20meme%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20c%C3%B3%20li%C3%AAn%20quan.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20cho%20v%C4%83n%20b%E1%BA%A3n.%0AK%E1%BA%BFt%20qu%E1%BA%A3%20ph%E1%BA%A3i%20l%C3%A0%20b%E1%BA%A3n%20g%E1%BB%91c%E2%80%94kh%C3%B4ng%20sao%20ch%C3%A9p%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o.%0AH%C3%ACnh%20%E1%BA%A3nh%20cu%E1%BB%91i%20c%C3%B9ng%20ph%E1%BA%A3i%20c%C3%B3%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%204K%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
-
----
-
-### No. 137: Cảnh du hành thời gian với tọa độ và ngày tháng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo ra một cảnh thực tế tại các tọa độ địa lý và thời gian lịch sử cụ thể, hữu ích cho việc hình dung các sự kiện trong quá khứ tại các địa điểm chính xác.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một hình ảnh tương ứng với thời điểm sau: {argument name="coordinates_en" default="31.7785° N, 35.2296° E"}, {argument name="date_en" default="ngày 3 tháng 4, năm 33 CN"}, {argument name="time_en" default="15:00 giờ"}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg" width="600" alt="Cảnh du hành thời gian với tọa độ và ngày tháng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Alex dc](https://x.com/Alex_dc)
-- **Nguồn:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%20v%E1%BB%9Bi%20th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20sau%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%22ng%C3%A0y%203%20th%C3%A1ng%204%2C%20n%C4%83m%2033%20CN%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20gi%E1%BB%9D%22%7D)**
-
----
-
-### No. 138: Sơ đồ phối cảnh đẳng cự các địa danh được vẽ tay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một mẫu prompt đơn giản để tạo sơ đồ đẳng áp vẽ tay về các địa danh theo định dạng hình vuông, hữu ích cho bản đồ cách điệu hoặc đồ họa giáo dục.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một sơ đồ đẳng cự vẽ tay của {argument name="landmark_en" default="[LANDMARK]"} với kích thước {argument name="dimension_en" default="1080x1080"}.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="Sơ đồ phối cảnh đẳng cự các địa danh được vẽ tay - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TechieSA](https://x.com/TechieBySA)
-- **Nguồn:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20%C4%91%E1%BA%B3ng%20c%E1%BB%B1%20v%E1%BA%BD%20tay%20c%E1%BB%A7a%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20v%E1%BB%9Bi%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
-
----
-
-### No. 139: Chân dung điện ảnh đen trắng của một người phụ nữ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc có cấu trúc để tạo ra một bức chân dung đen trắng, chân thực như ảnh chụp, đầy kịch tính về một phụ nữ trẻ nghiêm túc trong bộ vest, với phong cách và chi tiết máy ảnh được xác định rõ ràng.
-
-#### 📝 Câu lệnh
-
-```
-Một bức ảnh đen trắng chân thực chụp một phụ nữ trẻ với mái tóc dài, sẫm màu, có đường nét khuôn mặt, cấu trúc và biểu cảm gần như giống hệt chủ thể trong ảnh tham khảo. Cô ấy có vẻ mặt uy nghiêm hoặc nghiêm túc, nhìn thẳng vào máy ảnh. Cô ấy mặc một chiếc áo khoác vest đen, áo sơ mi trắng có cổ và cà vạt đen mảnh. Ánh sáng kịch tính, và hậu cảnh tối, đồng nhất. Phong cách: chân thực như ảnh chụp, điện ảnh, độ tương phản cao, đen trắng. Chủ thể: nữ, mặc vest đen, áo sơ mi trắng, cà vạt đen mảnh, với vẻ mặt uy nghiêm, nghiêm túc, tự tin, được lấy khung cận trung, trực diện.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg" width="600" alt="Chân dung điện ảnh đen trắng của một người phụ nữ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg" width="600" alt="Chân dung điện ảnh đen trắng của một người phụ nữ - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Nguồn:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91en%20tr%E1%BA%AFng%20ch%C3%A2n%20th%E1%BB%B1c%20ch%E1%BB%A5p%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20d%C3%A0i%2C%20s%E1%BA%ABm%20m%C3%A0u%2C%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20khu%C3%B4n%20m%E1%BA%B7t%2C%20c%E1%BA%A5u%20tr%C3%BAc%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20g%E1%BA%A7n%20nh%C6%B0%20gi%E1%BB%91ng%20h%E1%BB%87t%20ch%E1%BB%A7%20th%E1%BB%83%20trong%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o.%20C%C3%B4%20%E1%BA%A5y%20c%C3%B3%20v%E1%BA%BB%20m%E1%BA%B7t%20uy%20nghi%C3%AAm%20ho%E1%BA%B7c%20nghi%C3%AAm%20t%C3%BAc%2C%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh.%20C%C3%B4%20%E1%BA%A5y%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20kho%C3%A1c%20vest%20%C4%91en%2C%20%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng%20c%C3%B3%20c%E1%BB%95%20v%C3%A0%20c%C3%A0%20v%E1%BA%A1t%20%C4%91en%20m%E1%BA%A3nh.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20t%E1%BB%91i%2C%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t.%20Phong%20c%C3%A1ch%3A%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%2C%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20%C4%91en%20tr%E1%BA%AFng.%20Ch%E1%BB%A7%20th%E1%BB%83%3A%20n%E1%BB%AF%2C%20m%E1%BA%B7c%20vest%20%C4%91en%2C%20%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng%2C%20c%C3%A0%20v%E1%BA%A1t%20%C4%91en%20m%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20uy%20nghi%C3%AAm%2C%20nghi%C3%AAm%20t%C3%BAc%2C%20t%E1%BB%B1%20tin%2C%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5y%20khung%20c%E1%BA%ADn%20trung%2C%20tr%E1%BB%B1c%20di%E1%BB%87n.)**
-
----
-
-### No. 140: Infographic công thức món ăn từ tủ lạnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một gợi ý ý tưởng để biến các nguyên liệu trong tủ lạnh thành một infographic công thức nấu ăn từng bước đơn giản, hữu ích cho nội dung nấu ăn hoặc thực phẩm.
-
-#### 📝 Câu lệnh
-
-```
-Quét những gì có trong {argument name="container_en" default="tủ lạnh"} và gợi ý những món có thể nấu với các nguyên liệu có sẵn, cung cấp công thức từng bước chi tiết được trình bày dưới dạng đồ họa thông tin đơn giản.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Infographic công thức món ăn từ tủ lạnh - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Infographic công thức món ăn từ tủ lạnh - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [AmirMušić](https://x.com/AmirMushich)
-- **Nguồn:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Qu%C3%A9t%20nh%E1%BB%AFng%20g%C3%AC%20c%C3%B3%20trong%20%7Bargument%20name%3D%22container_en%22%20default%3D%22t%E1%BB%A7%20l%E1%BA%A1nh%22%7D%20v%C3%A0%20g%E1%BB%A3i%20%C3%BD%20nh%E1%BB%AFng%20m%C3%B3n%20c%C3%B3%20th%E1%BB%83%20n%E1%BA%A5u%20v%E1%BB%9Bi%20c%C3%A1c%20nguy%C3%AAn%20li%E1%BB%87u%20c%C3%B3%20s%E1%BA%B5n%2C%20cung%20c%E1%BA%A5p%20c%C3%B4ng%20th%E1%BB%A9c%20t%E1%BB%ABng%20b%C6%B0%E1%BB%9Bc%20chi%20ti%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%ACnh%20b%C3%A0y%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20%C4%91%C6%A1n%20gi%E1%BA%A3n.)**
-
----
-
-### No. 141: Ảnh chụp phẳng bố cục Knolling
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết để biến bất kỳ vật thể nào thành hình ảnh phẳng 8K siêu thực tế theo phong cách knolling với các bộ phận tháo rời được gắn nhãn.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chụp phẳng 8K siêu thực theo phong cách knolling nghiêm ngặt. Một bức ảnh chụp từ trên xuống 90º của vật thể từ hình ảnh đính kèm, được tháo rời hoàn toàn thành {argument name="min_parts_en" default="8"}–{argument name="max_parts_en" default="12"} bộ phận chính và sắp xếp theo bố cục lưới hoặc hình tròn gọn gàng trên một chiếc bàn tối giản bằng {argument name="surface_material_en" default="gỗ hoặc màu xám mờ"}. Sử dụng khoảng cách đều, căn chỉnh hoàn hảo, không chồng chéo và không có vật thể thừa. Chiếu sáng cảnh bằng ánh sáng mềm, khuếch tán từ nhiều nguồn, tạo bóng mờ tinh tế, cân bằng màu sắc trung tính và lấy nét sắc nét trên toàn bộ khung hình. Hiển thị các vật liệu thực tế có độ chi tiết cao (kim loại, nhựa, tay cầm cao su, bảng mạch, ốc vít). Đối với mỗi bộ phận, thêm một khung hình chữ nhật màu trắng mỏng và một nhãn tiếng Anh ngắn, sắc nét bằng chữ sans-serif rõ ràng, đặt cạnh linh kiện mà không che khuất; các chú thích phải dễ đọc nhưng không gây chú ý.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Ảnh chụp phẳng bố cục Knolling - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TechHalla](https://x.com/techhalla)
-- **Nguồn:** [Twitter Post](https://x.com/techhalla/status/1992986275192685021)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%E1%BA%A2nh%20ch%E1%BB%A5p%20ph%E1%BA%B3ng%208K%20si%C3%AAu%20th%E1%BB%B1c%20theo%20phong%20c%C3%A1ch%20knolling%20nghi%C3%AAm%20ng%E1%BA%B7t.%20M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng%2090%C2%BA%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A1o%20r%E1%BB%9Di%20ho%C3%A0n%20to%C3%A0n%20th%C3%A0nh%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%E2%80%93%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20b%E1%BB%99%20ph%E1%BA%ADn%20ch%C3%ADnh%20v%C3%A0%20s%E1%BA%AFp%20x%E1%BA%BFp%20theo%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20ho%E1%BA%B7c%20h%C3%ACnh%20tr%C3%B2n%20g%E1%BB%8Dn%20g%C3%A0ng%20tr%C3%AAn%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20t%E1%BB%91i%20gi%E1%BA%A3n%20b%E1%BA%B1ng%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22g%E1%BB%97%20ho%E1%BA%B7c%20m%C3%A0u%20x%C3%A1m%20m%E1%BB%9D%22%7D.%20S%E1%BB%AD%20d%E1%BB%A5ng%20kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BB%81u%2C%20c%C4%83n%20ch%E1%BB%89nh%20ho%C3%A0n%20h%E1%BA%A3o%2C%20kh%C3%B4ng%20ch%E1%BB%93ng%20ch%C3%A9o%20v%C3%A0%20kh%C3%B4ng%20c%C3%B3%20v%E1%BA%ADt%20th%E1%BB%83%20th%E1%BB%ABa.%20Chi%E1%BA%BFu%20s%C3%A1ng%20c%E1%BA%A3nh%20b%E1%BA%B1ng%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%2C%20khu%E1%BA%BFch%20t%C3%A1n%20t%E1%BB%AB%20nhi%E1%BB%81u%20ngu%E1%BB%93n%2C%20t%E1%BA%A1o%20b%C3%B3ng%20m%E1%BB%9D%20tinh%20t%E1%BA%BF%2C%20c%C3%A2n%20b%E1%BA%B1ng%20m%C3%A0u%20s%E1%BA%AFc%20trung%20t%C3%ADnh%20v%C3%A0%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20to%C3%A0n%20b%E1%BB%99%20khung%20h%C3%ACnh.%20Hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20v%E1%BA%ADt%20li%E1%BB%87u%20th%E1%BB%B1c%20t%E1%BA%BF%20c%C3%B3%20%C4%91%E1%BB%99%20chi%20ti%E1%BA%BFt%20cao%20(kim%20lo%E1%BA%A1i%2C%20nh%E1%BB%B1a%2C%20tay%20c%E1%BA%A7m%20cao%20su%2C%20b%E1%BA%A3ng%20m%E1%BA%A1ch%2C%20%E1%BB%91c%20v%C3%ADt).%20%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20m%E1%BB%97i%20b%E1%BB%99%20ph%E1%BA%ADn%2C%20th%C3%AAm%20m%E1%BB%99t%20khung%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%20m%C3%A0u%20tr%E1%BA%AFng%20m%E1%BB%8Fng%20v%C3%A0%20m%E1%BB%99t%20nh%C3%A3n%20ti%E1%BA%BFng%20Anh%20ng%E1%BA%AFn%2C%20s%E1%BA%AFc%20n%C3%A9t%20b%E1%BA%B1ng%20ch%E1%BB%AF%20sans-serif%20r%C3%B5%20r%C3%A0ng%2C%20%C4%91%E1%BA%B7t%20c%E1%BA%A1nh%20linh%20ki%E1%BB%87n%20m%C3%A0%20kh%C3%B4ng%20che%20khu%E1%BA%A5t%3B%20c%C3%A1c%20ch%C3%BA%20th%C3%ADch%20ph%E1%BA%A3i%20d%E1%BB%85%20%C4%91%E1%BB%8Dc%20nh%C6%B0ng%20kh%C3%B4ng%20g%C3%A2y%20ch%C3%BA%20%C3%BD.)**
-
----
-
-### No. 142: Chân dung đường phố ban đêm tự nhiên với lời nhắc Ferrari
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc JSON có cấu trúc để tạo ảnh chân dung đường phố ban đêm theo phong cách phim 35mm chân thực của một người đang tựa vào chiếc Ferrari màu vàng, với các chi tiết điều khiển ánh sáng, trang phục và môi trường.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "image_metadata": {
-    "resolution": "{argument name=\"resolution\" default=\"1200x1200px\"}",
-    "genre": "Chân dung đường phố tự nhiên",
-    "editing_note": "Khuôn mặt được chỉnh sửa mà không làm thay đổi các đặc điểm"
-  },
-  "photography_style": {
-    "medium": "Phong cách phim analog 35mm",
-    "overall_aesthetic": [
-      "thô mộc",
-      "hoài cổ",
-      "gai góc"
-    ],
-    "visual_artifacts": {
-      "grain": "Hạt phim tinh tế nhưng rõ nét có thể nhìn thấy khắp khung hình",
-      "bokeh": "Mềm mại ở hậu cảnh"
-    },
-    "color_grade": {
-      "palette": "Tông màu trầm và hơi ấm",
-      "contrast": "Độ tương phản cao (điển hình của đèn flash)"
-    }
-  },
-  "lighting_characteristics": {
-    "primary_source": {
-      "type": "Đèn flash máy ảnh",
-      "direction": "Trực tiếp, chiếu vào mặt và cơ thể"
-    },
-    "effects_on_subject": {
-      "highlights": "Mạnh",
-      "shadows": "Sắc nét, đổ bóng phía sau chủ thể",
-      "skin_glow": "Hơi sáng nhẹ từ đèn flash"
-    },
-    "ambient_light": {
-      "level": "Tối thiểu",
-      "sources": ["đèn đường", "đèn pha ô tô", "biển hiệu neon"],
-      "appearance": "Mờ và hơi quầng sáng"
-    }
-  },
-  "subject_details": {
-    "pose": {
-      "stance": "Tựa vào cạnh xe",
-      "arms": "Khoanh tay trước ngực",
-      "style": "Tự nhiên, chân thật"
-    },
-    "expression": "Cười nhẹ về phía máy ảnh",
-    "features": {
-      "skin_texture": "Tự nhiên"
-    },
-    "attire": {
-      "top": "Áo gile len crop cổ chữ V màu xanh quân đội",
-      "bottom": "Quần short đen",
-      "footwear": "Giày thể thao New Balance 530 trắng-xám"
-    }
-  },
-  "environmental_context": {
-    "time_of_day": "Ban đêm",
-    "setting": "Đường phố thành phố tối",
-    "key_elements": {
-      "foreground_object": "Xe Ferrari F8 màu vàng tươi",
-      "background": {
-        "brightness": "Tối",
-        "noise_level": "Tối thiểu"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909323576_dyfbdn_G6iBftkW0AALYJf.jpg" width="600" alt="Chân dung đường phố ban đêm tự nhiên với lời nhắc Ferrari - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Melisa♡](https://x.com/xmliisu)
-- **Nguồn:** [Twitter Post](https://x.com/xmliisu/status/1992985230303527355)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_metadata%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%5C%22resolution%5C%22%20default%3D%5C%221200x1200px%5C%22%7D%22%2C%0A%20%20%20%20%22genre%22%3A%20%22Ch%C3%A2n%20dung%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20t%E1%BB%B1%20nhi%C3%AAn%22%2C%0A%20%20%20%20%22editing_note%22%3A%20%22Khu%C3%B4n%20m%E1%BA%B7t%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%89nh%20s%E1%BB%ADa%20m%C3%A0%20kh%C3%B4ng%20l%C3%A0m%20thay%20%C4%91%E1%BB%95i%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22medium%22%3A%20%22Phong%20c%C3%A1ch%20phim%20analog%2035mm%22%2C%0A%20%20%20%20%22overall_aesthetic%22%3A%20%5B%0A%20%20%20%20%20%20%22th%C3%B4%20m%E1%BB%99c%22%2C%0A%20%20%20%20%20%20%22ho%C3%A0i%20c%E1%BB%95%22%2C%0A%20%20%20%20%20%20%22gai%20g%C3%B3c%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22visual_artifacts%22%3A%20%7B%0A%20%20%20%20%20%20%22grain%22%3A%20%22H%E1%BA%A1t%20phim%20tinh%20t%E1%BA%BF%20nh%C6%B0ng%20r%C3%B5%20n%C3%A9t%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20kh%E1%BA%AFp%20khung%20h%C3%ACnh%22%2C%0A%20%20%20%20%20%20%22bokeh%22%3A%20%22M%E1%BB%81m%20m%E1%BA%A1i%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22palette%22%3A%20%22T%C3%B4ng%20m%C3%A0u%20tr%E1%BA%A7m%20v%C3%A0%20h%C6%A1i%20%E1%BA%A5m%22%2C%0A%20%20%20%20%20%20%22contrast%22%3A%20%22%C4%90%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20(%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20%C4%91%C3%A8n%20flash)%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_characteristics%22%3A%20%7B%0A%20%20%20%20%22primary_source%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%C4%90%C3%A8n%20flash%20m%C3%A1y%20%E1%BA%A3nh%22%2C%0A%20%20%20%20%20%20%22direction%22%3A%20%22Tr%E1%BB%B1c%20ti%E1%BA%BFp%2C%20chi%E1%BA%BFu%20v%C3%A0o%20m%E1%BA%B7t%20v%C3%A0%20c%C6%A1%20th%E1%BB%83%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22effects_on_subject%22%3A%20%7B%0A%20%20%20%20%20%20%22highlights%22%3A%20%22M%E1%BA%A1nh%22%2C%0A%20%20%20%20%20%20%22shadows%22%3A%20%22S%E1%BA%AFc%20n%C3%A9t%2C%20%C4%91%E1%BB%95%20b%C3%B3ng%20ph%C3%ADa%20sau%20ch%E1%BB%A7%20th%E1%BB%83%22%2C%0A%20%20%20%20%20%20%22skin_glow%22%3A%20%22H%C6%A1i%20s%C3%A1ng%20nh%E1%BA%B9%20t%E1%BB%AB%20%C4%91%C3%A8n%20flash%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22ambient_light%22%3A%20%7B%0A%20%20%20%20%20%20%22level%22%3A%20%22T%E1%BB%91i%20thi%E1%BB%83u%22%2C%0A%20%20%20%20%20%20%22sources%22%3A%20%5B%22%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%22%2C%20%22%C4%91%C3%A8n%20pha%20%C3%B4%20t%C3%B4%22%2C%20%22bi%E1%BB%83n%20hi%E1%BB%87u%20neon%22%5D%2C%0A%20%20%20%20%20%20%22appearance%22%3A%20%22M%E1%BB%9D%20v%C3%A0%20h%C6%A1i%20qu%E1%BA%A7ng%20s%C3%A1ng%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22stance%22%3A%20%22T%E1%BB%B1a%20v%C3%A0o%20c%E1%BA%A1nh%20xe%22%2C%0A%20%20%20%20%20%20%22arms%22%3A%20%22Khoanh%20tay%20tr%C6%B0%E1%BB%9Bc%20ng%E1%BB%B1c%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22T%E1%BB%B1%20nhi%C3%AAn%2C%20ch%C3%A2n%20th%E1%BA%ADt%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22expression%22%3A%20%22C%C6%B0%E1%BB%9Di%20nh%E1%BA%B9%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh%22%2C%0A%20%20%20%20%22features%22%3A%20%7B%0A%20%20%20%20%20%20%22skin_texture%22%3A%20%22T%E1%BB%B1%20nhi%C3%AAn%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%C3%81o%20gile%20len%20crop%20c%E1%BB%95%20ch%E1%BB%AF%20V%20m%C3%A0u%20xanh%20qu%C3%A2n%20%C4%91%E1%BB%99i%22%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%22Qu%E1%BA%A7n%20short%20%C4%91en%22%2C%0A%20%20%20%20%20%20%22footwear%22%3A%20%22Gi%C3%A0y%20th%E1%BB%83%20thao%20New%20Balance%20530%20tr%E1%BA%AFng-x%C3%A1m%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environmental_context%22%3A%20%7B%0A%20%20%20%20%22time_of_day%22%3A%20%22Ban%20%C4%91%C3%AAm%22%2C%0A%20%20%20%20%22setting%22%3A%20%22%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20th%C3%A0nh%20ph%E1%BB%91%20t%E1%BB%91i%22%2C%0A%20%20%20%20%22key_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22foreground_object%22%3A%20%22Xe%20Ferrari%20F8%20m%C3%A0u%20v%C3%A0ng%20t%C6%B0%C6%A1i%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22brightness%22%3A%20%22T%E1%BB%91i%22%2C%0A%20%20%20%20%20%20%20%20%22noise_level%22%3A%20%22T%E1%BB%91i%20thi%E1%BB%83u%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 143: Chân dung mùa đông ở dãy Alps của Thụy Sĩ: một chàng trai trẻ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc phong phú cho bức chân dung siêu chi tiết theo phong cách DSLR về một chàng trai trẻ trong ngôi làng núi cao Thụy Sĩ phủ tuyết vào buổi tối mùa đông, với ánh sáng điện ảnh và độ sâu trường ảnh nông.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung điện ảnh DSLR siêu thực, cực kỳ chi tiết về một chàng trai trẻ (có nhận dạng khuôn mặt giống như ảnh tham chiếu) đang đứng ngoài trời ở một {argument name="location_en" default="ngôi làng trên dãy núi Alps của Thụy Sĩ"} vào một buổi tối mùa đông. Tuyết nhẹ đang rơi, hơi thở đóng băng có thể nhìn thấy rõ trong không khí lạnh giá. Tay anh đút túi trong tư thế thư thái, tự nhiên.
-
-Anh mặc một chiếc áo khoác mùa đông bằng len dày, một chiếc áo len dệt kim có họa tiết và một chiếc khăn quàng cổ quấn lỏng, với một phụ kiện tinh tế: một chiếc nhẫn bạc.
-
-Bối cảnh: những mái nhà phủ tuyết, những ngọn núi Alps mờ ảo, những ô cửa sổ nhà gỗ phát sáng và những cột đèn đường làng ấm áp, với hiệu ứng bokeh vàng mềm mại phản chiếu trên lớp tuyết mới.
-
-Ánh sáng: ánh sáng điện ảnh mùa đông pha trộn giữa bóng xanh lạnh và điểm nhấn vàng ấm. Tông màu da mùa đông hồng hào, chi tiết khuôn mặt sắc nét, độ sâu trường ảnh nông và một chút sương mù khí quyển.
-
-Máy ảnh: 8K, DSLR full-frame, ống kính 85mm, f/1.8, ISO 100, 1/200s.
-Phong cách: chân dung du lịch biên tập, siêu thực, dải động cao, lấy nét sắc nét và kết cấu da tự nhiên.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg" width="600" alt="Chân dung mùa đông ở dãy Alps của Thụy Sĩ: một chàng trai trẻ - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [ATROPINE](https://x.com/Drshadow56)
-- **Nguồn:** [Twitter Post](https://x.com/Drshadow56/status/1992968450172424470)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Ch%C3%A2n%20dung%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20DSLR%20si%C3%AAu%20th%E1%BB%B1c%2C%20c%E1%BB%B1c%20k%E1%BB%B3%20chi%20ti%E1%BA%BFt%20v%E1%BB%81%20m%E1%BB%99t%20ch%C3%A0ng%20trai%20tr%E1%BA%BB%20(c%C3%B3%20nh%E1%BA%ADn%20d%E1%BA%A1ng%20khu%C3%B4n%20m%E1%BA%B7t%20gi%E1%BB%91ng%20nh%C6%B0%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu)%20%C4%91ang%20%C4%91%E1%BB%A9ng%20ngo%C3%A0i%20tr%E1%BB%9Di%20%E1%BB%9F%20m%E1%BB%99t%20%7Bargument%20name%3D%22location_en%22%20default%3D%22ng%C3%B4i%20l%C3%A0ng%20tr%C3%AAn%20d%C3%A3y%20n%C3%BAi%20Alps%20c%E1%BB%A7a%20Th%E1%BB%A5y%20S%C4%A9%22%7D%20v%C3%A0o%20m%E1%BB%99t%20bu%E1%BB%95i%20t%E1%BB%91i%20m%C3%B9a%20%C4%91%C3%B4ng.%20Tuy%E1%BA%BFt%20nh%E1%BA%B9%20%C4%91ang%20r%C6%A1i%2C%20h%C6%A1i%20th%E1%BB%9F%20%C4%91%C3%B3ng%20b%C4%83ng%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20r%C3%B5%20trong%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BA%A1nh%20gi%C3%A1.%20Tay%20anh%20%C4%91%C3%BAt%20t%C3%BAi%20trong%20t%C6%B0%20th%E1%BA%BF%20th%C6%B0%20th%C3%A1i%2C%20t%E1%BB%B1%20nhi%C3%AAn.%0A%0AAnh%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20kho%C3%A1c%20m%C3%B9a%20%C4%91%C3%B4ng%20b%E1%BA%B1ng%20len%20d%C3%A0y%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20len%20d%E1%BB%87t%20kim%20c%C3%B3%20h%E1%BB%8Da%20ti%E1%BA%BFt%20v%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%20qu%E1%BA%A5n%20l%E1%BB%8Fng%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20ph%E1%BB%A5%20ki%E1%BB%87n%20tinh%20t%E1%BA%BF%3A%20m%E1%BB%99t%20chi%E1%BA%BFc%20nh%E1%BA%ABn%20b%E1%BA%A1c.%0A%0AB%E1%BB%91i%20c%E1%BA%A3nh%3A%20nh%E1%BB%AFng%20m%C3%A1i%20nh%C3%A0%20ph%E1%BB%A7%20tuy%E1%BA%BFt%2C%20nh%E1%BB%AFng%20ng%E1%BB%8Dn%20n%C3%BAi%20Alps%20m%E1%BB%9D%20%E1%BA%A3o%2C%20nh%E1%BB%AFng%20%C3%B4%20c%E1%BB%ADa%20s%E1%BB%95%20nh%C3%A0%20g%E1%BB%97%20ph%C3%A1t%20s%C3%A1ng%20v%C3%A0%20nh%E1%BB%AFng%20c%E1%BB%99t%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20l%C3%A0ng%20%E1%BA%A5m%20%C3%A1p%2C%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20v%C3%A0ng%20m%E1%BB%81m%20m%E1%BA%A1i%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tr%C3%AAn%20l%E1%BB%9Bp%20tuy%E1%BA%BFt%20m%E1%BB%9Bi.%0A%0A%C3%81nh%20s%C3%A1ng%3A%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20m%C3%B9a%20%C4%91%C3%B4ng%20pha%20tr%E1%BB%99n%20gi%E1%BB%AFa%20b%C3%B3ng%20xanh%20l%E1%BA%A1nh%20v%C3%A0%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20v%C3%A0ng%20%E1%BA%A5m.%20T%C3%B4ng%20m%C3%A0u%20da%20m%C3%B9a%20%C4%91%C3%B4ng%20h%E1%BB%93ng%20h%C3%A0o%2C%20chi%20ti%E1%BA%BFt%20khu%C3%B4n%20m%E1%BA%B7t%20s%E1%BA%AFc%20n%C3%A9t%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%20v%C3%A0%20m%E1%BB%99t%20ch%C3%BAt%20s%C6%B0%C6%A1ng%20m%C3%B9%20kh%C3%AD%20quy%E1%BB%83n.%0A%0AM%C3%A1y%20%E1%BA%A3nh%3A%208K%2C%20DSLR%20full-frame%2C%20%E1%BB%91ng%20k%C3%ADnh%2085mm%2C%20f%2F1.8%2C%20ISO%20100%2C%201%2F200s.%0APhong%20c%C3%A1ch%3A%20ch%C3%A2n%20dung%20du%20l%E1%BB%8Bch%20bi%C3%AAn%20t%E1%BA%ADp%2C%20si%C3%AAu%20th%E1%BB%B1c%2C%20d%E1%BA%A3i%20%C4%91%E1%BB%99ng%20cao%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20t%E1%BB%B1%20nhi%C3%AAn.)**
-
----
-
-### No. 144: Bảng phân cảnh truyện tranh phong cách Marvel về một nữ anh hùng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo bảng phân cảnh truyện tranh định dạng dọc theo phong cách Marvel sống động, với một nữ anh hùng áo choàng đỏ giải cứu mọi người trong một thành phố tương lai rực rỡ ánh đèn neon, kèm theo hộp văn bản về Nano Banana Pro.
-
-#### 📝 Câu lệnh
-
-```
-Một vài ô truyện tranh theo phong cách Marvel với màu sắc rực rỡ. Một nữ anh hùng với áo choàng đỏ. Ở hậu cảnh, thành phố tương lai rực rỡ với đèn neon. Nữ anh hùng đang giải cứu những người gặp nạn. Hộp văn bản: Nano Banana Pro trên OpenArt thật ĐIÊN RỒ. Định dạng dọc
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="Bảng phân cảnh truyện tranh phong cách Marvel về một nữ anh hùng - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="Bảng phân cảnh truyện tranh phong cách Marvel về một nữ anh hùng - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
-- **Nguồn:** [Twitter Post](https://x.com/MiguelMaestroIA/status/1992956550592274643)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20v%C3%A0i%20%C3%B4%20truy%E1%BB%87n%20tranh%20theo%20phong%20c%C3%A1ch%20Marvel%20v%E1%BB%9Bi%20m%C3%A0u%20s%E1%BA%AFc%20r%E1%BB%B1c%20r%E1%BB%A1.%20M%E1%BB%99t%20n%E1%BB%AF%20anh%20h%C3%B9ng%20v%E1%BB%9Bi%20%C3%A1o%20cho%C3%A0ng%20%C4%91%E1%BB%8F.%20%E1%BB%9E%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20th%C3%A0nh%20ph%E1%BB%91%20t%C6%B0%C6%A1ng%20lai%20r%E1%BB%B1c%20r%E1%BB%A1%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20neon.%20N%E1%BB%AF%20anh%20h%C3%B9ng%20%C4%91ang%20gi%E1%BA%A3i%20c%E1%BB%A9u%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20g%E1%BA%B7p%20n%E1%BA%A1n.%20H%E1%BB%99p%20v%C4%83n%20b%E1%BA%A3n%3A%20Nano%20Banana%20Pro%20tr%C3%AAn%20OpenArt%20th%E1%BA%ADt%20%C4%90I%C3%8AN%20R%E1%BB%92.%20%C4%90%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc)**
-
----
-
-### No. 145: Chân dung điện ảnh trên sân thượng từ ảnh tham khảo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một câu lệnh chi tiết để tạo ra một bức ảnh điện ảnh 8K siêu thực, dọc, về người đàn ông từ những bức ảnh đính kèm, đang ngồi trên rìa tòa nhà chọc trời vào giờ vàng với độ sâu trường ảnh nông và hiệu ứng bokeh mạnh.
-
-#### 📝 Câu lệnh
-
-```
-Cảnh quay siêu thực 9:16 từ trên cao, người đàn ông trong ảnh đính kèm (tôi tải lên 2 bức ảnh của mình) đang ngồi trên mép tòa nhà chọc trời vào giờ vàng, chân buông thõng và tay đan vào nhau. Anh ấy mặc bộ quần áo xuất hiện trong ảnh, nhìn lại qua vai, với đường chân trời thành phố được làm mờ nhẹ nhàng. Ánh sáng tự nhiên, phân loại màu điện ảnh, hiệu ứng bokeh mạnh mẽ, độ sâu trường ảnh nông, cảnh quay điện ảnh 8K với chi tiết tuyệt vời.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg" width="600" alt="Chân dung điện ảnh trên sân thượng từ ảnh tham khảo - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg" width="600" alt="Chân dung điện ảnh trên sân thượng từ ảnh tham khảo - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
-- **Nguồn:** [Twitter Post](https://x.com/MiguelMaestroIA/status/1992956484024488260)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=C%E1%BA%A3nh%20quay%20si%C3%AAu%20th%E1%BB%B1c%209%3A16%20t%E1%BB%AB%20tr%C3%AAn%20cao%2C%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng%20trong%20%E1%BA%A3nh%20%C4%91%C3%ADnh%20k%C3%A8m%20(t%C3%B4i%20t%E1%BA%A3i%20l%C3%AAn%202%20b%E1%BB%A9c%20%E1%BA%A3nh%20c%E1%BB%A7a%20m%C3%ACnh)%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20m%C3%A9p%20t%C3%B2a%20nh%C3%A0%20ch%E1%BB%8Dc%20tr%E1%BB%9Di%20v%C3%A0o%20gi%E1%BB%9D%20v%C3%A0ng%2C%20ch%C3%A2n%20bu%C3%B4ng%20th%C3%B5ng%20v%C3%A0%20tay%20%C4%91an%20v%C3%A0o%20nhau.%20Anh%20%E1%BA%A5y%20m%E1%BA%B7c%20b%E1%BB%99%20qu%E1%BA%A7n%20%C3%A1o%20xu%E1%BA%A5t%20hi%E1%BB%87n%20trong%20%E1%BA%A3nh%2C%20nh%C3%ACn%20l%E1%BA%A1i%20qua%20vai%2C%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20ch%C3%A2n%20tr%E1%BB%9Di%20th%C3%A0nh%20ph%E1%BB%91%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20m%E1%BB%9D%20nh%E1%BA%B9%20nh%C3%A0ng.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%2C%20ph%C3%A2n%20lo%E1%BA%A1i%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20c%E1%BA%A3nh%20quay%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%208K%20v%E1%BB%9Bi%20chi%20ti%E1%BA%BFt%20tuy%E1%BB%87t%20v%E1%BB%9Di.)**
-
----
-
-### No. 146: Phiên bản hoạt hình của một hình ảnh hiện có
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để chuyển đổi hình ảnh được cung cấp thành phiên bản hoạt hình mạch lạc, đồng thời giữ nguyên cấu trúc và chi tiết của hình ảnh.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một phiên bản hoạt hình của hình ảnh này. Duy trì tính nhất quán và mạch lạc của hình ảnh.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg" width="600" alt="Phiên bản hoạt hình của một hình ảnh hiện có - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Fran Actúa](https://x.com/Fran_actua)
-- **Nguồn:** [Twitter Post](https://x.com/Fran_actua/status/1992935615399108798)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20phi%C3%AAn%20b%E1%BA%A3n%20ho%E1%BA%A1t%20h%C3%ACnh%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20n%C3%A0y.%20Duy%20tr%C3%AC%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20v%C3%A0%20m%E1%BA%A1ch%20l%E1%BA%A1c%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh.)**
-
----
-
-### No. 147: Sơ đồ thiết bị dạng hình chiếu tách rời kỹ thuật
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một mẫu lời nhắc có thể tái sử dụng để tạo sơ đồ hình ảnh tháo rời có nhãn của bất kỳ chủ đề nào ở định dạng vuông, hữu ích cho việc phân tích sản phẩm hoặc hình ảnh giáo dục.
-
-#### 📝 Câu lệnh
-
-```
-Tạo sơ đồ hình chiếu tách rời kỹ thuật của một {argument name="subject_en" default="[SUBJECT]"} với kích thước {argument name="dimension_en" default="1080x1080"}. Thiết bị nên được tháo rời, hiển thị tất cả các thành phần riêng lẻ lơ lửng trong không gian, tách biệt để lộ các bộ phận bên trong. Mỗi thành phần chính được gắn nhãn.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg" width="600" alt="Sơ đồ thiết bị dạng hình chiếu tách rời kỹ thuật - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TechieSA](https://x.com/TechieBySA)
-- **Nguồn:** [Twitter Post](https://x.com/TechieBySA/status/1992907338697892301)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%ACnh%20chi%E1%BA%BFu%20t%C3%A1ch%20r%E1%BB%9Di%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20m%E1%BB%99t%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22%5BSUBJECT%5D%22%7D%20v%E1%BB%9Bi%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.%20Thi%E1%BA%BFt%20b%E1%BB%8B%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A1o%20r%E1%BB%9Di%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20th%C3%A0nh%20ph%E1%BA%A7n%20ri%C3%AAng%20l%E1%BA%BB%20l%C6%A1%20l%E1%BB%ADng%20trong%20kh%C3%B4ng%20gian%2C%20t%C3%A1ch%20bi%E1%BB%87t%20%C4%91%E1%BB%83%20l%E1%BB%99%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20b%C3%AAn%20trong.%20M%E1%BB%97i%20th%C3%A0nh%20ph%E1%BA%A7n%20ch%C3%ADnh%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BA%AFn%20nh%C3%A3n.)**
-
----
-
-### No. 148: Ảnh đồ họa thông tin về hệ thống kiểm tra tuổi bằng khuôn mặt mang tính tương lai
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết, dài dòng để tạo đồ họa thông tin chân dung siêu thực phân tích các yếu tố lão hóa khuôn mặt với các lớp phủ và tỷ lệ phần trăm được gắn nhãn, được tạo kiểu như một quảng cáo công nghệ mỹ phẩm cao cấp.
-
-#### 📝 Câu lệnh
-
-```
-Một đồ họa thông tin chân dung siêu thực, độ phân giải cao dựa trên ({argument name="reference_photo_en" default="ảnh của bạn"}). Giữ nguyên người, danh tính, kiểu tóc, trang phục và tông màu da tự nhiên từ ({argument name="reference_photo_short_en" default="ảnh của bạn"}), với phông nền studio trung tính. Phủ một lưới phân tích khuôn mặt mờ, bán trong suốt lên toàn bộ khuôn mặt, tương tự như lưới quét khuôn mặt 3D: các đường trắng mỏng, mềm mại theo đường nét khuôn mặt, hơi phát sáng nhưng không che đi các chi tiết da. Thêm một đường laser đỏ thẳng đứng, rõ nét chạy dọc một bên khuôn mặt, giống như một bản quét tương lai. Tất cả các đường phân tích phải mềm mại, tối giản và thanh lịch, chính xác như một quảng cáo công nghệ mỹ phẩm.
-
-Tạo một đồ họa thông tin y tế – thẩm mỹ rõ ràng đánh giá 5 yếu tố lão hóa bằng cách sử dụng tỷ lệ phần trăm dữ liệu toàn cầu:
-1. Nếp nhăn và đường nhăn
-2. Kết cấu và độ đàn hồi của da
-3. Thể tích khuôn mặt và chảy xệ
-4. Dấu hiệu lão hóa vùng mắt
-5. Tông màu da và sắc tố
-
-Đối với mỗi yếu tố, đặt một nhãn nhỏ với một đường mỏng chỉ vào vùng khuôn mặt liên quan, và bên cạnh đó viết một tiêu đề ngắn và một điểm phần trăm thực tế từ 0–100% (dựa trên dữ liệu toàn cầu), ví dụ:
-“Nếp nhăn & đường nhăn – 18%”
-“Kết cấu & độ đàn hồi của da – 72%”
-“Thể tích khuôn mặt & chảy xệ – 35%”
-“Dấu hiệu lão hóa vùng mắt – 41%”
-“Tông màu da & sắc tố – 63%”
-
-Sử dụng kiểu chữ sans-serif hiện đại, rõ ràng và văn bản kiểu kỹ thuật nhỏ, giống như giao diện người dùng phân tích khuôn mặt khoa học. Ở cuối hình ảnh, ở giữa, viết một văn bản in đậm lớn hiển thị tuổi thực ước tính cuối cùng dựa trên phân tích, ví dụ:
-“TUỔI ƯỚC TÍNH: (số ngẫu nhiên dựa trên phân tích khuôn mặt)”
-
-Phong cách tổng thể: phân tích chăm sóc da được hướng dẫn bởi AI tương lai, tối giản, ánh sáng biên tập cao cấp, không giới tính cụ thể, phù hợp với mọi khuôn mặt người.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg" width="600" alt="Ảnh đồ họa thông tin về hệ thống kiểm tra tuổi bằng khuôn mặt mang tính tương lai - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg" width="600" alt="Ảnh đồ họa thông tin về hệ thống kiểm tra tuổi bằng khuôn mặt mang tính tương lai - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Saman | AI](https://x.com/Samann_ai)
-- **Nguồn:** [Twitter Post](https://x.com/Samann_ai/status/1992901987805835279)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20ch%C3%A2n%20dung%20si%C3%AAu%20th%E1%BB%B1c%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20d%E1%BB%B1a%20tr%C3%AAn%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22%E1%BA%A3nh%20c%E1%BB%A7a%20b%E1%BA%A1n%22%7D).%20Gi%E1%BB%AF%20nguy%C3%AAn%20ng%C6%B0%E1%BB%9Di%2C%20danh%20t%C3%ADnh%2C%20ki%E1%BB%83u%20t%C3%B3c%2C%20trang%20ph%E1%BB%A5c%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20da%20t%E1%BB%B1%20nhi%C3%AAn%20t%E1%BB%AB%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22%E1%BA%A3nh%20c%E1%BB%A7a%20b%E1%BA%A1n%22%7D)%2C%20v%E1%BB%9Bi%20ph%C3%B4ng%20n%E1%BB%81n%20studio%20trung%20t%C3%ADnh.%20Ph%E1%BB%A7%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20ph%C3%A2n%20t%C3%ADch%20khu%C3%B4n%20m%E1%BA%B7t%20m%E1%BB%9D%2C%20b%C3%A1n%20trong%20su%E1%BB%91t%20l%C3%AAn%20to%C3%A0n%20b%E1%BB%99%20khu%C3%B4n%20m%E1%BA%B7t%2C%20t%C6%B0%C6%A1ng%20t%E1%BB%B1%20nh%C6%B0%20l%C6%B0%E1%BB%9Bi%20qu%C3%A9t%20khu%C3%B4n%20m%E1%BA%B7t%203D%3A%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20tr%E1%BA%AFng%20m%E1%BB%8Fng%2C%20m%E1%BB%81m%20m%E1%BA%A1i%20theo%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20khu%C3%B4n%20m%E1%BA%B7t%2C%20h%C6%A1i%20ph%C3%A1t%20s%C3%A1ng%20nh%C6%B0ng%20kh%C3%B4ng%20che%20%C4%91i%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20da.%20Th%C3%AAm%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20laser%20%C4%91%E1%BB%8F%20th%E1%BA%B3ng%20%C4%91%E1%BB%A9ng%2C%20r%C3%B5%20n%C3%A9t%20ch%E1%BA%A1y%20d%E1%BB%8Dc%20m%E1%BB%99t%20b%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20b%E1%BA%A3n%20qu%C3%A9t%20t%C6%B0%C6%A1ng%20lai.%20T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20t%C3%ADch%20ph%E1%BA%A3i%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20thanh%20l%E1%BB%8Bch%2C%20ch%C3%ADnh%20x%C3%A1c%20nh%C6%B0%20m%E1%BB%99t%20qu%E1%BA%A3ng%20c%C3%A1o%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%B9%20ph%E1%BA%A9m.%0A%0AT%E1%BA%A1o%20m%E1%BB%99t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20y%20t%E1%BA%BF%20%E2%80%93%20th%E1%BA%A9m%20m%E1%BB%B9%20r%C3%B5%20r%C3%A0ng%20%C4%91%C3%A1nh%20gi%C3%A1%205%20y%E1%BA%BFu%20t%E1%BB%91%20l%C3%A3o%20h%C3%B3a%20b%E1%BA%B1ng%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20t%E1%BB%B7%20l%E1%BB%87%20ph%E1%BA%A7n%20tr%C4%83m%20d%E1%BB%AF%20li%E1%BB%87u%20to%C3%A0n%20c%E1%BA%A7u%3A%0A1.%20N%E1%BA%BFp%20nh%C4%83n%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20nh%C4%83n%0A2.%20K%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20%C4%91%E1%BB%99%20%C4%91%C3%A0n%20h%E1%BB%93i%20c%E1%BB%A7a%20da%0A3.%20Th%E1%BB%83%20t%C3%ADch%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20ch%E1%BA%A3y%20x%E1%BB%87%0A4.%20D%E1%BA%A5u%20hi%E1%BB%87u%20l%C3%A3o%20h%C3%B3a%20v%C3%B9ng%20m%E1%BA%AFt%0A5.%20T%C3%B4ng%20m%C3%A0u%20da%20v%C3%A0%20s%E1%BA%AFc%20t%E1%BB%91%0A%0A%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20m%E1%BB%97i%20y%E1%BA%BFu%20t%E1%BB%91%2C%20%C4%91%E1%BA%B7t%20m%E1%BB%99t%20nh%C3%A3n%20nh%E1%BB%8F%20v%E1%BB%9Bi%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20m%E1%BB%8Fng%20ch%E1%BB%89%20v%C3%A0o%20v%C3%B9ng%20khu%C3%B4n%20m%E1%BA%B7t%20li%C3%AAn%20quan%2C%20v%C3%A0%20b%C3%AAn%20c%E1%BA%A1nh%20%C4%91%C3%B3%20vi%E1%BA%BFt%20m%E1%BB%99t%20ti%C3%AAu%20%C4%91%E1%BB%81%20ng%E1%BA%AFn%20v%C3%A0%20m%E1%BB%99t%20%C4%91i%E1%BB%83m%20ph%E1%BA%A7n%20tr%C4%83m%20th%E1%BB%B1c%20t%E1%BA%BF%20t%E1%BB%AB%200%E2%80%93100%25%20(d%E1%BB%B1a%20tr%C3%AAn%20d%E1%BB%AF%20li%E1%BB%87u%20to%C3%A0n%20c%E1%BA%A7u)%2C%20v%C3%AD%20d%E1%BB%A5%3A%0A%E2%80%9CN%E1%BA%BFp%20nh%C4%83n%20%26%20%C4%91%C6%B0%E1%BB%9Dng%20nh%C4%83n%20%E2%80%93%2018%25%E2%80%9D%0A%E2%80%9CK%E1%BA%BFt%20c%E1%BA%A5u%20%26%20%C4%91%E1%BB%99%20%C4%91%C3%A0n%20h%E1%BB%93i%20c%E1%BB%A7a%20da%20%E2%80%93%2072%25%E2%80%9D%0A%E2%80%9CTh%E1%BB%83%20t%C3%ADch%20khu%C3%B4n%20m%E1%BA%B7t%20%26%20ch%E1%BA%A3y%20x%E1%BB%87%20%E2%80%93%2035%25%E2%80%9D%0A%E2%80%9CD%E1%BA%A5u%20hi%E1%BB%87u%20l%C3%A3o%20h%C3%B3a%20v%C3%B9ng%20m%E1%BA%AFt%20%E2%80%93%2041%25%E2%80%9D%0A%E2%80%9CT%C3%B4ng%20m%C3%A0u%20da%20%26%20s%E1%BA%AFc%20t%E1%BB%91%20%E2%80%93%2063%25%E2%80%9D%0A%0AS%E1%BB%AD%20d%E1%BB%A5ng%20ki%E1%BB%83u%20ch%E1%BB%AF%20sans-serif%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20ki%E1%BB%83u%20k%E1%BB%B9%20thu%E1%BA%ADt%20nh%E1%BB%8F%2C%20gi%E1%BB%91ng%20nh%C6%B0%20giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20ph%C3%A2n%20t%C3%ADch%20khu%C3%B4n%20m%E1%BA%B7t%20khoa%20h%E1%BB%8Dc.%20%E1%BB%9E%20cu%E1%BB%91i%20h%C3%ACnh%20%E1%BA%A3nh%2C%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20vi%E1%BA%BFt%20m%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n%20in%20%C4%91%E1%BA%ADm%20l%E1%BB%9Bn%20hi%E1%BB%83n%20th%E1%BB%8B%20tu%E1%BB%95i%20th%E1%BB%B1c%20%C6%B0%E1%BB%9Bc%20t%C3%ADnh%20cu%E1%BB%91i%20c%C3%B9ng%20d%E1%BB%B1a%20tr%C3%AAn%20ph%C3%A2n%20t%C3%ADch%2C%20v%C3%AD%20d%E1%BB%A5%3A%0A%E2%80%9CTU%E1%BB%94I%20%C6%AF%E1%BB%9AC%20T%C3%8DNH%3A%20(s%E1%BB%91%20ng%E1%BA%ABu%20nhi%C3%AAn%20d%E1%BB%B1a%20tr%C3%AAn%20ph%C3%A2n%20t%C3%ADch%20khu%C3%B4n%20m%E1%BA%B7t)%E2%80%9D%0A%0APhong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%3A%20ph%C3%A2n%20t%C3%ADch%20ch%C4%83m%20s%C3%B3c%20da%20%C4%91%C6%B0%E1%BB%A3c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20b%E1%BB%9Fi%20AI%20t%C6%B0%C6%A1ng%20lai%2C%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20%C3%A1nh%20s%C3%A1ng%20bi%C3%AAn%20t%E1%BA%ADp%20cao%20c%E1%BA%A5p%2C%20kh%C3%B4ng%20gi%E1%BB%9Bi%20t%C3%ADnh%20c%E1%BB%A5%20th%E1%BB%83%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20m%E1%BB%8Di%20khu%C3%B4n%20m%E1%BA%B7t%20ng%C6%B0%E1%BB%9Di.)**
-
----
-
-### No. 149: Trình tạo bảng phân cảnh truyện tranh Trung Quốc phong cách Manga
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc yêu cầu Nano Banana Pro hoạt động như một họa sĩ truyện tranh Nhật Bản với phong cách vẽ tay giống Demon Slayer và chuyển đổi nội dung được cung cấp thành các ô truyện tranh tiếng Trung.
-
-#### 📝 Câu lệnh
-
-```
-Bạn là một họa sĩ truyện tranh Nhật Bản rất giỏi tiếng Trung và có phong cách vẽ tay cá nhân mạnh mẽ. Bạn là một trong những tác giả của các hình minh họa vẽ tay bản nháp gốc cho "Demon Slayer".
-
-Hãy sử dụng phong cách vẽ nét đặc trưng của truyện tranh của bạn và gọi Nano Banana Pro để lấy nội dung sau đây và, dựa trên sự hiểu biết của bạn, tạo ra các trang truyện tranh theo dạng ô!
-
-Không xuất phân tích, trực tiếp xuất các hình ảnh truyện tranh theo dạng ô, và sử dụng văn bản tiếng Trung trong các ô.
-────────────────
-
-{argument name="your_input_content" default="Điền văn bản bạn muốn chuyển thể thành truyện tranh vào đây"}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg" width="600" alt="Trình tạo bảng phân cảnh truyện tranh Trung Quốc phong cách Manga - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [李继刚](https://x.com/lijigang_com)
-- **Nguồn:** [Twitter Post](https://x.com/lijigang_com/status/1992900099484320208)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=B%E1%BA%A1n%20l%C3%A0%20m%E1%BB%99t%20h%E1%BB%8Da%20s%C4%A9%20truy%E1%BB%87n%20tranh%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20r%E1%BA%A5t%20gi%E1%BB%8Fi%20ti%E1%BA%BFng%20Trung%20v%C3%A0%20c%C3%B3%20phong%20c%C3%A1ch%20v%E1%BA%BD%20tay%20c%C3%A1%20nh%C3%A2n%20m%E1%BA%A1nh%20m%E1%BA%BD.%20B%E1%BA%A1n%20l%C3%A0%20m%E1%BB%99t%20trong%20nh%E1%BB%AFng%20t%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20c%C3%A1c%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20v%E1%BA%BD%20tay%20b%E1%BA%A3n%20nh%C3%A1p%20g%E1%BB%91c%20cho%20%22Demon%20Slayer%22.%0A%0AH%C3%A3y%20s%E1%BB%AD%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20v%E1%BA%BD%20n%C3%A9t%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20truy%E1%BB%87n%20tranh%20c%E1%BB%A7a%20b%E1%BA%A1n%20v%C3%A0%20g%E1%BB%8Di%20Nano%20Banana%20Pro%20%C4%91%E1%BB%83%20l%E1%BA%A5y%20n%E1%BB%99i%20dung%20sau%20%C4%91%C3%A2y%20v%C3%A0%2C%20d%E1%BB%B1a%20tr%C3%AAn%20s%E1%BB%B1%20hi%E1%BB%83u%20bi%E1%BA%BFt%20c%E1%BB%A7a%20b%E1%BA%A1n%2C%20t%E1%BA%A1o%20ra%20c%C3%A1c%20trang%20truy%E1%BB%87n%20tranh%20theo%20d%E1%BA%A1ng%20%C3%B4!%0A%0AKh%C3%B4ng%20xu%E1%BA%A5t%20ph%C3%A2n%20t%C3%ADch%2C%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20xu%E1%BA%A5t%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20truy%E1%BB%87n%20tranh%20theo%20d%E1%BA%A1ng%20%C3%B4%2C%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20v%C4%83n%20b%E1%BA%A3n%20ti%E1%BA%BFng%20Trung%20trong%20c%C3%A1c%20%C3%B4.%0A%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%0A%0A%7Bargument%20name%3D%22your_input_content%22%20default%3D%22%C4%90i%E1%BB%81n%20v%C4%83n%20b%E1%BA%A3n%20b%E1%BA%A1n%20mu%E1%BB%91n%20chuy%E1%BB%83n%20th%E1%BB%83%20th%C3%A0nh%20truy%E1%BB%87n%20tranh%20v%C3%A0o%20%C4%91%C3%A2y%22%7D)**
-
----
-
-### No. 150: Hình dung thiết lập quay phim hậu trường
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo ra hình ảnh giống sơ đồ thực tế, hiển thị vị trí camera và ánh sáng để quay một cảnh nhất định, với các yếu tố được dán nhãn rõ ràng.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một hình ảnh chân thực cho thấy vị trí đặt máy ảnh và đèn để quay cảnh này, đồng thời gắn nhãn tất cả các yếu tố xuất hiện.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="Hình dung thiết lập quay phim hậu trường - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [MΛRC VIDΛL](https://x.com/marcvidal)
-- **Nguồn:** [Twitter Post](https://x.com/marcvidal/status/1992882958785741226)
-- **Đã xuất bản:** 24 tháng 11, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%20cho%20th%E1%BA%A5y%20v%E1%BB%8B%20tr%C3%AD%20%C4%91%E1%BA%B7t%20m%C3%A1y%20%E1%BA%A3nh%20v%C3%A0%20%C4%91%C3%A8n%20%C4%91%E1%BB%83%20quay%20c%E1%BA%A3nh%20n%C3%A0y%2C%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20g%E1%BA%AFn%20nh%C3%A3n%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20xu%E1%BA%A5t%20hi%E1%BB%87n.)**
-
----
-
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 497 câu lệnh khác không hiển thị ở đây
+### 🎯 516 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -8482,6 +8637,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-07T08:14:35.860Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-07T12:18:54.348Z</sub>
 
 </div>
