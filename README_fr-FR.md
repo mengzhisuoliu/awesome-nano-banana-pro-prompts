@@ -88,9 +88,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **703** |
+| 📝 Total des prompts | **705** |
 | ⭐ En vedette | **12** |
-| 🔄 Dernière mise à jour | **mardi 9 décembre 2025 à 08:18:54 UTC** |
+| 🔄 Dernière mise à jour | **mardi 9 décembre 2025 à 12:24:25 UTC** |
 
 </div>
 
@@ -687,7 +687,79 @@ Une photo numérique basse résolution prise avec un Sony CyberShot de 2005. Un 
 
 > 📝 Trié par date de publication (plus récent en premier)
 
-### No. 1: Génération de prompt pour affiche publicitaire Y!mobile
+### No. 1: Créer une scène cinématique de style 3D
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Saisissez le nom d'une série de films ou d'un acteur pour commencer ce processus.
+
+#### 📝 Prompt
+
+```
+[Nom de la série de films] : {argument name="Film Series Name" default="007"}
+
+Un rendu de diorama chibi 3D isométrique à 45 degrés, très détaillé, qui met en valeur de manière éclatante l'intégralité de la franchise [Nom de la série de films], avec le style de rendu distinctif de Cinema 4D (C4D).
+
+La scène entière est construite comme un ensemble de bases hexagonales de paysage imbriquées. Le nombre total de tuiles hexagonales doit correspondre exactement au nombre de films principaux (ou de saisons) de la franchise [Nom de la série de films].
+
+Point central
+Placez le monument le plus emblématique et définissant la franchise, ou la structure centrale, au centre géométrique du modèle (par exemple, le château de Poudlard pour Harry Potter, l'Étoile de la Mort pour Star Wars, la Tour des Avengers pour Marvel). Un grand titre anglais stylisé en 3D flotte autour de cette structure centrale : « [Nom de la série de films] ».
+
+Tuiles individuelles (Contenu dynamique)
+Chaque tuile hexagonale environnante représente un opus spécifique de la franchise et doit inclure :
+
+* Scènes célèbres : Recréez la scène classique la plus distinctive et instantanément reconnaissable, ou la disposition centrale de ce film.
+* Personnages clés : Présentez des figurines chibi clairement visibles des protagonistes et antagonistes les plus représentatifs sur la tuile, avec des poses vives exécutant activement un moment de l'histoire.
+* Objets clés : Dispersez de petits artefacts, véhicules ou créatures reconnaissables dans la scène qui font référence à l'intrigue du film.
+* Ambiance environnementale : Incluez un terrain, une végétation et des effets météorologiques uniques qui correspondent au thème de ce film spécifique.
+
+Titre individuel
+Sur le bord avant de chaque base hexagonale, affichez le titre anglais exact de ce film en lettres 3D stylisées (par exemple, « Harry Potter and the Sorcerer’s Stone »).
+
+Atmosphère générale
+Tous les éléments sont interconnectés par de jolis ponts, des chemins ou des transitions thématiques (tels que des faisceaux d'énergie ou des traînées magiques). Le modèle utilise des matériaux PBR riches et réalistes (bois stylisé, pierre, métal, tissu) avec des bords doux et arrondis. La scène est éclairée par une lumière naturelle chaude et douce qui projette des ombres légères, sur un fond propre et uniforme de couleur blanc cassé pour évoquer une sensation de collection de boîtes surprises douillette et haut de gamme.
+
+Garanties
+* Tous les mots qui apparaissent dans l'image sont correctement orthographiés.
+* Le nom de la franchise est exact.
+* Les noms des acteurs ont des associations vérifiées avec les films.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 3">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Aisukora](https://x.com/gua_xi7412)
+- **Source:** [Twitter Post]()
+- **Publié:** 9 décembre 2025
+- **Langues:** zh
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=%5BNom%20de%20la%20s%C3%A9rie%20de%20films%5D%20%3A%20%7Bargument%20name%3D%22Film%20Series%20Name%22%20default%3D%22007%22%7D%0A%0AUn%20rendu%20de%20diorama%20chibi%203D%20isom%C3%A9trique%20%C3%A0%2045%20degr%C3%A9s%2C%20tr%C3%A8s%20d%C3%A9taill%C3%A9%2C%20qui%20met%20en%20valeur%20de%20mani%C3%A8re%20%C3%A9clatante%20l'int%C3%A9gralit%C3%A9%20de%20la%20franchise%20%5BNom%20de%20la%20s%C3%A9rie%20de%20films%5D%2C%20avec%20le%20style%20de%20rendu%20distinctif%20de%20Cinema%204D%20(C4D).%0A%0ALa%20sc%C3%A8ne%20enti%C3%A8re%20est%20construite%20comme%20un%20ensemble%20de%20bases%20hexagonales%20de%20paysage%20imbriqu%C3%A9es.%20Le%20nombre%20total%20de%20tuiles%20hexagonales%20doit%20correspondre%20exactement%20au%20nombre%20de%20films%20principaux%20(ou%20de%20saisons)%20de%20la%20franchise%20%5BNom%20de%20la%20s%C3%A9rie%20de%20films%5D.%0A%0APoint%20central%0APlacez%20le%20monument%20le%20plus%20embl%C3%A9matique%20et%20d%C3%A9finissant%20la%20franchise%2C%20ou%20la%20structure%20centrale%2C%20au%20centre%20g%C3%A9om%C3%A9trique%20du%20mod%C3%A8le%20(par%20exemple%2C%20le%20ch%C3%A2teau%20de%20Poudlard%20pour%20Harry%20Potter%2C%20l'%C3%89toile%20de%20la%20Mort%20pour%20Star%20Wars%2C%20la%20Tour%20des%20Avengers%20pour%20Marvel).%20Un%20grand%20titre%20anglais%20stylis%C3%A9%20en%203D%20flotte%20autour%20de%20cette%20structure%20centrale%20%3A%20%C2%AB%20%5BNom%20de%20la%20s%C3%A9rie%20de%20films%5D%20%C2%BB.%0A%0ATuiles%20individuelles%20(Contenu%20dynamique)%0AChaque%20tuile%20hexagonale%20environnante%20repr%C3%A9sente%20un%20opus%20sp%C3%A9cifique%20de%20la%20franchise%20et%20doit%20inclure%20%3A%0A%0A*%20Sc%C3%A8nes%20c%C3%A9l%C3%A8bres%20%3A%20Recr%C3%A9ez%20la%20sc%C3%A8ne%20classique%20la%20plus%20distinctive%20et%20instantan%C3%A9ment%20reconnaissable%2C%20ou%20la%20disposition%20centrale%20de%20ce%20film.%0A*%20Personnages%20cl%C3%A9s%20%3A%20Pr%C3%A9sentez%20des%20figurines%20chibi%20clairement%20visibles%20des%20protagonistes%20et%20antagonistes%20les%20plus%20repr%C3%A9sentatifs%20sur%20la%20tuile%2C%20avec%20des%20poses%20vives%20ex%C3%A9cutant%20activement%20un%20moment%20de%20l'histoire.%0A*%20Objets%20cl%C3%A9s%20%3A%20Dispersez%20de%20petits%20artefacts%2C%20v%C3%A9hicules%20ou%20cr%C3%A9atures%20reconnaissables%20dans%20la%20sc%C3%A8ne%20qui%20font%20r%C3%A9f%C3%A9rence%20%C3%A0%20l'intrigue%20du%20film.%0A*%20Ambiance%20environnementale%20%3A%20Incluez%20un%20terrain%2C%20une%20v%C3%A9g%C3%A9tation%20et%20des%20effets%20m%C3%A9t%C3%A9orologiques%20uniques%20qui%20correspondent%20au%20th%C3%A8me%20de%20ce%20film%20sp%C3%A9cifique.%0A%0ATitre%20individuel%0ASur%20le%20bord%20avant%20de%20chaque%20base%20hexagonale%2C%20affichez%20le%20titre%20anglais%20exact%20de%20ce%20film%20en%20lettres%203D%20stylis%C3%A9es%20(par%20exemple%2C%20%C2%AB%20Harry%20Potter%20and%20the%20Sorcerer%E2%80%99s%20Stone%20%C2%BB).%0A%0AAtmosph%C3%A8re%20g%C3%A9n%C3%A9rale%0ATous%20les%20%C3%A9l%C3%A9ments%20sont%20interconnect%C3%A9s%20par%20de%20jolis%20ponts%2C%20des%20chemins%20ou%20des%20transitions%20th%C3%A9matiques%20(tels%20que%20des%20faisceaux%20d'%C3%A9nergie%20ou%20des%20tra%C3%AEn%C3%A9es%20magiques).%20Le%20mod%C3%A8le%20utilise%20des%20mat%C3%A9riaux%20PBR%20riches%20et%20r%C3%A9alistes%20(bois%20stylis%C3%A9%2C%20pierre%2C%20m%C3%A9tal%2C%20tissu)%20avec%20des%20bords%20doux%20et%20arrondis.%20La%20sc%C3%A8ne%20est%20%C3%A9clair%C3%A9e%20par%20une%20lumi%C3%A8re%20naturelle%20chaude%20et%20douce%20qui%20projette%20des%20ombres%20l%C3%A9g%C3%A8res%2C%20sur%20un%20fond%20propre%20et%20uniforme%20de%20couleur%20blanc%20cass%C3%A9%20pour%20%C3%A9voquer%20une%20sensation%20de%20collection%20de%20bo%C3%AEtes%20surprises%20douillette%20et%20haut%20de%20gamme.%0A%0AGaranties%0A*%20Tous%20les%20mots%20qui%20apparaissent%20dans%20l'image%20sont%20correctement%20orthographi%C3%A9s.%0A*%20Le%20nom%20de%20la%20franchise%20est%20exact.%0A*%20Les%20noms%20des%20acteurs%20ont%20des%20associations%20v%C3%A9rifi%C3%A9es%20avec%20les%20films.)**
+
+---
+
+### No. 2: Génération de prompt pour affiche publicitaire Y!mobile
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -723,7 +795,7 @@ Un court prompt pour Nano Banana Pro afin de créer une affiche publicitaire pou
 
 ---
 
-### No. 2: Prompt pour un selfie miroir photoréaliste
+### No. 3: Prompt pour un selfie miroir photoréaliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -774,7 +846,7 @@ Créez un autoportrait miroir photoréaliste d'une jeune femme assise sur le bor
 
 ---
 
-### No. 3: Suggestion de diaporama viral : Selfie avec une BMW rose
+### No. 4: Suggestion de diaporama viral : Selfie avec une BMW rose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +966,7 @@ Une invite JSON très structurée détaillant la génération d'une image photor
 
 ---
 
-### No. 4: Prompt pour un portrait avec grain de film nocturne
+### No. 5: Prompt pour un portrait avec grain de film nocturne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -930,7 +1002,7 @@ Un prompt de génération d'images pour Nano Banana Pro décrivant une photograp
 
 ---
 
-### No. 5: Prompt de capture d'écran de jeu vidéo
+### No. 6: Prompt de capture d'écran de jeu vidéo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -963,7 +1035,7 @@ Une capture d'écran d'un jeu vidéo appelé age of nano banana pro
 
 ---
 
-### No. 6: Prompt de portrait selfie miroir pour Nano Banana Pro
+### No. 7: Prompt de portrait selfie miroir pour Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1116,7 @@ Un prompt détaillé de génération d'images conçu pour Nano Banana Pro afin d
 
 ---
 
-### No. 7: Prompt pour un selfie canapé séduisant
+### No. 8: Prompt pour un selfie canapé séduisant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1147,7 +1219,7 @@ Un prompt JSON très structuré pour générer un portrait selfie réaliste et e
 
 ---
 
-### No. 8: Style de l'invite de la fenêtre 3D de Blender
+### No. 9: Style de l'invite de la fenêtre 3D de Blender
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1186,7 +1258,7 @@ Rendez cette image dans le style d'une fenêtre 3D Viewport de Blender, en utili
 
 ---
 
-### No. 9: Prompt photo d'influenceur voyage pour Nano Banana Pro
+### No. 10: Prompt photo d'influenceur voyage pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1253,7 +1325,7 @@ Latitude et Longitude : {argument name="latitude and longitude" default="36.4618
 
 ---
 
-### No. 10: Instructions pour l'affiche « Comment faire » pour enfants
+### No. 11: Instructions pour l'affiche « Comment faire » pour enfants
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1286,7 +1358,7 @@ Créez une jolie affiche « Comment lacer ses chaussures » pour les enfants, av
 
 ---
 
-### No. 11: Prompt d'enregistrement graphique (GraReco) pour Nano Banana Pro
+### No. 12: Prompt d'enregistrement graphique (GraReco) pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1338,7 +1410,7 @@ Utilisez les capacités de raisonnement du « Modèle de pensée » de Nano Bana
 
 ---
 
-### No. 12: Prompt de cohérence des personnages pour une grille 3x3
+### No. 13: Prompt de cohérence des personnages pour une grille 3x3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1371,7 +1443,7 @@ Dans une grille 3x3, montrez ce personnage sous différents angles, en gardant l
 
 ---
 
-### No. 13: Prompt d'édition photoréaliste ultra grand-angle spectaculaire
+### No. 14: Prompt d'édition photoréaliste ultra grand-angle spectaculaire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1413,7 +1485,7 @@ photograph of {argument name="subject" default="a women"} in {argument name="clo
 
 ---
 
-### No. 14: Présentoir de cadres pour œuvres d'art en carton ondulé
+### No. 15: Présentoir de cadres pour œuvres d'art en carton ondulé
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1479,7 +1551,7 @@ Voici la liste des objets, au total 12, séparés par des virgules :
 
 ---
 
-### No. 15: Suggestion de conception de vignette pour un voyage en mer émotionnel (Santorin)
+### No. 16: Suggestion de conception de vignette pour un voyage en mer émotionnel (Santorin)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1513,7 +1585,7 @@ thumbnail_design: title: "{argument name="title" default="Voyage émotionnel en 
 
 ---
 
-### No. 16: Prompt pour une photo d'une femme coréenne au bord de la piscine dans un complexe hôtelier
+### No. 17: Prompt pour une photo d'une femme coréenne au bord de la piscine dans un complexe hôtelier
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1546,7 +1618,7 @@ Un plan moyen photoréaliste d'une belle jeune femme coréenne assise sur une ch
 
 ---
 
-### No. 17: Infographie : Tasse à thé Ukiyo-e avec tête (Prompt)
+### No. 18: Infographie : Tasse à thé Ukiyo-e avec tête (Prompt)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1580,7 +1652,7 @@ Générez une infographie pour le contenu suivant dans le style {argument name="
 
 ---
 
-### No. 18: Prompt : Portrait cinématographique onirique des Highlands
+### No. 19: Prompt : Portrait cinématographique onirique des Highlands
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1622,7 +1694,7 @@ Un prompt JSON détaillé pour générer un portrait onirique et éthéré aux t
 
 ---
 
-### No. 19: Selfie miroir avec prompt de préservation du visage
+### No. 20: Selfie miroir avec prompt de préservation du visage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1728,7 +1800,7 @@ Une invite JSON très détaillée pour générer un selfie miroir d'une jeune fe
 
 ---
 
-### No. 20: Modèle d'invite pour la forme de l'entrée de la grotte
+### No. 21: Modèle d'invite pour la forme de l'entrée de la grotte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1780,7 +1852,7 @@ Une image d'un paysage de type {argument name="type" default="[TYPE]"}, présent
 
 ---
 
-### No. 21: Prompt de génération de diagrammes académiques précis
+### No. 22: Prompt de génération de diagrammes académiques précis
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1813,7 +1885,7 @@ Pour faciliter la compréhension de l'article, utilisez Nano Banana Pro afin de 
 
 ---
 
-### No. 22: Prompt : Portrait de nuit dans une ville néon
+### No. 23: Prompt : Portrait de nuit dans une ville néon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1879,7 +1951,7 @@ Une invite JSON détaillée pour générer un portrait vertical de femme en haut
 
 ---
 
-### No. 23: Prompts de conversion de personnages de jeux rétro 16 bits
+### No. 24: Prompts de conversion de personnages de jeux rétro 16 bits
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1943,7 +2015,7 @@ Composition de l'écran de jeu : Écran de dialogue de jeu d'aventure, buste du 
 
 ---
 
-### No. 24: Prompt pour un portrait selfie en classe affaires
+### No. 25: Prompt pour un portrait selfie en classe affaires
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2029,7 +2101,7 @@ Un prompt JSON détaillé pour générer un portrait selfie ultra-photoréaliste
 
 ---
 
-### No. 25: Illustration d'autocollant découpé à la forme avec texte japonais
+### No. 26: Illustration d'autocollant découpé à la forme avec texte japonais
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2069,7 +2141,7 @@ Une illustration d'autocollant découpé basée sur l'image téléchargée. Le s
 
 ---
 
-### No. 26: Prompt de génération de storyboard cinématographique
+### No. 27: Prompt de génération de storyboard cinématographique
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2112,7 +2184,7 @@ Scène : {argument name="scene" default="Une colombe descend sur la jeune fille 
 
 ---
 
-### No. 27: Prompt : Femme de style peinture japonaise
+### No. 28: Prompt : Femme de style peinture japonaise
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2145,7 +2217,7 @@ Une femme aux cheveux noirs courts dans le style de peinture japonais (Nihonga)
 
 ---
 
-### No. 28: Invite de géant regardant Shinjuku
+### No. 29: Invite de géant regardant Shinjuku
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2178,7 +2250,7 @@ Une version géante de moi-même, observant depuis les gratte-ciel de Shinjuku.
 
 ---
 
-### No. 29: Rendu thermique et radiographique à contraste élevé d'un robot Android
+### No. 30: Rendu thermique et radiographique à contraste élevé d'un robot Android
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2211,7 +2283,7 @@ Le robot Google Android, présenté dans un rendu de studio scientifique à cont
 
 ---
 
-### No. 30: Prompts de génération d'images et de vidéos en plusieurs étapes (Grok Imagine, Seedream, Nano Banana Pro)
+### No. 31: Prompts de génération d'images et de vidéos en plusieurs étapes (Grok Imagine, Seedream, Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2244,7 +2316,7 @@ Une image où le chat de l'Image 2 pousse le texte « いいね » (Iine/J'aime)
 
 ---
 
-### No. 31: Schéma de pictogramme isométrique pour Nano Banana Pro
+### No. 32: Schéma de pictogramme isométrique pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2278,7 +2350,7 @@ Veuillez créer un diagramme de pictogrammes isométriques pour « {argument nam
 
 ---
 
-### No. 32: Prompt de workflow pour un désastre cinématgraphique de Coffee Shot
+### No. 33: Prompt de workflow pour un désastre cinématgraphique de Coffee Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2311,7 +2383,7 @@ Un simple café s'est transformé en un minuscule désastre cinématographique.
 
 ---
 
-### No. 33: Prompt de cohérence d'image et de transfert de style
+### No. 34: Prompt de cohérence d'image et de transfert de style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2350,7 +2422,7 @@ Recréez la personne de l'image ci-jointe sous différentes perspectives de cam�
 
 ---
 
-### No. 34: Prompt pour un portrait de fenêtre en clair-obscur
+### No. 35: Prompt pour un portrait de fenêtre en clair-obscur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2405,7 +2477,7 @@ Une invite détaillée au format JSON pour Nano Banana Pro, axée sur un portrai
 
 ---
 
-### No. 35: Interprétation de l'invite de la miniature vidéo
+### No. 36: Interprétation de l'invite de la miniature vidéo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2446,7 +2518,7 @@ format de sortie attendu : petit texte sans empattement blanc facile à lire en 
 
 ---
 
-### No. 36: Nano Banana Pro : une invite pour une idée d'entreprise fictive
+### No. 37: Nano Banana Pro : une invite pour une idée d'entreprise fictive
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2479,7 +2551,7 @@ Une entreprise où vous apposez une marque gagnante sur le bâtonnet de glace pe
 
 ---
 
-### No. 37: Photographie comparative de l'Apple Vision Pro déconstruit
+### No. 38: Photographie comparative de l'Apple Vision Pro déconstruit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2515,7 +2587,7 @@ Fond gris foncé épuré, angle de vue plongeant, esthétique industrielle minim
 
 ---
 
-### No. 38: Prompt pour un selfie miroir de "Gamer Girl" viral
+### No. 39: Prompt pour un selfie miroir de "Gamer Girl" viral
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2627,7 +2699,7 @@ Une invite détaillée au format JSON conçue pour générer un selfie « viral 
 
 ---
 
-### No. 39: Modèle d'invite pour l'art IA haute résolution
+### No. 40: Modèle d'invite pour l'art IA haute résolution
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2666,7 +2738,7 @@ Un modèle de prompt soulignant l'importance de définir la résolution et le ra
 
 ---
 
-### No. 40: Invite de commande HUD d'éditeur de photos professionnel
+### No. 41: Invite de commande HUD d'éditeur de photos professionnel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2747,7 +2819,7 @@ Un prompt JSON détaillé pour Nano Banana Pro afin de générer une image d'un 
 
 ---
 
-### No. 41: Prompt de transfert de style d'art vectoriel minimaliste coloré
+### No. 42: Prompt de transfert de style d'art vectoriel minimaliste coloré
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2798,7 +2870,7 @@ Transformez vos photos en œuvres d'art colorées, minimalistes et de style vect
 
 ---
 
-### No. 42: Bande de photomaton rétro pour un couple
+### No. 43: Bande de photomaton rétro pour un couple
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2876,7 +2948,7 @@ Une invite détaillée au format JSON, conçue pour que Nano Banana génère un 
 
 ---
 
-### No. 43: Prompt simple pour la génération de vignettes YouTube
+### No. 44: Prompt simple pour la génération de vignettes YouTube
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2918,7 +2990,7 @@ Un prompt très simple utilisé pour générer une miniature YouTube avec Nano B
 
 ---
 
-### No. 44: Prompt pour un selfie de couple à tête de boîte devant un miroir
+### No. 45: Prompt pour un selfie de couple à tête de boîte devant un miroir
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3041,7 +3113,7 @@ Une invite JSON très détaillée pour Nano Banana Pro générant un selfie miro
 
 ---
 
-### No. 45: Prompt de portrait de rue cinématographique pour Nano Banana Pro
+### No. 46: Prompt de portrait de rue cinématographique pour Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3131,7 +3203,7 @@ Une invite très structurée conçue pour créer un portrait de rue généré pa
 
 ---
 
-### No. 46: Prompt de génération de vidéo IA pour un super-héros volant
+### No. 47: Prompt de génération de vidéo IA pour un super-héros volant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3168,7 +3240,7 @@ Caméra : Travelling avant / Dolly avant. La caméra la suit à la même vitesse
 
 ---
 
-### No. 47: Scène de piscine surréaliste à la Guy Bourdin
+### No. 48: Scène de piscine surréaliste à la Guy Bourdin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3201,7 +3273,7 @@ Dans le style de Guy Bourdin. Une piscine vintage vide, tapissée de carreaux cr
 
 ---
 
-### No. 48: Ville 3D miniature avec invite météo en direct
+### No. 49: Ville 3D miniature avec invite météo en direct
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3236,7 +3308,7 @@ Ville 3D miniature + Météo en direct
 
 ---
 
-### No. 49: Générer des visuels à partir de l'actualité coréenne en temps réel
+### No. 50: Générer des visuels à partir de l'actualité coréenne en temps réel
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -3275,7 +3347,7 @@ Générer un visuel représentatif basé sur les actualités en temps réel de l
 
 ---
 
-### No. 50: Image d'invite de comparaison VFX (avant/après) pour Nano Banana Pro
+### No. 51: Image d'invite de comparaison VFX (avant/après) pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3329,7 +3401,7 @@ Aspect et sensation des effets visuels avant-après du cinéma japonais du débu
 
 ---
 
-### No. 51: Prompt pour une scène de bureau sous-marin surréaliste
+### No. 52: Prompt pour une scène de bureau sous-marin surréaliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3362,7 +3434,7 @@ Une photographie surréaliste et onirique d'un environnement de bureau complet s
 
 ---
 
-### No. 52: Prompt de mise à l'échelle 4K pour Nano Banana Pro
+### No. 53: Prompt de mise à l'échelle 4K pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3395,7 +3467,7 @@ Veuillez mettre à l'échelle en résolution 4K.
 
 ---
 
-### No. 53: Génération de flux de médias sociaux pour une marque d'huile d'olive
+### No. 54: Génération de flux de médias sociaux pour une marque d'huile d'olive
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3428,7 +3500,7 @@ Créez un fil d'actualité sur les réseaux sociaux pour une marque d'huile d'ol
 
 ---
 
-### No. 54: Création de contenu pour les réseaux sociaux d'une marque d'huile d'olive
+### No. 55: Création de contenu pour les réseaux sociaux d'une marque d'huile d'olive
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3461,7 +3533,7 @@ Créez un fil d'actualité social pour une marque d'huile d'olive artisanale.
 
 ---
 
-### No. 55: Génération de mangas IA avec Nano Banana Pro
+### No. 56: Génération de mangas IA avec Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3499,7 +3571,7 @@ Ce tweet présente l'utilisation de Nano Banana Pro pour générer du contenu ma
 
 ---
 
-### No. 56: Nano Banana Pro Prompt pour un rendu non-IA
+### No. 57: Nano Banana Pro Prompt pour un rendu non-IA
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3532,7 +3604,7 @@ Stratégie Design x IA
 
 ---
 
-### No. 57: Prompt de génération de diapositives de haute qualité au design plat
+### No. 58: Prompt de génération de diapositives de haute qualité au design plat
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3587,7 +3659,7 @@ Maximisez l'espace blanc, en privilégiant la visibilité et un design équilibr
 
 ---
 
-### No. 58: Nano Banana Pro Prompt pour Scène Nostalgique
+### No. 59: Nano Banana Pro Prompt pour Scène Nostalgique
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3632,7 +3704,7 @@ Ville natale, dans cette belle distance, l'espoir sur le corps, les rêves vagab
 
 ---
 
-### No. 59: Selfie en voiture avec un cracker au fromage – Prompt
+### No. 60: Selfie en voiture avec un cracker au fromage – Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3689,7 +3761,7 @@ Une invite JSON structurée pour générer l'image d'une jeune femme faisant un 
 
 ---
 
-### No. 60: **Requête de retouche d'image :** Ajouter une cabane de jeux derrière le personnage
+### No. 61: **Requête de retouche d'image :** Ajouter une cabane de jeux derrière le personnage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3728,7 +3800,7 @@ ajoutez une cabane de jeu derrière Mickey
 
 ---
 
-### No. 61: Prompt détaillé pour un portrait hyperréaliste pour Nano Banana Pro
+### No. 62: Prompt détaillé pour un portrait hyperréaliste pour Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3810,7 +3882,7 @@ Un prompt très structuré et détaillé pour Nano Banana Pro, axé sur la gén�
 
 ---
 
-### No. 62: Modificateur de style pour un réalisme de dessin animé des années 90
+### No. 63: Modificateur de style pour un réalisme de dessin animé des années 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3849,7 +3921,7 @@ style de dessin animé réaliste
 
 ---
 
-### No. 63: Prompt de génération d'image pour une caricature 3D stylisée
+### No. 64: Prompt de génération d'image pour une caricature 3D stylisée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3888,7 +3960,7 @@ Une caricature 3D très stylisée de la personne présente sur l'image télécha
 
 ---
 
-### No. 64: Prompt JSON détaillé pour un portrait esthétique Canon IXUS
+### No. 65: Prompt JSON détaillé pour un portrait esthétique Canon IXUS
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3971,7 +4043,7 @@ Un prompt JSON structuré pour Gemini Nano Banana Pro, visant à générer un po
 
 ---
 
-### No. 65: Générer une grille de plusieurs angles à partir d'une seule image
+### No. 66: Générer une grille de plusieurs angles à partir d'une seule image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4004,7 +4076,7 @@ Dans une grille 3x3, montrez-moi différents angles de cette scène.
 
 ---
 
-### No. 66: Prompt détaillé en français pour un portrait athleisure urbain
+### No. 67: Prompt détaillé en français pour un portrait athleisure urbain
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4037,7 +4109,7 @@ Une femme aux longs cheveux noirs raides, séparés légèrement sur le côté, 
 
 ---
 
-### No. 67: Prompt JSON détaillé pour un portrait selfie hivernal cinématographique
+### No. 68: Prompt JSON détaillé pour un portrait selfie hivernal cinématographique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4123,7 +4195,7 @@ Un prompt JSON complexe et structuré pour Nano Banana Pro, axé sur la généra
 
 ---
 
-### No. 68: Affiche de routine adaptée aux enfants – Invite
+### No. 69: Affiche de routine adaptée aux enfants – Invite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4156,7 +4228,7 @@ Créez une affiche « Comment se brosser les dents » adaptée aux enfants, avec
 
 ---
 
-### No. 69: Génération de storyboard cinématral à l'aide d'une invite
+### No. 70: Génération de storyboard cinématral à l'aide d'une invite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4189,7 +4261,40 @@ Créez un storyboard cinématographique de 9 panneaux, dans une atmosphère pluv
 
 ---
 
-### No. 70: Prompt pour un portrait en planche contact de film analogique des années 2000
+### No. 71: Prompt prêt à l'emploi pour une image de réunion d'affaires IA
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Une invite simple et « prête à l'emploi » en espagnol, conçue pour générer des images professionnelles et cinématographiques d'une réunion d'affaires à l'aide de l'IA, spécifiquement adaptée à une utilisation dans les présentations générées par l'IA (AiPPT).
+
+#### 📝 Prompt
+
+```
+Réunion d'affaires avec IA — lumière cinématographique — entreprise
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765274691809_1du78s_iioq4fbe4JKQg0xE.jpg" width="600" alt="Prompt prêt à l'emploi pour une image de réunion d'affaires IA - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Rafa Gonzalez | IA](https://x.com/ElCopyMaster)
+- **Source:** [Twitter Post](https://x.com/ElCopyMaster/status/1996576766438039592)
+- **Publié:** 4 décembre 2025
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=R%C3%A9union%20d'affaires%20avec%20IA%20%E2%80%94%20lumi%C3%A8re%20cin%C3%A9matographique%20%E2%80%94%20entreprise)**
+
+---
+
+### No. 72: Prompt pour un portrait en planche contact de film analogique des années 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4232,7 +4337,7 @@ Détails : Bords de film visibles avec le texte « KODAK 160NC », numéros de c
 
 ---
 
-### No. 71: Prompt pour caricature 3D à partir d'une image téléchargée
+### No. 73: Prompt pour caricature 3D à partir d'une image téléchargée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4271,7 +4376,7 @@ Une caricature 3D très stylisée de la personne présente sur l'image télécha
 
 ---
 
-### No. 72: Prompt JSON détaillé pour un portrait selfie de voiture
+### No. 74: Prompt JSON détaillé pour un portrait selfie de voiture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4358,7 +4463,7 @@ Un prompt JSON très détaillé et structuré, conçu pour Nano Banana Pro, afin
 
 ---
 
-### No. 73: Prompt de génération de base de sous-titres YouTube
+### No. 75: Prompt de génération de base de sous-titres YouTube
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4443,7 +4548,7 @@ Une invite complète conçue pour Nano Banana Pro afin de générer des bases de
 
 ---
 
-### No. 74: Générateur de prompts pour stickers LINE
+### No. 76: Générateur de prompts pour stickers LINE
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4508,7 +4613,7 @@ Phrase : {argument name="phrase 9" default="Je ne sais pas"}
 
 ---
 
-### No. 75: Illustration de fond de ciel cinématographique à la Makoto Shinkai
+### No. 77: Illustration de fond de ciel cinématographique à la Makoto Shinkai
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4661,7 @@ La couleur générale doit être claire et saturée mais pas agressive. Le contr
 
 ---
 
-### No. 76: Style d'illustration de livre pour enfants : invite pour le dessin de personnages
+### No. 78: Style d'illustration de livre pour enfants : invite pour le dessin de personnages
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4632,7 +4737,7 @@ DESSINER un dessin de {argument name="character" default="[Personnage]"}, au cra
 
 ---
 
-### No. 77: Prompt pour une affiche de calendrier cinématographique 2026
+### No. 79: Prompt pour une affiche de calendrier cinématographique 2026
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4668,7 +4773,7 @@ Signature : Shreya Yadav
 
 ---
 
-### No. 78: Prompt pour transformer un selfie en portrait professionnel
+### No. 80: Prompt pour transformer un selfie en portrait professionnel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4713,7 +4818,7 @@ Arrière-plan neutre, net, de style studio.
 
 ---
 
-### No. 79: Affiche d'anime pop-art inspirée de Persona 5 pour un personnage chuunibyou personnalisé
+### No. 81: Affiche d'anime pop-art inspirée de Persona 5 pour un personnage chuunibyou personnalisé
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4763,7 +4868,7 @@ L'ambiance générale doit être extrêmement dynamique, extrêmement chuunibyou
 
 ---
 
-### No. 80: Prompt de retouche d'image de planche de manga : Scène de Katsu Curry
+### No. 82: Prompt de retouche d'image de planche de manga : Scène de Katsu Curry
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4805,7 +4910,7 @@ De plus, veuillez effacer les baguettes tenues dans la main droite.
 
 ---
 
-### No. 81: Suggestion de refonte de flyer avec Nano Banana Pro
+### No. 83: Suggestion de refonte de flyer avec Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4856,7 +4961,7 @@ Je souhaite créer un design de flyer pour un événement. L'image de référenc
 
 ---
 
-### No. 82: Capture d'écran d'un appareil photo numérique compact montrant une jeune femme
+### No. 84: Capture d'écran d'un appareil photo numérique compact montrant une jeune femme
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4900,7 +5005,7 @@ Style de colorimétrie : Ton d'appareil photo numérique nostalgique, effet de f
 
 ---
 
-### No. 83: Selfie fisheye avec des personnages de films grâce à Nano Banana Pro
+### No. 85: Selfie fisheye avec des personnages de films grâce à Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4956,7 +5061,7 @@ Sujet et action : Une photo de groupe rapprochée et déformée, montrant {argum
 
 ---
 
-### No. 84: Invite de superposition de carte postale manuscrite de fille de style Y2K
+### No. 86: Invite de superposition de carte postale manuscrite de fille de style Y2K
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4996,7 +5101,7 @@ Ajoutez du texte et des dessins originaux, faits à la main, dans le style d'une
 
 ---
 
-### No. 85: Prompt d'image simple : chien et Père Noël de Noël
+### No. 87: Prompt d'image simple : chien et Père Noël de Noël
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5042,7 +5147,7 @@ Une très courte invite en japonais utilisée sur plusieurs modèles pour géné
 
 ---
 
-### No. 86: Prompt vidéo Sora pour la publicité Macho Meal de McDonald’s
+### No. 88: Prompt vidéo Sora pour la publicité Macho Meal de McDonald’s
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5082,7 +5187,7 @@ Publicité vintage authentique des années 1980 pour le {argument name="product 
 
 ---
 
-### No. 87: Invite de simulation de selfie d'écran de MacBook pour un couple
+### No. 89: Invite de simulation de selfie d'écran de MacBook pour un couple
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5181,7 +5286,7 @@ Une configuration JSON complexe pour simuler un écran de MacBook hyper-réalist
 
 ---
 
-### No. 88: Image d'invite de panneau d'entrée d'izakaya japonais pour Nano Banana Pro
+### No. 90: Image d'invite de panneau d'entrée d'izakaya japonais pour Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5225,7 +5330,7 @@ qualité photoréaliste
 
 ---
 
-### No. 89: Prompt de cohérence pour une fille anime en trois poses
+### No. 91: Prompt de cohérence pour une fille anime en trois poses
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5265,7 +5370,7 @@ Une illustration de style anime de {argument name="the same girl" default="la m�
 
 ---
 
-### No. 90: Guide de style d'expression pour la conception de personnages : invite
+### No. 92: Guide de style d'expression pour la conception de personnages : invite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5298,7 +5403,7 @@ Créez un guide de style d'expression pour la conception de personnages d'images
 
 ---
 
-### No. 91: Cadre d'illustration de boîte lumineuse en papier découpé 3D
+### No. 93: Cadre d'illustration de boîte lumineuse en papier découpé 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5379,7 +5484,7 @@ Paramètres techniques : rapport vertical 3:4, sortie haute résolution.
 
 ---
 
-### No. 92: Scène photoréaliste de café de rue à Málaga, prise avec un iPhone
+### No. 94: Scène photoréaliste de café de rue à Málaga, prise avec un iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5419,7 +5524,7 @@ Générez une image photoréaliste prise avec un {argument name="device" default
 
 ---
 
-### No. 93: Portrait cinématographique en gros plan avec des yeux verts et un pull en tricot
+### No. 95: Portrait cinématographique en gros plan avec des yeux verts et un pull en tricot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5452,7 +5557,7 @@ Portrait cinématographique en gros plan d'une jeune femme aux mèches foncées 
 
 ---
 
-### No. 94: Selfie de sports extrêmes de style GoPro
+### No. 96: Selfie de sports extrêmes de style GoPro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5492,7 +5597,7 @@ Un selfie hyperréaliste à la GoPro de {argument name="subject in english" defa
 
 ---
 
-### No. 95: Invite de portrait de terrasse de café dans le Marais à Paris
+### No. 97: Invite de portrait de terrasse de café dans le Marais à Paris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5532,7 +5637,7 @@ Générez une image photoréaliste d'une terrasse de café dans le {argument nam
 
 ---
 
-### No. 96: Invite de portrait : femme élégante en mini-robe marron
+### No. 98: Invite de portrait : femme élégante en mini-robe marron
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5573,7 +5678,7 @@ Une invite enveloppée de JSON décrivant une femme confiante vêtue d'une mini-
 
 ---
 
-### No. 97: Prompt de photographie de portrait sur toit à l'heure dorée
+### No. 99: Prompt de photographie de portrait sur toit à l'heure dorée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5612,7 +5717,7 @@ Une personne debout sur un toit de ville à l'heure dorée, la lumière chaude d
 
 ---
 
-### No. 98: Nano Banana Pro : invite de modification de style avec effet papier déchiré
+### No. 100: Nano Banana Pro : invite de modification de style avec effet papier déchiré
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5727,7 +5832,7 @@ style_intérieur :
 
 ---
 
-### No. 99: Nano Banana Pro, illustration de lignes de coupe de vêtements de style mème, prompt
+### No. 101: Nano Banana Pro, illustration de lignes de coupe de vêtements de style mème, prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5797,7 +5902,7 @@ Créer une « illustration de style mème où les vêtements sont coupés en fon
 
 ---
 
-### No. 100: Illustration de personnage de boule à neige : prompt pour Nano Banana Pro
+### No. 102: Illustration de personnage de boule à neige : prompt pour Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5857,7 +5962,7 @@ Ne montrez aucun doigt humain. Ne faites pas la queue du tanuki rayée.
 
 ---
 
-### No. 101: Prompts de génération de cartes normales et de profondeur pour Nano Banana Pro
+### No. 103: Prompts de génération de cartes normales et de profondeur pour Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5916,7 +6021,7 @@ Exigences :
 
 ---
 
-### No. 102: Invite simple pour l'agrandissement et la réparation de photos
+### No. 104: Invite simple pour l'agrandissement et la réparation de photos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5955,7 +6060,7 @@ Réparez la photo, mettez cette image à l'échelle 2K et rendez-la parfaitement
 
 ---
 
-### No. 103: Guide de style de conception de diapositives épurées et plates pour NotebookLM
+### No. 105: Guide de style de conception de diapositives épurées et plates pour NotebookLM
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6012,7 +6117,7 @@ Laissez beaucoup d'espace blanc pour privilégier la lisibilité et une composit
 
 ---
 
-### No. 104: Suggestion de diaporama de selfies miroir pour une jeune femme stylée
+### No. 106: Suggestion de diaporama de selfies miroir pour une jeune femme stylée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6113,7 +6218,7 @@ Une invite de diaporama Nano Banana Pro très structurée décrivant une jeune f
 
 ---
 
-### No. 105: Prompt d'illustration aérienne de Google Maps de style drone de dessin animé
+### No. 107: Prompt d'illustration aérienne de Google Maps de style drone de dessin animé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6152,7 +6257,7 @@ Transformez cette vue de carte aérienne en une photographie aérienne illustré
 
 ---
 
-### No. 106: Portrait stylisé en plongée d'une jeune femme dans une pièce sombre
+### No. 108: Portrait stylisé en plongée d'une jeune femme dans une pièce sombre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6247,7 +6352,7 @@ Une invite JSON structurée pour Gemini Nano Banana Pro afin de générer une ph
 
 ---
 
-### No. 107: Édition ultra-réaliste en 16K d'un selfie d'une fille rêveuse sur une couverture
+### No. 109: Édition ultra-réaliste en 16K d'un selfie d'une fille rêveuse sur une couverture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6281,7 +6386,7 @@ Modifiez la photo en résolution 16K ultra-réaliste. Une {argument name="subjec
 
 ---
 
-### No. 108: Prompt pour une scène de bureau de nature morte matinale en 8K très détaillée
+### No. 110: Prompt pour une scène de bureau de nature morte matinale en 8K très détaillée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6326,7 +6431,7 @@ Détail de texture maximal, diffusion sous-surfacique, caustiques, reflets spéc
 
 ---
 
-### No. 109: Invite de style paramètre de portrait en studio pour un sujet masculin
+### No. 111: Invite de style paramètre de portrait en studio pour un sujet masculin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6391,7 +6496,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 110: Prompt de photographie de produit pour une scène d'atlas de pop-up à Tokyo
+### No. 112: Prompt de photographie de produit pour une scène d'atlas de pop-up à Tokyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6425,7 +6530,7 @@ Un atlas à couverture rigide ouvert est posé à plat, avec une miniature pop-u
 
 ---
 
-### No. 111: Modèle d'invite JSON système pour des influenceurs IA ultra-réalistes de style iPhone
+### No. 113: Modèle d'invite JSON système pour des influenceurs IA ultra-réalistes de style iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6533,7 +6638,7 @@ Attendez la description de la scène par l'utilisateur. Générez la sortie JSON
 
 ---
 
-### No. 112: Prompt JSON Nano Banana Pro pour l'établi de botaniste steampunk
+### No. 114: Prompt JSON Nano Banana Pro pour l'établi de botaniste steampunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6583,7 +6688,7 @@ Un prompt Nano Banana Pro riche basé sur JSON décrivant un gros plan cinémato
 
 ---
 
-### No. 113: Prompt JSON structuré pour un portrait streetwear stylé d'une jeune femme
+### No. 115: Prompt JSON structuré pour un portrait streetwear stylé d'une jeune femme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6656,7 +6761,7 @@ Une invite de génération d'image détaillée de type JSON pour Nano Banana Pro
 
 ---
 
-### No. 114: Prompt de concept de lieu de voyage miniature chibi 3D
+### No. 116: Prompt de concept de lieu de voyage miniature chibi 3D
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6708,7 +6813,7 @@ Un concept de voyage miniature en 3D de style chibi, sur le thème de {argument 
 
 ---
 
-### No. 115: Invite de marque pour un concept store de chibis 3D
+### No. 117: Invite de marque pour un concept store de chibis 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6742,7 +6847,7 @@ Concept store miniature de style chibi 3D de {argument name="brand name in Engli
 
 ---
 
-### No. 116: Transformez une image de référence en un gâteau de Noël réaliste
+### No. 118: Transformez une image de référence en un gâteau de Noël réaliste
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6787,7 +6892,7 @@ Veuillez transformer l'image de référence en un gâteau de Noël réaliste.
 
 ---
 
-### No. 117: Concept d'invitation pour un fauteuil suspendu cinématographique au bord d'un lac avec un thème d'objet spatial
+### No. 119: Concept d'invitation pour un fauteuil suspendu cinématographique au bord d'un lac avec un thème d'objet spatial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6839,7 +6944,7 @@ Scène de nuit cinématographique d'un refuge extérieur douillet au bord d'un l
 
 ---
 
-### No. 118: Prompt pour un selfie de voiture naturel, style Instagram
+### No. 120: Prompt pour un selfie de voiture naturel, style Instagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6887,88 +6992,13 @@ Couleurs : lumineuses, aérées et légèrement chaudes. Le visage et le haut du
 
 ---
 
-### No. 119: Illustration d'un cuirassé colossal à l'aube, invite de commande
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Une invite en anglais pour générer une image cinématographique en contre-plongée d'un cuirassé colossal avec des tourelles triples, une superstructure imposante et un éclairage dramatique au lever du soleil, évocatrice des navires de guerre historiques.
-
-#### 📝 Prompt
-
-```
-Un cuirassé colossal navigue sur des eaux calmes à l'aube. Sa coque est massive et digne, forgée dans de l'acier sombre, avec de larges ponts blindés et trois énormes tourelles à triple canon alignées le long de l'axe central du navire. Chaque canon est long et lourd, légèrement incliné vers le haut, comme s'il était préparé pour un horizon lointain. La superstructure imposante s'élève haut au-dessus du pont, avec des plates-formes d'observation, des télémètres et des dômes radar superposés. La passerelle est haute et ressemble à une forteresse, sa silhouette nette se découpant sur le ciel matinal. Les détails des plaques de blindage rivetées, des échelles et des affûts de canon soulignent le savoir-faire industriel et la précision mécanique. La scène est illuminée par les premières lueurs du lever du soleil — une lueur dorée se reflétant sur les douces vagues et les surfaces d'acier. Un sentiment de solennité et de fierté emplit l'air, comme si ce navire portait le poids de l'histoire elle-même. La composition est cinématographique et en contre-plongée, regardant vers le haut depuis le niveau de la mer pour capturer sa présence écrasante.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909213665_wjfkve_G7Jjl34bQAAWFYb.jpg" width="600" alt="Illustration d'un cuirassé colossal à l'aube, invite de commande - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [いにしえ@AI Creator｜Will Oldgram](https://x.com/old_pgmrs_will)
-- **Source:** [Twitter Post](https://x.com/old_pgmrs_will/status/1995768881005355041)
-- **Publié:** 2 décembre 2025
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=Un%20cuirass%C3%A9%20colossal%20navigue%20sur%20des%20eaux%20calmes%20%C3%A0%20l'aube.%20Sa%20coque%20est%20massive%20et%20digne%2C%20forg%C3%A9e%20dans%20de%20l'acier%20sombre%2C%20avec%20de%20larges%20ponts%20blind%C3%A9s%20et%20trois%20%C3%A9normes%20tourelles%20%C3%A0%20triple%20canon%20align%C3%A9es%20le%20long%20de%20l'axe%20central%20du%20navire.%20Chaque%20canon%20est%20long%20et%20lourd%2C%20l%C3%A9g%C3%A8rement%20inclin%C3%A9%20vers%20le%20haut%2C%20comme%20s'il%20%C3%A9tait%20pr%C3%A9par%C3%A9%20pour%20un%20horizon%20lointain.%20La%20superstructure%20imposante%20s'%C3%A9l%C3%A8ve%20haut%20au-dessus%20du%20pont%2C%20avec%20des%20plates-formes%20d'observation%2C%20des%20t%C3%A9l%C3%A9m%C3%A8tres%20et%20des%20d%C3%B4mes%20radar%20superpos%C3%A9s.%20La%20passerelle%20est%20haute%20et%20ressemble%20%C3%A0%20une%20forteresse%2C%20sa%20silhouette%20nette%20se%20d%C3%A9coupant%20sur%20le%20ciel%20matinal.%20Les%20d%C3%A9tails%20des%20plaques%20de%20blindage%20rivet%C3%A9es%2C%20des%20%C3%A9chelles%20et%20des%20aff%C3%BBts%20de%20canon%20soulignent%20le%20savoir-faire%20industriel%20et%20la%20pr%C3%A9cision%20m%C3%A9canique.%20La%20sc%C3%A8ne%20est%20illumin%C3%A9e%20par%20les%20premi%C3%A8res%20lueurs%20du%20lever%20du%20soleil%20%E2%80%94%20une%20lueur%20dor%C3%A9e%20se%20refl%C3%A9tant%20sur%20les%20douces%20vagues%20et%20les%20surfaces%20d'acier.%20Un%20sentiment%20de%20solennit%C3%A9%20et%20de%20fiert%C3%A9%20emplit%20l'air%2C%20comme%20si%20ce%20navire%20portait%20le%20poids%20de%20l'histoire%20elle-m%C3%AAme.%20La%20composition%20est%20cin%C3%A9matographique%20et%20en%20contre-plong%C3%A9e%2C%20regardant%20vers%20le%20haut%20depuis%20le%20niveau%20de%20la%20mer%20pour%20capturer%20sa%20pr%C3%A9sence%20%C3%A9crasante.)**
-
----
-
-### No. 120: Logo de marque 3D en relief sur fond monochrome
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un modèle de prompt Nano Banana Pro pour le rendu d'un nom de marque brillant en 3D en relief, centré, sur un fond dégradé monochrome doux avec des bords en verre ou en chrome, adapté aux visuels de logos et de marques.
-
-#### 📝 Prompt
-
-```
-Le logo {argument name="brand name" default="[brand name]"}, centré sur une surface plane, est rendu avec un contour brillant en relief 3D, parfaitement aligné au centre de la composition avec un vaste espace blanc environnant, créant une esthétique minimaliste haut de gamme.
-
-Une palette monochrome {argument name="main color" default="[color]"} avec un dégradé doux.
-
-L'objet est défini par des bords en verre surélevés et lisses comme du liquide ou des bords chromés, se fondant parfaitement avec l'arrière-plan pour former un effet de relief intégré.
-
-Une surface mate recouverte d'un subtil grain de film ou d'une texture de bruit.
-
-Un éclairage doux et diffus avec de forts reflets spéculaires aux coins arrondis, vu d'une perspective plongeante.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909262854_vqivy9_G7Jj9YHbgAAVRUA.jpg" width="600" alt="Logo de marque 3D en relief sur fond monochrome - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [瑞克](https://x.com/tuiyansuo)
-- **Source:** [Twitter Post](https://x.com/tuiyansuo/status/1995767566531526851)
-- **Publié:** 2 décembre 2025
-- **Langues:** zh
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=Le%20logo%20%7Bargument%20name%3D%22brand%20name%22%20default%3D%22%5Bbrand%20name%5D%22%7D%2C%20centr%C3%A9%20sur%20une%20surface%20plane%2C%20est%20rendu%20avec%20un%20contour%20brillant%20en%20relief%203D%2C%20parfaitement%20align%C3%A9%20au%20centre%20de%20la%20composition%20avec%20un%20vaste%20espace%20blanc%20environnant%2C%20cr%C3%A9ant%20une%20esth%C3%A9tique%20minimaliste%20haut%20de%20gamme.%0A%0AUne%20palette%20monochrome%20%7Bargument%20name%3D%22main%20color%22%20default%3D%22%5Bcolor%5D%22%7D%20avec%20un%20d%C3%A9grad%C3%A9%20doux.%0A%0AL'objet%20est%20d%C3%A9fini%20par%20des%20bords%20en%20verre%20sur%C3%A9lev%C3%A9s%20et%20lisses%20comme%20du%20liquide%20ou%20des%20bords%20chrom%C3%A9s%2C%20se%20fondant%20parfaitement%20avec%20l'arri%C3%A8re-plan%20pour%20former%20un%20effet%20de%20relief%20int%C3%A9gr%C3%A9.%0A%0AUne%20surface%20mate%20recouverte%20d'un%20subtil%20grain%20de%20film%20ou%20d'une%20texture%20de%20bruit.%0A%0AUn%20%C3%A9clairage%20doux%20et%20diffus%20avec%20de%20forts%20reflets%20sp%C3%A9culaires%20aux%20coins%20arrondis%2C%20vu%20d'une%20perspective%20plongeante.)**
-
----
-
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 571 prompts supplémentaires non affichés ici
+### 🎯 573 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7031,6 +7061,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-09T08:18:54.779Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-09T12:24:25.880Z</sub>
 
 </div>
