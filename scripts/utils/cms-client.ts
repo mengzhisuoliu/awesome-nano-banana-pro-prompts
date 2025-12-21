@@ -141,8 +141,8 @@ export async function fetchAllPrompts(
   locale: string = "en-US"
 ): Promise<{ docs: Prompt[]; total: number }> {
   const query = {
-    limit: 600,
-    sort: ['-featured', 'sort', '-sourcePublishedAt'],
+    limit: 200,
+    sort: ['-featured', 'sort', '-sourcePublishedAt'].join(','),
     depth: 2,
     locale,
     where: {
@@ -196,29 +196,12 @@ export async function fetchAllPrompts(
  * @param total 可选的总数（用于显示真实总数，而非当前获取的数量）
  */
 export function sortPrompts(prompts: Prompt[], total?: number) {
-  // 排序逻辑：featured 优先 → sort 升序 → 发布时间倒序
-  const sorted = [...prompts].sort((a, b) => {
-    const aFeatured = a.featured ? 1 : 0;
-    const bFeatured = b.featured ? 1 : 0;
 
-    if (aFeatured !== bFeatured) return bFeatured - aFeatured;
-
-    if (a.sort !== undefined && b.sort !== undefined) {
-      if (a.sort !== b.sort) return a.sort - b.sort;
-    } else if (a.sort !== undefined) return -1;
-    else if (b.sort !== undefined) return 1;
-
-    return (
-      new Date(b.sourcePublishedAt).getTime() -
-      new Date(a.sourcePublishedAt).getTime()
-    );
-  });
-
-  const featured = sorted.filter((p) => p.featured);
-  const regular = sorted.filter((p) => !p.featured);
+  const featured = prompts.filter((p) => p.featured);
+  const regular = prompts.filter((p) => !p.featured);
 
   return {
-    all: sorted,
+    all: prompts,
     featured,
     regular,
     stats: {

@@ -37,7 +37,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
 ];
 
-const MAX_REGULAR_PROMPTS_TO_DISPLAY = 200;
+const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 
 /**
  * Convert locale to URL language prefix
