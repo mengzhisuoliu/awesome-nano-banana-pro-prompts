@@ -112,8 +112,6 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale: str
 
 function generateHeader(locale: string): string {
   return `
-  > [!NOTE]
-  > ${t('christmasPromo', locale)}
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

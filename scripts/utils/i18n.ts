@@ -1324,17 +1324,27 @@ const I18N: Record<string, Translation> = {
   'tr-TR': tr,
 };
 
-export function t(key: keyof Translation, locale: string): string {
+export function t(key: keyof Translation, locale: string, params?: Record<string, string>): string {
+  let text: string;
+
   // Try specific locale match first
   if (I18N[locale] && I18N[locale][key]) {
-    return I18N[locale][key];
+    text = I18N[locale][key];
+  } else if (locale === 'es-419') {
+    // Fallback logic
+    text = I18N['es-ES'][key] || en[key];
+  } else if (locale === 'pt-PT') {
+    text = I18N['pt-BR'][key] || en[key];
+  } else {
+    // Default fallback to English
+    text = en[key] || key;
   }
 
-  // Fallback logic
-  if (locale === 'es-419') return I18N['es-ES'][key] || en[key];
-  if (locale === 'pt-PT') return I18N['pt-BR'][key] || en[key];
-  
-  // Default fallback to English
-  return en[key] || key;
+  // Replace {{xx}} placeholders with params
+  if (params) {
+    text = text.replace(/\{\{(\w+)\}\}/g, (_, key) => params[key] ?? `{{${key}}}`);
+  }
+
+  return text;
 }
 
