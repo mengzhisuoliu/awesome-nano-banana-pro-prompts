@@ -111,8 +111,9 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale: str
 }
 
 function generateHeader(locale: string): string {
+  const arenaUrl = `https://youmind.com/${getLocalePrefix(locale)}/model-arena/nano-banana-2-vs-nano-banana-pro`;
   return `
-> 💡 ${t('aiRecommendPromo', locale)}
+> 💡 ${t('arenaPromo', locale, { arenaUrl })}
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
