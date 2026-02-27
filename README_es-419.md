@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill para encontrar los prompts que quieres con un clic 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 💡 🆕 ¡Nano Banana 2 ya está aquí! Compáralo con Nano Banana Pro 👉 [Probar el Arena](https://youmind.com/es-419/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Prompts Increíbles de Nano Banana Pro
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **10017** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 27 de febrero de 2026, 1:05:24 a.m. UTC** |
+| 🔄 Última actualización | **viernes, 27 de febrero de 2026, 1:23:04 a.m. UTC** |
 
 </div>
 
@@ -7132,6 +7132,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T01:05:24.441Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-27T01:23:04.332Z</sub>
 
 </div>

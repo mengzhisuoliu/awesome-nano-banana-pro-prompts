@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill でワンクリックで欲しいプロンプトを見つける 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 💡 🆕 Nano Banana 2 が登場！Nano Banana Pro との比較を見る 👉 [アリーナで比較する](https://youmind.com/ja-JP/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **10017** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年2月27日金曜日 1:05:00 UTC** |
+| 🔄 最終更新 | **2026年2月27日金曜日 1:22:51 UTC** |
 
 </div>
 
@@ -7182,6 +7182,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-02-27T01:05:00.308Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-02-27T01:22:51.227Z</sub>
 
 </div>

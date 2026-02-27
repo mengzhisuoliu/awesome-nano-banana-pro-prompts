@@ -1,5 +1,5 @@
 
-> 💡 配套 Agent Skill，一键找到你想要的提示词 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 💡 🆕 Nano Banana 2 来了！看看它与 Nano Banana Pro 的对比 👉 [体验对比竞技场](https://youmind.com/zh-CN/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **10017** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年2月27日星期五 UTC 01:04:52** |
+| 🔄 最后更新 | **2026年2月27日星期五 UTC 01:22:46** |
 
 </div>
 
@@ -7119,6 +7119,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-27T01:04:52.742Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-27T01:22:46.688Z</sub>
 
 </div>

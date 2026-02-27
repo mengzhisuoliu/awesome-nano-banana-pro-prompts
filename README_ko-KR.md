@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill로 원하는 프롬프트를 원클릭으로 찾기 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 💡 🆕 Nano Banana 2가 출시되었습니다! Nano Banana Pro와 비교해 보세요 👉 [아레나에서 비교하기](https://youmind.com/ko-KR/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Nano Banana Pro 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **10017** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 2월 27일 금요일 오전 1시 5분 3초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 2월 27일 금요일 오전 1시 22분 53초 UTC** |
 
 </div>
 
@@ -7128,6 +7128,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-27T01:05:03.909Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-27T01:22:53.513Z</sub>
 
 </div>

@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill, um mit einem Klick die gewünschten Prompts zu finden 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 💡 🆕 Nano Banana 2 ist da! Vergleich mit Nano Banana Pro 👉 [Arena ausprobieren](https://youmind.com/de-DE/model-arena/nano-banana-2-vs-nano-banana-pro)
 # 🚀 Tolle Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **10017** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 27. Februar 2026 um 01:05:28 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 27. Februar 2026 um 01:23:06 UTC** |
 
 </div>
 
@@ -7126,6 +7126,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-27T01:05:28.613Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-27T01:23:06.253Z</sub>
 
 </div>
