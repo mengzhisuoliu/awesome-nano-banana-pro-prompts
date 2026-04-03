@@ -135,9 +135,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **12261** |
+| 📝 कुल प्रॉम्पट्स | **12260** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 3 अप्रैल 2026 को 8:14:51 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 3 अप्रैल 2026 को 12:08:36 pm UTC बजे** |
 
 </div>
 
@@ -6859,7 +6859,7 @@ Re : No.3 La Flamme Blanche
 
 <div align="center">
 
-### 🎯 12141 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 12140 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6922,6 +6922,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-03T08:14:51.669Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-03T12:08:36.395Z</sub>
 
 </div>

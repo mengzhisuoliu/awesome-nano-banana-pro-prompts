@@ -135,9 +135,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **12261** |
+| 📝 Total de prompts | **12260** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sexta-feira, 3 de abril de 2026 às 08:15:36 UTC** |
+| 🔄 Última atualização | **sexta-feira, 3 de abril de 2026 às 12:09:35 UTC** |
 
 </div>
 
@@ -6948,7 +6948,7 @@ Eu ficaria feliz se as costas e a parte inferior do escudo parecessem realistas.
 
 <div align="center">
 
-### 🎯 12141 mais prompts não mostrados aqui
+### 🎯 12140 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7011,6 +7011,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-03T08:15:36.297Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-03T12:09:35.579Z</sub>
 
 </div>
