@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **14504** |
+| 📝 Gesamtanzahl Prompts | **14525** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 20. Juni 2026 um 05:26:39 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 20. Juni 2026 um 09:00:21 UTC** |
 
 </div>
 
@@ -654,7 +654,299 @@ Das Seitenverhältnis ist 3:4 vertikales Poster. Fügen Sie eine vertikale japan
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Profil / Avatar - Mediterranes Sommer-Lifestyle-Porträt
+### No. 1: Profil / Avatar - High-Fidelity Gen-Z Fashion-Editorial-Porträt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein anspruchsvoller Prompt zur Erstellung von High-End-Fashion-Porträts mit 100-prozentiger Identitätserhaltung basierend auf einem hochgeladenen Bild, in einem minimalistischen, monochromen Studio-Setting.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das hochgeladene Gesichtsbild, um die Identität der Person mit absoluter Genauigkeit zu bewahren (100 % Identitätserhaltung). Behalten Sie dabei präzise Gesichtsform, Knochenstruktur, Stirn, Augenbrauen, Augen, Nase, Lippen, Ohren, Kieferpartie, Frisur, Haaransatz, Gesichtsbehaarung, Hautton, Hauttextur, Alter und den natürlichen Ausdruck bei, ohne die Person zu verschönern oder zu verändern. Erstellen Sie ein High-End-Gen-Z-Fashion-Editorial-Porträt derselben Person, die lässig auf einem perfekt zylindrischen {argument name="theme color" default="mattem Violett"} Hocker sitzt, sich leicht nach vorne lehnt, die Ellbogen natürlich auf den Oberschenkeln ruhen und die Hände locker gefaltet hat. Die Person strahlt müheloses Selbstvertrauen und eine moderne Attitüde aus, während sie direkten Blickkontakt zur Kamera hält. Das Motiv trägt einen übergroßen, luxuriösen, monochromen violetten Trenchcoat über einem passenden violetten T-Shirt mit Rundhalsausschnitt, eine locker sitzende weiße Hose, hochwertige weiß-violette Designer-Sneaker und eine elegante Edelstahluhr. Platzieren Sie das Motiv in einem nahtlosen, monochromen violetten Studio, in dem Boden und Hintergrund im selben satten {argument name="theme color" default="matten Violett"} gehalten sind, gemäß einer klaren, minimalistischen Ästhetik ohne zusätzliche Requisiten oder Ablenkungen. Verwenden Sie eine professionelle High-End-Fashion-Studiobeleuchtung, um die Szene auszuleuchten, mit einer großen Softbox leicht oberhalb und links von der Kamera, ergänzt durch subtiles Aufhelllicht und weiche filmische Schatten, die die Gesichtskonturen modellieren und gleichzeitig eine realistische Hauttextur sowie hochwertige Stoffdetails bewahren. Nehmen Sie das Bild in einer perfekten {argument name="aspect ratio" default="4:5"} Porträtkomposition auf, bei der der gesamte Körper und die Schuhe vollständig sichtbar sind. Zentrale Komposition, aufgenommen mit einem {argument name="lens" default="85mm"} Mittelformat-Porträtobjektiv, geringe Schärfentiefe, gestochen scharfer Fokus, surreale Hautporen, luxuriöses Editorial-Color-Grading, Apple-Stil-Minimalismus, Vogue-Werbequalität, kommerzielle Fotografie, HDR und fotorealistische 8K-Auflösung. Negativer Prompt: andere Personen, Identität verändert, Gesichtstausch, veränderte Gesichtszüge, verschönertes Gesicht, andere Frisur, falsche Gesichtsbehaarung, asymmetrisches Gesicht, verzerrte Anatomie, zusätzliche Finger, fehlende Finger, doppelte Gliedmaßen, deformierte Hände, unscharfes Bild, niedrige Qualität, niedrige Auflösung, Cartoon, Anime, CGI, Illustration, Plastikhaut, übermäßig glatte Haut, Fischaugenobjektiv, Weitwinkelverzerrung, überladener Hintergrund, Text, Wasserzeichen, Logo, abgeschnittene Schuhe, abgeschnittener Körper, Artefakte.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941377395_jitjl3_HLM5CGmaAAAr0iT.jpg" width="600" alt="Profil / Avatar - High-Fidelity Gen-Z Fashion-Editorial-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jeffro Ma](https://x.com/U1Zzzz)
+- **Quelle:** [Twitter Post](https://x.com/U1Zzzz/status/2068060246883598573)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** zh
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26203)**
+
+---
+
+### No. 2: Profil / Avatar - Streetwear-Hijab-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hochwertiges, realistisches Porträt einer Frau in trendiger Streetwear, inklusive Hijab und Baseballkappe.
+
+#### 📝 Prompt
+
+```
+Ein hochwertiges, realistisches Porträt einer jungen Frau, die einen ordentlich gestylten {argument name="hijab color" default="dunkelbraunen"} Hijab trägt. Sie trägt ein dazu passendes {argument name="sweatshirt color" default="dunkelbraunes"} Sweatshirt mit hellen Seitenstreifen und einem kleinen gestickten Wappen auf der Brust, kombiniert mit einer verwaschenen, grauen Baggy-Jeans. Auf dem Kopf trägt sie eine {argument name="hat style" default="grau verwaschene Baseballkappe"}. Sie sitzt auf einer Betontreppe, stützt ihr Kinn sanft auf die Hand und blickt mit einem freundlichen, dezenten Lächeln direkt in die Kamera. Der Hintergrund ist ein schlichtes, industriell wirkendes graues Metallgitter. Das Licht ist weich und natürlich, was eine klare, lässige und trendige Streetwear-Ästhetik unterstreicht. Hohe Auflösung, klarer Fokus, professioneller Fotostil.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941369448_b879jz_HLMXvTiaMAAiRll.jpg" width="600" alt="Profil / Avatar - Streetwear-Hijab-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [angelina](https://x.com/angelina_015)
+- **Quelle:** [Twitter Post](https://x.com/angelina_015/status/2068022773767864482)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26188)**
+
+---
+
+### No. 3: Profil / Avatar - Fotorealistisches Hijab-Modeporträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hochdetaillierter Prompt zur Erstellung eines professionellen Modeporträts, das ein Model in einem schokoladenbraunen Satin-Hijab bei filmischer Außenbeleuchtung zeigt.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches Modeporträt einer schönen jungen Frau, die einen {argument name="outfit color" default="luxuriösen schokoladenbraunen"} {argument name="clothing item" default="Satin-Hijab"} trägt, der elegant mit weichen Falten um Kopf und Schultern drapiert ist, dazu ein passendes, eng anliegendes, langärmeliges braunes Oberteil und eine beigefarbene Hose mit hoher Taille und schmalem braunen Ledergürtel. Sie hält anmutig eine dunkle Sonnenbrille in den Händen und trägt eine große, glänzende braune Ledertasche mit geprägtem Logo über der Schulter. Selbstbewusste Pose, angelehnt an eine {argument name="background" default="weiß strukturierte Wand"}, wobei starke, dramatische Schatten von Palmblättern auf die Wand und ihre Figur fallen. Helles, natürliches goldenes Sonnenlicht, hoher Kontrast, filmische Beleuchtung, makelloses Make-up mit definierten Augenbrauen und Wimpern, elegante Dreiviertelansicht, professionelle Fotografie, ultra-detailliert, scharfer Fokus, 8k fotorealistisch.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941368188_6st0h4_HLLf_H_a8AAzVbb.jpg" width="600" alt="Profil / Avatar - Fotorealistisches Hijab-Modeporträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [angelina](https://x.com/angelina_015)
+- **Quelle:** [Twitter Post](https://x.com/angelina_015/status/2067961464644575668)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26185)**
+
+---
+
+### No. 4: Profil / Avatar - Cinematic Face-Dissolve-Effekt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein dramatischer, filmreifer Porträt-Prompt, bei dem sich eine Gesichtshälfte in Partikel und fliegende Vögel auflöst.
+
+#### 📝 Prompt
+
+```
+Verwende mein hochgeladenes Gesichtsbild als primäre Identitätsreferenz. Bewahre meine exakte Gesichtsidentität, Gesichtsform, Frisur, Haarstruktur, Bartstil, Hautton, Augenform, Augenbrauen, Nase, Lippen und alle einzigartigen Gesichtsdetails mit maximaler Genauigkeit. Verändere mein Gesicht nicht und lass mich nicht wie eine andere Person aussehen. Erstelle ein hyperrealistisches, filmreifes Porträt, inspiriert von dem Referenzbild: eine dramatische Nahaufnahme in Halbgesichtskomposition, bei der eine Seite meines Gesichts natürlich sichtbar ist und die andere Seite in {argument name="effect particles" default="dunkle Partikel, Staub und fliegende schwarze Vögel"} zerfällt. Der Effekt sollte so aussehen, als würde sich mein Gesicht in Rauch und Fragmente auflösen und mit der Atmosphäre verschmelzen. Halte meine realistischen Gesichtszüge scharf und detailliert, mit intensiven Augen, texturierter Haut, natürlicher Beleuchtung und einer dunklen, stimmungsvollen Kinoatmosphäre. Füge einen {argument name="background" default="stürmischen, bewölkten Hintergrund"}, hohen Kontrast, tiefe Schatten und einen erstklassigen Filmplakat-Stil hinzu. Ultrarealistische Fotografie, 8K-Detailtiefe, professionelle Porträtfotografie, dramatische visuelle Effekte.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941376492_6oi4x5_HLJpyFPbYAA4heC.jpg" width="600" alt="Profil / Avatar - Cinematic Face-Dissolve-Effekt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Professor](https://x.com/Professor_134)
+- **Quelle:** [Twitter Post](https://x.com/Professor_134/status/2067831496417914985)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26201)**
+
+---
+
+### No. 5: Profil / Avatar - Monochromer Vintage-Bar-Gentleman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein stimmungsvolles Schwarz-Weiß-Porträt eines Mannes im Rollkragenpullover, der sich in einer eleganten Vintage-Bar an einen Bistrostuhl lehnt.
+
+#### 📝 Prompt
+
+```
+Eine dramatische Schwarz-Weiß-Ganzkörperaufnahme eines {argument name="subject" default="gut gekleideten, attraktiven Mannes mit gestyltem, welligem Haar und kurzem Bart"}, der eine runde dunkle Sonnenbrille sowie einen {argument name="clothing" default="schwarzen Rollkragenpullover und eine maßgeschneiderte schwarze Hose"} trägt. Er steht aufrecht in einer {argument name="setting" default="schummrigen, eleganten Vintage-Bar oder einem Pub"} und lehnt eine Hand lässig auf die Lehne eines eleganten, geschwungenen hölzernen Bistrostuhls. Er nimmt eine selbstbewusste Pose ein, wobei seine Beine an den Knöcheln elegant überkreuzt sind. Der Hintergrund besticht durch eine warme Akzentbeleuchtung, eine klassische hölzerne Bartheke mit Glasflaschen, gemusterte Tapeten und ein großes Bogenfenster. Die Stimmung ist filmisch, atmosphärisch und detailreich, festgehalten in einer gestochen scharfen monochromen Ästhetik.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941373575_ipr2s2_HLJbMGyagAEOven.jpg" width="600" alt="Profil / Avatar - Monochromer Vintage-Bar-Gentleman - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Quelle:** [Twitter Post](https://x.com/iamsofiaijaz/status/2067815445860692471)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26193)**
+
+---
+
+### No. 6: Profil / Avatar - Monochromes violettes Mode-Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein erstklassiger Mode-Editorial-Prompt zur Identitätsbewahrung in einem monochromatischen violetten Studio-Setting.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das hochgeladene Gesichtsbild, um die Identität der Person absolut präzise zu bewahren (100 % Identitätsbewahrung). Behalten Sie dabei die exakte Gesichtsform, Knochenstruktur, Stirn, Augenbrauen, Augen, Nase, Lippen, Ohren, Kieferpartie, Frisur, Haaransatz, Gesichtsbehaarung, Hautton, Teint, Alter und den natürlichen Ausdruck bei, ohne die Person zu verschönern oder zu verändern. Erstellen Sie ein ultra-hochwertiges Gen-Z-Mode-Editorial-Porträt derselben Person, die lässig auf einem {argument name="furniture" default="perfekt zylindrischen, matten violetten Sitzhocker"} sitzt, sich leicht nach vorne lehnt, die Ellbogen natürlich auf den Oberschenkeln ruhen lässt und die Hände locker ineinander verschränkt. Die Person strahlt müheloses Selbstvertrauen und eine moderne Attitüde aus, während sie direkten Blickkontakt zur Kamera hält. Kleiden Sie das Subjekt in einen {argument name="outfit" default="übergroßen, luxuriösen, monochromatisch violetten Trenchcoat über einem passenden violetten T-Shirt mit Rundhalsausschnitt"}, eine locker sitzende weiße Hose, hochwertige weiß-violette Designer-Sneaker und eine elegante Armbanduhr aus Edelstahl. Platzieren Sie das Subjekt in einem nahtlosen {argument name="background" default="monochromatisch violetten Studio"}, bei dem Boden und Hintergrund im selben satten, matten Violett gehalten sind, mit einer klaren, minimalistischen Ästhetik ohne zusätzliche Requisiten oder Ablenkungen. Beleuchten Sie die Szene mit hochwertiger, professioneller Mode-Studiobeleuchtung: eine große Softbox, die leicht oberhalb und links von der Kamera positioniert ist, ergänzt durch subtiles Aufhelllicht und sanfte filmische Schatten, die das Gesicht modellieren und gleichzeitig realistische Hauttexturen und hochwertige Stoffdetails bewahren. Nehmen Sie das Bild in einer perfekt ausbalancierten 4:5-Vertikalkomposition auf, bei der der gesamte Körper und die Schuhe sichtbar sind, zentrierte Rahmung, aufgenommen mit einem 85-mm-Mittelformat-Porträtobjektiv mit geringer Schärfentiefe, ultrascharfem Fokus, hyperrealistischen Hautporen, luxuriösem Editorial-Color-Grading, Apple-artigem Minimalismus, Vogue-Kampagnenqualität, kommerzieller Werbefotografie, HDR, fotorealistischer 8K-Auflösung. Negativer Prompt: andere Person, Identitätsänderung, Gesichtstausch, veränderte Gesichtszüge, verschönertes Gesicht, andere Frisur, falsche Gesichtsbehaarung, asymmetrisches Gesicht, verzerrte Anatomie, zusätzliche Finger, fehlende Finger, doppelte Gliedmaßen, schlechte Hände, unscharfes Bild, niedrige Qualität, niedrige Auflösung, Cartoon, Anime, CGI, Illustration, Plastikhaut, übermäßig geglättete Haut, Fischaugenobjektiv, Weitwinkelverzerrung, überladener Hintergrund, Text, Wasserzeichen, Logo, abgeschnittene Schuhe, abgeschnittener Körper, Artefakte.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941375076_2chy2s_HLJXo8EbYAAgjWg.jpg" width="600" alt="Profil / Avatar - Monochromes violettes Mode-Editorial - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Nexora](https://x.com/frametheory058)
+- **Quelle:** [Twitter Post](https://x.com/frametheory058/status/2067811548048056625)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26198)**
+
+---
+
+### No. 7: Profil / Avatar - Gemütliches Hoodie-Selfie-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein fotorealistisches und niedliches Nahaufnahme-Selfie einer Frau in einem übergroßen Hoodie mit einer warmen, ästhetischen Ausstrahlung.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches Nahaufnahme-Selfie einer bezaubernden jungen Frau, das Gesicht füllt den Großteil des Bildes aus, der Kopf ist leicht geneigt, die Wange ruht in einem {argument name="hoodie style" default="gemütlichen, cremefarbenen Oversized-Hoodie"} Ärmel. Langes, seidiges Haar mit {argument name="hair style" default="sanftem Curtain-Pony"}, das ein Auge bedeckt, große, ausdrucksstarke Augen mit Winged Eyeliner, flauschige Wimpern, natürlich strahlende Haut, staubrosa Lippen, sanfter Schmollmund, süßer und niedlicher Ausdruck. Der Hoodie rutscht von einer Schulter, das Schlüsselbein ist sichtbar. Warme Innenbeleuchtung, weicher, beige-grauer, verschwommener Hintergrund, geringe Schärfentiefe, ultra-detaillierter Fokus auf die Augen, realistische Haarstruktur, gemütliche Ästhetik, authentischer Webcam-Selfie-Vibe, gedämpfte Pastelltöne, hoher Realismus, Porträt.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941367996_pted15_HLJNacQakAAljS4.jpg" width="600" alt="Profil / Avatar - Gemütliches Hoodie-Selfie-Porträt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941367947_usuv9t_HLJNbXobYAEZu4Z.jpg" width="600" alt="Profil / Avatar - Gemütliches Hoodie-Selfie-Porträt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aqsa](https://x.com/Aqsahere_)
+- **Quelle:** [Twitter Post](https://x.com/Aqsahere_/status/2067800412707815720)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26186)**
+
+---
+
+### No. 8: Profil / Avatar - Realistisches Spa-Badezimmer-Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hochdetaillierter Prompt für ein ultra-realistisches Smartphone-Selfie in einem luxuriösen Marmor-Badezimmer.
+
+#### 📝 Prompt
+
+```
+Erstelle anhand des Referenzbildes ein ultra-realistisches vertikales Smartphone-Selfie einer {argument name="subject" default="erwachsenen Frau"} in einem {argument name="setting" default="luxuriösen Marmor-Badezimmer"} nach dem Duschen. Behalte die gleiche Gesichtsstruktur, den natürlichen Ausdruck, das nasse, nach hinten gegelte Haar, den dezenten No-Make-up-Look, die realistische Hauttextur, Wassertropfen auf Gesicht, Schultern und Schlüsselbein sowie das {argument name="clothing item" default="rote Handtuch"} bei, das sicher um die Brust gewickelt ist. Der Hintergrund sollte eine hochwertige Glasdusche mit weißen Marmorwänden, Chromarmaturen, weicher Badezimmerbeleuchtung, Spiegelreflexionen und eine saubere, Spa-ähnliche Atmosphäre zeigen. Die Komposition sollte eine Nahaufnahme von der Brust bis zum Kopf sein, leicht erhöhter Selfie-Winkel, natürliche Smartphone-Kamera-Perspektive, realistische Beleuchtung, detaillierte Poren, weiche Highlights auf nasser Haut, authentische Luxus-Lifestyle-Ästhetik, fotorealistisch, 9:16 vertikales Format, hohe Auflösung.
+Negative prompt:
+Nacktheit, entblößte Brust, explizite Pose, sexualisierter Ausdruck, starkes Make-up, plastische Haut, übermäßig geglättetes Gesicht, verzerrte Anatomie, zusätzliche Finger, verformte Schultern, verschwommenes Gesicht, niedrige Auflösung, Cartoon, CGI, Wasserzeichen, Text, unrealistisches Badezimmer, harte Schatten.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941369663_gsprnh_HLHl-bgXAAA_pZW.jpg" width="600" alt="Profil / Avatar - Realistisches Spa-Badezimmer-Selfie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941369694_m6j2rt_HLHl-auWMAAI_UU.jpg" width="600" alt="Profil / Avatar - Realistisches Spa-Badezimmer-Selfie - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941369887_wvtqyw_HLHl-aeWQAAeSt8.jpg" width="600" alt="Profil / Avatar - Realistisches Spa-Badezimmer-Selfie - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Pixel by us ✨](https://x.com/pixelbyus)
+- **Quelle:** [Twitter Post](https://x.com/pixelbyus/status/2067762032305217803)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26189)**
+
+---
+
+### No. 9: Profil / Avatar - Mediterranes Sommer-Lifestyle-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -687,7 +979,7 @@ Eine halbnahe Einstellung zeigt einen selbstbewussten erwachsenen Mann im Gehen,
 
 ---
 
-### No. 2: Profil / Avatar - Surreales filmisches Granatapfel-Porträt
+### No. 10: Profil / Avatar - Surreales filmisches Granatapfel-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -726,7 +1018,7 @@ Ein hochgradig viszeraler und surrealer filmischer Porträt-Prompt, der einen Pr
 
 ---
 
-### No. 3: Profil / Avatar - Fotorealistisches Porträt am Pool
+### No. 11: Profil / Avatar - Fotorealistisches Porträt am Pool
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -778,7 +1070,7 @@ Raw 8K fotorealistisches vertikales Porträt (Seitenverhältnis 9:16) einer gro�
 
 ---
 
-### No. 4: Profil / Avatar - Minimalistisches Streetwear-Café-Porträt
+### No. 12: Profil / Avatar - Minimalistisches Streetwear-Café-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -812,7 +1104,7 @@ Ultrarealistisches, ästhetisches Modeporträt eines {argument name="age" defaul
 
 ---
 
-### No. 5: Profil / Avatar - Luxuriöses Fine-Dining-Abendporträt
+### No. 13: Profil / Avatar - Luxuriöses Fine-Dining-Abendporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -863,7 +1155,7 @@ Ein strukturierter Bild-Prompt zur Erstellung einer luxuriösen Fine-Dining-Atmo
 
 ---
 
-### No. 6: Profil / Avatar - Botanical Studio Fashion-Porträt
+### No. 14: Profil / Avatar - Botanical Studio Fashion-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -901,54 +1193,7 @@ Die Szene wurde mit einem 85-mm-Objektiv bei f/1.8 aufgenommen, wodurch ein krit
 
 ---
 
-### No. 7: Profil / Avatar - Kawaii-Gassenporträt mit riesigem Pikachu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Erstellung einer skurrilen Stadtszene mit einer jungen Frau in einem pastellfarbenen Hoodie, einem riesigen Pikachu-Plüschtier und magischen schwebenden Kreaturen.
-
-#### 📝 Prompt
-
-```
-Ein hyperrealistisches Ganzkörperporträt einer {argument name="gender" default="süßen jungen Frau"}, die in einer engen städtischen Gasse hockt und ein riesiges, flauschiges, rosa Pikachu-inspiriertes Plüschtier umarmt. Sie trägt ein {argument name="clothing" default="übergroßes, pastellrosa Hoodie-Kleid, verziert mit entzückenden Kawaii-Aufnähern, Herzen, Schleifen, Sternen und niedlichen, von Charakteren inspirierten Abzeichen"}, kombiniert mit weißen Socken und sauberen weißen Sneakern. Sie lächelt warm in die Kamera, während sie ein {argument name="accessory" default="glänzendes, herzförmiges Accessoire in Pink"} in einer Hand hält. Langes, weiches braunes Haar, natürliches Make-up, jugendliches Aussehen.
-
-Die Gasse ist auf beiden Seiten von roten Backsteinmauern gesäumt, was eine filmische Tiefe und Perspektive erzeugt. Mehrere schwebende, rosa Pikachu-inspirierte Kreaturen und andere entzückende Pastell-Fantasy-Figuren schweben um sie herum in der Luft. Buntes rosa und weißes Konfetti regnet durch die Szene, ergänzt durch verspielte Kritzeleien im Comic-Stil, Sprechblasen, Herzen, Sterne, Glitzer, Schleifen, Ausrufezeichen und Fragezeichen, die überall verstreut sind. Helle, fröhliche Atmosphäre, traumhafte pastellrosa Farbpalette, magisches Fantasy-Gefühl.
-
-Ultra-detaillierte, flauschige Felltextur auf dem Plüschtier, realistische Hauttextur, weiches natürliches Tageslicht, geringe Schärfentiefe, cremiger Bokeh-Hintergrund, dynamische Komposition, zentrierte Rahmung, High-End-DSLR-Fotografie, 85-mm-Objektiv, f/1.8, filmische Beleuchtung, HDR, lebendige Farben, scharfer Fokus, Meisterwerk, ultrarealistisch, 8K, fotorealistisch, süße Kawaii-Ästhetik, freudige Feierstimmung, Luxus-Modefotografie, skurriler rosa Wunderland-Vibe.
-
-Negative Prompt:
-niedrige Qualität, verschwommen, verzerrtes Gesicht, zusätzliche Finger, zusätzliche Gliedmaßen, schlechte Anatomie, zugeschnitten, doppelte Charaktere, Wasserzeichen, Text, Logo, übersättigt, verrauschtes Bild, deformierte Hände, mutierter Körper, außerhalb des Bildrahmens, niedrige Auflösung, hässliches Gesicht, Cartoon-Stil, schlecht gezeichnete Details, Bewegungsunschärfe, matte Farben, unordentliche Komposition, flache Beleuchtung.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857324185_1ox24s_HLFnOmqa0AAKSoc.jpg" width="600" alt="Profil / Avatar - Kawaii-Gassenporträt mit riesigem Pikachu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857324215_abqnbw_HLFnPpTa8AAwslN.jpg" width="600" alt="Profil / Avatar - Kawaii-Gassenporträt mit riesigem Pikachu - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Aria](https://x.com/ariaxawan)
-- **Quelle:** [Twitter Post](https://x.com/ariaxawan/status/2067548362560405650)
-- **Veröffentlicht:** 18. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26086)**
-
----
-
-### No. 8: Profil / Avatar - Lifestyle-Fotografie eines Mannes im Beach Club
+### No. 15: Profil / Avatar - Lifestyle-Fotografie eines Mannes im Beach Club
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -982,7 +1227,7 @@ Ein {argument name="subject" default="junger Mann mit kurzem, strukturiertem Haa
 
 ---
 
-### No. 9: Profil / Avatar - Monochromes, introspektives Männerporträt
+### No. 16: Profil / Avatar - Monochromes, introspektives Männerporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1016,7 +1261,7 @@ Ein ästhetisches Schwarz-Weiß-Porträt eines stilvollen Ichs (verwende mein Bi
 
 ---
 
-### No. 10: Profil / Avatar - Schwarz-Weiß-Street-Fashion-Porträt bei Nacht
+### No. 17: Profil / Avatar - Schwarz-Weiß-Street-Fashion-Porträt bei Nacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1056,7 +1301,7 @@ Behalte mein echtes Aussehen bei, während du die gleiche Stimmung, Bildkomposit
 
 ---
 
-### No. 11: Profil / Avatar - Realistische 4K-Fotorestaurierung
+### No. 18: Profil / Avatar - Realistische 4K-Fotorestaurierung
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1090,7 +1335,7 @@ Behalten Sie das ursprüngliche Seitenverhältnis bei und verwenden Sie professi
 
 ---
 
-### No. 12: Profil / Avatar - Cinematisches Porträt bei einer Abendveranstaltung
+### No. 19: Profil / Avatar - Cinematisches Porträt bei einer Abendveranstaltung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1144,385 +1389,6 @@ subject: Referenzbild für das Gesicht verwenden,
 
 ---
 
-### No. 13: Profil / Avatar - Cyberpunk-Porträt mit Identitätserhalt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein ausgefeilter Prompt zur Erstellung eines Porträts im Cyberpunk-Stil, das die Gesichtszüge und die Komposition eines Referenzfotos beibehält und mit lebendigen Neon-Akzenten versehen ist.
-
-#### 📝 Prompt
-
-```
-Ein {argument name="portrait style" default="Cyberpunk"}-Porträt basierend auf dem hochgeladenen Referenzfoto, exakt in derselben Komposition und Perspektive wie das Referenzbild neu erstellt] [die Person aus dem hochgeladenen Bild in einer Nahaufnahme aus der Froschperspektive, Kopf leicht nach oben geneigt, ernster und selbstbewusster Ausdruck, wobei die Gesichtszüge und Proportionen des hochgeladenen Referenzfotos beibehalten werden] [urbane Neon-Stadtumgebung bei Nacht mit sanft verschwommenen {argument name="neon colors" default="Pink, Cyan und Rot"} Neonreklamen, die ein atmosphärisches Bokeh erzeugen] [trägt eine moderne, übergroße Winterjacke in warmen {argument name="jacket color" default="senfgelben"} Tönen mit realistischer Stofftextur und weichem Innenfutter, kombiniert mit einer dunklen Strickmütze] [runde, reflektierende Sonnenbrille mit gold-orangen verspiegelten Gläsern, die futuristische Stadtgebäude und Neonstraßen exakt wie auf dem Referenzbild widerspiegeln] [ultrarealistischer, filmischer Fotostil] [starke geringe Schärfentiefe, die den Fokus extrem auf Gesicht und Brille legt, während der Hintergrund in einer farbenfrohen Neon-Unschärfe verschmilzt] [dramatische Neonbeleuchtung, die pinke und cyanfarbene Highlights auf Gesicht, Bart und Jacke wirft und eine kontrastreiche, filmische Stimmung erzeugt] [hochdetaillierte Hauttextur mit realistischen Poren, subtiler Bartstruktur und natürlichen Gesichtsschatten] [minimale, aber visuell kraftvolle Komposition, inspiriert von futuristischen Mode-Editorials und Blade-Runner-Ästhetik] [dominante Farben: Neonpink, Cyanblau, warmes Orange, tiefes Schwarz und goldene Reflexionen] [realistische Objektivkompression, subtile chromatische Aberration, filmisches Leuchten um Neonlichter und sanfte volumetrische Atmosphäre] [exakt derselbe Bildausschnitt und dieselbe emotionale Energie wie beim Referenzbild, unter Beibehaltung von Realismus und erstklassiger Editorial-Qualität] [kein Text, kein Logo, kein Wasserzeichen, keine zusätzlichen Accessoires, kein visuelles Durcheinander] [vertikale 3:4-Komposition, ultrascharfer Fokus auf Gesicht und Brille, 8k-Filmqualität, realistische DSLR-Fotografie] [hyperdetaillierte Texturen, realistische Reflexionen in den Gläsern, filmisches Haut-Rendering, Schärfentiefe, volumetrische Neonbeleuchtung, extremer Realismus
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770018636_0tiyr9_HK-9vM3bcAAjezb.jpg" width="600" alt="Profil / Avatar - Cyberpunk-Porträt mit Identitätserhalt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Quelle:** [Twitter Post](https://x.com/harboriis/status/2067079376647372971)
-- **Veröffentlicht:** 17. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25977)**
-
----
-
-### No. 14: Profil / Avatar - Selfie im Badezimmer mit Tonerde-Gesichtsmaske
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein detaillierter Prompt zur Erstellung eines realistischen Selfies einer Frau mit einer grünen Tonerde-Gesichtsmaske in einem Badezimmer, mit weichem, natürlichem Licht und einem digitalen Sticker.
-
-#### 📝 Prompt
-
-```
-Eine junge Frau mit {argument name="hair style" default="langem, dunklem, welligem Haar"} macht ein Selfie in einem weiß gefliesten Badezimmer und lächelt sanft, während sie eine {argument name="face mask" default="grüne Tonerde-Gesichtsmaske"} auf Wangen, Stirn und Kinn trägt (die Lippen sind frei und glänzend). Ein {argument name="sticker" default="digitaler Sticker einer rosa Hibiskusblüte"} ist in der Nähe ihres Ohrs bzw. Haares platziert. Sie trägt ein schlichtes weißes T-Shirt mit Rundhalsausschnitt, beleuchtet durch weiches, natürliches Fensterlicht von links, mit U-Bahn-Fliesen an den Wänden und einem im Hintergrund sichtbaren Spiegel.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598289533_6y5tp4_HK69_GwaoAAPmQR.jpg" width="600" alt="Profil / Avatar - Selfie im Badezimmer mit Tonerde-Gesichtsmaske - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Sairah](https://x.com/Sairah_0)
-- **Quelle:** [Twitter Post](https://x.com/Sairah_0/status/2066798179991843138)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25755)**
-
----
-
-### No. 15: Profil / Avatar - Introspektives cineastisches Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein cineastisches Nahaufnahme-Porträt, das eine ruhige und introspektive Stimmung mit elegantem Make-up und raffinierter Beleuchtung einfängt.
-
-#### 📝 Prompt
-
-```
-Ein cineastisches Nahaufnahme-Porträt, das eine ruhige und introspektive Stimmung einfängt. Sanfte {argument name="lighting" default="blaugraue"} Beleuchtung betont ihre strahlende Haut, ihre feinen Gesichtszüge und ihr elegantes {argument name="makeup" default="Douyin-inspiriertes"} Make-up. Langes {argument name="hair color" default="aschbraunes"} Haar mit natürlich lockeren Strähnen umrahmt ihr Gesicht auf wunderschöne Weise, während das marineblaue Hemd und die weißen AirPods einen modernen, raffinierten Akzent setzen. Die ultrarealistischen Details, das kühle Color Grading und die emotionale Atmosphäre schaffen ein zeitloses und visuell fesselndes Porträt.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684777944_5hbdqa_HK6WE9AW4AAwdIQ.jpg" width="600" alt="Profil / Avatar - Introspektives cineastisches Porträt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [liana](https://x.com/Lianaalane)
-- **Quelle:** [Twitter Post](https://x.com/Lianaalane/status/2066754300492005873)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25862)**
-
----
-
-### No. 16: Profil / Avatar - Blondes Schlafzimmer-Blitzlicht-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein realistischer Blitzlicht-Fotografie-Prompt für eine junge Frau in einem gemütlichen Schlafzimmer, der die authentische Ästhetik einer Digitalkamera aus den frühen 2000er Jahren einfängt.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches Blitzlicht-Porträt einer jungen {argument name="hair color" default="blonden"} Frau, die nachts in einem gemütlichen Schlafzimmer steht. Extrem langes, glattes, platinblondes Haar mit seidiger Textur und Mittelscheitel, das sie spielerisch zu beiden Seiten hält. Zartrosa Lippen, klare blaue Augen, natürliches Make-up, strahlende Haut mit realistischer Textur und leichtem Rouge. Sie trägt ein passendes cremefarbenes florales Lounge-Set, bestehend aus einer figurbetonten, bauchfreien Strickjacke mit langen Ärmeln und einer hoch taillierten Shorts mit zartem Blümchenmuster. Mehrlagige Goldketten mit einem kleinen Kreuzanhänger. Direkte Blitzlicht-Ästhetik, die scharfe Schatten erzeugt und für den authentischen Look einer Digitalkamera aus den frühen 2000er Jahren sorgt. Modernes Schlafzimmer mit {argument name="wall color" default="salbeigrünen"} Wänden, weißen Fensterläden, hölzernem Nachttisch, Hautpflegeprodukten, Haarbürste und persönlichen Gegenständen im Hintergrund. Authentische Schlafzimmer-Selfie-Atmosphäre, Lifestyle-Fotografie, realistische Hauttextur, lässige Wohnzimmer-Ästhetik, fotorealistisch, hochdetailliert, Social-Media-Influencer-Stil, Premium-Lifestyle-Kampagne.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598281762_1iznr3_HK3bnFZbUAAULeB.jpg" width="600" alt="Profil / Avatar - Blondes Schlafzimmer-Blitzlicht-Porträt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598282207_el5taw_HK3bnFZbgAANAub.jpg" width="600" alt="Profil / Avatar - Blondes Schlafzimmer-Blitzlicht-Porträt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Dockie](https://x.com/Document195)
-- **Quelle:** [Twitter Post](https://x.com/Document195/status/2066549583011057765)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25739)**
-
----
-
-### No. 17: Profil / Avatar - Magazin-Porträtstil
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Prompt, der entwickelt wurde, um den Look und das Gefühl eines Porträts eines Lieblings-Magazinmodels nachzubilden.
-
-#### 📝 Prompt
-
-```
-Nachahmung eines {argument name="subject" default="Models"} aus einem bevorzugten {argument name="medium" default="Magazin"}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598288445_z8fcg2_HK2PvnLa4AA4nrI.jpg" width="600" alt="Profil / Avatar - Magazin-Porträtstil - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598288493_c3zfdi_HK2PvnNaoAAFpVu.jpg" width="600" alt="Profil / Avatar - Magazin-Porträtstil - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598288491_opfhw6_HK2PvnLbQAAQ45K.jpg" width="600" alt="Profil / Avatar - Magazin-Porträtstil - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598289045_l9j9zo_HK2Pvmia4AAAKB_.jpg" width="600" alt="Profil / Avatar - Magazin-Porträtstil - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [紺青色の境界線。@体育の記憶補完](https://x.com/YURURIatJTC)
-- **Quelle:** [Twitter Post](https://x.com/YURURIatJTC/status/2066465854930432128)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25754)**
-
----
-
-### No. 18: Profil / Avatar - Biometrisches Porträt von Sydney Sweeney
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein unglaublich detaillierter Prompt im biometrischen Stil zur Erstellung eines hyperrealistischen Porträts von Sydney Sweeney mit präziser Anatomie und Materialphysik.
-
-#### 📝 Prompt
-
-```
-{
-
-  "subject": {
-
-    "identity": {
-
-      "biometric_reference": "Sydney Sweeney",
-
-      "facial_structure": "Markante herzförmige Gesichtsform mit weichem, aber definiertem Kieferwinkel; charakteristische, leicht hängende, blau-graue Augen mit schweren oberen Lidern; volle Lippen mit ausgeprägtem Amorbogen und natürlichem Volumen; forensisch präzise Definition der Augenhöhlen und Wangenknochen.",
-
-      "hair": {
-
-        "style": "Voluminöses honigblondes Haar im charakteristischen, leicht zerzausten Cinematic-Wellen-Look; weicher, das Gesicht umrahmender Pony mit hochauflösender Strähnendefinition; das Haar fällt natürlich über die Schultern und interagiert mit dem Stoff des Kleides.",
-
-        "color": "#F2D2A9 warmes Honigblond mit #FAF3E0 hellen Platin-Highlights",
-
-        "physics": "Natürlicher Glanz mit realistischer Subsurface Scattering (SSS) bei feinen Strähnen; keinerlei synthetische Verklumpung; Mikro-Haardetails am Haaransatz sichtbar."
-
-      },
-
-      "ocular_details": "Iris-Muster mit komplexen radialen Furchen in einem blau-grauen #7A9E9F Farbton; sichtbare Limbusringe; anatomisch korrekte Befeuchtung der Sklera; realistische Platzierung der Tränenkarunkel.",
-
-      "dentition": "Natürliche Zahnstellung mit realistischer Transparenz der Schneidezähne; sichtbar durch eine entspannte, leicht geöffnete Lippenposition."
-
-    },
-
-    "body": {
-
-      "somatotype": "Ektomorph-mesomorpher Körperbau mit hohem Taille-Hüft-Verhältnis; präzise anatomische Muskeldefinition im Musculus rectus femoris und an den Unterarmen; sichtbare Schlüsselbeine und Drosselgrube.",
-
-      "skin_physics": {
-
-        "base_tone": "#F5E1D2 cremiges Porzellan",
-
-        "surface_properties": "Hochauflösendes Subsurface Scattering (SSS) der Epidermis; sichtbare Poren und Mikro-Falten an den Gelenken; keine künstlichen Weichzeichner; natürlicher Hautglanz.",
-
-        "details": "Natürliche Verteilung von Muttermalen und Sommersprossen gemäß biometrischer Referenz; keine digitalen Artefakte oder synthetische Unschärfe; realistische Hautkompression an den Kontaktstellen zur Bettwäsche."
-
-      }
-
-    }
-
-  },
-
-  "wardrobe": {
-
-    "primary_garment": {
-
-      "type": "Figurbetontes Minikleid im Korsett-Stil",
-
-      "color": "#FEEFB3 sanftes Gelb und #FFFFFF optisches Weiß im Vichy-Karo-Muster",
-
-      "material_physics": "Fein gewebter Vichy-Baumwollstoff mit subtiler Textur; realistische Mikro-Falten im Stoff, die strukturelle Spannung an der Taille anzeigen; matte Rüschen am Saum mit dezenter Transparenz."
-
-    },
-
-    "neckwear": {
-
-      "type": "Passende gelbe Vichy-Fliege mit abnehmbarem weißem Bubikragen",
-
-      "color": "Fliege: #FEEFB3 und #FFFFFF; Kragen: #FFFFFF optisches Weiß",
-
-      "material_physics": "Strukturierte Stofffliege mit realistischer Knotenkompression; knackige, gestärkte Baumwollkragen-Textur mit mattem Finish."
-
-    },
-
-    "gloves": {
-
-      "type": "Kurze weiße Spitzenhandschuhe",
-
-      "color": "#FFFFFF optisches Weiß",
-
-      "material_physics": "Komplexe Spitzen-Mikromuster mit variabler Transparenz; realistische Faltungen und Spannungsspuren an den Fingergelenken und Handflächen."
-
-    },
-
-    "earrings": {
-
-      "type": "Blumenförmige Ohrstecker",
-
-      "color": "#FEEFB3 sanftes Gelb",
-
-      "material_physics": "Detaillierte, mehrblättrige Blumenstruktur; mattes Keramik-Finish mit einem dezent glänzenden Zentrum."
-
-    },
-
-    "footwear": {
-
-      "type": "Keine; nackte Füße sind sichtbar und ruhen natürlich auf der Bettwäsche.",
-
-      "material_physics": "Anatomisch korrekte Hauttextur mit realistischer Polsterung der Fußsohlen und Zehenartikulation; natürliche Lichtreflexe auf der Hautoberfläche."
-
-    }
-
-  },
-
-  "pose_action": {
-
-    "description": "Zentral auf weicher weißer Leinenbettwäsche sitzend; die Beine sind in einem dynamischen seitlichen Winkel angewinkelt, um die Beinlänge zu betonen; der Oberkörper ist um 30 Grad zur primären Lichtquelle gedreht; die Hände dienen als natürliche Anker auf der Bettoberfläche mit realistischer Fingerartikulation und Gelenkfalten; der Kopf ist leicht geneigt mit einem fokussierten, filmischen Blick in die Kamera.",
-
-    "expression": "Neutraler, nicht lächelnder Gesichtsausdruck mit einem fokussierten Blick"}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598282384_6pj3r2_HK1nqtYbEAAnLX9.jpg" width="600" alt="Profil / Avatar - Biometrisches Porträt von Sydney Sweeney - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598282393_ffu936_HK1nqtXbYAAN-qb.jpg" width="600" alt="Profil / Avatar - Biometrisches Porträt von Sydney Sweeney - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598282411_3w4u4f_HK1nqtYbwAAwKdf.jpg" width="600" alt="Profil / Avatar - Biometrisches Porträt von Sydney Sweeney - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598283012_r1ro6l_HK1nqtYaQAAtEkN.jpg" width="600" alt="Profil / Avatar - Biometrisches Porträt von Sydney Sweeney - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Lore](https://x.com/l_w_lorenzen)
-- **Quelle:** [Twitter Post](https://x.com/l_w_lorenzen/status/2066422044531823075)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25741)**
-
----
-
-### No. 19: Profil / Avatar - Low-Fi-Schnappschuss bei Nacht mit Katze
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine detaillierte Anleitung zur Nachbildung einer spezifischen Pose und eines Gesichts aus einem Referenzbild, um einen verträumten, niedrig aufgelösten nächtlichen Schnappschuss einer Frau mit Katze zu erstellen.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie die bereitgestellte Gesichtsreferenz als strikte Identitätsvorgabe. Exakte Ähnlichkeit mit dem Referenzbild, Identität fixiert. Gleiche Augenform, gleiche Augenlider, gleicher Nasenrücken, gleiche Nasenspitze, gleiche Lippenform, gleiche Kieferpartie, gleiches Kinn, gleiche Gesichtsproportionen. Keine Gesichtsmodifikation, keine Verschönerung, kein Face-Morphing. Gesichtspräzision hat höchste Priorität. Haar: {argument name="hair color" default="Sehr langes, glattes, dunkel schokoladenbraunes Haar"}. Fällt natürlich über beide Schultern und die Brust. Leicht zerzaust mit vereinzelten losen Strähnen im Gesicht. Pose & Ausdruck (ULTRA STRENG – MUSS EXAKT ÜBEREINSTIMMEN): Stellen Sie die exakte Körperhaltung aus dem Referenzbild nach: Oberkörper um etwa 30–45 Grad gedreht, linke Schulter leicht nach vorne, Kopf leicht zur linken Seite geneigt, Kinn leicht gesenkt, Augen blicken direkt in die Kamera. Ausdruck: Geschlossene Lippen, leicht gepresst/schmollend, Mundwinkel dezent nach unten gezogen, entspannter, ruhiger, leicht schüchterner Ausdruck. Arme & Katzenposition: Ein Arm unter den Körper der Katze gewickelt zur Unterstützung, die andere Hand hält die Katze sanft von der Seite/vorne, Katze leicht rechts im Bild positioniert, Katze aufgrund von Bewegung leicht unscharf. Beleuchtung: Nächtliche Innenraumumgebung. Weiches Frontallicht, das auf das Gesicht fokussiert ist, Hintergrund dunkler und gedimmt, sanfter Bloom/Glanz nur auf das Gesicht konzentriert. Bildstil: Niedrig aufgelöster, stark unscharfer, körniger Schnappschuss. Leichte Bewegungsunschärfe, sichtbares Rauschen und Kompressionsartefakte. Hintergrund: {argument name="indoor location" default="Dunkle, warme Wohnung bei Nacht"}. Decke, Klimaanlagenschacht, Vorhänge kaum sichtbar und stark verschwommen. Kleidung: {argument name="clothing" default="Weißes Tanktop, dünne Träger"}, Textur durch Unschärfe verloren. Gesamteindruck: Authentischer, unperfekter, intimer nächtlicher Schnappschuss. Exakte Posenreplikation, leicht schmollender Ausdruck, verträumte Low-Fi-Ästhetik.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598285404_o3du5z_HK1lMsCbcAAKsGB.jpg" width="600" alt="Profil / Avatar - Low-Fi-Schnappschuss bei Nacht mit Katze - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
-- **Quelle:** [Twitter Post](https://x.com/SimplyAnnisa/status/2066419080677183945)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25746)**
-
----
-
 ### No. 20: Social-Media-Beitrag - Buchwerbung im Zugabteil-Stil Bild
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
@@ -1573,7 +1439,285 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social-Media-Beitrag - Glaziales Avantgarde-Beauty-Porträt
+### No. 21: Social-Media-Beitrag - Porträt eines Oldtimers im mediterranen Stil
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein anspruchsvoller Prompt zur Erstellung eines hochwertigen Porträts eines elegant gekleideten Mannes, der in warmem, goldenem mediterranem Sonnenlicht an einen klassischen Mercedes-Benz gelehnt ist.
+
+#### 📝 Prompt
+
+```
+Eine frontale Ganzkörperaufnahme zeigt einen {argument name="subject" default="Mann"}, der lässig am Frontgrill eines {argument name="car" default="weißen klassischen Mercedes-Benz Cabriolets"} lehnt. Er trägt ein {argument name="outfit" default="beiges, langärmeliges Strick-Poloshirt"} mit bis zu den Unterarmen hochgekrempelten Ärmeln sowie eine locker sitzende, hoch taillierte weiße Leinenhose mit Bundfalten. Sein Outfit wird durch dunkelbraune Leder-Loafer abgerundet; als Accessoires trägt er eine Sonnenbrille mit eckigen Gläsern und eine Armbanduhr mit Metallarmband, was zu einer eleganten, wohlhabenden Ästhetik beiträgt. Im Hintergrund ist ein steinernes Gebäude im goldenen Licht des Nachmittags oder frühen Abends zu sehen, wobei Kletterpflanzen und tiefe Schatten eine warme, luxuriöse Atmosphäre schaffen. Die Kulisse ist elegant mediterran und vermittelt den Eindruck von bevorstehender oder ausklingender Freizeit. Das Emblem des Oldtimers ist im Vordergrund scharf abgebildet. Die Farbpalette wird von sanften Cremetönen, sonnengewärmtem Sand und tiefen Ockerschattierungen dominiert. Aufgenommen mit einer digitalen oder hochwertigen Filmkamera mit moderater Schärfentiefe, ist das Motiv gestochen scharf fokussiert. Das Bild weist satte, dichte Schatten, volumetrisches Sonnenlicht sowie eine nostalgische und erstrebenswerte Stimmung auf.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941370303_9j7ozy_HLNEnyeWkAAeATv.jpg" width="600" alt="Social-Media-Beitrag - Porträt eines Oldtimers im mediterranen Stil - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Alex Prompts](https://x.com/AlexPromptsAI)
+- **Quelle:** [Twitter Post](https://x.com/AlexPromptsAI/status/2068072298226000066)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26190)**
+
+---
+
+### No. 22: Social-Media-Beitrag - Cartoon-Totenkopf mit Goldzähnen
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Eine lebendige, cartoonartige Illustration eines Totenkopfes mit goldenen Details vor einem pastellfarbenen Regenbogenhintergrund.
+
+#### 📝 Prompt
+
+```
+Ein cartoonartiger Totenkopf mit {argument name="tooth detail" default="Goldzähnen"} und einem Riss in der Stirn ist im Vordergrund positioniert und leicht nach links geneigt. Dahinter wölbt sich ein Regenbogen nach oben, in dessen Bogen ein schwarzer Stern zentriert ist. Der Hintergrund ist in einem einheitlichen {argument name="background color" default="Pastellrosa"} gehalten, und eine wellenförmige grüne Linie verläuft entlang der unteren Bildkante.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941368291_e0vx4r_HLBqy42XUAAkXLA.jpg" width="600" alt="Social-Media-Beitrag - Cartoon-Totenkopf mit Goldzähnen - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Heather Green](https://x.com/heathergreen)
+- **Quelle:** [Twitter Post](https://x.com/heathergreen/status/2068046159436734604)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26187)**
+
+---
+
+### No. 23: Social-Media-Beitrag - Nächtliches Mode-Porträt im Yachthafen
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein detaillierter nächtlicher Porträt-Prompt eines männlichen Models in einer Yachthafen-Kulisse mit leuchtenden Stadtlichtern und Reflexionen.
+
+#### 📝 Prompt
+
+```
+Ein selbstbewusster {argument name="subject" default="junger erwachsener Mann"} steht in einem posierten, anspruchsvollen Porträt frontal zur Kamera, das Gewicht leicht nach links verlagert und die Schultern gerade. Er trägt einen dichten, dunkelbraun-schwarzen, sauber gestutzten Vollbart und einen modernen Haarschnitt mit kürzeren Seiten und einem {argument name="hairstyle" default="fünf bis acht Zentimeter langen, strukturierten Quiff"}, der nach oben und größtenteils nach vorne gestylt ist. Das natürlich glatte Haar hat einen leicht versetzten Scheitel auf der rechten Seite und ist mit einer matten Paste gestylt, um Volumen und Textur ohne Glanz zu erzeugen, wobei natürliche Unvollkommenheiten wie leichtes Frizz an den Rändern, kleine abstehende Härchen und ungleichmäßige Strähnen deutlich sichtbar sind. Sein Ausdruck ist selbstsicher mit neutralem Mund, direktem Blick und entspannten Augenbrauen. Er trägt ein tiefschwarzes Kurzarm-Poloshirt und eine anthrazitgraue Hose. Seine linke Hand ruht leicht auf einem schrägen, makellos polierten Bootsgeländer aus Stahl im Vordergrund, wobei eine Uhr mit Lederarmband sichtbar wird. Seine rechte Hand steckt in der Hosentasche. Dies ist eine vielschichtige Szene, die in einen tiefen, belebten Yachthafen im Mittelgrund übergeht, wo das pechschwarze Wasser fließende Wellen bildet, die intensiv die hellen goldgelben und weißen Lichter der Stadt reflektieren. Auf der rechten Seite leuchtet ein massives, geschwungenes Hochhaus mit warmen goldenen Innenlichtern über dichte horizontale Balkone und gleicht die asymmetrische Komposition aus. Links bewegt sich ein hell beleuchtetes Passagierboot über den Wasserkanal, vor dem Hintergrund einer Ansammlung hoher, rechteckiger Wolkenkratzer aus dunklem Glas, die vertikale Linien, kühlere cyanfarbene architektonische Akzente und eine Dachbeleuchtung vor dem tiefen Nachthimmel aufweisen. Die energetische, kosmopolitische Atmosphäre zeichnet sich durch ein hochgesättigtes, warmes und kontrastreiches Komplementärfarbenprofil aus, das stark auf Pechschwarz, warmes Gold, Anthrazitgrau und Neonblau setzt. Ein helles, weiches und kontinuierliches frontales Fülllicht beleuchtet das Motiv und hinterlässt sanfte, allmähliche graue Schatten unter dem Kinn, hinter den Falten der Hose und unter dem Geländer, während erhaltene Glanzlichter auf Stirn, Nasenspitze, Armen, dem metallischen Geländer und der Wasseroberfläche schimmern. Aufgenommen als realistische Digitalfotografie mit frontaler Perspektive, kanalisiert das Bild die Ästhetik der Smartphone-Porträtfotografie bei wenig Licht, mit leicht weicher Schärfe, charakteristischem digitalen Rauschen, einer großen Schärfentiefe und einer Nachbearbeitung, die die Sättigung der Stadtlichter verstärkt und eine kontrastreiche Kurve anwendet, alles harmonisch eingerahmt in einem 3:4-Seitenverhältnis.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941376402_p3dqwf_HLMY8nuXQAAxAYd.jpg" width="600" alt="Social-Media-Beitrag - Nächtliches Mode-Porträt im Yachthafen - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Picts by AI](https://x.com/pictsbyai)
+- **Quelle:** [Twitter Post](https://x.com/pictsbyai/status/2068024177898963003)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26199)**
+
+---
+
+### No. 24: Social-Media-Beitrag - Fotojournalistisches Porträt im tropischen Garten
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Porträt-Prompt im authentischen Stil mit Sydney Sweeney in einer üppigen tropischen Umgebung, bekleidet mit einem gestreiften Hemdkleid.
+
+#### 📝 Prompt
+
+```
+Ein authentisches, fotojournalistisches Porträt von {argument name="subject" default="Schauspielerin Sydney Sweeney"}, sitzend auf rauen Steinstufen. Sie posiert mit der Hand am Kinn und hält Blickkontakt zur Kamera. Sweeney trägt ein {argument name="outfit" default="übergroßes, blau-weiß gestreiftes Hemdkleid"}, rote Socken und rote Ledersandalen. Zu ihrer Linken befindet sich eine {argument name="accessory" default="cremefarbene Gucci Dionysus Handtasche"} mit einer auffälligen roten Schleife und detaillierter Blumenstickerei. Sie befindet sich in einer üppigen, tropischen Gartenumgebung, umgeben von grünem Blattwerk, tropischen Pflanzen und gelb blühenden Sträuchern. Im Vordergrund sind unscharfe, gelbe Rosenblüten zu sehen. Die Beleuchtung ist weiches, natürliches Tageslicht.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941375066_4csifn_HLKp1-sawAARuW2.jpg" width="600" alt="Social-Media-Beitrag - Fotojournalistisches Porträt im tropischen Garten - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Ali](https://x.com/aiwithaly)
+- **Quelle:** [Twitter Post](https://x.com/aiwithaly/status/2067902872621359548)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26197)**
+
+---
+
+### No. 25: Social-Media-Beitrag - Minimalistisches Editorial-Modeporträt im 90er-Jahre-Stil
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein anspruchsvolles Schwarz-Weiß-Porträt-Prompt eines männlichen Models mit natürlicher Beleuchtung und einem minimalistischen High-Key-Hintergrund.
+
+#### 📝 Prompt
+
+```
+Ein {argument name="subject" default="junges männliches Model"} steht in einer Halbtotale, den Körper in einem entspannten 45-Grad-Winkel gedreht, bekleidet mit einem {argument name="outfit" default="knackig weißen Button-Down-Hemd"} mit offenem Kragen. Sein dunkelgraues Haar ist in einem 7 bis 10 cm langen, nach hinten gewellten Taper-Cut geschnitten, der den Nacken streift; es ist natürlich nach hinten gestylt mit Ansatzvolumen, einem Produkt mit mittlerem Halt und leichtem Glanz. Die groben, natürlichen Wellen und sichtbaren abstehenden Härchen brechen die Silhouette auf organische Weise. Sein Gesichtsausdruck ist ernst und posierend, mit leicht gerunzelten Brauen, leicht zusammengekniffenen Augen, die an der Kamera vorbeischauen, und einem geschlossenen, neutralen Mund. Seine rechte Hand ist auf Taillenhöhe in einer organischen, beiläufigen Geste in der Luft erhoben, die Finger locker gekrümmt, geschmückt mit einem Ring und einer rechteckigen Tank-Uhr, was eine natürliche visuelle Hierarchie vom Gesicht über den Kragen bis zur entspannten Hand schafft. Er ist im Freien vor einem makellosen Hintergrund mit geringer Schärfentiefe isoliert, der aus einem verschwommenen, dunstigen Horizont über Wasser besteht, welcher in einen offenen, atmosphärischen Raum übergeht. Diese Umgebung bildet einen perfekt weichen, matten Verlauf von reinem Weiß zu Hellgrau ohne erkennbare Kanten. Gebadet in moderat gerichtetem, natürlichem Tageslicht aus einer 45-Grad-Seitenansicht, umfasst die Szene ein monochromes Schwarz-Weiß-Farbprofil mit mittlerem Kontrast und neutraler Farbtemperatur. Das weiche High-Key-Licht mit Umgebungsaufhellung wirft kurze, weich gezeichnete graue Schatten unter seinen Kiefer, entlang der rechten Gesichtshälfte und tief in die Falten seines Hemdes, während helle, überstrahlte Highlights seinen Nasenrücken, seine entspannten Schultern und den vollständig überbelichteten Hintergrund beleuchten. Die Stimmung ist anspruchsvoll, ruhig und dramatisch zeitlos, was ein klassisches filmisches Gefühl hervorruft. Aufgenommen als realistisches digitales Foto, das die minimalistische Editorial-Modefotografie der 90er Jahre widerspiegelt, ist das Bild gestochen scharf auf das Gesicht und die Uhr des Subjekts fokussiert, unter Verwendung eines {argument name="lens" default="85mm Objektivs"} bei f/2.8, 1/500s und ISO 100, finalisiert mit einer strikten Schwarz-Weiß-Konvertierung, angehobenen Schwarzwerten und subtilem Filmkorn, gerahmt im 3:4-Seitenverhältnis unter Anwendung einer asymmetrischen Drittel-Regel.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941374940_ohvn9k_HLKT_1_WYAAklYo.jpg" width="600" alt="Social-Media-Beitrag - Minimalistisches Editorial-Modeporträt im 90er-Jahre-Stil - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Picts by AI](https://x.com/pictsbyai)
+- **Quelle:** [Twitter Post](https://x.com/pictsbyai/status/2067878078219526300)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26196)**
+
+---
+
+### No. 26: Social-Media-Beitrag - Miniaturarbeiter an einer riesigen Limonadendose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Eine surreale Makroszene von Miniaturarbeitern, die eine riesige Marken-Limonadendose mit kinoreifer Beleuchtung montieren.
+
+#### 📝 Prompt
+
+```
+Eine surreale Makrowelt, in der Miniaturarbeiter eine riesige {argument name="brand" default="Pepsi"}-Dose umgeben von Eiswürfeln montieren. Winzige Schweißer polieren Aluminium, Kräne platzieren das Logo, Arbeiter wischen Kondenswassertropfen ab. Die Dose steht auf einer {argument name="brand" default="Pepsi"}-Plattform. Hyperrealistische Reflexionen, kinoreife Beleuchtung, verspielte Szene.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941366676_5zq7ih_HLKAsYmbkAAzz4S.jpg" width="600" alt="Social-Media-Beitrag - Miniaturarbeiter an einer riesigen Limonadendose - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [𝐌](https://x.com/Strength04_X)
+- **Quelle:** [Twitter Post](https://x.com/Strength04_X/status/2067861589894877369)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26184)**
+
+---
+
+### No. 27: Social-Media-Beitrag - Unterwasser-Fantasy-Romantik-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hochdetaillierter, kinoreifer Prompt für ein romantisches Paar, das in einem magischen Unterwasser-Blumengarten mit Sonnenstrahlen und tropischen Fischen schwebt.
+
+#### 📝 Prompt
+
+```
+Ultrarealistisches Unterwasser-Fantasy-Romantik-Porträt in IMAX-Qualität und Netflix-Stil, 9:16 vertikale Komposition. Ein glückliches junges Paar schwebt sanft Hand in Hand über einer atemberaubenden {argument name="scenery" default="Unterwasser-Blumengarten"}, gefüllt mit farbenfrohen Korallenblüten, wiegendem Seegras und leuchtenden Wasserpflanzen. Kristallklares, saphirblaues Wasser umgibt sie, während goldenes Sonnenlicht durch die Oberfläche dringt und faszinierende Lichtreflexionen auf ihren Gesichtern und dem Meeresboden erzeugt. Kleine tropische Fische schwimmen anmutig um sie herum, während zarte Luftblasen durch die magische Szene nach oben steigen. Der junge Mann trägt ein {argument name="male outfit" default="schwarzes, körperbetontes T-Shirt"}, sein lockiges dunkles Haar bewegt sich natürlich mit der Wasserströmung, eine dünne runde Brille fängt subtile Lichtreflexionen ein. Sein Ausdruck zeigt pures Staunen und Glück, ein warmes Lächeln auf seinem Gesicht, während er die Frau neben sich ansieht. Die junge Frau trägt ein {argument name="female outfit" default="elegantes weißes ärmelloses Oberteil"} mit einer fließenden schwarzen High-Waist-Hose. Ihr langes, dunkelbraunes, welliges Haar verteilt sich wunderschön wie Seidenbänder im Wasser. Ihre makellose Haut wird von weichem Unterwasserlicht beleuchtet, und ihr Ausdruck strahlt Freude, Lachen und tiefe Zuneigung aus, während sie ihn ansieht. Sie schweben mühelos in einer entspannten Pose, die Finger ineinander verschlungen, was eine romantische emotionale Verbindung schafft. Um sie herum verleihen farbenfrohe Korallenformationen, leuchtende Quallen in der Ferne, schimmernde Partikel, Schwärme exotischer Fische und funkelnde Sauerstoffblasen dem Unterwasserparadies Tiefe und Leben. Kinoreife Unterwasserbeleuchtung, traumhafte Atmosphäre, hochdetaillierte Texturen, realistische Wasserphysik, erstklassiges Hollywood-Color-Grading, tiefe Ozeanblautöne, Smaragdgrün, leuchtende Türkis-Highlights, HDR-Qualität, kristallklare Sicht, preisgekrönte redaktionelle Fotografie, 35-mm-Kinoobjektiv, f/1.8, geringe Schärfentiefe, meisterhafter Realismus, immersives Storytelling, luxuriöse visuelle Ästhetik, magische Unterwasser-Traumlandschaft, ultra-scharfer Fokus, volumetrische Lichtstrahlen, atemberaubende Fantasy-Romantik.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941373711_jp0dsv_HLJ_xsCbUAAC4QG.jpg" width="600" alt="Social-Media-Beitrag - Unterwasser-Fantasy-Romantik-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Yashal Ai](https://x.com/_YashalAli)
+- **Quelle:** [Twitter Post](https://x.com/_YashalAli/status/2067855684868407484)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26195)**
+
+---
+
+### No. 28: Social-Media-Beitrag - Porträt-Gruß zum Drachenbootfest
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt für das Drachenbootfest, der eine Person aus einem hochgeladenen Foto in traditionelle Hanfu-Kleidung mit festlichen Elementen und einem stilisierten Gruß einfügt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Grußbild zum {argument name="festival" default="Drachenboot"}fest. Erforderlich ist die Verwendung eines hochgeladenen Fotos, das Tragen von {argument name="clothing" default="Hanfu"}, hochauflösendes, exquisites Make-up, ein lächelndes Gesicht und Elemente des {argument name="festival" default="Drachenboot"}festes. Der Gruß sollte in chinesischer Normalschrift '{argument name="greeting" default="Ich wünsche Ihnen Gesundheit und Frieden zum Drachenbootfest"}' verfasst sein.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941377775_02fyat_HLJ7WSNbgAEjdST.jpg" width="600" alt="Social-Media-Beitrag - Porträt-Gruß zum Drachenbootfest - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941377763_pkaxnj_HLJ7WSJbQAA-THb.jpg" width="600" alt="Social-Media-Beitrag - Porträt-Gruß zum Drachenbootfest - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Vivi](https://x.com/vivilinsv)
+- **Quelle:** [Twitter Post](https://x.com/vivilinsv/status/2067852009949302969)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** zh
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26204)**
+
+---
+
+### No. 29: Social-Media-Beitrag - Glaziales Avantgarde-Beauty-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1612,211 +1756,7 @@ Ein komplexer redaktioneller Prompt für ein High-Fashion-Porträt mit eisigen s
 
 ---
 
-### No. 22: Social-Media-Beitrag - Kreuzfahrtschiff-Magazin-Cover
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Erstellung eines Fotos im Stil eines Luxus-Magazin-Covers auf einem Kreuzfahrtschiff, mit Fokus auf Identitätserhaltung und filmischer Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie die hochgeladene Gesichtsreferenz als EXAKTE Identität der Person.
-
-STRIKTE IDENTITÄTSSICHERUNG: Bewahren Sie zu 100 % die Gesichtsstruktur, den Hautton, die Frisur, den Bart, die Gesichtszüge, das Alter, den Ausdruck und die allgemeine Ähnlichkeit des Referenzbildes. Verändern, verschönern oder ersetzen Sie das Gesicht nicht. Sorgen Sie für eine perfekte Identitätskonsistenz.
-
-Erstellen Sie ein realistisches Luxus-Modemagazin-Coverfoto auf dem Deck eines erstklassigen Kreuzfahrtschiffes während der goldenen Stunde. Der Mann sitzt lässig auf einer eleganten Holzbank und trägt {argument name="clothing" default="ein leicht aufgeknöpftes weißes Leinenhemd, eine maßgeschneiderte schwarze Hose und luxuriöse Slipper"}. Er blickt nachdenklich in Richtung Horizont über den tiefblauen Ozean. Weiße Relings des Kreuzfahrtschiffes rahmen die Szene ein. Warmes Sonnenuntergangslicht beleuchtet sein Gesicht und seine Kleidung, wodurch filmische Schatten und wunderschöne goldene Highlights entstehen. Eine sanfte Meeresbrise bewegt dezent sein Hemd und sein Haar.
-
-Komposition: Ganzkörperporträt, vertikaler Bildausschnitt, Luxus-Reise-Editorial-Fotografie, zentriertes Motiv, der Ozean erstreckt sich endlos im Hintergrund.
-
-Typografie:
-
-Große, fette Schlagzeile oben: „{argument name="headline" default="CRUISE SHIP"}“
-Kleinere Unterzeile darunter: „{argument name="subtitle" default="DEEP BLUE OCEAN"}“
-Modernes Layout eines Luxusmagazin-Covers
-
-Stil: ultra-realistisch, Luxus-Lifestyle-Fotografie, Reisemagazin-Cover, filmisches Color Grading, sanftes Filmkorn, natürliche Hautstruktur, Premium-Modekampagne, Editorial in Vogue-Qualität, geringe Schärfentiefe, hochdetailliert, 8K, fotorealistisch, HDR, professionelle Fotografie.
-
-Kamera: Sony A7R V, 85mm Objektiv, f/2.8, Beleuchtung zur goldenen Stunde, Editorial-Mode-Shooting.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857328167_rpmqu4_HLHEgRQaMAU98HQ.jpg" width="600" alt="Social-Media-Beitrag - Kreuzfahrtschiff-Magazin-Cover - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Snow](https://x.com/iamrealsnow)
-- **Quelle:** [Twitter Post](https://x.com/iamrealsnow/status/2067649772467683396)
-- **Veröffentlicht:** 18. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26093)**
-
----
-
-### No. 23: Social-Media-Beitrag - Fashion-Editorial-Porträt auf einem Barhocker
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein professioneller Fashion-Editorial-Prompt, der darauf ausgelegt ist, die Identität des Gesichts zu bewahren und gleichzeitig ein Porträt in einem Luxusanzug in einem Studio-Setting zu generieren.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das hochgeladene Referenzbild, um die Identität der Person absolut präzise zu bewahren (100 % Identitätserhalt). Behalten Sie die exakte Gesichtsform, Knochenstruktur, Stirn, Augenbrauen, Augen, Nase, Lippen, Ohren, Kieferpartie, Frisur, Haaransatz, Gesichtsbehaarung, Hautton, Teint, Alter und den natürlichen Ausdruck bei, ohne die Person zu verschönern oder zu verändern. Erstellen Sie ein ultra-premium, modernes Fashion-Editorial-Porträt derselben Person, die selbstbewusst auf einem eleganten, minimalistischen Studio-Barhocker aus Chrom und Schwarz sitzt. Die Haltung ist entspannt, die Beine natürlich gespreizt, eine Hand ruht lässig auf dem Oberschenkel, während die andere in der Nähe des Knies liegt. Der Blick ist direkt, der Ausdruck ruhig, selbstbewusst und kultiviert. Kleiden Sie die Person in einen perfekt maßgeschneiderten, monochromatischen Luxusanzug in {argument name="suit color" default="gebranntem Orange (Terrakotta)"} mit einer schmal geschnittenen Hose und einem strukturierten Blazer über einem {argument name="shirt color" default="frischen cremefarbenen"} Oberhemd, dessen oberste Knöpfe für eine entspannte, zeitgemäße Ästhetik geöffnet sind, kombiniert mit {argument name="footwear" default="sauberen, cremeweißen Premium-Leder-Sneakern"}. Platzieren Sie das Motiv in einem nahtlosen, monochromatischen Studio mit einem warmen Farbverlauf von Terrakotta bis Rost, bei dem Boden und Hintergrund ineinander übergehen, um eine minimalistische High-Fashion-Umgebung ohne Requisiten oder Ablenkungen zu schaffen. Beleuchten Sie die Szene mit professionellem Editorial-Studio-Licht: eine große Softbox, die leicht oberhalb und links von der Kamera positioniert ist, dezentes Aufhelllicht und sanftes Rim-Light, um das Motiv vom Hintergrund abzuheben und gleichzeitig weiche filmische Schatten, realistische Hauttexturen und erstklassige Stoffdetails zu erzeugen. Fangen Sie das Bild in einer perfekt ausbalancierten 4:5-Vertikalkomposition ein, die den gesamten Körper und den Hocker zeigt, zentriert mit großzügigem Negativraum. Fotografiert mit einem 85-mm-Mittelformat-Porträtobjektiv mit geringer Schärfentiefe, messerscharfem Fokus, hyperrealistischen Hautporen, kommerziellem Luxus-Color-Grading, Apple-artigem Minimalismus, Vogue-Editorial-Qualität, Forbes-Kampagnen-Ästhetik, HDR, fotorealistischer 8K-Auflösung. Negativer Prompt: andere Person, Identitätswechsel, Gesichtstausch, veränderte Gesichtszüge, verschönertes Gesicht, andere Frisur, falsche Gesichtsbehaarung, asymmetrisches Gesicht, verzerrte Anatomie, zusätzliche Finger, fehlende Finger, doppelte Gliedmaßen, schlechte Hände, unscharfes Bild, niedrige Qualität, niedrige Auflösung, Cartoon, Anime, CGI, Illustration, plastische Haut, übermäßig geglättete Haut, Fischaugenobjektiv, Weitwinkelverzerrung, überladener Hintergrund, zusätzliche Requisiten, Text, Wasserzeichen, Logo, abgeschnittene Schuhe, abgeschnittener Körper, Artefakte.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857327663_cl2fq1_HLGyvzXaIAAHfgz.jpg" width="600" alt="Social-Media-Beitrag - Fashion-Editorial-Porträt auf einem Barhocker - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857327690_o4dl3g_HLGywVEbkAA1QmA.jpg" width="600" alt="Social-Media-Beitrag - Fashion-Editorial-Porträt auf einem Barhocker - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857327681_38eup3_HLGyw5iaAAAcvT0.jpg" width="600" alt="Social-Media-Beitrag - Fashion-Editorial-Porträt auf einem Barhocker - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Nexora](https://x.com/frametheory058)
-- **Quelle:** [Twitter Post](https://x.com/frametheory058/status/2067630265598685196)
-- **Veröffentlicht:** 18. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26094)**
-
----
-
-### No. 24: Social-Media-Beitrag - Miniatur-Pizza-Baustelle
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein kreativer Prompt für eine Miniaturwelt, in der winzige Arbeiter eine riesige Pizza Hut Pizza zubereiten, mit Fokus auf cineastische Food-Fotografie.
-
-#### 📝 Prompt
-
-```
-Eine hyperrealistische Miniatur-Baustelle, auf der Arbeiter eine riesige {argument name="brand" default="Pizza Hut"} Pizza zubereiten. Winzige Kräne platzieren Beläge, Arbeiter verteilen Käse, Ingenieure inspizieren den Rand. Die Pizza liegt in einer offenen, gebrandeten Pizza Hut Schachtel mit sichtbarem Logo. {argument name="lighting" default="Warme goldene Beleuchtung"}, cineastische {argument name="subject" default="Food-Fotografie"}, verspielte Miniaturwelt.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857329176_mlyai0_HLF_MnpasAAWExu.jpg" width="600" alt="Social-Media-Beitrag - Miniatur-Pizza-Baustelle - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [𝐌](https://x.com/Strength04_X)
-- **Quelle:** [Twitter Post](https://x.com/Strength04_X/status/2067576242229125449)
-- **Veröffentlicht:** 18. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26098)**
-
----
-
-### No. 25: Social-Media-Beitrag - Bearbeitung von Modefotografie für männliche Models
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Image-to-Image-Transformations-Prompt, der ein Referenzfoto in eine hochwertige Modeaufnahme eines männlichen Models verwandelt, das auf einem Sitzsack an einem Laptop arbeitet.
-
-#### 📝 Prompt
-
-```
-Behalten Sie unter Verwendung des hochgeladenen Bildes das echte Gesicht, die Frisur und den Hautton unverändert bei. Modefotografie eines stilvollen {argument name="subject" default="männlichen Models"}, das lässig auf einem {argument name="furniture" default="Sitzsack"} mit weicher Textur sitzt und an einem {argument name="device" default="MacBook Pro 20"} arbeitet...
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781857322969_m2vm3f_HLF2BMpWwAAEVhO.jpg" width="600" alt="Social-Media-Beitrag - Bearbeitung von Modefotografie für männliche Models - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Photoprompt App](https://x.com/PhotopromptApp)
-- **Quelle:** [Twitter Post](https://x.com/PhotopromptApp/status/2067563470573158765)
-- **Veröffentlicht:** 18. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26082)**
-
----
-
-### No. 26: Social-Media-Beitrag - Authentisches Porträt aus dem studentischen Alltag
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein warmer, dokumentarischer Prompt für ein realistisches Innenporträt eines Studenten am Schreibtisch, mit Vintage-Film-Ästhetik und hohem Detailgrad.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches, authentisches Innenporträt einer {argument name="subject" default="jungen Frau"}, die an einem {argument name="setting" default="hölzernen Schreibtisch"} in einem gemütlichen Wohnheimzimmer oder Schlafzimmer sitzt. Sie trägt ein eng anliegendes {argument name="clothing" default="rosa-weiß gestreiftes T-Shirt"} und hat langes, dunkles Haar, das locker zurückgebunden ist, wobei einige weiche Strähnen ihr Gesicht umrahmen. Sie stützt ihr Kinn auf beide Hände und blickt mit einem ruhigen, leicht gelangweilten, nachdenklichen Ausdruck direkt in die Kamera. Der Schreibtisch ist bedeckt mit einem offenen Spiralnotizbuch voller handschriftlicher Notizen, verstreuten Stiften und Bleistiften, kleinen ausgedruckten Fotos, Büchern und Topfpflanzen. Ein mit Büchern gefülltes Holzregal steht neben ihr, während im Hintergrund unscharfe Poster und persönliche Dekorationen an der Wand hängen. Aufgenommen mit der Ästhetik einer Vintage-Filmkamera, warmes Umgebungslicht, natürliche Hauttextur, dezente Körnung, weiche Schatten, geringe Schärfentiefe, realistische Farben, dokumentarischer Fotostil, intime Atmosphäre des Studentenlebens, authentischer, ungezwungener Moment, hochdetailliert, fotorealistisch, 35mm-Film-Look, Kodak Portra Farbkorrektur, weichgezeichneter Hintergrund, vertikale Komposition, 8K-Auflösung.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770019236_m1gocc_HLCEWMSb0AE7wnw.jpg" width="600" alt="Social-Media-Beitrag - Authentisches Porträt aus dem studentischen Alltag - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770018963_1f11i2_HLCEWO3bUAAx087.jpg" width="600" alt="Social-Media-Beitrag - Authentisches Porträt aus dem studentischen Alltag - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jahan Zaib](https://x.com/jzaib4269)
-- **Quelle:** [Twitter Post](https://x.com/jzaib4269/status/2067297790040883362)
-- **Veröffentlicht:** 17. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25978)**
-
----
-
-### No. 27: Infografik / Edu Visual - AR-Analyse eines malerischen Klippenporträts
+### No. 30: Infografik / Edu Visual - AR-Analyse eines malerischen Klippenporträts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1921,7 +1861,7 @@ Ein hochtechnologischer Prompt für eine Augmented-Reality-Analyse eines maleris
 
 ---
 
-### No. 28: Infografik / Edu Visual - Erstellung einer Infografik zu Gundam Origin
+### No. 31: Infografik / Edu Visual - Erstellung einer Infografik zu Gundam Origin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1955,7 +1895,7 @@ Bitte fasse die {argument name="subject" default="Zabi-Familie aus Gundam Origin
 
 ---
 
-### No. 29: Infografik / Edu Visual - DDR-Alternativweltgeschichte: Autodesign
+### No. 32: Infografik / Edu Visual - DDR-Alternativweltgeschichte: Autodesign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1989,7 +1929,7 @@ Ein konzeptioneller Design-Prompt für ein alternatives Automobil-Mashup, das ik
 
 ---
 
-### No. 30: Infografik / Edu Visual - Alligator im Sumpf Wildtier-Foto
+### No. 33: Infografik / Edu Visual - Alligator im Sumpf Wildtier-Foto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2029,7 +1969,7 @@ Ein Wildtier-Prompt für einen Alligator, der in der Dämmerung in einem Sumpf l
 
 ---
 
-### No. 31: Infografik / Edu Visual - Neo-parametrische Architekturillustration
+### No. 34: Infografik / Edu Visual - Neo-parametrische Architekturillustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2074,7 +2014,7 @@ Ultra-detaillierte neo-parametrische redaktionelle Illustration, die elegantes, 
 
 ---
 
-### No. 32: Infografik / Edu Visual - Pastellkreide-Insekten-Knolling
+### No. 35: Infografik / Edu Visual - Pastellkreide-Insekten-Knolling
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2108,7 +2048,7 @@ ein detailliertes Layout von {argument name="subject" default="verschiedenen Kä
 
 ---
 
-### No. 33: Infografik / Edu Visual - European Travel Lifestyle Moodboard
+### No. 36: Infografik / Edu Visual - European Travel Lifestyle Moodboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2142,7 +2082,7 @@ Ein wunderschönes Lifestyle-Moodboard und eine Illustrations-Collage im Aquarel
 
 ---
 
-### No. 34: Infografik / Edu Visual - Design von technischen Produkt-Infografiken
+### No. 37: Infografik / Edu Visual - Design von technischen Produkt-Infografiken
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2176,7 +2116,7 @@ Ultra-detaillierte technische Ingenieurs-Infografik, sauberer {argument name="ba
 
 ---
 
-### No. 35: Infografik / Edu Visual - Multiperspektivisches Raster ländlicher Felder
+### No. 38: Infografik / Edu Visual - Multiperspektivisches Raster ländlicher Felder
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2210,7 +2150,7 @@ Stelle die Personen auf dem Foto vor und generiere ein künstlerisches Foto mit 
 
 ---
 
-### No. 36: Infografik / Edu Visual - Leitfaden: Vom Bild zur Infografik
+### No. 39: Infografik / Edu Visual - Leitfaden: Vom Bild zur Infografik
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2244,7 +2184,7 @@ Wandle dieses Bild in eine {argument name="format" default="Informationsvisualis
 
 ---
 
-### No. 37: Infografik / Edu Visual - Mango-Smoothie-Infografik und Werbefotografie
+### No. 40: Infografik / Edu Visual - Mango-Smoothie-Infografik und Werbefotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2296,7 +2236,7 @@ Seitenverhältnis: 1:1
 
 ---
 
-### No. 38: Infografik / Edu Visual - Porträt zur Altersentwicklung bei Männern
+### No. 41: Infografik / Edu Visual - Porträt zur Altersentwicklung bei Männern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2330,7 +2270,7 @@ Erstelle eine hyperrealistische Porträtsequenz zur Altersentwicklung desselben 
 
 ---
 
-### No. 39: Infografik / Edu Visual - Technisches Outerwear-Designblatt
+### No. 42: Infografik / Edu Visual - Technisches Outerwear-Designblatt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2364,7 +2304,7 @@ Ein Modedesign-Spezifikationsblatt und Produktlayout für die {argument name="co
 
 ---
 
-### No. 40: Infografik / Edu Visual - Anleitungsdiagramm für Sushi-Rollen
+### No. 43: Infografik / Edu Visual - Anleitungsdiagramm für Sushi-Rollen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2404,7 +2344,7 @@ Erstelle ein Diagramm, das erklärt, {argument name="topic" default="wie man ein
 
 ---
 
-### No. 41: Infografik / Edu Visual - Aquarell-Illustration eines kulinarischen Reisetagebuchs
+### No. 44: Infografik / Edu Visual - Aquarell-Illustration eines kulinarischen Reisetagebuchs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2444,7 +2384,7 @@ Eine wunderschön detaillierte Aquarell- und Tusche-Illustration, die ein kulina
 
 ---
 
-### No. 42: YouTube-Miniaturbild - Majestätische Elefanten-Wolkenfotografie
+### No. 45: YouTube-Miniaturbild - Majestätische Elefanten-Wolkenfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2488,7 +2428,7 @@ Stimmung: majestätisch, ruhig, surreal und doch glaubwürdig, Realismus einer T
 
 ---
 
-### No. 43: YouTube-Miniaturbild - Anime-Bahnhof-Transformation
+### No. 46: YouTube-Miniaturbild - Anime-Bahnhof-Transformation
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2522,7 +2462,7 @@ Bitte erstelle es im Anime-Stil. {argument name="scene description" default="Ein
 
 ---
 
-### No. 44: YouTube-Miniaturbild - Mr. Bean Mini Cooper Chaos
+### No. 47: YouTube-Miniaturbild - Mr. Bean Mini Cooper Chaos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2576,7 +2516,7 @@ Lebendig, chaotisch, rasant, filmisch, humorvoll
 
 ---
 
-### No. 45: YouTube-Miniaturbild - Cinematic Moonlight Rooftop Portrait Collage
+### No. 48: YouTube-Miniaturbild - Cinematic Moonlight Rooftop Portrait Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2616,7 +2556,7 @@ Verwende das hochgeladene Gesichtsbild als exakte Identitätsreferenz. Bewahre e
 
 ---
 
-### No. 46: YouTube-Miniaturbild - Street-Glamour-Porträt mit Tortenmesser
+### No. 49: YouTube-Miniaturbild - Street-Glamour-Porträt mit Tortenmesser
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2650,7 +2590,7 @@ Verändere die Gesichtszüge nicht. Ein cineastisches Nahaufnahme-Porträt einer
 
 ---
 
-### No. 47: YouTube-Miniaturbild - Filmreifes Vigilanten-Grafikposter
+### No. 50: YouTube-Miniaturbild - Filmreifes Vigilanten-Grafikposter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2701,7 +2641,7 @@ Ein filmreifes, vertikales Grafikposter eines maskierten Vigilanten in einem tak
 
 ---
 
-### No. 48: YouTube-Miniaturbild - Basketball-Arena-Übertragungsporträt
+### No. 51: YouTube-Miniaturbild - Basketball-Arena-Übertragungsporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2737,7 +2677,7 @@ usw image1 als Hauptidentitätsanker
 
 ---
 
-### No. 49: YouTube-Miniaturbild - NBA-Übertragungs-Screenshot aus dem Stadion
+### No. 52: YouTube-Miniaturbild - NBA-Übertragungs-Screenshot aus dem Stadion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2771,7 +2711,7 @@ Ein komplexer, strukturierter Prompt, der entwickelt wurde, um einen ESPN-Übert
 
 ---
 
-### No. 50: YouTube-Miniaturbild - Magisches Buch-Visualisierungsraster
+### No. 53: YouTube-Miniaturbild - Magisches Buch-Visualisierungsraster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2805,7 +2745,7 @@ Eine kreative, gewichtete Prompt-Formel zur Erstellung eines 2x2-Rasters von Fan
 
 ---
 
-### No. 51: YouTube-Miniaturbild - Song-zu-Bild-Visualisierung
+### No. 54: YouTube-Miniaturbild - Song-zu-Bild-Visualisierung
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2857,7 +2797,7 @@ Ein Prompt, der einen bestimmten Songtitel und Interpreten verwendet, um ein atm
 
 ---
 
-### No. 52: YouTube-Miniaturbild - Cinematic Podcast-Studio-Porträt
+### No. 55: YouTube-Miniaturbild - Cinematic Podcast-Studio-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2891,7 +2831,7 @@ Ein professioneller {argument name="host description" default="Podcast-Host, der
 
 ---
 
-### No. 53: YouTube-Miniaturbild - Bildgenerierung im Stil japanischer TV-Sendungen
+### No. 56: YouTube-Miniaturbild - Bildgenerierung im Stil japanischer TV-Sendungen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2946,7 +2886,7 @@ Lasse die KI die Gesamtatmosphäre des Bildes bestimmen, einschließlich der Unt
 
 ---
 
-### No. 54: YouTube-Miniaturbild - Kinematografisches Festival-Foto von Millie Bobby Brown
+### No. 57: YouTube-Miniaturbild - Kinematografisches Festival-Foto von Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3004,7 +2944,7 @@ Das Bild sollte im Hochformat (9:16) aufgenommen werden, unter Verwendung eines 
 
 ---
 
-### No. 55: YouTube-Miniaturbild - Filmreife Street-Fotografie eines Mannes, der auf einer Bananenschale ausrutscht
+### No. 58: YouTube-Miniaturbild - Filmreife Street-Fotografie eines Mannes, der auf einer Bananenschale ausrutscht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3037,7 +2977,7 @@ Ultrarealistische, filmreife Street-Fotografie eines jungen Mannes, der auf eine
 
 ---
 
-### No. 56: YouTube-Miniaturbild - Prompt zur Erstellung von Fake-News-Bildern für den Aprilscherz
+### No. 59: YouTube-Miniaturbild - Prompt zur Erstellung von Fake-News-Bildern für den Aprilscherz
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3088,7 +3028,7 @@ Entwickle eine originelle Idee für eine Fake-News-Meldung zum Aprilscherz. Erst
 
 ---
 
-### No. 57: YouTube-Miniaturbild - Geteilte Szene: „Vor und nach dem Zahltag“ – Prompt für Nano Banana Pro
+### No. 60: YouTube-Miniaturbild - Geteilte Szene: „Vor und nach dem Zahltag“ – Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3122,7 +3062,7 @@ Ultrarealistische Splitszene eines jungen Mannes. Linke Seite: sitzt auf einem B
 
 ---
 
-### No. 58: YouTube-Miniaturbild - Filmreifer Hollywood-Straßenmarkt-Spaziergang
+### No. 61: YouTube-Miniaturbild - Filmreifer Hollywood-Straßenmarkt-Spaziergang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3155,7 +3095,7 @@ Erstelle ein hochkinematisches Foto im Hollywood-Stil von einer Person, wobei da
 
 ---
 
-### No. 59: YouTube-Miniaturbild - Kinoreifes Foto einer Frau auf einem U-Bahnsteig mit Bewegungsunschärfe
+### No. 62: YouTube-Miniaturbild - Kinoreifes Foto einer Frau auf einem U-Bahnsteig mit Bewegungsunschärfe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3188,7 +3128,7 @@ Erstelle ein realistisches, kinoreifes Foto einer Frau, die das Gesicht aus dem 
 
 ---
 
-### No. 60: YouTube-Miniaturbild - Filmisches Bild silberner Stille
+### No. 63: YouTube-Miniaturbild - Filmisches Bild silberner Stille
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3221,7 +3161,191 @@ Erkundung der atmosphärischen Tiefe in Nano Banana Pro. Der Kontrast zwischen d
 
 ---
 
-### No. 61: Comic / Storyboard - Cinematic Character Design Skizzenbuch-Blatt
+### No. 64: Comic / Storyboard - Emotionales Anime-Storyboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein mehrteiliger Storyboard-Prompt zur Erstellung einer detaillierten Anime-Sequenz über Einsamkeit und das Finden von Freundschaft in einem Park bei Sonnenuntergang.
+
+#### 📝 Prompt
+
+```
+GESCHICHTE
+
+Panel 1
+
+Warmer, bewölkter Abend nach leichtem Regen.
+
+Ein kleiner Stadtpark leuchtet im goldenen Licht des Sonnenuntergangs.
+
+Kinder lachen und spielen miteinander.
+
+In der Ferne sitzt das langhaarige Mädchen allein auf einer Schaukel.
+
+Die leere Schaukel neben ihr bewegt sich langsam im Wind.
+
+Kamera-Hinweis:
+Weite Totalaufnahme.
+
+⸻
+
+Panel 2
+
+Nahaufnahme.
+
+Das Mädchen beobachtet die anderen Kinder aus der Ferne, während sie leise ihr handgemachtes Papierwindrad dreht.
+
+Ein schwaches, trauriges Lächeln erscheint.
+
+Kamera-Hinweis:
+Langsamer Zoom hinein.
+
+⸻
+
+Panel 3
+
+Ein plötzlicher Windstoß reißt das Papierwindrad aus ihren Händen.
+
+Es fliegt über den Park.
+
+Das Mädchen steht auf und rennt hinterher.
+
+Kamera-Hinweis:
+Verfolgungsaufnahme.
+
+⸻
+
+Panel 4
+
+Das Windrad landet in der Nähe einer spielenden Kindergruppe.
+
+Das Mädchen zögert und erstarrt.
+
+Sie ist zu schüchtern, um sich ihnen zu nähern.
+
+Aus ihrer Perspektive wirkt die Gruppe einschüchternd und distanziert.
+
+Kamera-Hinweis:
+Emotionale POV-Aufnahme aus der Froschperspektive.
+
+⸻
+
+Panel 5
+
+Eines der Kinder bemerkt das Windrad.
+
+Anstatt es einfach nur zurückzugeben, repariert die Gruppe vorsichtig eine eingerissene Ecke und verziert es mit bunten Zeichnungen und Botschaften.
+
+Das Mädchen schaut überrascht zu.
+
+Kamera-Hinweis:
+Emotionale Halbnahaufnahme.
+
+⸻
+
+Panel 6
+
+Das freundlichste Kind geht mit einem warmen Lächeln auf sie zu und reicht ihr das Windrad sanft zurück.
+
+Die Gruppe lädt sie ein, sich ihnen anzuschließen.
+
+Kamera-Hinweis:
+Sanfte Nahaufnahme.
+
+⸻
+
+Panel 7
+
+Die Augen des Mädchens füllen sich mit Tränen.
+
+Zum ersten Mal lächelt sie offen.
+
+Sie rennt auf die Gruppe zu, während sie das reparierte Windrad fest umklammert.
+
+Kamera-Hinweis:
+Dynamische Laufaufnahme mit Gegenlicht durch den Sonnenuntergang.
+
+⸻
+
+Panel 8
+
+Abschließende emotionale Totale.
+
+Das Mädchen und ihre neuen Freunde lachen gemeinsam unter leuchtenden Sonnenuntergangswolken.
+
+Die einst leere Schaukel bewegt sich sanft im Hintergrund.
+
+Das reparierte Windrad dreht sich in der warmen Abendbrise.
+
+Stimmung:
+Bittersüß, herzerwärmend, unvergesslich.
+
+Kamera-Hinweis:
+Großes filmisches Schlussbild.
+
+ZIEL
+
+Erstellen Sie ein atemberaubendes, erstklassiges Anime-Entwicklungsboard, das eine zutiefst emotionale Geschichte über Einsamkeit, Freundlichkeit und das Finden von Freundschaft erzählt.
+
+Das Kunstwerk sollte sich wie ein vergessenes Meisterwerk eines klassischen Anime-Studios anfühlen, mit beeindruckenden gemalten Hintergründen, ausdrucksstarkem Schauspiel der Charaktere, emotionalem visuellem Storytelling und einem berührenden Ende, das einen bleibenden Eindruck hinterlässt.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941371561_flr79s_HLLo2ekWEAASktJ.jpg" width="600" alt="Comic / Storyboard - Emotionales Anime-Storyboard - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [H A J R A](https://x.com/codewithhajra)
+- **Quelle:** [Twitter Post](https://x.com/codewithhajra/status/2067971258134745321)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26191)**
+
+---
+
+### No. 65: Comic / Storyboard - Konzeptkunst eines Wetterkontroll-Mechas
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein detaillierter, beschreibender Prompt für einen futuristischen Sci-Fi-Mecha zur Wetterkontrolle, der Blitzenergie absorbiert und Eispartikel sammelt.
+
+#### 📝 Prompt
+
+```
+Erscheinungsbild des Fluggeräts: {argument name="armor" default="stromlinienförmige und futuristische weiße"} Panzerung mit einem {argument name="energy core" default="blau"} leuchtenden Energiekern im Inneren. Blitzaufladung: Ein Moment, in dem ein intensiver Blitz aus dunklen Wolken in die Antenne des Fluggeräts einschlägt, um Energie zu absorbieren. Schneesammlung und Kühlung: Eine spezielle Saugöffnung (Zyklonstruktur) an der Unterseite des Fluggeräts, die Schnee- und Eispartikel vom Boden oder aus der oberen Atmosphäre wie ein Tornado aufwirbelt, komprimiert und im Inneren auf ultra-niedrige Temperaturen herunterkühlt. Hintergrund: {argument name="background" default="Ein Blick auf den gefrorenen Polarkreis, der sich unterhalb erstreckt"} und der Gradient des Weltraums darüber.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941377915_ntfsvn_HLJOwRoaMAAY0Zw.jpg" width="600" alt="Comic / Storyboard - Konzeptkunst eines Wetterkontroll-Mechas - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [kuonmii](https://x.com/KuonMii_Love)
+- **Quelle:** [Twitter Post](https://x.com/KuonMii_Love/status/2067801933365313579)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26202)**
+
+---
+
+### No. 66: Comic / Storyboard - Cinematic Character Design Skizzenbuch-Blatt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3255,7 +3379,7 @@ Ultra-realistische, stilisierte Skizzenbuch-Collagen-Illustration eines jungen m
 
 ---
 
-### No. 62: Comic / Storyboard - Mythologischer Herkules mit Harfe
+### No. 67: Comic / Storyboard - Mythologischer Herkules mit Harfe
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3289,7 +3413,7 @@ Griechische Mythologie {argument name="person" default="Herkules beim Harfenspie
 
 ---
 
-### No. 63: Comic / Storyboard - 90er-Jahre Retro-Anime-Storyboard
+### No. 68: Comic / Storyboard - 90er-Jahre Retro-Anime-Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3323,7 +3447,7 @@ Ein sauberes, professionelles Storyboard-Blatt auf einem {argument name="backgro
 
 ---
 
-### No. 64: Comic / Storyboard - Postapokalyptische Wüstenszene bei Nacht
+### No. 69: Comic / Storyboard - Postapokalyptische Wüstenszene bei Nacht
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3360,7 +3484,7 @@ Betonen Sie den Glanz des Gewehrs und unterdrücken Sie im Gegenzug die Lichtref
 
 ---
 
-### No. 65: Comic / Storyboard - Porträt eines kampferprobten Kämpfers
+### No. 70: Comic / Storyboard - Porträt eines kampferprobten Kämpfers
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3394,7 +3518,7 @@ Verwenden Sie das bereitgestellte Gesichtsreferenzbild – bewahren Sie die exak
 
 ---
 
-### No. 66: Comic / Storyboard - Filmreifer Wildwest-Revolverheld
+### No. 71: Comic / Storyboard - Filmreifer Wildwest-Revolverheld
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3436,7 +3560,7 @@ Ultra-realistische Fotografie, Mittelformatkamera, Hasselblad-Qualität, filmisc
 
 ---
 
-### No. 67: Comic / Storyboard - Alter Astronaut in futuristischer Bar
+### No. 72: Comic / Storyboard - Alter Astronaut in futuristischer Bar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3470,7 +3594,7 @@ Ein {argument name="subject" default="alter Astronaut"}, der in einer {argument 
 
 ---
 
-### No. 68: Comic / Storyboard - Minimalistische Hunde-Skizzen-Cliparts
+### No. 73: Comic / Storyboard - Minimalistische Hunde-Skizzen-Cliparts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3504,7 +3628,7 @@ Eine Sammlung von {argument name="subject" default="sechs weißen Hunden"} mit k
 
 ---
 
-### No. 69: Comic / Storyboard - Charakterbogen für Archiv-Bergungsspezialisten
+### No. 74: Comic / Storyboard - Charakterbogen für Archiv-Bergungsspezialisten
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3538,7 +3662,7 @@ Ganzkörper-Charakterbogen, Vorderansicht, Seitenansicht, Rückansicht, {argumen
 
 ---
 
-### No. 70: Comic / Storyboard - Futuristischer Mobile-Suit-Pilot
+### No. 75: Comic / Storyboard - Futuristischer Mobile-Suit-Pilot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3572,7 +3696,7 @@ Eine filmische Ganzkörperaufnahme in niederländischer Perspektive (Dutch Angle
 
 ---
 
-### No. 71: Comic / Storyboard - Aquarell eines verregneten Bahnhofs
+### No. 76: Comic / Storyboard - Aquarell eines verregneten Bahnhofs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3612,7 +3736,7 @@ Aquarell: {argument name="scene" default="Warten an einem verregneten Bahnhof"}
 
 ---
 
-### No. 72: Comic / Storyboard - Mode-Porträtstreifen im verwunschenen Wald
+### No. 77: Comic / Storyboard - Mode-Porträtstreifen im verwunschenen Wald
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3646,7 +3770,7 @@ Ein vertikaler Multi-Frame-Streifen, der eine ostasiatische Frau in einem verwun
 
 ---
 
-### No. 73: Comic / Storyboard - Futuristischer Weltraumpilot – Kinoreife Aufnahme
+### No. 78: Comic / Storyboard - Futuristischer Weltraumpilot – Kinoreife Aufnahme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3680,7 +3804,7 @@ Eine kinoreife Ganzkörperaufnahme in der Dutch-Angle-Perspektive einer {argumen
 
 ---
 
-### No. 74: Comic / Storyboard - Filmreife Dark-Fantasy-Schlacht
+### No. 79: Comic / Storyboard - Filmreife Dark-Fantasy-Schlacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3726,7 +3850,7 @@ Ein dramatisches mittelalterliches Fantasy-Filmstill, das einen Ritter zeigt, de
 
 ---
 
-### No. 75: Comic / Storyboard - Porträt mit geteiltem Panel und zwei Gesichtsausdrücken
+### No. 80: Comic / Storyboard - Porträt mit geteiltem Panel und zwei Gesichtsausdrücken
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3766,7 +3890,7 @@ Ein geteiltes oder nebeneinander angeordnetes Porträt einer {argument name="sub
 
 ---
 
-### No. 76: Comic / Storyboard - Filmische monochrome Charakterstudie
+### No. 81: Comic / Storyboard - Filmische monochrome Charakterstudie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3808,7 +3932,7 @@ Gezeichnet im hochwertigen Graphit- und Tusche-Stil auf strukturiertem weißem P
 
 ---
 
-### No. 77: Comic / Storyboard - Sci-Fi Mobile Suit Pilot Porträt
+### No. 82: Comic / Storyboard - Sci-Fi Mobile Suit Pilot Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3842,7 +3966,7 @@ Eine cineastische Nahaufnahme im Halbprofil von einer {argument name="subject" d
 
 ---
 
-### No. 78: Comic / Storyboard - Kampfgezeichneter Ritter gegen Waldgeist
+### No. 83: Comic / Storyboard - Kampfgezeichneter Ritter gegen Waldgeist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3876,27 +4000,18 @@ Ein hochdetaillierter, filmischer Dark-Fantasy-Prompt, der einen Ritter in schla
 
 ---
 
-### No. 79: Comic / Storyboard - Vier-Panel-Manga mit Sentai und Rugby
+### No. 84: Produktmarketing - Werbeanzeige für Rose Gold Parfüm
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein kreativer Prompt zur Erstellung eines 4-Panel-Mangas mit einem Super Sentai-Team, einem Rugbyball und einer dramatischen Explosion im Stil von Armageddon.
+Ein Prompt für eine Luxus-Hautpflegekampagne mit einer rosafarbenen Flasche auf einem Marmorpodest, umgeben von Rosen und kinoreifer Beleuchtung.
 
 #### 📝 Prompt
 
 ```
-Titel:
-{argument name="title" default="Der große Pass"}
-
-Gorenger (Super Sentai)
-Rugbyball
-
-Explosion
-
-Wie bei Armageddon...
+Hochwertige rosafarbene Flasche mit goldenem Verschluss auf einem geschichteten Marmorpodest, umgeben von blühenden rosa Rosen und seidigen Stoffwellen, schwebende Blasen, Stil einer Luxus-Parfümwerbung, kinoreife Beleuchtung, weiche Schatten, ultrarealistische Hautpflegekampagne, High-End-Ästhetik.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3904,33 +4019,33 @@ Wie bei Armageddon...
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781078033192_mgzn1c_HKVmgV8a0AAWhr2.jpg" width="600" alt="Comic / Storyboard - Vier-Panel-Manga mit Sentai und Rugby - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781941376253_wd8jy8_HLL_X5yaIAA0lE1.jpg" width="600" alt="Produktmarketing - Werbeanzeige für Rose Gold Parfüm - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
-- **Quelle:** [Twitter Post](https://x.com/NOBU79834619/status/2064168720986210743)
-- **Veröffentlicht:** 9. Juni 2026
-- **Sprachen:** ja
+- **Autor:** [𝐌](https://x.com/Strength04_X)
+- **Quelle:** [Twitter Post](https://x.com/Strength04_X/status/2067998351887593888)
+- **Veröffentlicht:** 19. Juni 2026
+- **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=24867)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26200)**
 
 ---
 
-### No. 80: Comic / Storyboard - Foto in Wachsmalstift-Zeichnung
+### No. 85: Produktmarketing - Themed Knolling Flat-Lay Grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Verwandelt ein normales Foto in eine niedliche, kindliche Wachsmalstift-Zeichnung, während die Komposition erhalten bleibt.
+Ein technischer Raster-Prompt zur Erstellung perfekt organisierter Knolling-Fotografien aus der Vogelperspektive, bei denen die Objekte gemeinsam eine bestimmte Silhouette bilden.
 
 #### 📝 Prompt
 
 ```
-Verwandle das {argument name="subject" default="hochgeladene Foto"} in eine {argument name="style" default="niedliche, kindliche Wachsmalstift-Zeichnung"} und behalte dabei die ursprüngliche Pose, Komposition, Kleidung, Mimik und den Hintergrund bei. Verwende {argument name="texture" default="farbenfrohe Wachsmalstift- und Buntstift-Texturen"}, unordentliche Kritzeleien, wackelige Umrisse und ungleichmäßige Kolorierung auf strukturiertem Papier. Vereinfache die Gesichter zu entzückenden Cartoon-Figuren mit großen Augen und rosigen Wangen. Behalte die Berge, den See, die Bäume, die Wolken und den Himmel in einem verspielten, handgezeichneten Stil bei. Füge in der unteren rechten Ecke ein kleines, abgerundetes Referenzfoto des Originalbildes mit weißem Rand und dezentem Schatten ein. Lebendige Farben, charmantes, lustiges, handgemachtes, detailreiches Wachsmalstift-Kunstwerk.
+2x2-Raster, anwenden auf 4 KI-abgeleitete Themen und Formen Anker: Ein perfekt organisiertes Knolling-Flat-Lay aus der Vogelperspektive mit allen Objekten, die mit {argument name="theme" default="einem Surfer / einem Bäcker / Tokio / den 1980er Jahren"} assoziiert werden ::4 Makroform: Objekte so angeordnet, dass ihre kollektive Umrisslinie die Silhouette von {argument name="silhouette" default="einer Welle / einer Kochmütze / dem Berg Fuji"} bildet — Ordnung im Inneren, Bedeutung am Rand. 20–30 passende Objekte ableiten ::5 Komposition: Strenge 90°-Rasterausrichtung, gleichmäßige Abstände, großzügiger Rand ::3 Materialphysik: Echte Objekte, weiche Studioschatten, konsistentes mattes Finish ::2 Beleuchtung: Flache Softbox von oben, keine Blendung ::2 Render-Stack: Knolling-Fotografie, ordentlich organisierte Ästhetik, Produkt-Flat-Lay ::1 Negativ: [gekippte Objekte, Überlappung, Unordnung, Bewegungsunschärfe, doppelte Objekte, themenfremde Objekte] :: -1
 ```
 
 #### 🖼️ Generierte Bilder
@@ -3938,21 +4053,21 @@ Verwandle das {argument name="subject" default="hochgeladene Foto"} in eine {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990828835_yi3dyy_HKTM4pEa8AArTKB.jpg" width="600" alt="Comic / Storyboard - Foto in Wachsmalstift-Zeichnung - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781941373581_vejcq0_HK-5lMlXkAAV8zn.jpg" width="600" alt="Produktmarketing - Themed Knolling Flat-Lay Grid - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [Furkan](https://x.com/tweetbyfurkan)
-- **Quelle:** [Twitter Post](https://x.com/tweetbyfurkan/status/2063999815005138984)
-- **Veröffentlicht:** 8. Juni 2026
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2067899438136242385)
+- **Veröffentlicht:** 19. Juni 2026
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=24726)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26194)**
 
 ---
 
-### No. 81: Produktmarketing - Futuristische Sportkampagnen-Perspektive
+### No. 86: Produktmarketing - Futuristische Sportkampagnen-Perspektive
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3993,7 +4108,205 @@ Seitenverhältnis 3:4
 
 ---
 
-### No. 82: Produktmarketing - Luxuriöse Zitronen-Hautpflege-Produktfotografie
+### No. 87: Produktmarketing - Kreuzfahrtschiff-Magazin-Cover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt zur Erstellung eines Fotos im Stil eines Luxus-Magazin-Covers auf einem Kreuzfahrtschiff, mit Fokus auf Identitätserhaltung und filmischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die hochgeladene Gesichtsreferenz als EXAKTE Identität der Person.
+
+STRIKTE IDENTITÄTSSICHERUNG: Bewahren Sie zu 100 % die Gesichtsstruktur, den Hautton, die Frisur, den Bart, die Gesichtszüge, das Alter, den Ausdruck und die allgemeine Ähnlichkeit des Referenzbildes. Verändern, verschönern oder ersetzen Sie das Gesicht nicht. Sorgen Sie für eine perfekte Identitätskonsistenz.
+
+Erstellen Sie ein realistisches Luxus-Modemagazin-Coverfoto auf dem Deck eines erstklassigen Kreuzfahrtschiffes während der goldenen Stunde. Der Mann sitzt lässig auf einer eleganten Holzbank und trägt {argument name="clothing" default="ein leicht aufgeknöpftes weißes Leinenhemd, eine maßgeschneiderte schwarze Hose und luxuriöse Slipper"}. Er blickt nachdenklich in Richtung Horizont über den tiefblauen Ozean. Weiße Relings des Kreuzfahrtschiffes rahmen die Szene ein. Warmes Sonnenuntergangslicht beleuchtet sein Gesicht und seine Kleidung, wodurch filmische Schatten und wunderschöne goldene Highlights entstehen. Eine sanfte Meeresbrise bewegt dezent sein Hemd und sein Haar.
+
+Komposition: Ganzkörperporträt, vertikaler Bildausschnitt, Luxus-Reise-Editorial-Fotografie, zentriertes Motiv, der Ozean erstreckt sich endlos im Hintergrund.
+
+Typografie:
+
+Große, fette Schlagzeile oben: „{argument name="headline" default="CRUISE SHIP"}“
+Kleinere Unterzeile darunter: „{argument name="subtitle" default="DEEP BLUE OCEAN"}“
+Modernes Layout eines Luxusmagazin-Covers
+
+Stil: ultra-realistisch, Luxus-Lifestyle-Fotografie, Reisemagazin-Cover, filmisches Color Grading, sanftes Filmkorn, natürliche Hautstruktur, Premium-Modekampagne, Editorial in Vogue-Qualität, geringe Schärfentiefe, hochdetailliert, 8K, fotorealistisch, HDR, professionelle Fotografie.
+
+Kamera: Sony A7R V, 85mm Objektiv, f/2.8, Beleuchtung zur goldenen Stunde, Editorial-Mode-Shooting.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857328167_rpmqu4_HLHEgRQaMAU98HQ.jpg" width="600" alt="Produktmarketing - Kreuzfahrtschiff-Magazin-Cover - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Snow](https://x.com/iamrealsnow)
+- **Quelle:** [Twitter Post](https://x.com/iamrealsnow/status/2067649772467683396)
+- **Veröffentlicht:** 18. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26093)**
+
+---
+
+### No. 88: Produktmarketing - Fashion-Editorial-Porträt auf einem Barhocker
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein professioneller Fashion-Editorial-Prompt, der darauf ausgelegt ist, die Identität des Gesichts zu bewahren und gleichzeitig ein Porträt in einem Luxusanzug in einem Studio-Setting zu generieren.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das hochgeladene Referenzbild, um die Identität der Person absolut präzise zu bewahren (100 % Identitätserhalt). Behalten Sie die exakte Gesichtsform, Knochenstruktur, Stirn, Augenbrauen, Augen, Nase, Lippen, Ohren, Kieferpartie, Frisur, Haaransatz, Gesichtsbehaarung, Hautton, Teint, Alter und den natürlichen Ausdruck bei, ohne die Person zu verschönern oder zu verändern. Erstellen Sie ein ultra-premium, modernes Fashion-Editorial-Porträt derselben Person, die selbstbewusst auf einem eleganten, minimalistischen Studio-Barhocker aus Chrom und Schwarz sitzt. Die Haltung ist entspannt, die Beine natürlich gespreizt, eine Hand ruht lässig auf dem Oberschenkel, während die andere in der Nähe des Knies liegt. Der Blick ist direkt, der Ausdruck ruhig, selbstbewusst und kultiviert. Kleiden Sie die Person in einen perfekt maßgeschneiderten, monochromatischen Luxusanzug in {argument name="suit color" default="gebranntem Orange (Terrakotta)"} mit einer schmal geschnittenen Hose und einem strukturierten Blazer über einem {argument name="shirt color" default="frischen cremefarbenen"} Oberhemd, dessen oberste Knöpfe für eine entspannte, zeitgemäße Ästhetik geöffnet sind, kombiniert mit {argument name="footwear" default="sauberen, cremeweißen Premium-Leder-Sneakern"}. Platzieren Sie das Motiv in einem nahtlosen, monochromatischen Studio mit einem warmen Farbverlauf von Terrakotta bis Rost, bei dem Boden und Hintergrund ineinander übergehen, um eine minimalistische High-Fashion-Umgebung ohne Requisiten oder Ablenkungen zu schaffen. Beleuchten Sie die Szene mit professionellem Editorial-Studio-Licht: eine große Softbox, die leicht oberhalb und links von der Kamera positioniert ist, dezentes Aufhelllicht und sanftes Rim-Light, um das Motiv vom Hintergrund abzuheben und gleichzeitig weiche filmische Schatten, realistische Hauttexturen und erstklassige Stoffdetails zu erzeugen. Fangen Sie das Bild in einer perfekt ausbalancierten 4:5-Vertikalkomposition ein, die den gesamten Körper und den Hocker zeigt, zentriert mit großzügigem Negativraum. Fotografiert mit einem 85-mm-Mittelformat-Porträtobjektiv mit geringer Schärfentiefe, messerscharfem Fokus, hyperrealistischen Hautporen, kommerziellem Luxus-Color-Grading, Apple-artigem Minimalismus, Vogue-Editorial-Qualität, Forbes-Kampagnen-Ästhetik, HDR, fotorealistischer 8K-Auflösung. Negativer Prompt: andere Person, Identitätswechsel, Gesichtstausch, veränderte Gesichtszüge, verschönertes Gesicht, andere Frisur, falsche Gesichtsbehaarung, asymmetrisches Gesicht, verzerrte Anatomie, zusätzliche Finger, fehlende Finger, doppelte Gliedmaßen, schlechte Hände, unscharfes Bild, niedrige Qualität, niedrige Auflösung, Cartoon, Anime, CGI, Illustration, plastische Haut, übermäßig geglättete Haut, Fischaugenobjektiv, Weitwinkelverzerrung, überladener Hintergrund, zusätzliche Requisiten, Text, Wasserzeichen, Logo, abgeschnittene Schuhe, abgeschnittener Körper, Artefakte.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857327663_cl2fq1_HLGyvzXaIAAHfgz.jpg" width="600" alt="Produktmarketing - Fashion-Editorial-Porträt auf einem Barhocker - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857327690_o4dl3g_HLGywVEbkAA1QmA.jpg" width="600" alt="Produktmarketing - Fashion-Editorial-Porträt auf einem Barhocker - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857327681_38eup3_HLGyw5iaAAAcvT0.jpg" width="600" alt="Produktmarketing - Fashion-Editorial-Porträt auf einem Barhocker - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Nexora](https://x.com/frametheory058)
+- **Quelle:** [Twitter Post](https://x.com/frametheory058/status/2067630265598685196)
+- **Veröffentlicht:** 18. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26094)**
+
+---
+
+### No. 89: Produktmarketing - Miniatur-Pizza-Baustelle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein kreativer Prompt für eine Miniaturwelt, in der winzige Arbeiter eine riesige Pizza Hut Pizza zubereiten, mit Fokus auf cineastische Food-Fotografie.
+
+#### 📝 Prompt
+
+```
+Eine hyperrealistische Miniatur-Baustelle, auf der Arbeiter eine riesige {argument name="brand" default="Pizza Hut"} Pizza zubereiten. Winzige Kräne platzieren Beläge, Arbeiter verteilen Käse, Ingenieure inspizieren den Rand. Die Pizza liegt in einer offenen, gebrandeten Pizza Hut Schachtel mit sichtbarem Logo. {argument name="lighting" default="Warme goldene Beleuchtung"}, cineastische {argument name="subject" default="Food-Fotografie"}, verspielte Miniaturwelt.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857329176_mlyai0_HLF_MnpasAAWExu.jpg" width="600" alt="Produktmarketing - Miniatur-Pizza-Baustelle - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [𝐌](https://x.com/Strength04_X)
+- **Quelle:** [Twitter Post](https://x.com/Strength04_X/status/2067576242229125449)
+- **Veröffentlicht:** 18. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26098)**
+
+---
+
+### No. 90: Produktmarketing - Elegantes Spitzenkleid Café-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hyperrealistisches Lifestyle-Porträt einer Frau in einem kunstvollen Spitzenkleid, die an einer Außenterrasse sitzt, mit luxuriösem Schmuck und haselnussbraunen Augen.
+
+#### 📝 Prompt
+
+```
+Ein hochauflösendes, hyperrealistisches Lifestyle-Porträt einer {argument name="subject" default="schönen jungen Frau"}, die an einem {argument name="setting" default="Außencafétisch"} sitzt, 8k-Auflösung, vertikales 9:16-Seitenverhältnis. Sie hat langes, welliges, fließendes braunes Haar, weiche, elegante Gesichtszüge und haselnussbraune Augen mit einem sanften, gelassenen Ausdruck, während sie ihre Wange leicht auf ihre linke Hand stützt. Sie trägt ein {argument name="outfit" default="exquisites cremefarbenes Langarmkleid aus kunstvoller, detaillierter floraler Spitzenstickerei"}. Sie ist mit luxuriösem Schmuck geschmückt: eine mehrlagige Perlenkette mit brillanten blauen Saphirtropfen, dazu passende Perlen- und Saphirarmbänder an ihren Handgelenken sowie elegante Hängeohrringe. Vor ihr auf einem strukturierten Marmortisch liegt ein modernes, schlankes Smartphone flach neben einer Keramiktasse mit heißem schwarzem Tee, aus der zarter Dampf aufsteigt. Der Hintergrund zeigt eine sanft verschwommene Außenterrasse mit leuchtend rosa blühenden Blumen an einem grünen Busch und eine moderne Glasfensterstruktur. Geringe Schärfentiefe, natürliches weiches Licht, filmischer Fotografie-Stil.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781941372105_a6yd65_HLF24R6WQAE6INe.jpg" width="600" alt="Produktmarketing - Elegantes Spitzenkleid Café-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [ayzalnoor](https://x.com/ayzalnooor24521)
+- **Quelle:** [Twitter Post](https://x.com/ayzalnooor24521/status/2067564429089313070)
+- **Veröffentlicht:** 18. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26192)**
+
+---
+
+### No. 91: Produktmarketing - Bearbeitung von Modefotografie für männliche Models
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Image-to-Image-Transformations-Prompt, der ein Referenzfoto in eine hochwertige Modeaufnahme eines männlichen Models verwandelt, das auf einem Sitzsack an einem Laptop arbeitet.
+
+#### 📝 Prompt
+
+```
+Behalten Sie unter Verwendung des hochgeladenen Bildes das echte Gesicht, die Frisur und den Hautton unverändert bei. Modefotografie eines stilvollen {argument name="subject" default="männlichen Models"}, das lässig auf einem {argument name="furniture" default="Sitzsack"} mit weicher Textur sitzt und an einem {argument name="device" default="MacBook Pro 20"} arbeitet...
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781857322969_m2vm3f_HLF2BMpWwAAEVhO.jpg" width="600" alt="Produktmarketing - Bearbeitung von Modefotografie für männliche Models - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Photoprompt App](https://x.com/PhotopromptApp)
+- **Quelle:** [Twitter Post](https://x.com/PhotopromptApp/status/2067563470573158765)
+- **Veröffentlicht:** 18. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=26082)**
+
+---
+
+### No. 92: Produktmarketing - Luxuriöse Zitronen-Hautpflege-Produktfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4027,7 +4340,7 @@ Elegante {argument name="bottle color" default="gelbe"} Hautpflegeflasche mit Kr
 
 ---
 
-### No. 83: Produktmarketing - Elegantes Fine-Dining-Porträt
+### No. 93: Produktmarketing - Elegantes Fine-Dining-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4067,7 +4380,7 @@ Ultrarealistisches, elegantes Dinner-Porträt einer {argument name="subject" def
 
 ---
 
-### No. 84: Produktmarketing - Porträt am Strand zur Goldenen Stunde
+### No. 94: Produktmarketing - Porträt am Strand zur Goldenen Stunde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4106,41 +4419,7 @@ Ultrarealistisches Sommer-Strandporträt einer jungen Frau mit langem, welligem,
 
 ---
 
-### No. 85: Produktmarketing - Lifestyle-Porträt auf dem Tennisplatz
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein kontrastreiches, lebendiges Lifestyle-Porträt eines athletischen Models in einer einzigartigen Umgebung, umgeben von gelben Tennisbällen.
-
-#### 📝 Prompt
-
-```
-Ein kreatives Ganzkörper-Lifestyle-Porträt eines athletischen Models, das in einem metallenen Einkaufswagen sitzt, der mit leuchtend gelben Tennisbällen überquillt. Das Model trägt ein {argument name="brand" default="Nike"} {argument name="clothing color" default="neongrünes"} Tanktop und dazu passende Shorts, was einen starken, kontrastreichen Akzent zur Umgebung setzt. Das Model lehnt sich entspannt im Wagen zurück, mit einem {argument name="expression" default="ruhigen, neutralen, leicht ernsten Gesichtsausdruck"}, geschlossenen Lippen, ohne Lächeln, was eine entspannte, aber selbstbewusste Stimmung vermittelt. Die Szene spielt auf einem professionellen, leuchtend blauen Beton-Tennisplatz mit scharfen weißen Linien unter einem klaren, strahlend blauen Himmel. Ein Tennisschläger lehnt an der Seite des Einkaufswagens, und weitere Tennisbälle sind auf dem Platz verstreut. Im Hintergrund sind unscharfe Zuschauertribünen und grüne Bäume zu sehen. Die Beleuchtung besteht aus hellem, direktem natürlichem Sonnenlicht, das knackige Schatten und starke Highlights erzeugt. Das Color Grading ist lebendig und ausdrucksstark, mit hoher Sättigung, starkem Kontrast und sauberer Farbtrennung. Aufgenommen mit einem 35-mm-Objektiv für eine natürliche Perspektive, Blende f/2.8, um den Hintergrund leicht zu verwischen, während das Model und der Wagen scharf fokussiert bleiben. Hochauflösende Fotografie, athletischer Modestil, energiegeladen, kommerzielle Sport-Editorial-Atmosphäre. Negative Prompts: entsättigte Farben, gedämpfte Töne, flache Beleuchtung, geringer Kontrast, verwaschene Farben, cineastisch stumpfes Grading, Pastelltöne, Lächeln, lächelnd, Lächeln mit offenem Mund
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684778297_n2trjk_HK8hRwUXQAA0NTp.jpg" width="600" alt="Produktmarketing - Lifestyle-Porträt auf dem Tennisplatz - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Alex Prompts](https://x.com/AlexPromptsAI)
-- **Quelle:** [Twitter Post](https://x.com/AlexPromptsAI/status/2066907480899105211)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25863)**
-
----
-
-### No. 86: Produktmarketing - Vakuumverpackte Spielzeugfotografie
+### No. 95: E-Commerce-Hauptbild - Vakuumverpackte Spielzeugfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4439,7 @@ ein rechteckiger, vakuumversiegelter transparenter Plastikbeutel, Studio-Produkt
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782153_2vzpgr_HK7T3TTXUAACV9f.jpg" width="600" alt="Produktmarketing - Vakuumverpackte Spielzeugfotografie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781684782153_2vzpgr_HK7T3TTXUAACV9f.jpg" width="600" alt="E-Commerce-Hauptbild - Vakuumverpackte Spielzeugfotografie - Image 1">
 </div>
 
 #### 📌 Details
@@ -4174,109 +4453,7 @@ ein rechteckiger, vakuumversiegelter transparenter Plastikbeutel, Studio-Produkt
 
 ---
 
-### No. 87: Produktmarketing - Haute Couture Picknick-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine elegante redaktionelle Draufsicht einer Frau, die in einer Gänseblümchenwiese liegt, mit High-Fashion-Styling und weichem, natürlichem Licht.
-
-#### 📝 Prompt
-
-```
-Eine {argument name="subject" default="schöne junge Frau"} mit einem intensiven, aber sanften Blick direkt in die Kamera. Pose: Das Foto ist aus der Vogelperspektive (Flat-Lay-Perspektive) aufgenommen. Die Frau liegt auf dem Rücken in einer {argument name="setting" default="üppig grünen Wiese voller kleiner weißer Gänseblümchen"}. Ihr langes, dickes, gesundes und welliges schwarzes Haar ist weit um sie herum ausgebreitet und mit mehreren echten Gänseblümchen geschmückt, die für einen ästhetischen Touch sorgfältig im Haar platziert wurden. Ausdruck & Hände: Ihr Gesichtsausdruck ist ruhig, elegant und selbstbewusst. Eine Hand ruht anmutig auf ihrem Bauch, während die andere leicht in Brustnähe erhoben ist und sanft ein kleines Gänseblümchen hält, mit perfekt natürlicher, anatomisch korrekter Handhaltung. Outfit: Sie trägt ein {argument name="clothing" default="hochwertiges Neckholder-Kleid aus Satin in zartem Pastellgelb (blasser Limettenton)"}. Der Stoff hat einen luxuriösen Seidenglanz, der das Licht sanft reflektiert und weiche Falten sowie eine teure, hochwertige Textur betont. Accessoires: Sie trägt kleine, minimalistisch funkelnde Ohrringe am linken Ohr, die teilweise von ihrem Haar verdeckt werden, sowie ein elegantes, dünnes Goldarmband an ihrem linken Handgelenk. Umgebung & Requisiten: Hintergrund: Eine sattgrüne Wiese voller hunderter kleiner weißer Gänseblümchen mit gelben Mitten, die natürlich wachsen. Zusätzliche Requisiten: Oben rechts neben dem Motiv befindet sich eine hochwertige geflochtene Strohtasche mit dunkelbraunen Lederriemen und einem weißen Stofffutter. Neben der Tasche liegt ein frischer Strauß aus rosa Rosen und ergänzenden Blumen, der die luxuriöse Haute-Couture-Picknick-Ästhetik unterstreicht. Beleuchtung & technische Qualität: Weiches, natürliches Tageslicht beleuchtet die Szene gleichmäßig und erzeugt einen natürlichen Glanz auf dem Gesicht ohne harte Schatten. Ein subtiles Kantenlicht definiert die Konturen von Körper und Haar und hebt sie elegant vom grasbewachsenen Hintergrund ab. High-Fashion-Editorial-Fotostil, aufgenommen mit einem 85-mm-Objektiv für scharfe und dennoch natürliche Porträtdetails. Ultrarealistische Hauttextur mit feinen Poren, sanftem Rouge auf den Wangen und präzisem Winged-Eyeliner-Make-up ohne CGI-Look. Das Bild zeichnet sich durch eine cineastische geringe Schärfentiefe, ultrahohe Klarheit (8K-Auflösung) und eine subtile, feine analoge Filmkörnung für eine erstklassige, elegante Ästhetik aus.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684783221_vwh1r9_HK7cgICboAExyTQ.jpg" width="600" alt="Produktmarketing - Haute Couture Picknick-Porträt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Nawal](https://x.com/nawalsehar)
-- **Quelle:** [Twitter Post](https://x.com/nawalsehar/status/2066831727201599580)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25873)**
-
----
-
-### No. 88: Produktmarketing - Anspruchsvolles Yacht-Porträt im Yachthafen
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein gehobenes, hochauflösendes Digitalfoto eines Mannes, der bei natürlichem Licht vor einer modernen Yacht in einem Yachthafen steht.
-
-#### 📝 Prompt
-
-```
-Eine frontale Halbtotale zeigt einen {argument name="subject" default="jungen kaukasischen Mann"} mit markanten, modelartigen Gesichtszügen, der selbstbewusst im Freien vor einer großen, {argument name="background" default="modernen weißen Yacht, die in einem Yachthafen liegt"}, steht. Er trägt ein {argument name="clothing" default="transparentes, leichtes hellblaues Leinenhemd, das am Kragen aufgeknöpft und lässig in eine weit geschnittene, weiße, fließende Baumwollhose gesteckt ist"}, die eine leicht zerknitterte Textur aufweist. Der Mann trägt eine dunkle Sonnenbrille. Beide Hände stecken in den Taschen, und er strahlt eine entspannte, selbstsichere Haltung aus. Die Kulisse umfasst ruhiges blaugrünes Wasser, einen Betonsteg, einen dramatischen Himmel voller Kumuluswolken und ferne, grün bewachsene Hügel. Die Beleuchtung ist hell und natürlich, wirft starke Schatten und verleiht der Szene eine sommerliche, unbeschwerte Atmosphäre. Die Farbpalette wird von sanften Weiß-, Hellblau- und Aquatönen dominiert. Das Bild wirkt wie ein scharfes, hochauflösendes Digitalfoto mit minimaler Verzerrung und großer Tiefenschärfe, was zu der gehobenen, anspruchsvollen und sorglosen Stimmung beiträgt.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598280735_61kgh7_HK4Tz5AX0AA4SVL.jpg" width="600" alt="Produktmarketing - Anspruchsvolles Yacht-Porträt im Yachthafen - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Alex Prompts](https://x.com/AlexPromptsAI)
-- **Quelle:** [Twitter Post](https://x.com/AlexPromptsAI/status/2066611092047139084)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25736)**
-
----
-
-### No. 89: Produktmarketing - Porträt eines Mannes an der städtischen Uferpromenade
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein komplexer Prompt für ein realistisches Profilfoto eines Mannes, der an einem Geländer an einer Wasserstraße lehnt, mit einem Terrakotta-Hochhaus im Hintergrund.
-
-#### 📝 Prompt
-
-```
-Eine ungezwungene, ernste Profilaufnahme eines {argument name="subject" default="männlichen Subjekts"}, das lässig in die linke Seite des Bildrahmens lehnt, wobei die entspannte Haltung durch natürlich angewinkelte Schultern unterstützt wird. Sein Haar ist akribisch gestylt, mit sieben bis zehn Zentimetern Länge am Oberkopf, die in einen scharfen, konischen Fade an den Seiten und am Hinterkopf übergehen, fixiert durch eine Pomade mit mittlerem Halt, die subtile Highlights entlang der natürlichen Kammspuren einfängt, während einige wenige, organische abstehende Haare am Wirbel hervorstehen. Er trägt ein {argument name="clothing" default="schwarzes langärmeliges Strickshirt und eine cremefarbene Hose"}, sein Gesicht ist teilweise durch eine Sonnenbrille mit transparentem Rahmen abgeschirmt, während er mit einem neutralen, entspannten Ausdruck in die Ferne blickt. Seine linke Hand ruht organisch auf der Oberkante eines Glasgeländers, das Handgelenk leicht gebeugt, während seine rechte Hand bequem daneben liegt, mit sanft gekrümmten Fingern, die mit einem goldenen Gliederarmband und zwei goldenen Ringen geschmückt sind. Er lehnt an einem makellosen, warmgrauen, matten Betonvorsprung, der mit blühenden, gepflegten grünen Sträuchern besetzt ist, und beobachtet die tiefe räumliche Ausdehnung der Szene vor ihm. In der makellosen, blaugrünen Wasserstraße im Mittelgrund zieht ein fahrendes Schnellboot eine weiße Kielwelle unter einer rot-weißen Flagge und passiert eine vor Anker liegende, verwitterte, traditionelle braune hölzerne Dau mit weißer Verzierung auf der rechten Seite. Der Hintergrund erhebt sich majestätisch zu einem dominanten {argument name="building" default="roten Terrakotta-Hochhaus"}, das durch eine markante gestufte Architektur und geometrische Fenster charakterisiert ist, flankiert von verschiedenen sandfarbenen Resort-Gebäuden. Der heitere und kontemplative städtische Abend ist in weiches, diffuses Licht aus einer einzigen Quelle getaucht, das neutral von oben herabfällt, kurze, weich gezeichnete graue Schatten sanft unter seine Kieferpartie und Arme wirft und dabei zarte Glanzlichter auf den Glanz seines Haarprodukts, die Sonnenbrillengestelle und das kräuselnde Wasser darunter einfängt. Die kühle, mäßig gesättigte, komplementäre Farbpalette kontrastiert wunderbar das tiefe Schwarz seiner Strickwaren mit dem weitläufigen blaugrünen Wasser, der warmen Terrakotta-Skyline und den warmen beigen Akzenten. Direkt aufgenommen mittels gestochen scharfer Digitalfotografie mit einem 50mm-Objektiv bei f/4.0, ISO 400 und einer Verschlusszeit von 1/250s, um eine mittlere Schärfentiefe und messerscharfen Fokus mit einem Hauch von realistischem digitalen Rauschen zu erzielen, wird das Bild durch eine moderne Luxus-Lifestyle-Ästhetik verfeinert, die subtile blau-orange Farbkorrekturen, sanft aufgehellte Schatten und eine saubere, natürliche Hautretusche aufweist, alles gerahmt in einem 9:16-Seitenverhältnis.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598286112_a6qbm1_HK3q2CUWwAAikKv.jpg" width="600" alt="Produktmarketing - Porträt eines Mannes an der städtischen Uferpromenade - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Picts by AI](https://x.com/pictsbyai)
-- **Quelle:** [Twitter Post](https://x.com/pictsbyai/status/2066566047356862616)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25747)**
-
----
-
-### No. 90: Produktmarketing - Urbanes Streetwear-Sommer-Fashion-Portrait
+### No. 96: E-Commerce-Hauptbild - Urbanes Streetwear-Sommer-Fashion-Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4296,13 +4473,13 @@ Ultrarealistisches Street-Fashion-Portrait einer jungen Frau mit {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598285395_z67ocw_HK3S0PabQAAlbl3.jpg" width="600" alt="Produktmarketing - Urbanes Streetwear-Sommer-Fashion-Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781598285395_z67ocw_HK3S0PabQAAlbl3.jpg" width="600" alt="E-Commerce-Hauptbild - Urbanes Streetwear-Sommer-Fashion-Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598286941_fkh5si_HK3S0PQbYAA0SNG.jpg" width="600" alt="Produktmarketing - Urbanes Streetwear-Sommer-Fashion-Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781598286941_fkh5si_HK3S0PQbYAA0SNG.jpg" width="600" alt="E-Commerce-Hauptbild - Urbanes Streetwear-Sommer-Fashion-Portrait - Image 2">
 </div>
 
 #### 📌 Details
@@ -4316,47 +4493,7 @@ Ultrarealistisches Street-Fashion-Portrait einer jungen Frau mit {argument name=
 
 ---
 
-### No. 91: Produktmarketing - Steampunk-Porträt in Pastellrosa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein hochdetailliertes Steampunk-Porträt einer Frau mit pastellrosa Haar und aufwendiger mechanischer Kopfbedeckung vor einem retro-futuristischen Hintergrund.
-
-#### 📝 Prompt
-
-```
-Ein akribisch detailliertes Steampunk-Porträt einer {argument name="subject" default="jungen Frau"}, gezeigt als Brustbild, zentriert in einer vertikalen Komposition. Sie hat blasse Porzellanhaut mit dezenten Sommersprossen, auffällige türkisblaue Augen und ein sanftes, natürliches Make-up. Ihr Haar ist zu einer voluminösen {argument name="hair color" default="pastellrosa"} Hochsteckfrisur gestylt, locker zu einem kunstvollen, leicht chaotischen Dutt gebunden, wobei einzelne Strähnen ihr Gesicht umspielen und einen zarten, aber rebellischen Look erzeugen. Sie trägt eine aufwendige mechanische Kopfbedeckung aus Messing und Bronze, die industrielle Technik mit viktorianischer Ästhetik verbindet. Das Kopfstück besticht durch polierte Zahnräder, Nieten, Miniaturlinsen, Druckventile, Kupferrohre, metallische Spitzen und ein großes, kreisförmiges, leuchtendes optisches Gerät über ihrer Stirn, das ein kühles Cyan-Licht ausstrahlt. Eine kleinere beleuchtete Linse und präzise gefertigte mechanische Komponenten sorgen für zusätzliche Komplexität und Realismus. Ein zartes, herzförmiges Metallornament mit filigranen Details ziert ihre Wange. Ihr Outfit besteht aus einer reich texturierten burgunderroten Lederjacke mit dramatischem Stehkragen, sichtbaren Nähten, Metallnieten, Schnallen, Riemen und geschichteten Steampunk-Maschinenelementen an der Schulter. Messingmechanismen, bewegliche Gelenke, Kabel und gravierte Metallplatten verschmelzen nahtlos mit dem Kleidungsstück. Die Beleuchtung ist filmisch und atmosphärisch; sie kombiniert kühles, türkisfarbenes Umgebungslicht mit warmen Kupfer-Highlights, die Texturen, Tiefe und reflektierende Oberflächen betonen. Der Hintergrund ist sanft unscharf und deutet das Innere eines fortschrittlichen retro-futuristischen Luftschiffs oder eines industriellen Labors mit kreisförmigen Metallstrukturen und schwachen Silhouetten von Maschinen an. Ultrarealistisches Rendering, außergewöhnliche Handwerkskunst, messerscharfer Fokus auf das Gesicht, geringe Schärfentiefe, hochdetaillierte Hauttextur, hochwertige Materialien, volumetrische Beleuchtung, subtile Partikel in der Luft, Meisterwerk-Qualität, dramatische Stimmung, luxuriöse Steampunk-Mode, fotorealistisch, 8K, HDR, makellose Komposition
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598284404_bzlplg_HK2-jJsW0AA9Ny0.jpg" width="600" alt="Produktmarketing - Steampunk-Porträt in Pastellrosa - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598283981_zexgyv_HK2-7SPWIAAPlyX.jpg" width="600" alt="Produktmarketing - Steampunk-Porträt in Pastellrosa - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Noname Oasis](https://x.com/nonameoasis)
-- **Quelle:** [Twitter Post](https://x.com/nonameoasis/status/2066517742828519454)
-- **Veröffentlicht:** 15. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25743)**
-
----
-
-### No. 92: Produktmarketing - Luxuriöse goldene Teetasse im Gebirgsbach
+### No. 97: E-Commerce-Hauptbild - Luxuriöse goldene Teetasse im Gebirgsbach
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4376,7 +4513,7 @@ Eine ultra-premium cineastische Werbung für {argument name="brand" default="Nan
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598282809_b9o11n_HK2lbBfXEAEQzqt.jpg" width="600" alt="Produktmarketing - Luxuriöse goldene Teetasse im Gebirgsbach - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781598282809_b9o11n_HK2lbBfXEAEQzqt.jpg" width="600" alt="E-Commerce-Hauptbild - Luxuriöse goldene Teetasse im Gebirgsbach - Image 1">
 </div>
 
 #### 📌 Details
@@ -4390,7 +4527,7 @@ Eine ultra-premium cineastische Werbung für {argument name="brand" default="Nan
 
 ---
 
-### No. 93: Produktmarketing - Explodierende flüssige Karamell-Süßware
+### No. 98: E-Commerce-Hauptbild - Explodierende flüssige Karamell-Süßware
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4410,25 +4547,25 @@ Eine erstklassige {argument name="confectionery" default="goldene Toffee-Süßwa
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598281138_6ys9f7_HK2Msh7asAAHf3-.jpg" width="600" alt="Produktmarketing - Explodierende flüssige Karamell-Süßware - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781598281138_6ys9f7_HK2Msh7asAAHf3-.jpg" width="600" alt="E-Commerce-Hauptbild - Explodierende flüssige Karamell-Süßware - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598281193_wqpgqr_HK2Msh0bMAAsiG3.jpg" width="600" alt="Produktmarketing - Explodierende flüssige Karamell-Süßware - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781598281193_wqpgqr_HK2Msh0bMAAsiG3.jpg" width="600" alt="E-Commerce-Hauptbild - Explodierende flüssige Karamell-Süßware - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598281449_mhw9oi_HK2Msh6bUAAD5wE.jpg" width="600" alt="Produktmarketing - Explodierende flüssige Karamell-Süßware - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781598281449_mhw9oi_HK2Msh6bUAAD5wE.jpg" width="600" alt="E-Commerce-Hauptbild - Explodierende flüssige Karamell-Süßware - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781598281755_5f8bjs_HK2Mshyb0AA8G8X.jpg" width="600" alt="Produktmarketing - Explodierende flüssige Karamell-Süßware - Image 4">
+<img src="https://cms-assets.youmind.com/media/1781598281755_5f8bjs_HK2Mshyb0AA8G8X.jpg" width="600" alt="E-Commerce-Hauptbild - Explodierende flüssige Karamell-Süßware - Image 4">
 </div>
 
 #### 📌 Details
@@ -4442,7 +4579,7 @@ Eine erstklassige {argument name="confectionery" default="goldene Toffee-Süßwa
 
 ---
 
-### No. 94: E-Commerce-Hauptbild - Luxuriöses Spiegel-Selfie-Porträt
+### No. 99: E-Commerce-Hauptbild - Luxuriöses Spiegel-Selfie-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4476,7 +4613,7 @@ Verwende das hochgeladene Referenzgesicht exakt, keine Modifikationen) FACE LOCK
 
 ---
 
-### No. 95: E-Commerce-Hauptbild - Makro-Luxus-Keks-Milchspritzer
+### No. 100: E-Commerce-Hauptbild - Makro-Luxus-Keks-Milchspritzer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4517,7 +4654,7 @@ Seitenverhältnis {argument name="aspect ratio" default="3:4"}
 
 ---
 
-### No. 96: E-Commerce-Hauptbild - Realistisches Porträt einer asiatischen Frau in Loungewear
+### No. 101: E-Commerce-Hauptbild - Realistisches Porträt einer asiatischen Frau in Loungewear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4563,7 +4700,7 @@ Erstelle ein hochrealistisches Nahaufnahme-Porträt einer schönen jungen asiati
 
 ---
 
-### No. 97: E-Commerce-Hauptbild - Monochromes Fashion-Lookbook in Salbeigrün
+### No. 102: E-Commerce-Hauptbild - Monochromes Fashion-Lookbook in Salbeigrün
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4603,7 +4740,7 @@ Ein professionelles Fashion-Studio-Fotoshooting einer {argument name="subject" d
 
 ---
 
-### No. 98: E-Commerce-Hauptbild - Pakistanische Maxi-Gown-Mode
+### No. 103: E-Commerce-Hauptbild - Pakistanische Maxi-Gown-Mode
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4637,7 +4774,7 @@ Eine hochwertige, professionelle Modeaufnahme eines Models in einem eleganten, {
 
 ---
 
-### No. 99: E-Commerce-Hauptbild - High-End UGC Fashion-Kampagne
+### No. 104: E-Commerce-Hauptbild - High-End UGC Fashion-Kampagne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4673,7 +4810,7 @@ Fotorealistisch, kommerzielle High-End-Qualität, aufgenommen mit einem 85-mm-Ob
 
 ---
 
-### No. 100: E-Commerce-Hauptbild - Minimalistisches Mode-Porträt im Store
+### No. 105: E-Commerce-Hauptbild - Minimalistisches Mode-Porträt im Store
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4707,7 +4844,7 @@ Ein ganzkörperliches Mode-Porträt einer {argument name="subject" default="stil
 
 ---
 
-### No. 101: E-Commerce-Hauptbild - Minimalistisches Studio-Modeporträt
+### No. 106: E-Commerce-Hauptbild - Minimalistisches Studio-Modeporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4741,7 +4878,7 @@ Ein direktes Ganzkörper-Studiofoto der lächelnden {argument name="subject" def
 
 ---
 
-### No. 102: E-Commerce-Hauptbild - Transformation in essbare Produkte
+### No. 107: E-Commerce-Hauptbild - Transformation in essbare Produkte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4775,7 +4912,7 @@ natürliches, weiches Tageslicht von einem nahegelegenen Fenster, realistische s
 
 ---
 
-### No. 103: E-Commerce-Hauptbild - Hyperrealistischer Charakter-Schlüsselanhänger
+### No. 108: E-Commerce-Hauptbild - Hyperrealistischer Charakter-Schlüsselanhänger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4827,7 +4964,7 @@ Erstelle einen von {argument name="character theme" default="Anime, Videospiel, 
 
 ---
 
-### No. 104: E-Commerce-Hauptbild - Luxuriöse Fotografie eines kaschmirischen Samawars
+### No. 109: E-Commerce-Hauptbild - Luxuriöse Fotografie eines kaschmirischen Samawars
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4879,7 +5016,7 @@ Ultra-detaillierte Luxus-Produktfotografie eines {argument name="product" defaul
 
 ---
 
-### No. 105: E-Commerce-Hauptbild - Premium-Dessert-Werbelayout
+### No. 110: E-Commerce-Hauptbild - Premium-Dessert-Werbelayout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4924,81 +5061,7 @@ Ein komplexer modularer Prompt für kommerzielle Dessertfotografie mit Karamells
 
 ---
 
-### No. 106: E-Commerce-Hauptbild - Porträt einer eleganten Innentreppe
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Erstellung ruhiger, hochwertiger Innenaufnahmen, die eine Frau in einem Satinkleid auf einer Holztreppe inmitten üppiger Pflanzen zeigen.
-
-#### 📝 Prompt
-
-```
-Die Szene zeigt eine Frau mit {argument name="hair style" default="kurzem blonden Haar"}, die ein schlichtes, hellrosa Satin-Slip-Dress trägt. Sie ist barfuß und posiert auf einer wunderschönen Holztreppe in einem hell erleuchteten, eleganten Haus. In der ersten Pose steht sie anmutig da, lehnt sich leicht gegen das Treppengeländer und blickt mit der Hand am Kinn in die Kamera. In der zweiten Pose sitzt sie bequem auf einer der unteren Stufen, die Hände im Schoß, während sie nach oben blickt. Die Treppe verfügt über kunstvolle Holzspindeln und ist von dekorativen Wandleisten umrahmt. Große Topfpflanzen, darunter eine {argument name="plant species" default="Monstera"} und verschiedene Palmen in passenden rosa Pflanzgefäßen, sind um den Fuß der Treppe und den Treppenabsatz herum angeordnet, ergänzt durch Möbel im Mid-Century-Stil und verschiedene Lampen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779520913642_cw6lgl_HI5RxRpW0AANkRZ.jpg" width="600" alt="E-Commerce-Hauptbild - Porträt einer eleganten Innentreppe - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779520913844_ap2zsf_HI5RxRUXwAAFXkC.jpg" width="600" alt="E-Commerce-Hauptbild - Porträt einer eleganten Innentreppe - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Minahil](https://x.com/Minahil42298354)
-- **Quelle:** [Twitter Post](https://x.com/Minahil42298354/status/2057671990878614002)
-- **Veröffentlicht:** 22. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22007)**
-
----
-
-### No. 107: E-Commerce-Hauptbild - Minimalistisches T-Shirt-Mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein klarer und farbenfroher Produkt-Mockup-Prompt zur Präsentation eines weißen T-Shirts vor einem lebendigen Innenraum-Hintergrund.
-
-#### 📝 Prompt
-
-```
-Ein {argument name="clothing item" default="weißes T-Shirt"} Mockup wird an einem Kleiderbügel vor einer {argument name="door color" default="lila Tür"} präsentiert. Links davon befindet sich eine {argument name="wall color" default="limettengrüne"} Wand mit einem kreisförmigen, gewellten Spiegel mit pinkfarbenem Kunststoffrahmen sowie einem blauen Drahtstuhl mit pinkfarbenem Kissen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779520921106_eruh79_HIwTZleWsAAeTS4.jpg" width="600" alt="E-Commerce-Hauptbild - Minimalistisches T-Shirt-Mockup - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Heather Green](https://x.com/heathergreen)
-- **Quelle:** [Twitter Post](https://x.com/heathergreen/status/2057629264938160498)
-- **Veröffentlicht:** 22. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22027)**
-
----
-
-### No. 108: Spiel-Asset - Struktur-Inpainting-Prompt für Bilder
+### No. 111: Spiel-Asset - Struktur-Inpainting-Prompt für Bilder
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5032,7 +5095,47 @@ Ersetze {argument name="original object" default="die einfache Anordnung rechtec
 
 ---
 
-### No. 109: Spiel-Asset - Geschäftsmann im Pixar-3D-Stil
+### No. 112: Spiel-Asset - Steampunk-Porträt in Pastellrosa
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hochdetailliertes Steampunk-Porträt einer Frau mit pastellrosa Haar und aufwendiger mechanischer Kopfbedeckung vor einem retro-futuristischen Hintergrund.
+
+#### 📝 Prompt
+
+```
+Ein akribisch detailliertes Steampunk-Porträt einer {argument name="subject" default="jungen Frau"}, gezeigt als Brustbild, zentriert in einer vertikalen Komposition. Sie hat blasse Porzellanhaut mit dezenten Sommersprossen, auffällige türkisblaue Augen und ein sanftes, natürliches Make-up. Ihr Haar ist zu einer voluminösen {argument name="hair color" default="pastellrosa"} Hochsteckfrisur gestylt, locker zu einem kunstvollen, leicht chaotischen Dutt gebunden, wobei einzelne Strähnen ihr Gesicht umspielen und einen zarten, aber rebellischen Look erzeugen. Sie trägt eine aufwendige mechanische Kopfbedeckung aus Messing und Bronze, die industrielle Technik mit viktorianischer Ästhetik verbindet. Das Kopfstück besticht durch polierte Zahnräder, Nieten, Miniaturlinsen, Druckventile, Kupferrohre, metallische Spitzen und ein großes, kreisförmiges, leuchtendes optisches Gerät über ihrer Stirn, das ein kühles Cyan-Licht ausstrahlt. Eine kleinere beleuchtete Linse und präzise gefertigte mechanische Komponenten sorgen für zusätzliche Komplexität und Realismus. Ein zartes, herzförmiges Metallornament mit filigranen Details ziert ihre Wange. Ihr Outfit besteht aus einer reich texturierten burgunderroten Lederjacke mit dramatischem Stehkragen, sichtbaren Nähten, Metallnieten, Schnallen, Riemen und geschichteten Steampunk-Maschinenelementen an der Schulter. Messingmechanismen, bewegliche Gelenke, Kabel und gravierte Metallplatten verschmelzen nahtlos mit dem Kleidungsstück. Die Beleuchtung ist filmisch und atmosphärisch; sie kombiniert kühles, türkisfarbenes Umgebungslicht mit warmen Kupfer-Highlights, die Texturen, Tiefe und reflektierende Oberflächen betonen. Der Hintergrund ist sanft unscharf und deutet das Innere eines fortschrittlichen retro-futuristischen Luftschiffs oder eines industriellen Labors mit kreisförmigen Metallstrukturen und schwachen Silhouetten von Maschinen an. Ultrarealistisches Rendering, außergewöhnliche Handwerkskunst, messerscharfer Fokus auf das Gesicht, geringe Schärfentiefe, hochdetaillierte Hauttextur, hochwertige Materialien, volumetrische Beleuchtung, subtile Partikel in der Luft, Meisterwerk-Qualität, dramatische Stimmung, luxuriöse Steampunk-Mode, fotorealistisch, 8K, HDR, makellose Komposition
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781598284404_bzlplg_HK2-jJsW0AA9Ny0.jpg" width="600" alt="Spiel-Asset - Steampunk-Porträt in Pastellrosa - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781598283981_zexgyv_HK2-7SPWIAAPlyX.jpg" width="600" alt="Spiel-Asset - Steampunk-Porträt in Pastellrosa - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Noname Oasis](https://x.com/nonameoasis)
+- **Quelle:** [Twitter Post](https://x.com/nonameoasis/status/2066517742828519454)
+- **Veröffentlicht:** 15. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25743)**
+
+---
+
+### No. 113: Spiel-Asset - Geschäftsmann im Pixar-3D-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5066,7 +5169,7 @@ Charmanter, stilisierter 3D-animierter {argument name="character" default="afroa
 
 ---
 
-### No. 110: Spiel-Asset - Celestial Archive Sandalpunk-Miniatur
+### No. 114: Spiel-Asset - Celestial Archive Sandalpunk-Miniatur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5100,7 +5203,7 @@ Skurrile {argument name="subject" default="Miniaturwelt"}-Darstellung einer {arg
 
 ---
 
-### No. 111: Spiel-Asset - Mathematische Projektion: Porträt in Neongelb
+### No. 115: Spiel-Asset - Mathematische Projektion: Porträt in Neongelb
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5134,7 +5237,7 @@ Ein filmisches, hyperrealistisches Nahaufnahme-Porträt einer {argument name="su
 
 ---
 
-### No. 112: Spiel-Asset - Atlas Titan Schwerlasttransporter
+### No. 116: Spiel-Asset - Atlas Titan Schwerlasttransporter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5169,7 +5272,7 @@ Ein massiver, autonomer Schwerlast-LKW, der für den Transport ganzer {argument 
 
 ---
 
-### No. 113: Spiel-Asset - Fantasy-Festival Fantasy-Porträt
+### No. 117: Spiel-Asset - Fantasy-Festival Fantasy-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5203,7 +5306,7 @@ Eine lebendige Nahaufnahme einer fröhlichen {argument name="subject" default="j
 
 ---
 
-### No. 114: Spiel-Asset - Retro-Actionfiguren-Ästhetik der 80er Jahre
+### No. 118: Spiel-Asset - Retro-Actionfiguren-Ästhetik der 80er Jahre
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5243,7 +5346,7 @@ Eine Prompt-Anweisung zur Generierung von Charakterbildern, die wie Vintage-Acti
 
 ---
 
-### No. 115: Spiel-Asset - Surreales Miniatur-Universum im Blasen-Porträt
+### No. 119: Spiel-Asset - Surreales Miniatur-Universum im Blasen-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5277,7 +5380,7 @@ Ein surreales, fotorealistisches Porträt von {argument name="character" default
 
 ---
 
-### No. 116: Spiel-Asset - Perlmutt-schillernde Flügel
+### No. 120: Spiel-Asset - Perlmutt-schillernde Flügel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5323,167 +5426,13 @@ Die Flügel bestehen aus {argument name="material" default="Perlmutt"}-Flügeln,
 
 ---
 
-### No. 117: Spiel-Asset - Übernatürliches Streetwear-Porträt mit Rauchdämon
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein cineastischer Porträt-Prompt, der urbane Streetwear mit einer übernatürlichen schwarzen Rauchdämonen-Entität in einer minimalistischen Umgebung kombiniert.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches Porträt eines {argument name="subject" default="jungen Mannes"} (Gesichtszüge wie im hochgeladenen Bild beibehalten), exakte Gesichtsidentität bewahrt, Bart, markante Kieferpartie. (Outfit) Trägt {argument name="outfit" default="komplett schwarze Streetwear, schwarzer Oversized-Hoodie mit minimalem Text, lockere schwarze Wide-Leg-Hose, dunkle Sneaker, luxuriöse schwarze Sonnenbrille"}. (Pose) Kopf gerade erhoben, dominante Haltung, Schultern gerade, eine Hand entspannt in der Nähe der Tasche, die andere Hand leicht geballt, nach vorne gerichtet. (Übernatürliches Element) Ein massiver {argument name="creature" default="schwarzer Rauchdämon"}, der direkt hinter ihm steht, leuchtend weiße Augen über dem Kopf des Mannes ausgerichtet, dichter realistischer Rauch, der sich um Schultern und Arme windet, ultra-realistische Rauchtextur, kein Cartoon-Stil. (Umgebung) Minimalistischer Innenraum-Hintergrund, dunkle Wand, leerer Raum, grauer Betonboden. (Beleuchtung) Dramatische Low-Key-Beleuchtung, weiches Frontlicht auf dem Gesicht, tiefe Schatten, cineastischer hoher Kontrast. (Technische Daten) 8k-Auflösung, Seitenverhältnis 3:4, aufgenommen mit 35mm-Objektiv, hyperrealistisch, hochdetaillierte Textur. Negative Prompt: Cartoon, Anime, Illustration, Gemälde, 3D-Render, verzerrtes Gesicht, sich veränderndes Gesicht, Gesichtsformung, Schönheitsfilter, Lächeln, heller Hintergrund, Sonnenlicht, Auto, Stadt, unordentlich, Unschärfe, Rauschen, Wasserzeichen, Text, schlechte Hände, zusätzliche Finger. Anpassung der Schutzbrille mit sanftem Lächeln. Hintergrund ist eine belebte Straße.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990820966_7643r2_HKSTfOQbUAAYoRB.jpg" width="600" alt="Spiel-Asset - Übernatürliches Streetwear-Porträt mit Rauchdämon - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Blitzer](https://x.com/tanzeel617919)
-- **Quelle:** [Twitter Post](https://x.com/tanzeel617919/status/2063936701555421502)
-- **Veröffentlicht:** 8. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=24708)**
-
----
-
-### No. 118: Plakat / Flyer - Expressives Ölgemälde-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Erzeugt ein zeitgenössisches Ölgemälde mit kräftigem Pinselstrich und einer warmen Farbpalette, das semi-abstrakten Realismus mit traditionellen malerischen Texturen verbindet.
-
-#### 📝 Prompt
-
-```
-Ein zeitgenössischer, expressiver {argument name="art style" default="Ölgemälde"}-Stil mit kräftigen, dynamischen Pinselstrichen und semi-abstrakter Realistik. Sichtbare, selbstbewusste Pinselstriche in geschichteten Partien und gebrochenen Farbblöcken, die figurative Porträtmalerei mit malerischer Abstraktion verbinden. Eine satte, warme Palette, dominiert von {argument name="color palette" default="Pfirsich, Goldbeige, sanftem Bernstein, Rosenrosa, gedämpftem Magenta und tiefem Burgunder"}, kontrastiert durch subtile kühle Akzente in Olivgrün und entsättigtem Blaugrün. Lockere, gestische Anwendung mit ineinander verwobenen dicken und dünnen Strichen, die ein Gefühl von Bewegung und Spontaneität erzeugen. Die Kanten wechseln zwischen weichen, fließenden Übergängen und scharfen, malerischen Markierungen. Das Licht ist {argument name="lighting" default="warm und diffus"}, was für leuchtende Hauttöne mit strahlenden Highlights sorgt. Hintergrund und Motiv verschmelzen durch Farbharmonie und richtungsweisende Striche, was eine leicht impressionistische, unvollendete und doch bewusste Ästhetik erzeugt. Texturale Tiefe, die an Öl auf Leinwand erinnert, mit sichtbarer Schichtung und malerischer Oberflächenvarianz.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770018030_h0i8i0_HK_slxNbsAAmBeF.jpg" width="600" alt="Plakat / Flyer - Expressives Ölgemälde-Porträt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770018356_i662s8_HK_sl0vbwAA8U7B.jpg" width="600" alt="Plakat / Flyer - Expressives Ölgemälde-Porträt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770018024_6835jy_HK_sl_za0AEU6se.jpg" width="600" alt="Plakat / Flyer - Expressives Ölgemälde-Porträt - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [zayan](https://x.com/HustleXR)
-- **Quelle:** [Twitter Post](https://x.com/HustleXR/status/2067130895686107638)
-- **Veröffentlicht:** 17. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25976)**
-
----
-
-### No. 119: Plakat / Flyer - Surreales LEGO Minifiguren-Menschenporträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein redaktioneller Surrealismus-Prompt, der Spielzeugfotografie mit realistischer Porträtmalerei verbindet und einen absurden, aber hochwertigen LEGO Minifiguren-Charakter erschafft.
-
-#### 📝 Prompt
-
-```
-Erstelle ein surreales Studio-Porträt eines {argument name="subject" default="Mannes"} aus einem beigefügten Foto, bei dem ein großformatiger, fotorealistischer menschlicher Kopf auf den winzigen Körper einer {argument name="reference object" default="LEGO Minifigur"} montiert ist. Behalte den Kleidungsstil der Vorlage bei: klassischer LEGO-Torso, LEGO-Beine, LEGO-Arme. Der menschliche Kopf sollte unverhältnismäßig groß sein (im Maßstab einer „Schaufensterpuppe“), mit detaillierter Hauttextur und zerzaustem, natürlichem Haar. Pose: Eine Hand zieht die Unterlippe zurück und entblößt die Zähne in einem verspielten, leicht chaotischen Ausdruck. Das Bild wurde aus einer spektakulären Froschperspektive mit einer leichten Fischaugen-Verzerrung aufgenommen, um das Gesicht zu betonen. Minimalistischer Studiohintergrund mit einem {argument name="background" default="blass-minzfarbenen/himmelblauen Verlauf"}. Helle, direkte Blitzbeleuchtung mit klaren Schatten und glänzenden Highlights. Die Komposition sollte absurd, aber gleichzeitig sauber sein und Spielzeugfotografie mit der Ästhetik eines modischen Porträts verbinden. Behalte einen sichtbaren Kontrast zwischen dem realistischen Kopf und dem LEGO-Plastikkörper bei. Überdetailliertes Gesicht, sanftes Pastellfarbschema, redaktioneller Surrealismus, moderne Internet-Ästhetik, Sammler-Energie der Figur, konzentrierte Komposition.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770017411_7ecvak_HK_aK9fawAAr_gJ.jpg" width="600" alt="Plakat / Flyer - Surreales LEGO Minifiguren-Menschenporträt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781770017339_nclyyz_HK_aLOga8AAcluc.jpg" width="600" alt="Plakat / Flyer - Surreales LEGO Minifiguren-Menschenporträt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
-- **Quelle:** [Twitter Post](https://x.com/SimplyAnnisa/status/2067111009588814161)
-- **Veröffentlicht:** 17. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25974)**
-
----
-
-### No. 120: Plakat / Flyer - Urban Streetwear Girl Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein ästhetischer Streetwear-Collagen-Prompt mit drei verschiedenen Posen vor einem stimmungsvollen urbanen Hintergrund mit HUD-Elementen.
-
-#### 📝 Prompt
-
-```
-Ultra-ästhetisches Streetwear-Girl-Collagen-Poster, stimmungsvoller schwarz-grauer Hintergrund, drei verschiedene Posen (Selfie-Pose, Rückenansicht, Sitzpose), {argument name="top" default="oversized weißes Trikot"}, {argument name="bottom" default="graue Cargohose"}, schwarze Sonnenbrille, {argument name="accessory" default="graue Kappe"}, langes schwarzes Haar, weiche weiße Haut, trendige koreanische Mode, dunkle urbane Atmosphäre, leuchtend orangefarbene HUD-Elemente, schwebende Typografie, filmische Beleuchtung, Tiefenschärfe, luxuriöser Street-Style, hoher Kontrast, TikTok-Edit-Stil, CapCut-Template-Ästhetik, Premium-Poster-Design, fotorealistisch, ultra-detailliert, 9:16 vertikale Komposition.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684776943_oghr3h_HK6gnyGbcAAksDm.jpg" width="600" alt="Plakat / Flyer - Urban Streetwear Girl Collage - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Hania Ai](https://x.com/HaniaAi12)
-- **Quelle:** [Twitter Post](https://x.com/HaniaAi12/status/2066765898208420050)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25860)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 14384 weitere Prompts hier nicht angezeigt
+### 🎯 14405 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5546,6 +5495,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-20T05:26:39.540Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-20T09:00:21.520Z</sub>
 
 </div>
