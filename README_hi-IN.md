@@ -145,7 +145,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **14616** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **रविवार, 28 जून 2026 को 8:59:38 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **रविवार, 28 जून 2026 को 12:23:02 pm UTC बजे** |
 
 </div>
 
@@ -5486,6 +5486,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-28T08:59:38.632Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-28T12:23:02.954Z</sub>
 
 </div>
