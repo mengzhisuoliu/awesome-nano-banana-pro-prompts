@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **14802** |
+| 📝 Total des prompts | **14804** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **jeudi 16 juillet 2026 à 05:00:19 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 16 juillet 2026 à 08:44:07 UTC** |
 
 </div>
 
@@ -3379,7 +3379,42 @@ Scène ultra-réaliste divisée d'un jeune homme. Côté gauche : assis sur un l
 
 ---
 
-### No. 64: Bande dessinée / Storyboard - Scène de manga en 8 cases
+### No. 64: Bande dessinée / Storyboard - Scène de film noir cinématographique à la bougie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt dramatique de type film noir pour une scène de négociation à la bougie, mettant l'accent sur une faible profondeur de champ, un éclairage chaleureux et des expressions faciales intenses.
+
+#### 📝 Prompt
+
+```
+Une scène d'intérieur cinématographique éclairée à la bougie montrant {argument name="subject" default="une silhouette masculine"} assis à une petite table en bois face à deux autres personnages flous, vus à travers l'espace entre leurs têtes et épaules en silhouette au premier plan. Il est assis directement face à la caméra, le regard intensément fixé sur quelque chose ou quelqu'un hors champ avec une expression calme, froide et calculatrice — le regard de quelqu'un en pleine négociation tendue, réunion secrète ou confrontation. Ses cheveux sont courts, foncés et soigneusement coiffés. Il porte {argument name="clothing" default="un pull à col rond gris anthracite olive foncé"}, décontracté mais composé. Ses bras reposent sur la table en bois devant lui. Une bougie allumée est posée dans un petit bougeoir sur la table entre les personnages — la flamme vacillante et chaleureuse est la source de lumière principale de toute la scène, avec un mince filet de fumée s'en échappant. Un papier ou un document plié est visible sur la table près de la bougie, suggérant un échange secret ou un accord en cours de discussion. Les deux personnages au premier plan de chaque côté sont coupés et hors foyer — seuls le dos et les côtés de leurs têtes et épaules sont visibles en silhouette, encadrant le visage du personnage central. L'arrière-plan révèle l'intérieur d'un bar, d'une taverne ou d'un restaurant faiblement éclairé — cadres muraux flous, lumières de fenêtre en bokeh doux et chaud, et autres clients flous visibles au loin. L'éclairage est entièrement chaud et tamisé — dominé par la lueur ambre doré vacillante de la bougie qui illumine le visage du personnage central par le bas, projetant des reflets chauds et doux sur son front, son nez, ses pommettes et sa barbe, tandis que tout le reste sombre dans des ombres brun-noir riches. Palette de couleurs : ambre doré de bougie, ombres brun-noir profondes, bokeh d'arrière-plan atténué. Style photographique : scène d'intérieur de film noir cinématographique, éclairage dramatique à la bougie, {argument name="lens" default="objectif 50mm"}, faible profondeur de champ avec personnages au premier plan légèrement flous, photoréaliste, 8K.
+Utilisez l'image de référence du visage fournie pour tous les détails faciaux — la structure osseuse, les yeux, les sourcils, le nez, la mâchoire, la barbe et le teint doivent être entièrement repris de la photo de référence. Appliquez uniquement le regard direct, calme et calculateur, ainsi que l'éclairage chaleureux de la bougie sur le visage de référence.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784185549038_gcy579_HNQwr7UaMAAfbpb.jpg" width="600" alt="Bande dessinée / Storyboard - Scène de film noir cinématographique à la bougie - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
+- **Source:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2077338867045429517)
+- **Publié:** 15 juillet 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=28785)**
+
+---
+
+### No. 65: Bande dessinée / Storyboard - Scène de manga en 8 cases
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3413,7 +3448,7 @@ Manga en 8 cases Titre {argument name="title" default="L'agonie du casino de bac
 
 ---
 
-### No. 65: Bande dessinée / Storyboard - Portrait animé 3D stylisé d'une mère
+### No. 66: Bande dessinée / Storyboard - Portrait animé 3D stylisé d'une mère
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3447,7 +3482,7 @@ Charmant personnage animé 3D stylisé {argument name="character" default="une m
 
 ---
 
-### No. 66: Bande dessinée / Storyboard - Portrait cinématographique en silhouette à l'aube
+### No. 67: Bande dessinée / Storyboard - Portrait cinématographique en silhouette à l'aube
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3481,7 +3516,7 @@ Scène cinématographique, silhouette marquée, {argument name="lighting" defaul
 
 ---
 
-### No. 67: Bande dessinée / Storyboard - Portrait néo-noir de science-fiction avec ciel
+### No. 68: Bande dessinée / Storyboard - Portrait néo-noir de science-fiction avec ciel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3515,7 +3550,7 @@ Créez une image fixe de science-fiction néo-noir en contre-plongée, un portra
 
 ---
 
-### No. 68: Bande dessinée / Storyboard - Duel de paladin en dark fantasy
+### No. 69: Bande dessinée / Storyboard - Duel de paladin en dark fantasy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3555,7 +3590,7 @@ Un {argument name="warrior" default="paladin céleste"} se tient dans une {argum
 
 ---
 
-### No. 69: Bande dessinée / Storyboard - Transformation en diorama papier fait main
+### No. 70: Bande dessinée / Storyboard - Transformation en diorama papier fait main
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3589,7 +3624,7 @@ Transformez le {argument name="input" default="portrait téléchargé"} en une {
 
 ---
 
-### No. 70: Bande dessinée / Storyboard - Portrait noir et blanc cinématographique sous la pluie
+### No. 71: Bande dessinée / Storyboard - Portrait noir et blanc cinématographique sous la pluie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3624,7 +3659,7 @@ Utilisez l'image de référence faciale fournie pour tous les détails du visage
 
 ---
 
-### No. 71: Bande dessinée / Storyboard - Illustration de portrait cinématographique en techniques mixtes
+### No. 72: Bande dessinée / Storyboard - Illustration de portrait cinématographique en techniques mixtes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3670,7 +3705,7 @@ Ultra-détaillé {argument name="style" default="illustration de portrait ciném
 
 ---
 
-### No. 72: Bande dessinée / Storyboard - Triptyque de photos prises sur le vif au smartphone
+### No. 73: Bande dessinée / Storyboard - Triptyque de photos prises sur le vif au smartphone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3729,7 +3764,7 @@ DÉTAILS :
 
 ---
 
-### No. 73: Bande dessinée / Storyboard - Triptyque cinématographique nocturne urbain
+### No. 74: Bande dessinée / Storyboard - Triptyque cinématographique nocturne urbain
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3769,7 +3804,7 @@ Utilisez la photo téléchargée comme référence d'identité exacte. Conservez
 
 ---
 
-### No. 74: Bande dessinée / Storyboard - Test de vision en manga 4 cases
+### No. 75: Bande dessinée / Storyboard - Test de vision en manga 4 cases
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3806,7 +3841,7 @@ Examen de la vue utilisant l'Azura Azura de {argument name="brand name" default=
 
 ---
 
-### No. 75: Bande dessinée / Storyboard - Manga rétro en 8 cases
+### No. 76: Bande dessinée / Storyboard - Manga rétro en 8 cases
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3843,7 +3878,7 @@ Un jeu rétro intitulé « The World »
 
 ---
 
-### No. 76: Bande dessinée / Storyboard - Guerre des promotions au supermarché
+### No. 77: Bande dessinée / Storyboard - Guerre des promotions au supermarché
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3895,7 +3930,7 @@ Une scène chaotique et humoristique montrant des femmes âgées se disputant de
 
 ---
 
-### No. 77: Bande dessinée / Storyboard - Triptyque noir cinématographique sous une nuit pluvieuse
+### No. 78: Bande dessinée / Storyboard - Triptyque noir cinématographique sous une nuit pluvieuse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3940,7 +3975,7 @@ texte, filigrane, logo, personnes supplémentaires, filtre de beauté, aspect CG
 
 ---
 
-### No. 78: Bande dessinée / Storyboard - Scène d'action de méca dieselpunk
+### No. 79: Bande dessinée / Storyboard - Scène d'action de méca dieselpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3992,7 +4027,7 @@ Scène d'action inkpunk {argument name="style" default="dieselpunk"} dans une vi
 
 ---
 
-### No. 79: Bande dessinée / Storyboard - Portrait cinématographique dans une ruelle sombre
+### No. 80: Bande dessinée / Storyboard - Portrait cinématographique dans une ruelle sombre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4040,7 +4075,7 @@ Détails du style : Photographie en noir et blanc avec une esthétique film noir
 
 ---
 
-### No. 80: Bande dessinée / Storyboard - Illustration de portrait en techniques mixtes des beaux-arts
+### No. 81: Bande dessinée / Storyboard - Illustration de portrait en techniques mixtes des beaux-arts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4088,7 +4123,7 @@ Réalisme du portrait éditorial mêlé à l'illustration contemporaine des beau
 
 ---
 
-### No. 81: Bande dessinée / Storyboard - Fusion cinématographique de personnages et de scènes
+### No. 82: Bande dessinée / Storyboard - Fusion cinématographique de personnages et de scènes
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4122,19 +4157,27 @@ Obtenez une fusion cinématographique homogène. Intégrez parfaitement la femme
 
 ---
 
-### No. 82: Bande dessinée / Storyboard - Concept art d'illustration numérique semi-réaliste
+### No. 83: Marketing produit - Affiche éditoriale sportive haut de gamme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Transforme des objets de référence en une illustration numérique dynamique de style jeu vidéo avec un éclairage à fort contraste et des accents de couleurs chaudes.
+Un prompt éditorial sportif haut de gamme pour créer une affiche multi-panneaux d'un athlète de basket-ball avec une typographie audacieuse et un éclairage cinématographique.
 
 #### 📝 Prompt
 
 ```
-En utilisant une ressemblance à 100 % des objets (de référence), transformés en un {argument name="style" default="style d'illustration numérique dynamique et semi-réaliste"} avec une esthétique de concept art cinématographique, combinant un rendu inspiré de l'anime aux lignes nettes et un splash art de jeu haut de gamme. Coups de pinceau angulaires et puissants avec des traits peints à la main assurés, des accents de lignes propres mais expressifs et un ombrage artistique en couches. Éclairage à fort contraste avec des reflets chauds lumineux et des ombres neutres profondes, créant une profondeur et une intensité dramatiques. La palette de couleurs est dominée par {argument name="colors" default="ivoire chaud, beige doux, sable, gris clair, anthracite et orange vif"} comme accents principaux, avec de subtils détails noirs. Transitions de dégradés fluides mélangées à des reflets aux bords nets, rendu réaliste des matériaux pour le métal, le tissu et les surfaces dures. Composition énergique, {argument name="detail level" default="textures hautement détaillées"}, silhouettes audacieuses et fluides. Pas de texte, pas de logo, pas de filigrane. AR 9:16.
+Collage d'affiche éditoriale sportive ultra-premium représentant un(e) puissant(e) {argument name="athlete" default="joueuse de basket-ball"} dans un uniforme {argument name="uniform color" default="rouge et blanc"}, esthétique de campagne cinématographique style Nike, reflets brillants d'un terrain de basket intérieur, éclairage de studio dramatique, typographie audacieuse et surdimensionnée en arrière-plan indiquant « {argument name="main slogan" default="THINK BETTER"} », image de marque sportive luxueuse et épurée, poses intenses et confiantes.
+
+Panneau supérieur : athlète assise sur le parquet poli, un genou relevé, un ballon de basket à ses côtés, regardant sur le côté avec une expression dominante et confiante, fond rouge profond sans couture, typographie géante couleur crème derrière le sujet, ombres cinématographiques, texture de peau hyperréaliste, éclat de sueur, photographie sportive haute couture.
+
+Panneau inférieur gauche : portrait beauté en gros plan de l'athlète les yeux fermés, peau éclatante, cheveux plaqués, élégance athlétique, typographie minimaliste indiquant « FOCUS » et « PASSION ».
+
+Panneau inférieur droit : pose dynamique de dribble en position basse, énergie d'action, texte motivationnel indiquant « TRAIN HARD STAY HUNGRY », composition publicitaire sportive de luxe, détails du sol réfléchissant.
+
+Palette de couleurs : rouge cramoisi profond, accents blancs, typographie crème, reflets brillants du parquet. Style : couverture de magazine sportif moderne, campagne athlétique de luxe, ultra détaillé, photoréaliste, mise au point nette, disposition en grille symétrique, contraste cinématographique, photographie commerciale, format 4:3, design typographique premium, esthétique d'affiche éditoriale.
 ```
 
 #### 🖼️ Images générées
@@ -4142,33 +4185,21 @@ En utilisant une ressemblance à 100 % des objets (de référence), transformés
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1783149739420_wjxbvr_HMUWVknXsAEsFmP.jpg" width="600" alt="Bande dessinée / Storyboard - Concept art d'illustration numérique semi-réaliste - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783149739115_pjy37g_HMUWWfZWQAAA-kM.jpg" width="600" alt="Bande dessinée / Storyboard - Concept art d'illustration numérique semi-réaliste - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783149739128_wzebie_HMUWWo2WIAEU6qw.jpg" width="600" alt="Bande dessinée / Storyboard - Concept art d'illustration numérique semi-réaliste - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784185547642_mgwbwd_HNRfurkakAAdwMv.jpg" width="600" alt="Marketing produit - Affiche éditoriale sportive haut de gamme - Image 1">
 </div>
 
 #### 📌 Détails
 
-- **Auteur:** [zayan](https://x.com/HustleXR)
-- **Source:** [Twitter Post](https://x.com/HustleXR/status/2073087788858372604)
-- **Publié:** 3 juillet 2026
+- **Auteur:** [Smiling Khan](https://x.com/AIwithkhan)
+- **Source:** [Twitter Post](https://x.com/AIwithkhan/status/2077390591777022413)
+- **Publié:** 15 juillet 2026
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=27525)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=28784)**
 
 ---
 
-### No. 83: Marketing produit - Photo produit éditoriale sur ardoise humide
+### No. 84: Marketing produit - Photo produit éditoriale sur ardoise humide
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4208,7 +4239,7 @@ Prise de vue studio en plongée de {argument name="product" default="[votre prod
 
 ---
 
-### No. 84: Marketing produit - Architecture de manoir de luxe moderne
+### No. 85: Marketing produit - Architecture de manoir de luxe moderne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4241,7 +4272,7 @@ Manoir de luxe moderne ultra réaliste, conception architecturale grandiose, gra
 
 ---
 
-### No. 85: Marketing produit - Affiche de lancement d'outil IA pour l'été
+### No. 86: Marketing produit - Affiche de lancement d'outil IA pour l'été
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4275,7 +4306,7 @@ affiche de {argument name="product type" default="lancement d'outil IA"} pour l'
 
 ---
 
-### No. 86: Marketing produit - Design d'affiche éditoriale sportive
+### No. 87: Marketing produit - Design d'affiche éditoriale sportive
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4348,7 @@ Palette de couleurs : rouge cramoisi profond, accents blancs, typographie crème
 
 ---
 
-### No. 87: Marketing produit - Esquisse de mode artisanale au graphite
+### No. 88: Marketing produit - Esquisse de mode artisanale au graphite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4363,7 +4394,7 @@ Illustration de portrait de mode artisanale ultra-premium mêlant {argument name
 
 ---
 
-### No. 88: Marketing produit - Portrait cinématographique intense d'une séance de sport
+### No. 89: Marketing produit - Portrait cinématographique intense d'une séance de sport
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4399,7 +4430,7 @@ L'environnement de la salle de sport est {argument name="lighting" default="faib
 
 ---
 
-### No. 89: Marketing produit - Portrait nocturne urbain en costume
+### No. 90: Marketing produit - Portrait nocturne urbain en costume
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4433,7 +4464,7 @@ Un {argument name="subject" default="homme d'âge mûr saisissant"} au regard in
 
 ---
 
-### No. 90: Marketing produit - Photographie lifestyle sur un pont urbain
+### No. 91: Marketing produit - Photographie lifestyle sur un pont urbain
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4483,7 +4514,7 @@ Portrait beauté en très gros plan, visage d'une femme avec des mèches de chev
 
 ---
 
-### No. 91: Marketing produit - Éditorial de mode coréenne sur podium
+### No. 92: Marketing produit - Éditorial de mode coréenne sur podium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4525,52 +4556,6 @@ Un prompt de photographie de studio professionnel pour un éditorial de mode de 
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=28394)**
-
----
-
-### No. 92: Marketing produit - Portrait éditorial de mode masculine méditerranéenne de luxe
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un prompt complet pour créer des portraits éditoriaux de mode haut de gamme d'un homme méditerranéen, incluant des réglages d'appareil photo détaillés, un éclairage spécifique et une esthétique minimaliste de luxe.
-
-#### 📝 Prompt
-
-```
-Créez un portrait éditorial de mode lifestyle ultra-réaliste d'un homme méditerranéen âgé de {argument name="age range" default="22 à 30"} ans, à la silhouette athlétique et élancée. Il possède un visage ovale défini avec une mâchoire marquée, une peau olive claire à la texture mate naturelle avec de subtils reflets ensoleillés, des sourcils masculins épais, un nez droit, des lèvres au fini mat naturel et une barbe de trois jours soignée. Ses cheveux brun foncé sont coiffés en une courte mèche texturée avec un volume naturel et un fini mat légèrement ébouriffé. Il porte des lunettes de soleil rectangulaires de luxe noir mat avec des verres polarisés sombres, regardant la caméra avec assurance et une expression calme et composée qui dégage une confiance discrète.
-
-Il est photographié à mi-corps, légèrement penché en avant avec les bras naturellement étendus, la tête subtilement inclinée vers le bas. Il porte un {argument name="clothing" default="sweat-shirt premium à col rond blanc cassé"} à la coupe décontractée sous une surchemise en sergé de coton délavé beige clair portée ouverte. Aucun accessoire n'est visible, renforçant une esthétique épurée et minimaliste.
-
-Le décor est {argument name="setting" default="un point de vue côtier ouvert"} sous un vaste ciel bleu profond et dégagé, parsemé de quelques rares nuages. L'arrière-plan est volontairement épuré, offrant un large espace négatif qui souligne la simplicité et l'élégance de la composition. Le portrait est cadré de manière asymétrique avec un angle de prise de vue légèrement en contre-plongée, permettant au ciel bleu spectaculaire de dominer l'image tout en conservant un équilibre éditorial raffiné.
-
-La scène est éclairée par la lumière naturelle et vive du soleil de midi provenant de l'avant-gauche, produisant des ombres nettes, un contraste moyen-élevé et un léger halo lumineux qui détache proprement le sujet de l'arrière-plan. L'atmosphère générale est fraîche, détendue, confiante, élégante sans effort et résolument moderne.
-
-Photographié avec un Sony A1 II équipé d'un objectif Sony FE 50mm f/1.2 GM à f/2.8, vitesse d'obturation 1/2000s, ISO 100, au format portrait 4:5. Appliquez un étalonnage des couleurs digne d'une campagne publicitaire de luxe avec des tons légèrement chauds, un contraste net, des hautes lumières lumineuses mais contrôlées, des noirs naturels profonds, une saturation douce et réaliste, et une large plage dynamique. Préservez la texture réaliste de la peau avec une retouche éditoriale haut de gamme, en conservant les détails naturels et la netteté sans aspect artificiel.
-
-L'esthétique globale doit évoquer une campagne de mode masculine de luxe inspirée par Zegna, Brunello Cucinelli, Theory, COS et Vogue Hommes, en mettant l'accent sur le luxe discret, la mode minimaliste, l'élégance masculine moderne, la sophistication côtière, les lunettes de créateur, la lumière naturelle et une qualité photoréaliste 8K prête pour un usage commercial.
-
-Negative prompt: basse qualité, artefacts IA, peau en plastique, accentuation excessive, filigrane, texte, bruit, membres supplémentaires, mauvaise anatomie, dessin animé, anime, couleurs sursaturées.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783840259118_64d5q5_HM704lXbkAAWz9r.jpg" width="600" alt="Marketing produit - Portrait éditorial de mode masculine méditerranéenne de luxe - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Virena](https://x.com/vireonixx)
-- **Source:** [Twitter Post](https://x.com/vireonixx/status/2075865747964809716)
-- **Publié:** 11 juillet 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=28340)**
 
 ---
 
@@ -5361,7 +5346,53 @@ Une illustration 3D style Pixar d'une jeune femme appuyée contre un mur abstrai
 
 ---
 
-### No. 114: Ressource de jeu - Miniature d'île flottante au style mythpunk fantaisiste
+### No. 114: Ressource de jeu - Concept art d'illustration numérique semi-réaliste
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Transforme des objets de référence en une illustration numérique dynamique de style jeu vidéo avec un éclairage à fort contraste et des accents de couleurs chaudes.
+
+#### 📝 Prompt
+
+```
+En utilisant une ressemblance à 100 % des objets (de référence), transformés en un {argument name="style" default="style d'illustration numérique dynamique et semi-réaliste"} avec une esthétique de concept art cinématographique, combinant un rendu inspiré de l'anime aux lignes nettes et un splash art de jeu haut de gamme. Coups de pinceau angulaires et puissants avec des traits peints à la main assurés, des accents de lignes propres mais expressifs et un ombrage artistique en couches. Éclairage à fort contraste avec des reflets chauds lumineux et des ombres neutres profondes, créant une profondeur et une intensité dramatiques. La palette de couleurs est dominée par {argument name="colors" default="ivoire chaud, beige doux, sable, gris clair, anthracite et orange vif"} comme accents principaux, avec de subtils détails noirs. Transitions de dégradés fluides mélangées à des reflets aux bords nets, rendu réaliste des matériaux pour le métal, le tissu et les surfaces dures. Composition énergique, {argument name="detail level" default="textures hautement détaillées"}, silhouettes audacieuses et fluides. Pas de texte, pas de logo, pas de filigrane. AR 9:16.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783149739420_wjxbvr_HMUWVknXsAEsFmP.jpg" width="600" alt="Ressource de jeu - Concept art d'illustration numérique semi-réaliste - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783149739115_pjy37g_HMUWWfZWQAAA-kM.jpg" width="600" alt="Ressource de jeu - Concept art d'illustration numérique semi-réaliste - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783149739128_wzebie_HMUWWo2WIAEU6qw.jpg" width="600" alt="Ressource de jeu - Concept art d'illustration numérique semi-réaliste - Image 3">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [zayan](https://x.com/HustleXR)
+- **Source:** [Twitter Post](https://x.com/HustleXR/status/2073087788858372604)
+- **Publié:** 3 juillet 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=27525)**
+
+---
+
+### No. 115: Ressource de jeu - Miniature d'île flottante au style mythpunk fantaisiste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5395,7 +5426,7 @@ Représentation fantaisiste {argument name="setting" default="monde miniature"} 
 
 ---
 
-### No. 115: Ressource de jeu - Fiche de personnage de soldat tactique de science-fiction
+### No. 116: Ressource de jeu - Fiche de personnage de soldat tactique de science-fiction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5435,7 +5466,7 @@ Fiche de personnage, angles multiples d'un soldat tactique de science-fiction en
 
 ---
 
-### No. 116: Ressource de jeu - Concept art d'une mégalopole futuriste en anneau
+### No. 117: Ressource de jeu - Concept art d'une mégalopole futuriste en anneau
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5485,7 +5516,7 @@ Prompt négatif :
 
 ---
 
-### No. 117: Ressource de jeu - Exposition du chevalier vampire à la lumière du soleil
+### No. 118: Ressource de jeu - Exposition du chevalier vampire à la lumière du soleil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5519,7 +5550,7 @@ Un {argument name="subject" default="chevalier vampire"}, défenseur du {argumen
 
 ---
 
-### No. 118: Ressource de jeu - Portrait numérique d'une princesse fantastique éthérée
+### No. 119: Ressource de jeu - Portrait numérique d'une princesse fantastique éthérée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5559,7 +5590,7 @@ Un portrait numérique 3D cinématographique hautement détaillé d'une {argumen
 
 ---
 
-### No. 119: Ressource de jeu - Personnage de jeu fantastique : la guerrière Jo
+### No. 120: Ressource de jeu - Personnage de jeu fantastique : la guerrière Jo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5601,47 +5632,13 @@ Créez une scène d'action de jeu AAA cinématographique 8K ultra-réaliste mett
 
 ---
 
-### No. 120: Ressource de jeu - Portrait studio d'une androïde avec yeux laser
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un portrait studio de science-fiction d'une androïde dotée de panneaux cybernétiques et d'un effet de faisceau laser rouge horizontal sur les yeux.
-
-#### 📝 Prompt
-
-```
-Un portrait studio en gros plan, de face, d'une {argument name="subject" default="androïde féminine aux longs cheveux blonds raides"}, regardant directement l'objectif. Des lignes de panneaux cybernétiques subtiles et des jointures métalliques sont finement intégrées à la peau de son visage. Un {argument name="visual effect" default="faisceau laser rouge horizontal"} vibrant et continu traverse ses yeux, créant un effet de reflet d'objectif puissant et lumineux. Elle porte un simple {argument name="clothing" default="pull à col roulé noir"}. L'éclairage est cinématographique, avec un rétroéclairage rouge vif qui souligne les contours de ses cheveux, le tout sur un fond studio bleu sourd contrasté. Texture de peau très détaillée, photoréaliste, résolution 8k.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg" width="600" alt="Ressource de jeu - Portrait studio d'une androïde avec yeux laser - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Source:** [Twitter Post](https://x.com/iamsofiaijaz/status/2071091080989471119)
-- **Publié:** 28 juin 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=27036)**
-
----
-
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 14682 prompts supplémentaires non affichés ici
+### 🎯 14684 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5704,6 +5701,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-16T05:00:19.103Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-16T08:44:07.702Z</sub>
 
 </div>
